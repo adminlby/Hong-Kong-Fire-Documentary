@@ -6,7 +6,7 @@
 
 - [**Now 新聞**](NOW%20新聞/Readme.md)
 - [**香港電台 (RTHK)**](RTHK%20香港電台/Readme.md)
-- [**有線新聞 (i-Cable)**](有線新聞/Readme.md) *(待補)*
+- [**有線新聞 (i-Cable)**](有線新聞/Readme.md)
 - [**無綫新聞 (i-Cable)**](無綫新聞/Readme.md) *(待補)*
 - [**商業電台 (Commercial Radio)**](商業電台/Readme.md)
 - [**香港 01 (HK01)**](HK01/Readme.md)
@@ -15,8 +15,8 @@
 - [**星島日報 (Sing Tao)**](星島日報/Readme.md)
 - [**東方日報 (Oriental Daily)**](東方日報/Readme.md)
 - [**獨立媒體 (InMedia)**](獨立媒體/Readme.md)
-- [**集誌社 (The Collective)**](集誌社/Readme.md) *(待補)*
-- [**法庭線 (The Witness)**](法庭線/Readme.md) *(待補)*
+- [**集誌社 (The Collective)**](集誌社/Readme.md)
+- [**法庭線 (The Witness)**](法庭線/Readme.md)
 - [**BBC 中文網**](BBC%20中文網/Readme.md)
 - [**大公文匯**](大公文匯/Readme.md)
 - [**點新聞(Dotdotnews)**](Dotdotnews/Readme.md)
@@ -39,6 +39,7 @@
 - [**Sky**](Sky/Readme.md)
 - [**The Guardian**](The%20Guardian/Readme.md)
 - [**The Sun**](The%20Sun/Readme.md)
+- [**German Media (Deutsche Medien)**](German/Readme.md)
 
 ## 官方資料 (Official Information)
 

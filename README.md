@@ -19,21 +19,18 @@
 
 ## 三、存庫內容架構
 
-/timeline/ 時間線（按時序整理）
+主要內容存放於 `content/` 目錄下：
 
-/videos/ 現場片段及來源
-
-/news/ 新聞報道及官方資料
-
-/analysis/ 技術分析與相關文獻
-
-/support/ 義工及社區支援資訊
-
-/photos/ 現場圖片及相關紀錄
-
-/docs/ 政府文件、部門回覆及公開信件
-
-- 宏福苑業主立案法團管理委員會會議記錄（2021-2025，共34份）：[PDF格式](content/docs/meeting_minutes/pdf/README.md) | [Markdown格式](content/docs/meeting_minutes/markdown/README.md)
+- **`/timeline/` 時間線**：按時序整理的事件發展紀錄，包括火災發生、救援過程及事後發展。
+- **`/videos/` 現場片段**：收集自社交媒體及新聞的現場影片，附有來源連結。
+- **`/news/` 新聞報道**：各大媒體的相關報道存檔，按媒體及日期分類。
+- **`/analysis/` 技術分析**：整理有關棚架安全、物料阻燃標準及火災成因的技術文獻與分析。
+- **`/support/` 支援資訊**：義工服務、物資捐贈及社區互助的相關資訊。
+- **`/photos/` 圖片紀錄**：現場照片及相關圖片紀錄。
+- **`/residents/` 居民討論**：收集居民在各平台的討論、互助訊息及聲音。
+- **`/docs/` 官方文件**：
+  - 政府部門回覆及公開信件
+  - 宏福苑業主立案法團管理委員會會議記錄（2021-2025，共34份）：[PDF格式](content/docs/meeting_minutes/pdf/README.md) | [Markdown格式](content/docs/meeting_minutes/markdown/README.md)
 
 ## 四、主要研究與技術議題
 
@@ -183,21 +180,18 @@ On 26 November 2025, a major fire broke out at Wang Fuk Court in Tai Po. The fir
 
 ## 3. Repository Structure
 
-/timeline/ Chronological timeline of the incident
+All main content is located in the `content/` directory:
 
-/videos/ Footage and source links
-
-/news/ News reports and official information
-
-/analysis/ Technical analyses and related documents
-
-/support/ Volunteer and community support information
-
-/photos/ On-site photos and archival records
-
-/docs/ Government documents, departmental replies, and public letters
-
-- Wang Fuk Court Owners' Corporation Management Committee Meeting Minutes (2021-2025, 34 records): [PDF format](content/docs/meeting_minutes/pdf/README.md) | [Markdown format](content/docs/meeting_minutes/markdown/README.md)
+- **`/timeline/` Timeline**: Chronological record of the incident, including the fire outbreak, rescue operations, and aftermath.
+- **`/videos/` Videos**: Collection of on-site footage from social media and news sources, with source links.
+- **`/news/` News**: Archive of reports from major media outlets, categorized by media and date.
+- **`/analysis/` Analysis**: Technical documents and analyses regarding scaffolding safety, material flame retardancy standards, and fire causes.
+- **`/support/` Support**: Information on volunteer services, donation of supplies, and community mutual aid.
+- **`/photos/` Photos**: On-site photos and related visual records.
+- **`/residents/` Residents**: Collection of residents' discussions, mutual aid messages, and voices from various platforms.
+- **`/docs/` Documents**:
+  - Government departmental replies and public letters
+  - Wang Fuk Court Owners' Corporation Management Committee Meeting Minutes (2021-2025, 34 records): [PDF format](content/docs/meeting_minutes/pdf/README.md) | [Markdown format](content/docs/meeting_minutes/markdown/README.md)
 
 ## 4. Key Technical and Research Topics
 
