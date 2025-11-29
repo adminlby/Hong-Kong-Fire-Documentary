@@ -17,6 +17,9 @@ This section contains replies from government departments, public letters, statu
 - **Fire Services Department (FSD)**
   - [Fire Safety Code](Fire%20Safety%20Code.png)
 
+- **Home Affairs Department (HAD)**
+  - [Information on Sub-district Care Teams and Communication Channels (Tai Po)](content/docs/TP09_Wang_Fuk_Chi.pdf) - Collected from: <https://www.had.gov.hk/file_manager/tc/documents/public_services/district_services_community_care_teams/second/TP09_Wang_Fuk_Chi.pdf>
+
 ## Wang Fuk Court Owners' Corporation Meeting Minutes
 
 A collection of meeting minutes from the Management Committee of Wang Fuk Court Owners' Corporation between 2021 and 2025, documenting discussions on estate maintenance and management.
