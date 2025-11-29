@@ -4,7 +4,7 @@
   --md-primary-fg-color--light: #333333;
   --md-primary-fg-color--dark:  #000000;
   --md-accent-fg-color:         #000000;
-  
+
   /* Typography improvements */
   --md-text-font-family: "Inter", "Noto Sans TC", -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif;
   --md-code-font-family: "JetBrains Mono", "Fira Code", monospace;
@@ -58,4 +58,3 @@ a:hover {
   font-weight: 500;
   letter-spacing: 0.5px;
 }
-
