@@ -1,0 +1,61 @@
+:root {
+  /* Modern Grayscale Color Variables */
+  --md-primary-fg-color:        #000000;
+  --md-primary-fg-color--light: #333333;
+  --md-primary-fg-color--dark:  #000000;
+  --md-accent-fg-color:         #000000;
+  
+  /* Typography improvements */
+  --md-text-font-family: "Inter", "Noto Sans TC", -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif;
+  --md-code-font-family: "JetBrains Mono", "Fira Code", monospace;
+}
+
+/* Light Mode Specifics */
+[data-md-color-scheme="default"] {
+  --md-primary-fg-color: #2e3440; /* Dark Gray */
+  --md-accent-fg-color: #4c566a;  /* Medium Gray */
+}
+
+/* Dark Mode Specifics */
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color: #eceff4; /* Off-white */
+  --md-accent-fg-color: #d8dee9;  /* Light Gray */
+  --md-default-bg-color: #1a1a1a; /* Darker background for better contrast */
+}
+
+/* Modern UI Tweaks */
+.md-header {
+  background-color: var(--md-default-bg-color);
+  border-bottom: 1px solid var(--md-default-fg-color--lightest);
+  box-shadow: none;
+}
+
+.md-tabs {
+  background-color: var(--md-default-bg-color);
+  border-bottom: 1px solid var(--md-default-fg-color--lightest);
+}
+
+/* Clean up links */
+a {
+  text-decoration: none;
+  transition: opacity 0.2s ease;
+}
+
+a:hover {
+  opacity: 0.7;
+}
+
+/* Improve table styling */
+.md-typeset table:not([class]) {
+  border-radius: 4px;
+  overflow: hidden;
+  box-shadow: 0 0 0 1px var(--md-default-fg-color--lightest);
+}
+
+/* Minimalist button styles */
+.md-button {
+  border-radius: 4px;
+  font-weight: 500;
+  letter-spacing: 0.5px;
+}
+
