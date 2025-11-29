@@ -1,0 +1,2633 @@
+<!DOCTYPE html><html lang="en"><head>
+    
+    <meta charset="utf-8">
+  
+      
+      <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0,user-scalable=no">
+      <meta name="twitter:card" content="summary_large_image">
+      
+      <script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
+      <script type="text/javascript" src="https://en-static.dotdotnews.com/js/jq/jquery.cookie.js"></script>
+      <script type="text/javascript" src="https://en-static.dotdotnews.com/js/axios/axios.min.js"></script>
+      
+    <script type="module" language="javascript">
+      //<![CDATA[
+      import Util from '/static/englishdotdotnews/js/utils/util.js'
+      import Route from '/static/englishdotdotnews/js/utils/route.js'
+      let isApp = false
+      var routeQuery = Route.getQueryObject()
+      let from = routeQuery.from
+      if(from === 'app'){
+        isApp = true
+      }
+      function isiPhone() {
+        return /iPhone/i.test(navigator.userAgent);
+      }
+      function isiPad() {
+        return /iPad/i.test(navigator.userAgent) ||
+          (/Macintosh/i.test(navigator.userAgent) && navigator.maxTouchPoints > 1);
+      }
+      function isAndroid() {
+        const userAgent = navigator.userAgent.toLowerCase();
+        return /android/.test(userAgent);
+      }
+      function is_weixin(){
+        var ua = navigator.userAgent.toLowerCase();
+        if(ua.match(/MicroMessenger/i)=="micromessenger") {
+          return true;
+        } else {
+          return false;
+        }
+      }
+      let isiOS_app = (isiPhone()||isiPad())&&isApp
+      let isAndroid_app = isAndroid()&&isApp
+      window.globalData = {
+        column:{'alias':'Deepline','breadcrumbs':[{'prUrl':'//english.dotdotnews.com','name':'\u9EDE\u65B0\u805E-dotdotnews','uri':'/','url':'https://english.dotdotnews.com'},{'prUrl':'//english.dotdotnews.com/deepline','name':'Deepline','uri':'/deepline','url':'https://english.dotdotnews.com/deepline'}],'byname':'Deepline','channelId':'somenewsen','channelType':'APP','children':null,'columnPageFileName':'','columnPageFlag':'','columnPageTemplateId':'','columnThumbnail1':null,'columnThumbnail2':null,'columnThumbnail3':null,'columnThumbnail4':null,'columnType':0,'columns':null,'comment':'','containerType':0,'contentPageFileName':'','contentPageFlag':'','contentPageTemplateId':'','contentShowType':0,'contentUrlPattern':null,'created':null,'createdBy':null,'crumbs':[{'prUrl':'//english.dotdotnews.com','name':'\u9EDE\u65B0\u805E-dotdotnews','uri':'/','url':'https://english.dotdotnews.com'},{'prUrl':'//english.dotdotnews.com/deepline','name':'Deepline','uri':'/deepline','url':'https://english.dotdotnews.com/deepline'}],'deleted':false,'dirname':'deepline','disabled':false,'displayOrder':4,'domain':'','edition':0,'fixed':0,'fullName':'Deepline','hasRole':null,'lastSync':null,'level':0,'link':'','name':'Deepline','nameTag':'deepline','newsroomHide':0,'pageCache':0,'parentColumns':[],'parentId':'','position':null,'prUrl':'//english.dotdotnews.com/deepline','publishTypes':'','recommend':0,'seoDescription':'','seoKeywords':'','seoTitle':'','siteDescription':'','siteKeywords':'','siteTitle':'','sourceChannelId':'','sourceColumnId':'','sourceColumnName':null,'sourceColumnPath':'','templateFile4Column':'','templateFile4Content':'','templateName4Column':'','templateName4Content':'','templateUuid4Column':'','templateUuid4Content':'','thumbnail1PrUrl':null,'thumbnail1Url':null,'thumbnail2PrUrl':null,'thumbnail2Url':null,'thumbnail3PrUrl':null,'thumbnail3Url':null,'thumbnail4PrUrl':null,'thumbnail4Url':null,'thumbnails':[],'treeOrder':'004','type':0,'updated':'2025-05-14T00:11:12.000+08:00','updatedBy':null,'uri':'/deepline','url':'https://english.dotdotnews.com/deepline','uuid':'678a183de4b079cd3fc3bf41'},
+        story:{'ajustCoef':2.0,'allPhotoJson':'[{\"src\":\"https://dams.dotdotnews.com/dams/product/image/202511/28/69294386e4b08c07fcb5bc9a.jpg?x-oss-process=image/resize,w_1200\",\"comment\":\"\",\"photographer\":\"\",\"recordLocation\":\"\"}]','attachedFiles':null,'atts':null,'author':'\u8D99\u555F\u7FD4','breadcrumbs':[{'prUrl':'//english.dotdotnews.com','name':'\u9EDE\u65B0\u805E-dotdotnews','uri':'/','url':'https://english.dotdotnews.com'},{'prUrl':'//english.dotdotnews.com/deepline','name':'Deepline','uri':'/deepline','url':'https://english.dotdotnews.com/deepline'}],'byname':'Deepline','canComment':1,'categories':0,'category':0,'channelId':'somenewsen','channelName':'\u9EDE\u65B0\u805E-dotdotnews','columnDirname':'deepline','columnId':'678a183de4b079cd3fc3bf41','columnName':'Deepline','columnNameTag':'deepline','comment':'','content':'<figure class=\"image align-center\" style=\"display:table;\"> \n <img src=\"https://dw-media.dotdotnews.com/dams/product/image/202511/28/69294386e4b08c07fcb5bc9a.jpg?x-oss-process=image/resize,w_1200\" data-from=\"dams\" data-imgid=\"69294386a32fc5a41e377c8c\" data-dams-storyid=\"po69294387e4b08c07fcb5bc9c\" data-mimetype=\"image/jpg\" data-resourcesrc=\"/product/image/202511/28/69294386e4b08c07fcb5bc9a.jpg\" data-width=\"1920\" data-height=\"1080\" id=\"img-null\"> \n <figcaption style=\"display:table-caption;caption-side:bottom;\"><\/figcaption> \n<\/figure> \n<p>A deadly No. 5 fire at Tai Po\'s Wang Fuk Court has gripped the hearts of people. Hong Kong enterprises and mainland enterprises in Hong Kong swiftly responded with disaster relief efforts yesterday, donating money, supplies, or manpower. According to incomplete statistics from Wen Wei Po, as of 9 p.m. last night (Nov. 27), total donations from various sectors for the affected residents had already exceeded HK$1 billion.<\/p> \n<p>Among them, The Hong Kong Jockey Club announced a donation of approximately HK$170 million. This includes disbursing emergency grants of HK$150,000 to the families of the deceased, HK$100,000 to the seriously injured, and HK$50,000 to those with minor injuries. It also provides subsidies and furniture for relocated families and those moving to transitional housing. The Lee Shau Kee Foundation, Wharf, Jack Ma Foundation, Tencent, HSBC and Hang Seng Bank, China Hongqiao Group, among others, each donated HK$30 million.<\/p> \n<p>The total donation amount continued to rise throughout the evening and cannot be fully listed here. Additionally, multiple companies provided free hotel rooms, supplies, and medical assistance, with all sectors uniting to support the affected residents in overcoming this difficult time.<\/p> \n<p style=\"text-align: center;\"><strong>Swift action from all sectors<\/strong><\/p> \n<p>The Hong Kong Jockey Club Charities Trust announced yesterday a HK$170 million donation. This includes the emergency grants mentioned above and support for relocation and furniture. Organizations and enterprises such as Tung Wah Group of Hospitals, Bank of China (Hong Kong), Ng Fung Hong, China Mobile Hong Kong,\xA0Hong Kong Jewelry Manufacturers\' Association (HKJMA), the Hong Kong Federation of Fujian Associations, and the Chaoren Association also donated money and supplies, and provided communication and emotional support, demonstrating the spirit of mutual assistance in Hong Kong society and jointly helping the affected residents.<\/p> \n<p>To address the incident, The Hong Kong Jockey Club announced yesterday it would provide HK$100 million in aid through its emergency relief fund to alleviate the urgent needs of the injured and families of the deceased, to be distributed through the Social Welfare Department and NGOs. The Jockey Club emphasized that it will provide further support in the future.<\/p> \n<p>The Club also stated it would donate the total proceeds from Sunday\'s race meeting to assist those affected, estimated at approximately HK$70 million. Combined with the initial HK$100 million donation, the total Jockey Club contribution will be around HK$170 million.<\/p> \n<p>The Club will also provide subsidies to operators of transitional housing for furniture purchases, enabling affected families to move in immediately: HK$18,000 for 1-2 person units and HK$20,000 for units for 3 or more people. Beyond emergency grants, the Jockey Club Charities Trust will collaborate closely with relevant government departments and NGOs to assist the next one to three months, including transitional housing, food aid, bereavement and emotional support, educational support, caregiver support, and emergency medicine distribution through community pharmacies under the \"Jockey Club PHARM+ Community Medication Service Network.\"<\/p> \n<p style=\"text-align: center;\"><strong>Federation of Fujian Associations raises HK$20.21 million for relief<\/strong><\/p> \n<p>Following the fire, the Hong Kong Federation of Fujian Associations immediately initiated assistance measures and launched a specific fundraising drive. By 9 p.m. last night, they had raised HK$20.21 million. The Federation also actively assessed the situation of fellow Fujianese residents living in Wang Fuk Court and the surrounding area. Through the regional networks of its 273 affiliated societies, it proactively contacted affected fellow townspeople to provide timely assistance. Simultaneously, the Federation opened a support hotline (2566 1818) to fully assist affected citizens.<\/p> \n<p>Furthermore, the Fok Ying Tung Foundations in Hong Kong and Macao and the Fok Ying Tung Group announced a joint donation of HK$30 million to support residents, earmarked for emergency relief and post-disaster reconstruction work.<\/p> \n<p style=\"text-align: center;\"><strong>Various social welfare organizations donate money and supplies<\/strong><\/p> \n<p>Tung Wah Group of Hospitals also stated yesterday that, following its Board of Directors\' swift allocation of HK$3 million the night before, it continued to receive inquiries from various parties wishing to donate cash or supplies. These included a HK$5 million donation from Bank of China (Hong Kong), a HK$500,000 donation from CHAGEE facilitated by Director Paul Mak, a donation of 70 sets of mattresses and pillows from Sea Horse brand by former Director\xA0Virginia Yung, and donations from\xA0Right Track Culture including the proceeds from the first show of Miriam Yeung\'s concert and all profits from concert merchandise across six shows.<\/p> \n<p>Additionally, the New Territories East Chaoren Association urgently sponsored over 3,000 pieces of thermal underwear. The Hong Kong Sun Power of Teens, together with the Hong Kong Futian Youth Association, organized over 50 volunteers into a \"special warmth delivery team\" to quickly transport the more than 3,000 pieces of thermal underwear to various community halls.<\/p> \n<p><em>(Source: Wen Wei Po; Journalist: Nicolas Lai; English Editor: Darius)<\/em><\/p> \n<p><strong>Related News:<\/strong><\/p> \n<p><a style=\"color: #0000ff; font-weight: bold;\" href=\"https://english.dotdotnews.com/a/202511/27/AP6927fe42e4b0c32d4f609d57.html\" target=\"_blank\" rel=\"noopener\">Deepline | Heart of gold: Tributes pour in for firefighter lost in deadly Tai Po blaze<\/a><\/p> \n<p><a style=\"color: #0000ff; font-weight: bold;\" href=\"https://english.dotdotnews.com/a/202511/28/AP6929160ee4b0c32d4f60deb7.html\" target=\"_blank\" rel=\"noopener\">(Watch This) Wang Fuk Court No. 5 fire | \'I just do what I can do\' \u2013 Pakistani youth distributes hot milk tea and eggs<\/a><\/p>','contentPageNumber':1,'contentType':0,'coverImages':[{'tag':null,'type':null,'url':'https://dw-media.dotdotnews.com/dams/product/image/202511/28/69294391e4b08c07fcb5bca01.jpg'}],'coverStyle':0,'created':null,'createdBy':'','crumbs':[{'prUrl':'//english.dotdotnews.com','name':'\u9EDE\u65B0\u805E-dotdotnews','uri':'/','url':'https://english.dotdotnews.com'},{'prUrl':'//english.dotdotnews.com/deepline','name':'Deepline','uri':'/deepline','url':'https://english.dotdotnews.com/deepline'}],'description':'A deadly No. 5 fire at Tai Po\'s Wang Fuk Court has gripped the hearts of people. Hong Kong enterprises and mainland enterprises in Hong Kong swiftly responded with disaster relief efforts yesterday, donating money, supplies, or manpower. According to incomplete statistics from Wen Wei Po, as of 9 p.m. last night (Nov. 27), total donations from various sectors for the affected residents had already exceeded HK$1 billion.','editor':'Darius','editorRecommends':null,'expired':null,'folder':null,'id':'AP69294407e4b0c32d4f60ebe2','imageCount':1,'images':[{'MD5':'','chunkSize':0,'comment':'','contentType':'','damsSrc':null,'extMap':null,'filename':'','height':1080,'id':null,'inputStream':null,'length':0,'prUrl':'//dw-media.dotdotnews.com/dams/product/image/202511/28/69294386e4b08c07fcb5bc9a.jpg?x-oss-process=image/resize,w_1200','type':'','uploadDate':null,'uri':'/dams/product/image/202511/28/69294386e4b08c07fcb5bc9a.jpg?x-oss-process=image/resize,w_1200','url':'https://dw-media.dotdotnews.com/dams/product/image/202511/28/69294386e4b08c07fcb5bc9a.jpg?x-oss-process=image/resize,w_1200','width':1920}],'innerId':null,'jsonUrl':'https://english.dotdotnews.com/a/202511/28/AP69294407e4b0c32d4f60ebe2.json','keywords':['Hong Kong enterprises','Jockey Club','disaster relief','support hotline','Tung Wah Group of Hospitals'],'language':'','leadinLine':'','leadinLineStyle':null,'leadinLineUrl':null,'library':null,'linkTitle':null,'lock':null,'locked':false,'mapProperties':{'editor':'Darius','smallTitle':null,'hotList_hide':'0','picNames':'\u5716\u72471','temporal_chain_hide':'0','searchType':null,'searchLocation':null,'columns':['678a183de4b079cd3fc3bf41','5ec50efbe4b048346665adc9','5eb62161e4b0c3dbeefcf821','5eb62174e4b0c3dbeefcf822'],'photoReptheName':[],'displayArea':'0','reviewEditor':'\u8D99\u555F\u7FD4','link_title':null,'videoReptheName':[],'textReptheName':[],'hide':'0','primeMoverIndustry':null,'ipAuthorId':null,'developType':null,'originalCategory':'1','shareLock':'0'},'mediaStream':{'caption':null,'contentType':null,'duration':0,'orientation':null,'prUrl':'','prettyDuration':'00:00','previewPrUrl':null,'previewUri':null,'previewUrl':null,'type':null,'uri':'','url':''},'order':1764314700000000,'orderTag':0,'origin':'','originSpecialId':null,'originUri':'','originUrl':'','originalCategory':'1','pColumnIcon':null,'pColumnName':null,'pageCount':1,'path':null,'photoCount':1,'photoList':[{'src':'https://dams.dotdotnews.com/dams/product/image/202511/28/69294386e4b08c07fcb5bc9a.jpg?x-oss-process=image/resize,w_1200','comment':'','photographer':'','recordLocation':''}],'plainText':'A deadly No. 5 fire at Tai Po\'s Wang Fuk Court has gripped the hearts of people. Hong Kong enterprises and mainland enterprises in Hong Kong swiftly responded with disaster relief efforts yesterday, donating money, supplies, or manpower. According to incomplete statistics from Wen Wei Po, as of 9 p.m. last night (Nov. 27), total donations from various sectors for the affected residents had already exceeded HK$1 billion. \nAmong them, The Hong Kong Jockey Club announced a donation of approximately HK$170 million. This includes disbursing emergency grants of HK$150,000 to the families of the deceased, HK$100,000 to the seriously injured, and HK$50,000 to those with minor injuries. It also provides subsidies and furniture for relocated families and those moving to transitional housing. The Lee Shau Kee Foundation, Wharf, Jack Ma Foundation, Tencent, HSBC and Hang Seng Bank, China Hongqiao Group, among others, each donated HK$30 million. \nThe total donation amount continued to rise throughout the evening and cannot be fully listed here. Additionally, multiple companies provided free hotel rooms, supplies, and medical assistance, with all sectors uniting to support the affected residents in overcoming this difficult time. \nSwift action from all sectors \nThe Hong Kong Jockey Club Charities Trust announced yesterday a HK$170 million donation. This includes the emergency grants mentioned above and support for relocation and furniture. Organizations and enterprises such as Tung Wah Group of Hospitals, Bank of China (Hong Kong), Ng Fung Hong, China Mobile Hong Kong,\xA0Hong Kong Jewelry Manufacturers\' Association (HKJMA), the Hong Kong Federation of Fujian Associations, and the Chaoren Association also donated money and supplies, and provided communication and emotional support, demonstrating the spirit of mutual assistance in Hong Kong society and jointly helping the affected residents. \nTo address the incident, The Hong Kong Jockey Club announced yesterday it would provide HK$100 million in aid through its emergency relief fund to alleviate the urgent needs of the injured and families of the deceased, to be distributed through the Social Welfare Department and NGOs. The Jockey Club emphasized that it will provide further support in the future. \nThe Club also stated it would donate the total proceeds from Sunday\'s race meeting to assist those affected, estimated at approximately HK$70 million. Combined with the initial HK$100 million donation, the total Jockey Club contribution will be around HK$170 million. \nThe Club will also provide subsidies to operators of transitional housing for furniture purchases, enabling affected families to move in immediately: HK$18,000 for 1-2 person units and HK$20,000 for units for 3 or more people. Beyond emergency grants, the Jockey Club Charities Trust will collaborate closely with relevant government departments and NGOs to assist the next one to three months, including transitional housing, food aid, bereavement and emotional support, educational support, caregiver support, and emergency medicine distribution through community pharmacies under the \"Jockey Club PHARM+ Community Medication Service Network.\" \nFederation of Fujian Associations raises HK$20.21 million for relief \nFollowing the fire, the Hong Kong Federation of Fujian Associations immediately initiated assistance measures and launched a specific fundraising drive. By 9 p.m. last night, they had raised HK$20.21 million. The Federation also actively assessed the situation of fellow Fujianese residents living in Wang Fuk Court and the surrounding area. Through the regional networks of its 273 affiliated societies, it proactively contacted affected fellow townspeople to provide timely assistance. Simultaneously, the Federation opened a support hotline (2566 1818) to fully assist affected citizens. \nFurthermore, the Fok Ying Tung Foundations in Hong Kong and Macao and the Fok Ying Tung Group announced a joint donation of HK$30 million to support residents, earmarked for emergency relief and post-disaster reconstruction work. \nVarious social welfare organizations donate money and supplies \nTung Wah Group of Hospitals also stated yesterday that, following its Board of Directors\' swift allocation of HK$3 million the night before, it continued to receive inquiries from various parties wishing to donate cash or supplies. These included a HK$5 million donation from Bank of China (Hong Kong), a HK$500,000 donation from CHAGEE facilitated by Director Paul Mak, a donation of 70 sets of mattresses and pillows from Sea Horse brand by former Director\xA0Virginia Yung, and donations from\xA0Right Track Culture including the proceeds from the first show of Miriam Yeung\'s concert and all profits from concert merchandise across six shows. \nAdditionally, the New Territories East Chaoren Association urgently sponsored over 3,000 pieces of thermal underwear. The Hong Kong Sun Power of Teens, together with the Hong Kong Futian Youth Association, organized over 50 volunteers into a \"special warmth delivery team\" to quickly transport the more than 3,000 pieces of thermal underwear to various community halls. \n(Source: Wen Wei Po; Journalist: Nicolas Lai; English Editor: Darius) \nRelated News: \nDeepline | Heart of gold: Tributes pour in for firefighter lost in deadly Tai Po blaze \n(Watch This) Wang Fuk Court No. 5 fire | \'I just do what I can do\' \u2013 Pakistani youth distributes hot milk tea and eggs','prContent':'<figure class=\"image align-center\" style=\"display:table;\"> \n <img src=\"https://dw-media.dotdotnews.com/dams/product/image/202511/28/69294386e4b08c07fcb5bc9a.jpg?x-oss-process=image/resize,w_1200\" data-from=\"dams\" data-imgid=\"69294386a32fc5a41e377c8c\" data-dams-storyid=\"po69294387e4b08c07fcb5bc9c\" data-mimetype=\"image/jpg\" data-resourcesrc=\"/product/image/202511/28/69294386e4b08c07fcb5bc9a.jpg\" data-width=\"1920\" data-height=\"1080\" id=\"img-null\"> \n <figcaption style=\"display:table-caption;caption-side:bottom;\"><\/figcaption> \n<\/figure> \n<p>A deadly No. 5 fire at Tai Po\'s Wang Fuk Court has gripped the hearts of people. Hong Kong enterprises and mainland enterprises in Hong Kong swiftly responded with disaster relief efforts yesterday, donating money, supplies, or manpower. According to incomplete statistics from Wen Wei Po, as of 9 p.m. last night (Nov. 27), total donations from various sectors for the affected residents had already exceeded HK$1 billion.<\/p> \n<p>Among them, The Hong Kong Jockey Club announced a donation of approximately HK$170 million. This includes disbursing emergency grants of HK$150,000 to the families of the deceased, HK$100,000 to the seriously injured, and HK$50,000 to those with minor injuries. It also provides subsidies and furniture for relocated families and those moving to transitional housing. The Lee Shau Kee Foundation, Wharf, Jack Ma Foundation, Tencent, HSBC and Hang Seng Bank, China Hongqiao Group, among others, each donated HK$30 million.<\/p> \n<p>The total donation amount continued to rise throughout the evening and cannot be fully listed here. Additionally, multiple companies provided free hotel rooms, supplies, and medical assistance, with all sectors uniting to support the affected residents in overcoming this difficult time.<\/p> \n<p style=\"text-align: center;\"><strong>Swift action from all sectors<\/strong><\/p> \n<p>The Hong Kong Jockey Club Charities Trust announced yesterday a HK$170 million donation. This includes the emergency grants mentioned above and support for relocation and furniture. Organizations and enterprises such as Tung Wah Group of Hospitals, Bank of China (Hong Kong), Ng Fung Hong, China Mobile Hong Kong,\xA0Hong Kong Jewelry Manufacturers\' Association (HKJMA), the Hong Kong Federation of Fujian Associations, and the Chaoren Association also donated money and supplies, and provided communication and emotional support, demonstrating the spirit of mutual assistance in Hong Kong society and jointly helping the affected residents.<\/p> \n<p>To address the incident, The Hong Kong Jockey Club announced yesterday it would provide HK$100 million in aid through its emergency relief fund to alleviate the urgent needs of the injured and families of the deceased, to be distributed through the Social Welfare Department and NGOs. The Jockey Club emphasized that it will provide further support in the future.<\/p> \n<p>The Club also stated it would donate the total proceeds from Sunday\'s race meeting to assist those affected, estimated at approximately HK$70 million. Combined with the initial HK$100 million donation, the total Jockey Club contribution will be around HK$170 million.<\/p> \n<p>The Club will also provide subsidies to operators of transitional housing for furniture purchases, enabling affected families to move in immediately: HK$18,000 for 1-2 person units and HK$20,000 for units for 3 or more people. Beyond emergency grants, the Jockey Club Charities Trust will collaborate closely with relevant government departments and NGOs to assist the next one to three months, including transitional housing, food aid, bereavement and emotional support, educational support, caregiver support, and emergency medicine distribution through community pharmacies under the \"Jockey Club PHARM+ Community Medication Service Network.\"<\/p> \n<p style=\"text-align: center;\"><strong>Federation of Fujian Associations raises HK$20.21 million for relief<\/strong><\/p> \n<p>Following the fire, the Hong Kong Federation of Fujian Associations immediately initiated assistance measures and launched a specific fundraising drive. By 9 p.m. last night, they had raised HK$20.21 million. The Federation also actively assessed the situation of fellow Fujianese residents living in Wang Fuk Court and the surrounding area. Through the regional networks of its 273 affiliated societies, it proactively contacted affected fellow townspeople to provide timely assistance. Simultaneously, the Federation opened a support hotline (2566 1818) to fully assist affected citizens.<\/p> \n<p>Furthermore, the Fok Ying Tung Foundations in Hong Kong and Macao and the Fok Ying Tung Group announced a joint donation of HK$30 million to support residents, earmarked for emergency relief and post-disaster reconstruction work.<\/p> \n<p style=\"text-align: center;\"><strong>Various social welfare organizations donate money and supplies<\/strong><\/p> \n<p>Tung Wah Group of Hospitals also stated yesterday that, following its Board of Directors\' swift allocation of HK$3 million the night before, it continued to receive inquiries from various parties wishing to donate cash or supplies. These included a HK$5 million donation from Bank of China (Hong Kong), a HK$500,000 donation from CHAGEE facilitated by Director Paul Mak, a donation of 70 sets of mattresses and pillows from Sea Horse brand by former Director\xA0Virginia Yung, and donations from\xA0Right Track Culture including the proceeds from the first show of Miriam Yeung\'s concert and all profits from concert merchandise across six shows.<\/p> \n<p>Additionally, the New Territories East Chaoren Association urgently sponsored over 3,000 pieces of thermal underwear. The Hong Kong Sun Power of Teens, together with the Hong Kong Futian Youth Association, organized over 50 volunteers into a \"special warmth delivery team\" to quickly transport the more than 3,000 pieces of thermal underwear to various community halls.<\/p> \n<p><em>(Source: Wen Wei Po; Journalist: Nicolas Lai; English Editor: Darius)<\/em><\/p> \n<p><strong>Related News:<\/strong><\/p> \n<p><a style=\"color: #0000ff; font-weight: bold;\" href=\"https://english.dotdotnews.com/a/202511/27/AP6927fe42e4b0c32d4f609d57.html\" target=\"_blank\" rel=\"noopener\">Deepline | Heart of gold: Tributes pour in for firefighter lost in deadly Tai Po blaze<\/a><\/p> \n<p><a style=\"color: #0000ff; font-weight: bold;\" href=\"https://english.dotdotnews.com/a/202511/28/AP6929160ee4b0c32d4f60deb7.html\" target=\"_blank\" rel=\"noopener\">(Watch This) Wang Fuk Court No. 5 fire | \'I just do what I can do\' \u2013 Pakistani youth distributes hot milk tea and eggs<\/a><\/p>','prUrl':'//english.dotdotnews.com/a/202511/28/AP69294407e4b0c32d4f60ebe2.html','prettyPublishTime':'1 day ago','primersTitle':'','properties':{'editor':'Darius','smallTitle':null,'hotList_hide':'0','picNames':'\u5716\u72471','temporal_chain_hide':'0','searchType':null,'searchLocation':null,'columns':['678a183de4b079cd3fc3bf41','5ec50efbe4b048346665adc9','5eb62161e4b0c3dbeefcf821','5eb62174e4b0c3dbeefcf822'],'photoReptheName':[],'displayArea':'0','reviewEditor':'\u8D99\u555F\u7FD4','link_title':null,'videoReptheName':[],'textReptheName':[],'hide':'0','primeMoverIndustry':null,'ipAuthorId':null,'developType':null,'originalCategory':'1','shareLock':'0'},'publishStatus':1,'publishTime':'2025-11-28T15:35:00.000+08:00','published':'2025-11-28T15:35:00.000+08:00','recommends':null,'referenceStoryIds':[],'relatedStories':null,'responsibleEditor':'\u8D99\u555F\u7FD4','restorePath':null,'reviewEditor':'\u8D99\u555F\u7FD4','secretLevel':0,'share':null,'shareUrl':'https://english.dotdotnews.com/s/202511/28/AP69294407e4b0c32d4f60ebe2.html','source':'','sourceId':'CO69291d69e4b004d13625291d','special':null,'specialId':null,'specialName':null,'specialPrUrl':null,'specialUrl':null,'story':{'attachedFiles':null,'atts':[],'author':'\u8D99\u555F\u7FD4','canComment':1,'category':0,'channelId':'somenewsen','columnId':'678a183de4b079cd3fc3bf41','columnNameTag':null,'comment':'','content':'<figure class=\"image align-center\" style=\"display:table;\"> \n <img src=\"https://dams.dotdotnews.com/dams/product/image/202511/28/69294386e4b08c07fcb5bc9a.jpg?x-oss-process=image/resize,w_1200\" data-from=\"dams\" data-imgid=\"69294386a32fc5a41e377c8c\" data-dams-storyid=\"po69294387e4b08c07fcb5bc9c\" data-mimetype=\"image/jpg\" data-resourcesrc=\"/product/image/202511/28/69294386e4b08c07fcb5bc9a.jpg\" data-width=\"1920\" data-height=\"1080\" id=\"img-null\"> \n <figcaption style=\"display:table-caption;caption-side:bottom;\"><\/figcaption> \n<\/figure> \n<p>A deadly No. 5 fire at Tai Po\'s Wang Fuk Court has gripped the hearts of people. Hong Kong enterprises and mainland enterprises in Hong Kong swiftly responded with disaster relief efforts yesterday, donating money, supplies, or manpower. According to incomplete statistics from Wen Wei Po, as of 9 p.m. last night (Nov. 27), total donations from various sectors for the affected residents had already exceeded HK$1 billion.<\/p> \n<p>Among them, The Hong Kong Jockey Club announced a donation of approximately HK$170 million. This includes disbursing emergency grants of HK$150,000 to the families of the deceased, HK$100,000 to the seriously injured, and HK$50,000 to those with minor injuries. It also provides subsidies and furniture for relocated families and those moving to transitional housing. The Lee Shau Kee Foundation, Wharf, Jack Ma Foundation, Tencent, HSBC and Hang Seng Bank, China Hongqiao Group, among others, each donated HK$30 million.<\/p> \n<p>The total donation amount continued to rise throughout the evening and cannot be fully listed here. Additionally, multiple companies provided free hotel rooms, supplies, and medical assistance, with all sectors uniting to support the affected residents in overcoming this difficult time.<\/p> \n<p style=\"text-align: center;\"><strong>Swift action from all sectors<\/strong><\/p> \n<p>The Hong Kong Jockey Club Charities Trust announced yesterday a HK$170 million donation. This includes the emergency grants mentioned above and support for relocation and furniture. Organizations and enterprises such as Tung Wah Group of Hospitals, Bank of China (Hong Kong), Ng Fung Hong, China Mobile Hong Kong,\xA0Hong Kong Jewelry Manufacturers\' Association (HKJMA), the Hong Kong Federation of Fujian Associations, and the Chaoren Association also donated money and supplies, and provided communication and emotional support, demonstrating the spirit of mutual assistance in Hong Kong society and jointly helping the affected residents.<\/p> \n<p>To address the incident, The Hong Kong Jockey Club announced yesterday it would provide HK$100 million in aid through its emergency relief fund to alleviate the urgent needs of the injured and families of the deceased, to be distributed through the Social Welfare Department and NGOs. The Jockey Club emphasized that it will provide further support in the future.<\/p> \n<p>The Club also stated it would donate the total proceeds from Sunday\'s race meeting to assist those affected, estimated at approximately HK$70 million. Combined with the initial HK$100 million donation, the total Jockey Club contribution will be around HK$170 million.<\/p> \n<p>The Club will also provide subsidies to operators of transitional housing for furniture purchases, enabling affected families to move in immediately: HK$18,000 for 1-2 person units and HK$20,000 for units for 3 or more people. Beyond emergency grants, the Jockey Club Charities Trust will collaborate closely with relevant government departments and NGOs to assist the next one to three months, including transitional housing, food aid, bereavement and emotional support, educational support, caregiver support, and emergency medicine distribution through community pharmacies under the \"Jockey Club PHARM+ Community Medication Service Network.\"<\/p> \n<p style=\"text-align: center;\"><strong>Federation of Fujian Associations raises HK$20.21 million for relief<\/strong><\/p> \n<p>Following the fire, the Hong Kong Federation of Fujian Associations immediately initiated assistance measures and launched a specific fundraising drive. By 9 p.m. last night, they had raised HK$20.21 million. The Federation also actively assessed the situation of fellow Fujianese residents living in Wang Fuk Court and the surrounding area. Through the regional networks of its 273 affiliated societies, it proactively contacted affected fellow townspeople to provide timely assistance. Simultaneously, the Federation opened a support hotline (2566 1818) to fully assist affected citizens.<\/p> \n<p>Furthermore, the Fok Ying Tung Foundations in Hong Kong and Macao and the Fok Ying Tung Group announced a joint donation of HK$30 million to support residents, earmarked for emergency relief and post-disaster reconstruction work.<\/p> \n<p style=\"text-align: center;\"><strong>Various social welfare organizations donate money and supplies<\/strong><\/p> \n<p>Tung Wah Group of Hospitals also stated yesterday that, following its Board of Directors\' swift allocation of HK$3 million the night before, it continued to receive inquiries from various parties wishing to donate cash or supplies. These included a HK$5 million donation from Bank of China (Hong Kong), a HK$500,000 donation from CHAGEE facilitated by Director Paul Mak, a donation of 70 sets of mattresses and pillows from Sea Horse brand by former Director\xA0Virginia Yung, and donations from\xA0Right Track Culture including the proceeds from the first show of Miriam Yeung\'s concert and all profits from concert merchandise across six shows.<\/p> \n<p>Additionally, the New Territories East Chaoren Association urgently sponsored over 3,000 pieces of thermal underwear. The Hong Kong Sun Power of Teens, together with the Hong Kong Futian Youth Association, organized over 50 volunteers into a \"special warmth delivery team\" to quickly transport the more than 3,000 pieces of thermal underwear to various community halls.<\/p> \n<p><em>(Source: Wen Wei Po; Journalist: Nicolas Lai; English Editor: Darius)<\/em><\/p> \n<p><strong>Related News:<\/strong><\/p> \n<p><a style=\"color: #0000ff; font-weight: bold;\" href=\"https://english.dotdotnews.com/a/202511/27/AP6927fe42e4b0c32d4f609d57.html\" target=\"_blank\" rel=\"noopener\">Deepline | Heart of gold: Tributes pour in for firefighter lost in deadly Tai Po blaze<\/a><\/p> \n<p><a style=\"color: #0000ff; font-weight: bold;\" href=\"https://english.dotdotnews.com/a/202511/28/AP6929160ee4b0c32d4f60deb7.html\" target=\"_blank\" rel=\"noopener\">(Watch This) Wang Fuk Court No. 5 fire | \'I just do what I can do\' \u2013 Pakistani youth distributes hot milk tea and eggs<\/a><\/p>','contentType':0,'created':'2025-11-28T15:31:10.159+08:00','createdBy':'system','description':'A deadly No. 5 fire at Tai Po\'s Wang Fuk Court has gripped the hearts of people. Hong Kong enterprises and mainland enterprises in Hong Kong swiftly responded with disaster relief efforts yesterday, donating money, supplies, or manpower. According to incomplete statistics from Wen Wei Po, as of 9 p.m. last night (Nov. 27), total donations from various sectors for the affected residents had already exceeded HK$1 billion.','editor':'Darius','expired':null,'folder':'5e242b26e4b09e790c603e0b','id':'AP69294407e4b0c32d4f60ebe2','innerId':'69294407e4b0c32d60e611db','keywords':['Hong Kong enterprises','Jockey Club','disaster relief','support hotline','Tung Wah Group of Hospitals'],'language':'','library':'story','lock':null,'locked':false,'mapProperties':{'editor':'Darius','smallTitle':null,'hotList_hide':'0','picNames':'\u5716\u72471','temporal_chain_hide':'0','searchType':null,'searchLocation':null,'columns':['678a183de4b079cd3fc3bf41','5ec50efbe4b048346665adc9','5eb62161e4b0c3dbeefcf821','5eb62174e4b0c3dbeefcf822'],'photoReptheName':[],'displayArea':'0','reviewEditor':'\u8D99\u555F\u7FD4','link_title':null,'videoReptheName':[],'textReptheName':[],'hide':'0','primeMoverIndustry':null,'ipAuthorId':null,'developType':null,'originalCategory':'1','shareLock':'0'},'order':1764314700000000,'orderTag':0,'origin':'','originUrl':'','path':'/APP/AP69294407e4b0c32d4f60ebe2','primersTitle':'','properties':{'damsImages':{'69294386e4b08c07fcb5bc9a':{'width':1920,'comment':'','height':1080}}},'publishStatus':1,'publishTime':'2025-11-28T15:35:00.000+08:00','recommends':null,'responsibleEditor':'\u8D99\u555F\u7FD4','restorePath':null,'secretLevel':0,'sourceId':'CO69291d69e4b004d13625291d','special':null,'storyResource':{'info':'','length':0,'shortVideoUrl':null},'storyType':'COMPO','subTitle':'','tags':[''],'thumbnailStyle':0,'thumbs':[{'thumbnailUrl':'https://dams.dotdotnews.com/dams/product/image/202511/28/69294391e4b08c07fcb5bca01.jpg','type':'16:9'}],'title':'Deepline | Let us all unite! Over HK$1 bn raised for Tai Po No. 5 fire victims','type':'AP','updated':'2025-11-28T15:31:10.159+08:00','updatedBy':'system','url':'','version':null,'wordCount':4618},'storyResource':{'info':'','length':0,'shortVideoUrl':null},'storyType':'COMPO','subTitle':'','subtitle':'','summary':'A deadly No. 5 fire at Tai Po\'s Wang Fuk Court has gripped the hearts of people. Hong Kong enterprises and mainland enterprises in Hong Kong swiftly responded with disaster relief efforts yesterday, donating money, supplies, or manpower. According to incomplete statistics from Wen Wei Po, as of 9 p.m. last night (Nov. 27), total donations from various sectors for the affected residents had already exceeded HK$1 billion.','tags':[''],'thumbnailStyle':0,'thumbnails':[{'prUrl':'//dw-media.dotdotnews.com/dams/product/image/202511/28/69294391e4b08c07fcb5bca01.jpg','proportion':'16:9','thumbnailUrl':'https://dw-media.dotdotnews.com/dams/product/image/202511/28/69294391e4b08c07fcb5bca01.jpg','type':'16:9','uri':'/dams/product/image/202511/28/69294391e4b08c07fcb5bca01.jpg','url':'https://dw-media.dotdotnews.com/dams/product/image/202511/28/69294391e4b08c07fcb5bca01.jpg'}],'thumbs':[{'prUrl':'//dw-media.dotdotnews.com/dams/product/image/202511/28/69294391e4b08c07fcb5bca01.jpg','proportion':'16:9','thumbnailUrl':'https://dw-media.dotdotnews.com/dams/product/image/202511/28/69294391e4b08c07fcb5bca01.jpg','type':'16:9','uri':'/dams/product/image/202511/28/69294391e4b08c07fcb5bca01.jpg','url':'https://dw-media.dotdotnews.com/dams/product/image/202511/28/69294391e4b08c07fcb5bca01.jpg'}],'title':'Deepline | Let us all unite! Over HK$1 bn raised for Tai Po No. 5 fire victims','type':'AP','updated':'2025-11-28T15:31:10.159+08:00','updatedBy':'','uri':'/a/202511/28/AP69294407e4b0c32d4f60ebe2.html','url':'https://english.dotdotnews.com/a/202511/28/AP69294407e4b0c32d4f60ebe2.html','urlEncodeTitle':'Deepline+%7C+Let+us+all+unite%21+Over+HK%241+bn+raised+for+Tai+Po+No.+5+fire+victims','version':null,'videoTime':'00:00','watermark':null,'wordCount':4618,'ztColumn':null,'ztStories':null},
+        site:{'channelComment':null,'channelId':null,'channelName':null,'channelThumbnail1':null,'channelThumbnail2':null,'channelThumbnail3':null,'channelThumbnail4':null,'channelType':null,'columnPageFileName':null,'columnPageFlag':null,'columnPageMaxAge':0,'comment':'','contentPageFileName':null,'contentPageFlag':null,'contentPageMaxAge':0,'contentUrlPattern':1,'created':null,'createdBy':null,'deleted':false,'dirname':'somenewsen','disabled':false,'domain':'english.dotdotnews.com','domainFlag':0,'endDay':null,'favicon':'https://www.dotdotnews.com/images/202502/12/67ac5f16e4b079cd0dbf2f82.png','homePageFileName':null,'homePageFlag':null,'homePageMaxAge':0,'maxAgeColumn':60,'maxAgeContent':60,'maxAgeIndex':60,'maxAgeResource':0,'name':'\u9EDE\u65B0\u805E-dotdotnews','parentChannelId':null,'port':80,'prUrl':'//english.dotdotnews.com','resourceMaxAge':0,'scheme':'https','seoDescription':'Through dots, we connect. DotDotNews is a HK-based digital media platform with an international perspective. It aims to report the truth as well as follow up the latest trends and the most popular topics, with a widespread influence and a rich network both in mainland China and overseas.','seoKeywords':'DotDotNews,HK,News,GBA,HKSAR,CE,Government,Global,Video,mainland, China, latest trends,Breaking news,digital media products,China,editorials','seoTitle':'DotDotNews \uFF5C Through dots, we connect.  \u8B93\u4E16\u754C\u770B\u5230\u5F69\u8272\u7684\u9999\u6E2F \u8B93\u9999\u6E2F\u770B\u5230\u5F69\u8272\u7684\u4E16\u754C','siteDescription':null,'siteIcon':null,'siteKeywords':null,'siteTitle':null,'startDay':null,'staticServerPrUrl':'//www.dotdotnews.com','staticServerUrl':'https://www.dotdotnews.com','templateFile4Column':'column/public/column-index','templateFile4Content':'content/public/content-index','templateFile4Index':'index/home/index','templateName4Column':'englishdotdotnews','templateName4Content':'englishdotdotnews','templateName4Index':'englishdotdotnews','thumbnail1PrUrl':null,'thumbnail1Url':null,'thumbnail2PrUrl':null,'thumbnail2Url':null,'thumbnail3PrUrl':null,'thumbnail3Url':null,'thumbnail4PrUrl':null,'thumbnail4Url':null,'thumbnails':[],'type':'APP','updated':'2025-02-12T16:43:03.000+08:00','updatedBy':null,'url':'https://english.dotdotnews.com','uuid':'5eb61982e4b0c3dbeefcf700','videoPlayerPrUrl':'//player.dotdotnews.com/video-player/player.html?src=','videoPlayerUrl':'https://player.dotdotnews.com/video-player/player.html?src='},
+        previewMode:null,
+        isiPhone:isiPhone(),
+        isiPad:isiPad(),
+        isAndroid:isAndroid(),
+        is_weixin:is_weixin(),
+        isiOS_app,
+        isAndroid_app,
+        isApp
+        }
+      //]]>
+    </script>
+  
+      
+      
+      <title>Deepline | Let us all unite! Over HK$1 bn raised for Tai Po No. 5 fire victims</title>
+      <meta property="og:title" content="Deepline | Let us all unite! Over HK$1 bn raised for Tai Po No. 5 fire victims">
+      <meta property="twitter:title" content="Deepline | Let us all unite! Over HK$1 bn raised for Tai Po No. 5 fire victims">
+      
+      <meta name="keywords" content="Hong Kong enterprises,Jockey Club,disaster relief,support hotline,Tung Wah Group of Hospitals">
+      <meta http-equiv="keywords" content="Hong Kong enterprises,Jockey Club,disaster relief,support hotline,Tung Wah Group of Hospitals">
+      
+      <meta name="description" content="A deadly No. 5 fire at Tai Po's Wang Fuk Court has gripped the hearts of people. Hong Kong enterprises and mainland enterprises in Hong Kong swiftly responded with disaster relief efforts yesterday, donating money, supplies, or manpower. According to incomplete statistics from Wen Wei Po, as of 9 p.m. last night (Nov. 27), total donations from various sectors for the affected residents had already exceeded HK$1 billion.">
+      <meta property="og:description" content="A deadly No. 5 fire at Tai Po's Wang Fuk Court has gripped the hearts of people. Hong Kong enterprises and mainland enterprises in Hong Kong swiftly responded with disaster relief efforts yesterday, donating money, supplies, or manpower. According to incomplete statistics from Wen Wei Po, as of 9 p.m. last night (Nov. 27), total donations from various sectors for the affected residents had already exceeded HK$1 billion.">
+      <meta data-react-helmet="true" id="shareDesc" name="description" content="A deadly No. 5 fire at Tai Po's Wang Fuk Court has gripped the hearts of people. Hong Kong enterprises and mainland enterprises in Hong Kong swiftly responded with disaster relief efforts yesterday, donating money, supplies, or manpower. According to incomplete statistics from Wen Wei Po, as of 9 p.m. last night (Nov. 27), total donations from various sectors for the affected residents had already exceeded HK$1 billion.">
+      <meta property="twitter:description" content="A deadly No. 5 fire at Tai Po's Wang Fuk Court has gripped the hearts of people. Hong Kong enterprises and mainland enterprises in Hong Kong swiftly responded with disaster relief efforts yesterday, donating money, supplies, or manpower. According to incomplete statistics from Wen Wei Po, as of 9 p.m. last night (Nov. 27), total donations from various sectors for the affected residents had already exceeded HK$1 billion.">
+      
+      <meta property="og:url" content="https://english.dotdotnews.com/a/202511/28/AP69294407e4b0c32d4f60ebe2.html">
+      <meta property="twitter:url" content="https://english.dotdotnews.com/a/202511/28/AP69294407e4b0c32d4f60ebe2.html">
+      
+      <meta property="og:type" content="website">
+      
+      <meta name="image" content="https://dw-media.dotdotnews.com/dams/product/image/202511/28/69294391e4b08c07fcb5bca01.jpg">
+      
+      <meta property="og:image" content="https://dw-media.dotdotnews.com/dams/product/image/202511/28/69294391e4b08c07fcb5bca01.jpg">
+      <meta property="twitter:image" content="https://dw-media.dotdotnews.com/dams/product/image/202511/28/69294391e4b08c07fcb5bca01.jpg">
+      
+      <link rel="icon" type="image/png" href="https://www.dotdotnews.com/images/202502/12/67ac5f16e4b079cd0dbf2f82.png">
+      <link rel="shortcut icon" type="image/png" href="https://www.dotdotnews.com/images/202502/12/67ac5f16e4b079cd0dbf2f82.png">
+      <link rel="apple-touch-icon" href="https://www.dotdotnews.com/images/202502/12/67ac5f16e4b079cd0dbf2f82.png">
+      
+      <meta property="og:image:alt" content="Deepline | Let us all unite! Over HK$1 bn raised for Tai Po No. 5 fire victims">
+      <meta property="twitter:image:alt" content="Deepline | Let us all unite! Over HK$1 bn raised for Tai Po No. 5 fire victims">
+      
+      <meta name="twitter:card" content="summary_large_image">
+      <meta data-rh="true" property="twitter:card" content="summary_large_image">
+      
+      
+      
+      
+      <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+      
+      
+      
+      <script type="application/ld+json">
+        {
+          "@context": "https://schema.org",
+          "@type": "Organization",
+          "name": "DotDotNews",
+          "url": "https://english.dotdotnews.com/",
+          "logo": "https://en-static.dotdotnews.com/logoEn.png"
+        }
+      </script>
+      <script type="application/ld+json">
+        {
+          "@context": "https://schema.org",
+          "@type": "NewsArticle",
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://english.dotdotnews.com/a/202511/28/AP69294407e4b0c32d4f60ebe2.html"
+          },
+          "headline": "Deepline | Let us all unite! Over HK$1 bn raised for Tai Po No. 5 fire victims",
+          "description": "A deadly No. 5 fire at Tai Po&#39;s Wang Fuk Court has gripped the hearts of people. Hong Kong enterprises and mainland enterprises in Hong Kong swiftly responded with disaster relief efforts yesterday, donating money, supplies, or manpower. According to incomplete statistics from Wen Wei Po, as of 9 p.m. last night (Nov. 27), total donations from various sectors for the affected residents had already exceeded HK$1 billion.",
+          "name": "Deepline | Let us all unite! Over HK$1 bn raised for Tai Po No. 5 fire victims",
+          "keywords": "Hong Kong enterprises,Jockey Club,disaster relief,support hotline,Tung Wah Group of Hospitals",
+          "image": {
+              "@type": "ImageObject",
+              "width": 1200,
+              "height": 675,
+              "url": "https://dw-media.dotdotnews.com/dams/product/image/202511/28/69294391e4b08c07fcb5bca01.jpg"
+           },
+          "author": {
+            "@type": "Person",
+            "name": "趙啟翔"
+          },
+          "publisher": {
+            "@type": "Organization",
+            "name": "DotDotNews",
+            "url": "https://english.dotdotnews.com/",
+            "logo": {
+              "@type": "ImageObject",
+              "width": 659,
+              "height": 275,
+              "url": "https://en-static.dotdotnews.com/logoEn.png"
+            },
+            "sameAs": [
+                "https://www.facebook.com/dotdotnews18",
+                "https://x.com/dotdotnews111",
+                "https://weibo.com/u/7310744124"
+             ]
+          },
+          "datePublished": "Fri Nov 28 15:35:00 HKT 2025",
+          "dateModified": "Fri Nov 28 15:31:10 HKT 2025"
+        }
+      </script>
+      <script type="application/ld+json">
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+          	{
+                "@type": "ListItem",
+                "position": 1,
+                "name": "DotDotNews",
+                "item": "https://english.dotdotnews.com"
+            },
+          	{
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Deepline",
+                "item": "https://english.dotdotnews.com/deepline"
+            }
+          ]
+        }
+      </script>
+      <link rel="canonical" href="https://english.dotdotnews.com/a/202511/28/AP69294407e4b0c32d4f60ebe2.html">
+      <link rel="alternate" hreflang="en" href="https://english.dotdotnews.com/a/202511/28/AP69294407e4b0c32d4f60ebe2.html">
+      <link rel="alternate" hreflang="en-HK" href="https://english.dotdotnews.com/a/202511/28/AP69294407e4b0c32d4f60ebe2.html">
+    
+      
+      <script type="text/javascript" src="https://en-static.dotdotnews.com/minici/drift.js?template=202303211118"></script><script type="text/javascript" src="https://dotnews-static.dotdotnews.com/minici/fingrtprprint2.min.js"></script>
+      <script type="module" src="/static/englishdotdotnews/parts/en/head/miniCi/index.js"></script>
+      
+      
+      <script async="async" src="https://www.googletagmanager.com/gtag/js?id=G-E86WZN05NB"></script>
+      <script type="module" src="/static/englishdotdotnews/parts/en/head/dataLayer/index.js?template=A20200527"></script>
+      
+      <script type="module" src="/static/englishdotdotnews/js/utils/login.js"></script>
+      <script src="/static/englishdotdotnews/js/utils/globalFunc.js?template=202502071324"></script>
+      
+      
+      
+      <link rel="stylesheet" href="https://en-static.dotdotnews.com/js/sco-message/sco-message.css">
+      <script type="text/javascript" src="https://en-static.dotdotnews.com/js/sco-message/sco-message.js"></script>
+      <link rel="stylesheet" href="/static/englishdotdotnews/css/main/index.css?template=202503251336">
+      <style>
+        .head-top,.head-bottom{
+          filter: grayscale(100%);
+          -webkit-filter: grayscale(100%);
+          -moz-filter: grayscale(100%);
+          -ms-filter: grayscale(100%);
+          -o-filter: grayscale(100%);
+        }
+      </style>
+      <base target="_blank">
+    
+  </head>
+  <body>
+    
+      <link rel="stylesheet" href="/static/englishdotdotnews/parts/en/pageHead/index.css?template=202502111337">
+      <script type="module" id="pageHeadJs" src="/static/englishdotdotnews/parts/en/pageHead/index.js?template=202502071325"></script>
+      <header class="page-head">
+        
+      <link rel="stylesheet" href="/static/englishdotdotnews/parts/en/pageHead/headTop/index.css?template=202502111337">
+      <script type="module" src="/static/englishdotdotnews/parts/en/pageHead/headTop/index.js?template=202502081658"></script>
+      <div class="head-top">
+        <div class="main-box head-top-1-box">
+          <div class="head-top-1">
+            <div class="search-box">
+              <img class="search-box-icon" src="https://en-static.dotdotnews.com/parts/en/pageHead/search.png" title="search" alt="search">
+            </div>
+            <div class="head-top-1-right">
+              <div class="login-box">
+                <a class="login-box-icon-link" href="https://english.dotdotnews.com/ucs/login/index" title="Sign in">
+                  <img class="login-box-icon change-mode-img" src="https://en-static.dotdotnews.com/parts/en/pageHead/login.png" title="Sign in" alt="Sign in">
+                </a>
+                <a class="login-box-text" href="https://english.dotdotnews.com/ucs/login/index" title="Sign in">Sign in</a>
+              </div>
+              <div class="login-user">
+                <span class="span-icon">
+                  <div class="user-img-box">
+                    <img class="user-img" src="" alt="">
+                  </div>
+                  <div class="login-center">
+                    <div class="login-center-name">
+                    </div>
+                    <div class="login-center-list">
+                      <a href="javascript:void(0);" title="Log out" onclick="loginout()" target="_self">Log out</a>
+                      <a href="https://english.dotdotnews.com/ucs/center/main" title="Personal" target="_blank">Personal</a>
+                    </div>
+                  </div>
+                </span>
+              </div>
+              <div class="HK-link cursor-pointer">繁體版</div>
+              <div class="download-box">
+                <img class="download-img change-mode-img" title="Get Apps" alt="Get Apps" src="https://en-static.dotdotnews.com/parts/en/pageHead/get_app.png">
+                <div class="download-text">
+                  Get Apps
+                </div>
+                <div class="download-qrcode-box">
+                  <img class="download-qrcode" title="Get Apps" alt="Get Apps" src="https://en-static.dotdotnews.com/parts/en/pageHead/qrcode.png">
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="head-top-2">
+          <div class="main-box">
+            <div class="head-top-2-inner">
+              <div class="logo-box">
+                <a class="logo-link" href="https://english.dotdotnews.com" title="點新聞-dotdotnews">
+                  <img class="logo-icon" src="https://en-static.dotdotnews.com/parts/en/pageHead/logo.png?template=202410151506" alt="點新聞-dotdotnews" title="點新聞-dotdotnews">
+                </a>
+                <div class="logo-text">
+                  Through dots,we connect.
+                </div>
+              </div>
+              <div class="head-top-2-right">
+                <div class="head-top-2-right-left">
+                  <a class="head-top-2-right-left-unit" title="Facebook" href="https://www.facebook.com/dotdotnews18">
+                    <img class="head-top-2-right-left-unit-img" src="https://en-static.dotdotnews.com/parts/en/pageHead/fb.png?template=202410151506" title="Facebook" alt="Facebook">
+                  </a>
+                  <a class="head-top-2-right-left-unit" title="X" href="https://twitter.com/dotdotnews111">
+                    <img class="head-top-2-right-left-unit-img" src="https://en-static.dotdotnews.com/parts/en/pageHead/x.png?template=202410151506" title="X" alt="X">
+                  </a>
+                  <a class="head-top-2-right-left-unit" title="youtube" href="https://www.youtube.com/channel/UCW1IT0yzVG3xEonao-nHaxg">
+                    <img class="head-top-2-right-left-unit-img" src="https://en-static.dotdotnews.com/parts/en/pageHead/youtube.png?template=202410151506" title="youtube" alt="youtube">
+                  </a>
+                  <a class="head-top-2-right-left-unit" title="Weibo" href="https://weibo.com/u/7310744124">
+                    <img class="head-top-2-right-left-unit-img" src="https://en-static.dotdotnews.com/parts/en/pageHead/wb.png?template=202410151506" title="Weibo" alt="Weibo">
+                  </a>
+                </div>
+                <div class="date-box">
+                  <span class="Wed-box">Sat.</span>
+                  <span class="n-box">29</span>
+                  <span class="line-box">/</span>
+                  <span class="t-box">11</span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    
+        
+      
+      <link rel="stylesheet" href="/static/englishdotdotnews/parts/en/pageHead/headBottom/index.css?template=202502111349">
+      <div class="head-bottom ">
+        <div class="main-box">
+          <div class="head-bottom-inner">
+            <div class="head-bottom-inner-unit">
+              <a class="head-bottom-inner-unit-link" target="_self" href="https://english.dotdotnews.com" title="點新聞-dotdotnews">Home</a>
+              <div class="head-bottom-inner-unit-has-children-line">
+              </div>
+            </div>
+            
+              
+              
+                
+                  
+                  
+                    <div class="head-bottom-inner-unit-has-children head-bottom-inner-unit 5eb621eae4b0c3dbeefcf836">
+                      <a class="head-bottom-inner-unit-link" target="_self" href="https://english.dotdotnews.com/envideo" title="Video">Video</a>
+                      <a class="head-bottom-inner-unit-img-link" target="_self" href="https://english.dotdotnews.com/envideo" title="Video">
+                        <img class="w-100-percent" src="https://en-static.dotdotnews.com/parts/en/pageHead/down1.png?template=202410151506" title="Video" alt="Video">
+                      </a>
+                      <div class="head-bottom-inner-unit-has-children-line">
+                      </div>
+                      <div class="sub-menu">
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                          
+                            <div class="sub-menu-unit sub-menu-unit-envideo">
+                              <a class="sub-menu-unit-link" target="_self" title="I Live in HK" href="https://english.dotdotnews.com/envideo/ILiveinHK">I Live in HK</a>
+                              
+                            </div>
+                          
+                          
+                            <div class="sub-menu-unit sub-menu-unit-envideo">
+                              <a class="sub-menu-unit-link" target="_self" title="Connecting Dots" href="https://english.dotdotnews.com/envideo/Connectingdots">Connecting Dots</a>
+                              
+                            </div>
+                          
+                          
+                            <div class="sub-menu-unit sub-menu-unit-envideo">
+                              <a class="sub-menu-unit-link" target="_self" title="Connie Talk" href="https://english.dotdotnews.com/envideo/connieTalk">Connie Talk</a>
+                              
+                            </div>
+                          
+                          
+                            <div class="sub-menu-unit sub-menu-unit-envideo">
+                              <a class="sub-menu-unit-link" target="_self" title="Be My Guest" href="https://english.dotdotnews.com/envideo/bemyguest">Be My Guest</a>
+                              
+                            </div>
+                          
+                          
+                            <div class="sub-menu-unit sub-menu-unit-envideo">
+                              <a class="sub-menu-unit-link" target="_self" title="C'est la Chine" href="https://english.dotdotnews.com/envideo/CestlaChine">C'est la Chine</a>
+                              
+                            </div>
+                          
+                          
+                            <div class="sub-menu-unit sub-menu-unit-envideo">
+                              <a class="sub-menu-unit-link" target="_self" title="Not An Outsider " href="https://english.dotdotnews.com/envideo/notanoutsider">Not An Outsider </a>
+                              
+                            </div>
+                          
+                          
+                            <div class="sub-menu-unit sub-menu-unit-envideo">
+                              <a class="sub-menu-unit-link" target="_self" title="Henry's Take" href="https://english.dotdotnews.com/envideo/henrystake">Henry's Take</a>
+                              
+                            </div>
+                          
+                          
+                            <div class="sub-menu-unit sub-menu-unit-envideo">
+                              <a class="sub-menu-unit-link" target="_self" title="1-minute News" href="https://english.dotdotnews.com/envideo/minuteNews">1-minute News</a>
+                              
+                            </div>
+                          
+                          
+                            <div class="sub-menu-unit sub-menu-unit-envideo">
+                              <a class="sub-menu-unit-link" target="_self" title="OMG" href="https://english.dotdotnews.com/envideo/omg">OMG</a>
+                              
+                            </div>
+                          
+                          
+                            <div class="sub-menu-unit sub-menu-unit-envideo">
+                              <a class="sub-menu-unit-link" target="_self" title="More" href="https://english.dotdotnews.com/envideo/more">More</a>
+                              <div class="sub-menu sub-menu-li-menu">
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                  <div class="sub-menu-unit">
+                                    <a class="sub-menu-unit-link" target="_self" title="Cuteness Overload" href="https://english.dotdotnews.com/envideo/cutenessoverload">Cuteness Overload</a>
+                                  </div>
+                                
+                                
+                                  <div class="sub-menu-unit">
+                                    <a class="sub-menu-unit-link" target="_self" title="Exclusive" href="https://english.dotdotnews.com/envideo/Exclusive">Exclusive</a>
+                                  </div>
+                                
+                                
+                                  <div class="sub-menu-unit">
+                                    <a class="sub-menu-unit-link" target="_self" title="EyE on U" href="https://english.dotdotnews.com/envideo/eyeonu">EyE on U</a>
+                                  </div>
+                                
+                                
+                                  <div class="sub-menu-unit">
+                                    <a class="sub-menu-unit-link" target="_self" title="DotDotWeekly" href="https://english.dotdotnews.com/envideo/DotDotWeekly">DotDotWeekly</a>
+                                  </div>
+                                
+                                
+                                  <div class="sub-menu-unit">
+                                    <a class="sub-menu-unit-link" target="_self" title="100 Ways To Live" href="https://english.dotdotnews.com/envideo/ways100tolive">100 Ways To Live</a>
+                                  </div>
+                                
+                                
+                                  <div class="sub-menu-unit">
+                                    <a class="sub-menu-unit-link" target="_self" title="100 Ways To Drool" href="https://english.dotdotnews.com/envideo/ways100todrool">100 Ways To Drool</a>
+                                  </div>
+                                
+                              </div>
+                            </div>
+                          
+                          
+                          
+                          
+                          
+                          
+                          
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                      </div>
+                    </div>
+                  
+                
+              
+              
+                
+                  
+                  
+                    <div class="head-bottom-inner-unit-has-children head-bottom-inner-unit 5eb62213e4b0c3dbeefcf837">
+                      <a class="head-bottom-inner-unit-link" target="_self" href="https://english.dotdotnews.com/opinion" title="Opinion">Opinion</a>
+                      <a class="head-bottom-inner-unit-img-link" target="_self" href="https://english.dotdotnews.com/opinion" title="Opinion">
+                        <img class="w-100-percent" src="https://en-static.dotdotnews.com/parts/en/pageHead/down1.png?template=202410151506" title="Opinion" alt="Opinion">
+                      </a>
+                      <div class="head-bottom-inner-unit-has-children-line">
+                      </div>
+                      <div class="sub-menu">
+                        
+                          
+                            <div class="sub-menu-unit">
+                              <a class="sub-menu-unit-link" target="_self" title="Young Voices" href="https://english.dotdotnews.com/opinion/YoungVoices">Young Voices</a>
+                            </div>
+                          
+                          
+                            <div class="sub-menu-unit">
+                              <a class="sub-menu-unit-link" target="_self" title="Philip Yeung" href="https://english.dotdotnews.com/opinion/PhilipYeung">Philip Yeung</a>
+                            </div>
+                          
+                          
+                            <div class="sub-menu-unit">
+                              <a class="sub-menu-unit-link" target="_self" title="Grenville Cross" href="https://english.dotdotnews.com/opinion/GrenvilleCross">Grenville Cross</a>
+                            </div>
+                          
+                          
+                            <div class="sub-menu-unit">
+                              <a class="sub-menu-unit-link" target="_self" title="Augustus K. Yeung" href="https://english.dotdotnews.com/opinion/AugustusKYeung">Augustus K. Yeung</a>
+                            </div>
+                          
+                          
+                            <div class="sub-menu-unit">
+                              <a class="sub-menu-unit-link" target="_self" title="Tom Fowdy" href="https://english.dotdotnews.com/opinion/tomfowdy">Tom Fowdy</a>
+                            </div>
+                          
+                          
+                            <div class="sub-menu-unit">
+                              <a class="sub-menu-unit-link" target="_self" title="Kevin Lau" href="https://english.dotdotnews.com/opinion/KevinLau">Kevin Lau</a>
+                            </div>
+                          
+                          
+                            <div class="sub-menu-unit">
+                              <a class="sub-menu-unit-link" target="_self" title="Edward Hei Leung" href="https://english.dotdotnews.com/opinion/EdwardHeiLeung">Edward Hei Leung</a>
+                            </div>
+                          
+                          
+                            <div class="sub-menu-unit">
+                              <a class="sub-menu-unit-link" target="_self" title="Angelo Giuliano" href="https://english.dotdotnews.com/opinion/AngeloGiuliano">Angelo Giuliano</a>
+                            </div>
+                          
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                      </div>
+                    </div>
+                  
+                
+              
+              
+                
+                  
+                    <div class="head-bottom-inner-unit">
+                      <a class="head-bottom-inner-unit-link" target="_self" href="https://english.dotdotnews.com/deepline" title="Deepline">Deepline</a>
+                      <div class="head-bottom-inner-unit-has-children-line">
+                      </div>
+                    </div>
+                  
+                  
+                
+              
+              
+                
+                  
+                  
+                    <div class="head-bottom-inner-unit-has-children head-bottom-inner-unit 5eb62161e4b0c3dbeefcf821">
+                      <a class="head-bottom-inner-unit-link" target="_self" href="https://english.dotdotnews.com/hknews" title="Hong Kong">Hong Kong</a>
+                      <a class="head-bottom-inner-unit-img-link" target="_self" href="https://english.dotdotnews.com/hknews" title="Hong Kong">
+                        <img class="w-100-percent" src="https://en-static.dotdotnews.com/parts/en/pageHead/down1.png?template=202410151506" title="Hong Kong" alt="Hong Kong">
+                      </a>
+                      <div class="head-bottom-inner-unit-has-children-line">
+                      </div>
+                      <div class="sub-menu">
+                        
+                          
+                            <div class="sub-menu-unit">
+                              <a class="sub-menu-unit-link" target="_self" title="LegCo Election 2025" href="https://english.dotdotnews.com/hknews/legcoelection2025">LegCo Election 2025</a>
+                            </div>
+                          
+                          
+                            <div class="sub-menu-unit">
+                              <a class="sub-menu-unit-link" target="_self" title="HK &amp; WWII" href="https://english.dotdotnews.com/hknews/HKWWII">HK &amp; WWII</a>
+                            </div>
+                          
+                          
+                            <div class="sub-menu-unit">
+                              <a class="sub-menu-unit-link" target="_self" title="HKSAR 25th Anniversary" href="https://english.dotdotnews.com/hknews/HKSAR25thAnniversary">HKSAR 25th Anniversary</a>
+                            </div>
+                          
+                        
+                        
+                        
+                        
+                      </div>
+                    </div>
+                  
+                
+              
+              
+                
+                  
+                  
+                    <div class="head-bottom-inner-unit-has-children head-bottom-inner-unit 5eb62174e4b0c3dbeefcf822">
+                      <a class="head-bottom-inner-unit-link" target="_self" href="https://english.dotdotnews.com/china" title="China">China</a>
+                      <a class="head-bottom-inner-unit-img-link" target="_self" href="https://english.dotdotnews.com/china" title="China">
+                        <img class="w-100-percent" src="https://en-static.dotdotnews.com/parts/en/pageHead/down1.png?template=202410151506" title="China" alt="China">
+                      </a>
+                      <div class="head-bottom-inner-unit-has-children-line">
+                      </div>
+                      <div class="sub-menu">
+                        
+                          
+                            <div class="sub-menu-unit">
+                              <a class="sub-menu-unit-link" target="_self" title="CHINESE STORIES" href="https://english.dotdotnews.com/china/CHINESE_STORIES">CHINESE STORIES</a>
+                            </div>
+                          
+                          
+                            <div class="sub-menu-unit">
+                              <a class="sub-menu-unit-link" target="_self" title="BRI &amp; HK" href="https://english.dotdotnews.com/china/BRI_HK">BRI &amp; HK</a>
+                            </div>
+                          
+                          
+                            <div class="sub-menu-unit">
+                              <a class="sub-menu-unit-link" target="_self" title="China’s Extraordinary 10 Years" href="https://english.dotdotnews.com/china/Chinas10Years">China’s Extraordinary 10 Years</a>
+                            </div>
+                          
+                          
+                            <div class="sub-menu-unit">
+                              <a class="sub-menu-unit-link" target="_self" title="Macao SAR 25th Anniversary" href="https://english.dotdotnews.com/china/MacaoSAR25th">Macao SAR 25th Anniversary</a>
+                            </div>
+                          
+                        
+                        
+                        
+                        
+                        
+                      </div>
+                    </div>
+                  
+                
+              
+              
+                
+                  
+                  
+                    <div class="head-bottom-inner-unit-has-children head-bottom-inner-unit 5eb622dbe4b0c3dbeefcf85f">
+                      <a class="head-bottom-inner-unit-link" target="_self" href="https://english.dotdotnews.com/world" title="World">World</a>
+                      <a class="head-bottom-inner-unit-img-link" target="_self" href="https://english.dotdotnews.com/world" title="World">
+                        <img class="w-100-percent" src="https://en-static.dotdotnews.com/parts/en/pageHead/down1.png?template=202410151506" title="World" alt="World">
+                      </a>
+                      <div class="head-bottom-inner-unit-has-children-line">
+                      </div>
+                      <div class="sub-menu">
+                        
+                          
+                            <div class="sub-menu-unit">
+                              <a class="sub-menu-unit-link" target="_self" title="Freeze Peach" href="https://english.dotdotnews.com/world/FreezePeach">Freeze Peach</a>
+                            </div>
+                          
+                          
+                            <div class="sub-menu-unit">
+                              <a class="sub-menu-unit-link" target="_self" title=" Frontline Correspondent" href="https://english.dotdotnews.com/world/frontline"> Frontline Correspondent</a>
+                            </div>
+                          
+                        
+                        
+                        
+                      </div>
+                    </div>
+                  
+                
+              
+              
+                
+                  
+                    <div class="head-bottom-inner-unit">
+                      <a class="head-bottom-inner-unit-link" target="_self" href="https://english.dotdotnews.com/business" title="Business">Business</a>
+                      <div class="head-bottom-inner-unit-has-children-line">
+                      </div>
+                    </div>
+                  
+                  
+                
+              
+              
+                
+                  
+                  
+                    <div class="head-bottom-inner-unit-has-children head-bottom-inner-unit 5eb62244e4b0c3dbeefcf84a">
+                      <a class="head-bottom-inner-unit-link" target="_self" href="https://english.dotdotnews.com/celt" title="Lifestyle">Lifestyle</a>
+                      <a class="head-bottom-inner-unit-img-link" target="_self" href="https://english.dotdotnews.com/celt" title="Lifestyle">
+                        <img class="w-100-percent" src="https://en-static.dotdotnews.com/parts/en/pageHead/down1.png?template=202410151506" title="Lifestyle" alt="Lifestyle">
+                      </a>
+                      <div class="head-bottom-inner-unit-has-children-line">
+                      </div>
+                      <div class="sub-menu">
+                        
+                          
+                            <div class="sub-menu-unit">
+                              <a class="sub-menu-unit-link" target="_self" title="Serendipity" href="https://english.dotdotnews.com/celt/serendipity">Serendipity</a>
+                            </div>
+                          
+                          
+                            <div class="sub-menu-unit">
+                              <a class="sub-menu-unit-link" target="_self" title="A Thousand Hamlets" href="https://english.dotdotnews.com/celt/athousandhamlets">A Thousand Hamlets</a>
+                            </div>
+                          
+                        
+                        
+                        
+                      </div>
+                    </div>
+                  
+                
+              
+              
+                
+                  
+                    <div class="head-bottom-inner-unit">
+                      <a class="head-bottom-inner-unit-link" target="_self" href="https://english.dotdotnews.com/scitech" title="Sci-Tech">Sci-Tech</a>
+                      <div class="head-bottom-inner-unit-has-children-line">
+                      </div>
+                    </div>
+                  
+                  
+                
+              
+              
+                
+                  
+                  
+                    <div class="head-bottom-inner-unit-has-children head-bottom-inner-unit 5eb62198e4b0c3dbeefcf835">
+                      <a class="head-bottom-inner-unit-link" target="_self" href="https://english.dotdotnews.com/others" title="More">More</a>
+                      <a class="head-bottom-inner-unit-img-link" target="_self" href="https://english.dotdotnews.com/others" title="More">
+                        <img class="w-100-percent" src="https://en-static.dotdotnews.com/parts/en/pageHead/down1.png?template=202410151506" title="More" alt="More">
+                      </a>
+                      <div class="head-bottom-inner-unit-has-children-line">
+                      </div>
+                      <div class="sub-menu">
+                        
+                          
+                            <div class="sub-menu-unit">
+                              <a class="sub-menu-unit-link" target="_self" title="Latest" href="https://english.dotdotnews.com/others/latest">Latest</a>
+                            </div>
+                          
+                          
+                            <div class="sub-menu-unit">
+                              <a class="sub-menu-unit-link" target="_self" title="Dot Dot Pic" href="https://english.dotdotnews.com/others/DotDotPic">Dot Dot Pic</a>
+                            </div>
+                          
+                          
+                            <div class="sub-menu-unit">
+                              <a class="sub-menu-unit-link" target="_self" title="Editors' Pick" href="https://english.dotdotnews.com/others/editorspick">Editors' Pick</a>
+                            </div>
+                          
+                        
+                        
+                        
+                        
+                      </div>
+                    </div>
+                  
+                
+              
+              
+              
+              
+            
+          </div>
+        </div>
+      </div>
+    
+        
+      
+      <link rel="stylesheet" href="/static/englishdotdotnews/parts/en/pageHead/headBottom/index.css?template=202502111349">
+      <div class="head-bottom head-bottom-fixed">
+        <div class="main-box">
+          <div class="head-bottom-inner">
+            <div class="head-bottom-inner-unit">
+              <a class="head-bottom-inner-unit-link" target="_self" href="https://english.dotdotnews.com" title="點新聞-dotdotnews">Home</a>
+              <div class="head-bottom-inner-unit-has-children-line">
+              </div>
+            </div>
+            
+              
+              
+                
+                  
+                  
+                    <div class="head-bottom-inner-unit-has-children head-bottom-inner-unit 5eb621eae4b0c3dbeefcf836">
+                      <a class="head-bottom-inner-unit-link" target="_self" href="https://english.dotdotnews.com/envideo" title="Video">Video</a>
+                      <a class="head-bottom-inner-unit-img-link" target="_self" href="https://english.dotdotnews.com/envideo" title="Video">
+                        <img class="w-100-percent" src="https://en-static.dotdotnews.com/parts/en/pageHead/down1.png?template=202410151506" title="Video" alt="Video">
+                      </a>
+                      <div class="head-bottom-inner-unit-has-children-line">
+                      </div>
+                      <div class="sub-menu">
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                          
+                            <div class="sub-menu-unit sub-menu-unit-envideo">
+                              <a class="sub-menu-unit-link" target="_self" title="I Live in HK" href="https://english.dotdotnews.com/envideo/ILiveinHK">I Live in HK</a>
+                              
+                            </div>
+                          
+                          
+                            <div class="sub-menu-unit sub-menu-unit-envideo">
+                              <a class="sub-menu-unit-link" target="_self" title="Connecting Dots" href="https://english.dotdotnews.com/envideo/Connectingdots">Connecting Dots</a>
+                              
+                            </div>
+                          
+                          
+                            <div class="sub-menu-unit sub-menu-unit-envideo">
+                              <a class="sub-menu-unit-link" target="_self" title="Connie Talk" href="https://english.dotdotnews.com/envideo/connieTalk">Connie Talk</a>
+                              
+                            </div>
+                          
+                          
+                            <div class="sub-menu-unit sub-menu-unit-envideo">
+                              <a class="sub-menu-unit-link" target="_self" title="Be My Guest" href="https://english.dotdotnews.com/envideo/bemyguest">Be My Guest</a>
+                              
+                            </div>
+                          
+                          
+                            <div class="sub-menu-unit sub-menu-unit-envideo">
+                              <a class="sub-menu-unit-link" target="_self" title="C'est la Chine" href="https://english.dotdotnews.com/envideo/CestlaChine">C'est la Chine</a>
+                              
+                            </div>
+                          
+                          
+                            <div class="sub-menu-unit sub-menu-unit-envideo">
+                              <a class="sub-menu-unit-link" target="_self" title="Not An Outsider " href="https://english.dotdotnews.com/envideo/notanoutsider">Not An Outsider </a>
+                              
+                            </div>
+                          
+                          
+                            <div class="sub-menu-unit sub-menu-unit-envideo">
+                              <a class="sub-menu-unit-link" target="_self" title="Henry's Take" href="https://english.dotdotnews.com/envideo/henrystake">Henry's Take</a>
+                              
+                            </div>
+                          
+                          
+                            <div class="sub-menu-unit sub-menu-unit-envideo">
+                              <a class="sub-menu-unit-link" target="_self" title="1-minute News" href="https://english.dotdotnews.com/envideo/minuteNews">1-minute News</a>
+                              
+                            </div>
+                          
+                          
+                            <div class="sub-menu-unit sub-menu-unit-envideo">
+                              <a class="sub-menu-unit-link" target="_self" title="OMG" href="https://english.dotdotnews.com/envideo/omg">OMG</a>
+                              
+                            </div>
+                          
+                          
+                            <div class="sub-menu-unit sub-menu-unit-envideo">
+                              <a class="sub-menu-unit-link" target="_self" title="More" href="https://english.dotdotnews.com/envideo/more">More</a>
+                              <div class="sub-menu sub-menu-li-menu">
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                  <div class="sub-menu-unit">
+                                    <a class="sub-menu-unit-link" target="_self" title="Cuteness Overload" href="https://english.dotdotnews.com/envideo/cutenessoverload">Cuteness Overload</a>
+                                  </div>
+                                
+                                
+                                  <div class="sub-menu-unit">
+                                    <a class="sub-menu-unit-link" target="_self" title="Exclusive" href="https://english.dotdotnews.com/envideo/Exclusive">Exclusive</a>
+                                  </div>
+                                
+                                
+                                  <div class="sub-menu-unit">
+                                    <a class="sub-menu-unit-link" target="_self" title="EyE on U" href="https://english.dotdotnews.com/envideo/eyeonu">EyE on U</a>
+                                  </div>
+                                
+                                
+                                  <div class="sub-menu-unit">
+                                    <a class="sub-menu-unit-link" target="_self" title="DotDotWeekly" href="https://english.dotdotnews.com/envideo/DotDotWeekly">DotDotWeekly</a>
+                                  </div>
+                                
+                                
+                                  <div class="sub-menu-unit">
+                                    <a class="sub-menu-unit-link" target="_self" title="100 Ways To Live" href="https://english.dotdotnews.com/envideo/ways100tolive">100 Ways To Live</a>
+                                  </div>
+                                
+                                
+                                  <div class="sub-menu-unit">
+                                    <a class="sub-menu-unit-link" target="_self" title="100 Ways To Drool" href="https://english.dotdotnews.com/envideo/ways100todrool">100 Ways To Drool</a>
+                                  </div>
+                                
+                              </div>
+                            </div>
+                          
+                          
+                          
+                          
+                          
+                          
+                          
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                      </div>
+                    </div>
+                  
+                
+              
+              
+                
+                  
+                  
+                    <div class="head-bottom-inner-unit-has-children head-bottom-inner-unit 5eb62213e4b0c3dbeefcf837">
+                      <a class="head-bottom-inner-unit-link" target="_self" href="https://english.dotdotnews.com/opinion" title="Opinion">Opinion</a>
+                      <a class="head-bottom-inner-unit-img-link" target="_self" href="https://english.dotdotnews.com/opinion" title="Opinion">
+                        <img class="w-100-percent" src="https://en-static.dotdotnews.com/parts/en/pageHead/down1.png?template=202410151506" title="Opinion" alt="Opinion">
+                      </a>
+                      <div class="head-bottom-inner-unit-has-children-line">
+                      </div>
+                      <div class="sub-menu">
+                        
+                          
+                            <div class="sub-menu-unit">
+                              <a class="sub-menu-unit-link" target="_self" title="Young Voices" href="https://english.dotdotnews.com/opinion/YoungVoices">Young Voices</a>
+                            </div>
+                          
+                          
+                            <div class="sub-menu-unit">
+                              <a class="sub-menu-unit-link" target="_self" title="Philip Yeung" href="https://english.dotdotnews.com/opinion/PhilipYeung">Philip Yeung</a>
+                            </div>
+                          
+                          
+                            <div class="sub-menu-unit">
+                              <a class="sub-menu-unit-link" target="_self" title="Grenville Cross" href="https://english.dotdotnews.com/opinion/GrenvilleCross">Grenville Cross</a>
+                            </div>
+                          
+                          
+                            <div class="sub-menu-unit">
+                              <a class="sub-menu-unit-link" target="_self" title="Augustus K. Yeung" href="https://english.dotdotnews.com/opinion/AugustusKYeung">Augustus K. Yeung</a>
+                            </div>
+                          
+                          
+                            <div class="sub-menu-unit">
+                              <a class="sub-menu-unit-link" target="_self" title="Tom Fowdy" href="https://english.dotdotnews.com/opinion/tomfowdy">Tom Fowdy</a>
+                            </div>
+                          
+                          
+                            <div class="sub-menu-unit">
+                              <a class="sub-menu-unit-link" target="_self" title="Kevin Lau" href="https://english.dotdotnews.com/opinion/KevinLau">Kevin Lau</a>
+                            </div>
+                          
+                          
+                            <div class="sub-menu-unit">
+                              <a class="sub-menu-unit-link" target="_self" title="Edward Hei Leung" href="https://english.dotdotnews.com/opinion/EdwardHeiLeung">Edward Hei Leung</a>
+                            </div>
+                          
+                          
+                            <div class="sub-menu-unit">
+                              <a class="sub-menu-unit-link" target="_self" title="Angelo Giuliano" href="https://english.dotdotnews.com/opinion/AngeloGiuliano">Angelo Giuliano</a>
+                            </div>
+                          
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                      </div>
+                    </div>
+                  
+                
+              
+              
+                
+                  
+                    <div class="head-bottom-inner-unit">
+                      <a class="head-bottom-inner-unit-link" target="_self" href="https://english.dotdotnews.com/deepline" title="Deepline">Deepline</a>
+                      <div class="head-bottom-inner-unit-has-children-line">
+                      </div>
+                    </div>
+                  
+                  
+                
+              
+              
+                
+                  
+                  
+                    <div class="head-bottom-inner-unit-has-children head-bottom-inner-unit 5eb62161e4b0c3dbeefcf821">
+                      <a class="head-bottom-inner-unit-link" target="_self" href="https://english.dotdotnews.com/hknews" title="Hong Kong">Hong Kong</a>
+                      <a class="head-bottom-inner-unit-img-link" target="_self" href="https://english.dotdotnews.com/hknews" title="Hong Kong">
+                        <img class="w-100-percent" src="https://en-static.dotdotnews.com/parts/en/pageHead/down1.png?template=202410151506" title="Hong Kong" alt="Hong Kong">
+                      </a>
+                      <div class="head-bottom-inner-unit-has-children-line">
+                      </div>
+                      <div class="sub-menu">
+                        
+                          
+                            <div class="sub-menu-unit">
+                              <a class="sub-menu-unit-link" target="_self" title="LegCo Election 2025" href="https://english.dotdotnews.com/hknews/legcoelection2025">LegCo Election 2025</a>
+                            </div>
+                          
+                          
+                            <div class="sub-menu-unit">
+                              <a class="sub-menu-unit-link" target="_self" title="HK &amp; WWII" href="https://english.dotdotnews.com/hknews/HKWWII">HK &amp; WWII</a>
+                            </div>
+                          
+                          
+                            <div class="sub-menu-unit">
+                              <a class="sub-menu-unit-link" target="_self" title="HKSAR 25th Anniversary" href="https://english.dotdotnews.com/hknews/HKSAR25thAnniversary">HKSAR 25th Anniversary</a>
+                            </div>
+                          
+                        
+                        
+                        
+                        
+                      </div>
+                    </div>
+                  
+                
+              
+              
+                
+                  
+                  
+                    <div class="head-bottom-inner-unit-has-children head-bottom-inner-unit 5eb62174e4b0c3dbeefcf822">
+                      <a class="head-bottom-inner-unit-link" target="_self" href="https://english.dotdotnews.com/china" title="China">China</a>
+                      <a class="head-bottom-inner-unit-img-link" target="_self" href="https://english.dotdotnews.com/china" title="China">
+                        <img class="w-100-percent" src="https://en-static.dotdotnews.com/parts/en/pageHead/down1.png?template=202410151506" title="China" alt="China">
+                      </a>
+                      <div class="head-bottom-inner-unit-has-children-line">
+                      </div>
+                      <div class="sub-menu">
+                        
+                          
+                            <div class="sub-menu-unit">
+                              <a class="sub-menu-unit-link" target="_self" title="CHINESE STORIES" href="https://english.dotdotnews.com/china/CHINESE_STORIES">CHINESE STORIES</a>
+                            </div>
+                          
+                          
+                            <div class="sub-menu-unit">
+                              <a class="sub-menu-unit-link" target="_self" title="BRI &amp; HK" href="https://english.dotdotnews.com/china/BRI_HK">BRI &amp; HK</a>
+                            </div>
+                          
+                          
+                            <div class="sub-menu-unit">
+                              <a class="sub-menu-unit-link" target="_self" title="China’s Extraordinary 10 Years" href="https://english.dotdotnews.com/china/Chinas10Years">China’s Extraordinary 10 Years</a>
+                            </div>
+                          
+                          
+                            <div class="sub-menu-unit">
+                              <a class="sub-menu-unit-link" target="_self" title="Macao SAR 25th Anniversary" href="https://english.dotdotnews.com/china/MacaoSAR25th">Macao SAR 25th Anniversary</a>
+                            </div>
+                          
+                        
+                        
+                        
+                        
+                        
+                      </div>
+                    </div>
+                  
+                
+              
+              
+                
+                  
+                  
+                    <div class="head-bottom-inner-unit-has-children head-bottom-inner-unit 5eb622dbe4b0c3dbeefcf85f">
+                      <a class="head-bottom-inner-unit-link" target="_self" href="https://english.dotdotnews.com/world" title="World">World</a>
+                      <a class="head-bottom-inner-unit-img-link" target="_self" href="https://english.dotdotnews.com/world" title="World">
+                        <img class="w-100-percent" src="https://en-static.dotdotnews.com/parts/en/pageHead/down1.png?template=202410151506" title="World" alt="World">
+                      </a>
+                      <div class="head-bottom-inner-unit-has-children-line">
+                      </div>
+                      <div class="sub-menu">
+                        
+                          
+                            <div class="sub-menu-unit">
+                              <a class="sub-menu-unit-link" target="_self" title="Freeze Peach" href="https://english.dotdotnews.com/world/FreezePeach">Freeze Peach</a>
+                            </div>
+                          
+                          
+                            <div class="sub-menu-unit">
+                              <a class="sub-menu-unit-link" target="_self" title=" Frontline Correspondent" href="https://english.dotdotnews.com/world/frontline"> Frontline Correspondent</a>
+                            </div>
+                          
+                        
+                        
+                        
+                      </div>
+                    </div>
+                  
+                
+              
+              
+                
+                  
+                    <div class="head-bottom-inner-unit">
+                      <a class="head-bottom-inner-unit-link" target="_self" href="https://english.dotdotnews.com/business" title="Business">Business</a>
+                      <div class="head-bottom-inner-unit-has-children-line">
+                      </div>
+                    </div>
+                  
+                  
+                
+              
+              
+                
+                  
+                  
+                    <div class="head-bottom-inner-unit-has-children head-bottom-inner-unit 5eb62244e4b0c3dbeefcf84a">
+                      <a class="head-bottom-inner-unit-link" target="_self" href="https://english.dotdotnews.com/celt" title="Lifestyle">Lifestyle</a>
+                      <a class="head-bottom-inner-unit-img-link" target="_self" href="https://english.dotdotnews.com/celt" title="Lifestyle">
+                        <img class="w-100-percent" src="https://en-static.dotdotnews.com/parts/en/pageHead/down1.png?template=202410151506" title="Lifestyle" alt="Lifestyle">
+                      </a>
+                      <div class="head-bottom-inner-unit-has-children-line">
+                      </div>
+                      <div class="sub-menu">
+                        
+                          
+                            <div class="sub-menu-unit">
+                              <a class="sub-menu-unit-link" target="_self" title="Serendipity" href="https://english.dotdotnews.com/celt/serendipity">Serendipity</a>
+                            </div>
+                          
+                          
+                            <div class="sub-menu-unit">
+                              <a class="sub-menu-unit-link" target="_self" title="A Thousand Hamlets" href="https://english.dotdotnews.com/celt/athousandhamlets">A Thousand Hamlets</a>
+                            </div>
+                          
+                        
+                        
+                        
+                      </div>
+                    </div>
+                  
+                
+              
+              
+                
+                  
+                    <div class="head-bottom-inner-unit">
+                      <a class="head-bottom-inner-unit-link" target="_self" href="https://english.dotdotnews.com/scitech" title="Sci-Tech">Sci-Tech</a>
+                      <div class="head-bottom-inner-unit-has-children-line">
+                      </div>
+                    </div>
+                  
+                  
+                
+              
+              
+                
+                  
+                  
+                    <div class="head-bottom-inner-unit-has-children head-bottom-inner-unit 5eb62198e4b0c3dbeefcf835">
+                      <a class="head-bottom-inner-unit-link" target="_self" href="https://english.dotdotnews.com/others" title="More">More</a>
+                      <a class="head-bottom-inner-unit-img-link" target="_self" href="https://english.dotdotnews.com/others" title="More">
+                        <img class="w-100-percent" src="https://en-static.dotdotnews.com/parts/en/pageHead/down1.png?template=202410151506" title="More" alt="More">
+                      </a>
+                      <div class="head-bottom-inner-unit-has-children-line">
+                      </div>
+                      <div class="sub-menu">
+                        
+                          
+                            <div class="sub-menu-unit">
+                              <a class="sub-menu-unit-link" target="_self" title="Latest" href="https://english.dotdotnews.com/others/latest">Latest</a>
+                            </div>
+                          
+                          
+                            <div class="sub-menu-unit">
+                              <a class="sub-menu-unit-link" target="_self" title="Dot Dot Pic" href="https://english.dotdotnews.com/others/DotDotPic">Dot Dot Pic</a>
+                            </div>
+                          
+                          
+                            <div class="sub-menu-unit">
+                              <a class="sub-menu-unit-link" target="_self" title="Editors' Pick" href="https://english.dotdotnews.com/others/editorspick">Editors' Pick</a>
+                            </div>
+                          
+                        
+                        
+                        
+                        
+                      </div>
+                    </div>
+                  
+                
+              
+              
+              
+              
+            
+          </div>
+        </div>
+      </div>
+    
+        
+      <script src="https://en-static.dotdotnews.com/js/pagination/pagination.min.js"></script>
+      <link rel="stylesheet" href="https://en-static.dotdotnews.com/js/pagination/pagination.min.css">
+      <link rel="stylesheet" href="/static/englishdotdotnews/parts/en/pageHead/navSearch/index.css?template=202502111425">
+      <script type="module" src="/static/englishdotdotnews/parts/en/pageHead/navSearch/index.js?template=202506101707"></script>
+      <div class="nav-search">
+        <div class="main-box">
+          <div class="search-box-top">
+            <img class="search-box-close" src="https://en-static.dotdotnews.com/parts/en/pageHead/close.png" title="close" alt="close">
+            <div class="search-box-top-right">
+              <input class="search-input" id="search-input-id" type="text" placeholder="">
+              <img class="search-input-icon" src="https://en-static.dotdotnews.com/parts/en/pageHead/search_black.png" title="search" alt="search">
+            </div>
+          </div>
+          <div class="search-box-bottom-box">
+        	
+      <div class="search-box-bottom">
+        <div class="search-box-bottom-list">
+          <div class="search-box-bottom-unit">
+            <a class="search-box-bottom-unit-column" target="_self" href="https://english.dotdotnews.com" title="點新聞-dotdotnews">Home</a>
+          </div>
+          
+            
+            
+            
+            
+            
+              
+                
+                
+                  <div class="search-box-bottom-unit">
+                    <a class="search-box-bottom-unit-column" target="_self" href="https://english.dotdotnews.com/hknews" title="Hong Kong">Hong Kong</a>
+                    <div class="search-box-bottom-unit-list">
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="LegCo Election 2025" href="https://english.dotdotnews.com/hknews/legcoelection2025">LegCo Election 2025</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="HK &amp; WWII" href="https://english.dotdotnews.com/hknews/HKWWII">HK &amp; WWII</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="HKSAR 25th Anniversary" href="https://english.dotdotnews.com/hknews/HKSAR25thAnniversary">HKSAR 25th Anniversary</a>
+                      
+                    </div>
+                  </div>
+                
+              
+            
+            
+              
+                
+                
+                  <div class="search-box-bottom-unit">
+                    <a class="search-box-bottom-unit-column" target="_self" href="https://english.dotdotnews.com/china" title="China">China</a>
+                    <div class="search-box-bottom-unit-list">
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="CHINESE STORIES" href="https://english.dotdotnews.com/china/CHINESE_STORIES">CHINESE STORIES</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="BRI &amp; HK" href="https://english.dotdotnews.com/china/BRI_HK">BRI &amp; HK</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="China’s Extraordinary 10 Years" href="https://english.dotdotnews.com/china/Chinas10Years">China’s Extraordinary 10 Years</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="Macao SAR 25th Anniversary" href="https://english.dotdotnews.com/china/MacaoSAR25th">Macao SAR 25th Anniversary</a>
+                      
+                    </div>
+                  </div>
+                
+              
+            
+            
+              
+                
+                
+                  <div class="search-box-bottom-unit">
+                    <a class="search-box-bottom-unit-column" target="_self" href="https://english.dotdotnews.com/world" title="World">World</a>
+                    <div class="search-box-bottom-unit-list">
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="Freeze Peach" href="https://english.dotdotnews.com/world/FreezePeach">Freeze Peach</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title=" Frontline Correspondent" href="https://english.dotdotnews.com/world/frontline"> Frontline Correspondent</a>
+                      
+                    </div>
+                  </div>
+                
+              
+            
+            
+            
+            
+            
+            
+            
+            
+          
+        </div>
+        <div class="search-box-bottom-list">
+          
+            
+            
+              
+                
+                
+                  <div class="search-box-bottom-unit">
+                    <a class="search-box-bottom-unit-column" target="_self" href="https://english.dotdotnews.com/envideo" title="Video">Video</a>
+                    <div class="search-box-bottom-unit-list">
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="I Live in HK" href="https://english.dotdotnews.com/envideo/ILiveinHK">I Live in HK</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="Connecting Dots" href="https://english.dotdotnews.com/envideo/Connectingdots">Connecting Dots</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="Connie Talk" href="https://english.dotdotnews.com/envideo/connieTalk">Connie Talk</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="Be My Guest" href="https://english.dotdotnews.com/envideo/bemyguest">Be My Guest</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="C'est la Chine" href="https://english.dotdotnews.com/envideo/CestlaChine">C'est la Chine</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="Not An Outsider " href="https://english.dotdotnews.com/envideo/notanoutsider">Not An Outsider </a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="Henry's Take" href="https://english.dotdotnews.com/envideo/henrystake">Henry's Take</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="1-minute News" href="https://english.dotdotnews.com/envideo/minuteNews">1-minute News</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="OMG" href="https://english.dotdotnews.com/envideo/omg">OMG</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="More" href="https://english.dotdotnews.com/envideo/more">More</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="Cuteness Overload" href="https://english.dotdotnews.com/envideo/cutenessoverload">Cuteness Overload</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="Exclusive" href="https://english.dotdotnews.com/envideo/Exclusive">Exclusive</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="EyE on U" href="https://english.dotdotnews.com/envideo/eyeonu">EyE on U</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="DotDotWeekly" href="https://english.dotdotnews.com/envideo/DotDotWeekly">DotDotWeekly</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="100 Ways To Live" href="https://english.dotdotnews.com/envideo/ways100tolive">100 Ways To Live</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="100 Ways To Drool" href="https://english.dotdotnews.com/envideo/ways100todrool">100 Ways To Drool</a>
+                      
+                    </div>
+                  </div>
+                
+              
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+          
+        </div>
+        <div class="search-box-bottom-list">
+          
+            
+            
+            
+              
+                
+                
+                  <div class="search-box-bottom-unit">
+                    <a class="search-box-bottom-unit-column" target="_self" href="https://english.dotdotnews.com/opinion" title="Opinion">Opinion</a>
+                    <div class="search-box-bottom-unit-list">
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="Young Voices" href="https://english.dotdotnews.com/opinion/YoungVoices">Young Voices</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="Philip Yeung" href="https://english.dotdotnews.com/opinion/PhilipYeung">Philip Yeung</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="Grenville Cross" href="https://english.dotdotnews.com/opinion/GrenvilleCross">Grenville Cross</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="Augustus K. Yeung" href="https://english.dotdotnews.com/opinion/AugustusKYeung">Augustus K. Yeung</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="Tom Fowdy" href="https://english.dotdotnews.com/opinion/tomfowdy">Tom Fowdy</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="Kevin Lau" href="https://english.dotdotnews.com/opinion/KevinLau">Kevin Lau</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="Edward Hei Leung" href="https://english.dotdotnews.com/opinion/EdwardHeiLeung">Edward Hei Leung</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="Angelo Giuliano" href="https://english.dotdotnews.com/opinion/AngeloGiuliano">Angelo Giuliano</a>
+                      
+                    </div>
+                  </div>
+                
+              
+            
+            
+            
+            
+            
+            
+              
+                
+                  <div class="search-box-bottom-unit">
+                    <a class="search-box-bottom-unit-column" target="_self" href="https://english.dotdotnews.com/business" title="Business">Business</a>
+                  </div>
+                
+                
+              
+            
+            
+              
+                
+                
+                  <div class="search-box-bottom-unit">
+                    <a class="search-box-bottom-unit-column" target="_self" href="https://english.dotdotnews.com/celt" title="Lifestyle">Lifestyle</a>
+                    <div class="search-box-bottom-unit-list">
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="Serendipity" href="https://english.dotdotnews.com/celt/serendipity">Serendipity</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="A Thousand Hamlets" href="https://english.dotdotnews.com/celt/athousandhamlets">A Thousand Hamlets</a>
+                      
+                    </div>
+                  </div>
+                
+              
+            
+            
+              
+                
+                  <div class="search-box-bottom-unit">
+                    <a class="search-box-bottom-unit-column" target="_self" href="https://english.dotdotnews.com/scitech" title="Sci-Tech">Sci-Tech</a>
+                  </div>
+                
+                
+              
+            
+            
+            
+            
+            
+          
+        </div>
+        <div class="search-box-bottom-list">
+          
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+              
+                
+                
+                  <div class="search-box-bottom-unit">
+                    <a class="search-box-bottom-unit-column" target="_self" href="https://english.dotdotnews.com/others" title="More">More</a>
+                    <div class="search-box-bottom-unit-list">
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="Latest" href="https://english.dotdotnews.com/others/latest">Latest</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="Dot Dot Pic" href="https://english.dotdotnews.com/others/DotDotPic">Dot Dot Pic</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="Editors' Pick" href="https://english.dotdotnews.com/others/editorspick">Editors' Pick</a>
+                      
+                    </div>
+                  </div>
+                
+              
+            
+            
+            
+            
+          
+          <div class="search-box-bottom-unit">
+            <a class="search-box-bottom-unit-column" href="https://www.dotdotnews.com/english_about_us.html" title="About Dotdotnews" target="_self">About Dotdotnews</a>
+          </div>
+        </div>
+      </div>
+      <div class="search-box-bottom search-box-bottom-wap">
+        <div class="search-box-bottom-list">
+          <div class="search-box-bottom-unit">
+            <a class="search-box-bottom-unit-column" target="_self" href="https://english.dotdotnews.com" title="點新聞-dotdotnews">Home</a>
+          </div>
+          
+            
+            
+            
+              
+                
+                
+                  <div class="search-box-bottom-unit">
+                    <a class="search-box-bottom-unit-column" target="_self" href="https://english.dotdotnews.com/opinion" title="Opinion">Opinion</a>
+                    <div class="search-box-bottom-unit-list">
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="Young Voices" href="https://english.dotdotnews.com/opinion/YoungVoices">Young Voices</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="Philip Yeung" href="https://english.dotdotnews.com/opinion/PhilipYeung">Philip Yeung</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="Grenville Cross" href="https://english.dotdotnews.com/opinion/GrenvilleCross">Grenville Cross</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="Augustus K. Yeung" href="https://english.dotdotnews.com/opinion/AugustusKYeung">Augustus K. Yeung</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="Tom Fowdy" href="https://english.dotdotnews.com/opinion/tomfowdy">Tom Fowdy</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="Kevin Lau" href="https://english.dotdotnews.com/opinion/KevinLau">Kevin Lau</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="Edward Hei Leung" href="https://english.dotdotnews.com/opinion/EdwardHeiLeung">Edward Hei Leung</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="Angelo Giuliano" href="https://english.dotdotnews.com/opinion/AngeloGiuliano">Angelo Giuliano</a>
+                      
+                    </div>
+                  </div>
+                
+              
+            
+            
+            
+              
+                
+                
+                  <div class="search-box-bottom-unit">
+                    <a class="search-box-bottom-unit-column" target="_self" href="https://english.dotdotnews.com/hknews" title="Hong Kong">Hong Kong</a>
+                    <div class="search-box-bottom-unit-list">
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="LegCo Election 2025" href="https://english.dotdotnews.com/hknews/legcoelection2025">LegCo Election 2025</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="HK &amp; WWII" href="https://english.dotdotnews.com/hknews/HKWWII">HK &amp; WWII</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="HKSAR 25th Anniversary" href="https://english.dotdotnews.com/hknews/HKSAR25thAnniversary">HKSAR 25th Anniversary</a>
+                      
+                    </div>
+                  </div>
+                
+              
+            
+            
+              
+                
+                
+                  <div class="search-box-bottom-unit">
+                    <a class="search-box-bottom-unit-column" target="_self" href="https://english.dotdotnews.com/china" title="China">China</a>
+                    <div class="search-box-bottom-unit-list">
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="CHINESE STORIES" href="https://english.dotdotnews.com/china/CHINESE_STORIES">CHINESE STORIES</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="BRI &amp; HK" href="https://english.dotdotnews.com/china/BRI_HK">BRI &amp; HK</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="China’s Extraordinary 10 Years" href="https://english.dotdotnews.com/china/Chinas10Years">China’s Extraordinary 10 Years</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="Macao SAR 25th Anniversary" href="https://english.dotdotnews.com/china/MacaoSAR25th">Macao SAR 25th Anniversary</a>
+                      
+                    </div>
+                  </div>
+                
+              
+            
+            
+              
+                
+                
+                  <div class="search-box-bottom-unit">
+                    <a class="search-box-bottom-unit-column" target="_self" href="https://english.dotdotnews.com/world" title="World">World</a>
+                    <div class="search-box-bottom-unit-list">
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="Freeze Peach" href="https://english.dotdotnews.com/world/FreezePeach">Freeze Peach</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title=" Frontline Correspondent" href="https://english.dotdotnews.com/world/frontline"> Frontline Correspondent</a>
+                      
+                    </div>
+                  </div>
+                
+              
+            
+            
+              
+                
+                  <div class="search-box-bottom-unit">
+                    <a class="search-box-bottom-unit-column" target="_self" href="https://english.dotdotnews.com/business" title="Business">Business</a>
+                  </div>
+                
+                
+              
+            
+            
+              
+                
+                
+                  <div class="search-box-bottom-unit">
+                    <a class="search-box-bottom-unit-column" target="_self" href="https://english.dotdotnews.com/celt" title="Lifestyle">Lifestyle</a>
+                    <div class="search-box-bottom-unit-list">
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="Serendipity" href="https://english.dotdotnews.com/celt/serendipity">Serendipity</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="A Thousand Hamlets" href="https://english.dotdotnews.com/celt/athousandhamlets">A Thousand Hamlets</a>
+                      
+                    </div>
+                  </div>
+                
+              
+            
+            
+              
+                
+                  <div class="search-box-bottom-unit">
+                    <a class="search-box-bottom-unit-column" target="_self" href="https://english.dotdotnews.com/scitech" title="Sci-Tech">Sci-Tech</a>
+                  </div>
+                
+                
+              
+            
+            
+            
+            
+            
+          
+        </div>
+        <div class="search-box-bottom-list">
+          
+            
+            
+              
+                
+                
+                  <div class="search-box-bottom-unit">
+                    <a class="search-box-bottom-unit-column" target="_self" href="https://english.dotdotnews.com/envideo" title="Video">Video</a>
+                    <div class="search-box-bottom-unit-list">
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="I Live in HK" href="https://english.dotdotnews.com/envideo/ILiveinHK">I Live in HK</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="Connecting Dots" href="https://english.dotdotnews.com/envideo/Connectingdots">Connecting Dots</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="Connie Talk" href="https://english.dotdotnews.com/envideo/connieTalk">Connie Talk</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="Be My Guest" href="https://english.dotdotnews.com/envideo/bemyguest">Be My Guest</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="C'est la Chine" href="https://english.dotdotnews.com/envideo/CestlaChine">C'est la Chine</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="Not An Outsider " href="https://english.dotdotnews.com/envideo/notanoutsider">Not An Outsider </a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="Henry's Take" href="https://english.dotdotnews.com/envideo/henrystake">Henry's Take</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="1-minute News" href="https://english.dotdotnews.com/envideo/minuteNews">1-minute News</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="OMG" href="https://english.dotdotnews.com/envideo/omg">OMG</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="More" href="https://english.dotdotnews.com/envideo/more">More</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="Cuteness Overload" href="https://english.dotdotnews.com/envideo/cutenessoverload">Cuteness Overload</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="Exclusive" href="https://english.dotdotnews.com/envideo/Exclusive">Exclusive</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="EyE on U" href="https://english.dotdotnews.com/envideo/eyeonu">EyE on U</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="DotDotWeekly" href="https://english.dotdotnews.com/envideo/DotDotWeekly">DotDotWeekly</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="100 Ways To Live" href="https://english.dotdotnews.com/envideo/ways100tolive">100 Ways To Live</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="100 Ways To Drool" href="https://english.dotdotnews.com/envideo/ways100todrool">100 Ways To Drool</a>
+                      
+                    </div>
+                  </div>
+                
+              
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+              
+                
+                
+                  <div class="search-box-bottom-unit">
+                    <a class="search-box-bottom-unit-column" target="_self" href="https://english.dotdotnews.com/others" title="More">More</a>
+                    <div class="search-box-bottom-unit-list">
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="Latest" href="https://english.dotdotnews.com/others/latest">Latest</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="Dot Dot Pic" href="https://english.dotdotnews.com/others/DotDotPic">Dot Dot Pic</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="Editors' Pick" href="https://english.dotdotnews.com/others/editorspick">Editors' Pick</a>
+                      
+                    </div>
+                  </div>
+                
+              
+            
+            
+            
+            
+          
+          <div class="search-box-bottom-unit">
+            <a class="search-box-bottom-unit-column" href="https://www.dotdotnews.com/english_about_us.html" title="About Dotdotnews" target="_self">About Dotdotnews</a>
+          </div>
+        </div>
+      </div>
+    
+          </div>
+        </div>
+      </div>
+    
+      </header>
+    
+    <main>
+      <div class="page-index content-index">
+      	
+      <link rel="stylesheet" href="/static/englishdotdotnews/parts/en/contentPublicPage/index.css?template=202409261059">
+      <div class="main-box">
+        <div class="content-public-page">
+          <div class="flex-between">
+            <div class="flex-between-left">
+              
+      <script type="text/javascript" charset="utf-8" rel="stylesheet" src="https://en-static.dotdotnews.com/js/qrcode/qrcode.min.js"></script>
+      <link rel="stylesheet" href="/static/englishdotdotnews/parts/en/storyTop/index.css?template=202503270921">
+      <script type="module" src="/static/englishdotdotnews/parts/en/storyTop/index.js?template=202409261053"></script>
+      <div class="story-top">
+        <div class="breadcrumbs">
+          
+            
+              <div class="breadcrumbs-unit">
+                <a class="breadcrumbs-unit-text" href="https://english.dotdotnews.com" title="DotDotNews">DotDotNews</a>
+              </div>
+            
+            
+              <div class="breadcrumbs-unit">
+                <span class="breadcrumbs-unit-left">&nbsp;/&nbsp;</span><a class="breadcrumbs-unit-text" href="https://english.dotdotnews.com/deepline" title="Deepline">Deepline</a>
+              </div>
+            
+          
+        </div>
+        <h1 class="content-title">Deepline | Let us all unite! Over HK$1 bn raised for Tai Po No. 5 fire victims</h1>
+        
+      <div class="story-column-time-box">
+        
+        	<a class="story-column" title="Deepline" href="https://english.dotdotnews.com/deepline">Deepline</a>
+        
+        <div class="story-time">2025.11.28 15:35</div>
+      </div>
+    
+        <div class="head-top-2-right-left">
+          <a class="head-top-2-right-left-unit facebook" title="Share Facebook" onclick="ciCollect('FaceBook')" href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fenglish.dotdotnews.com%2Fa%2F202511%2F28%2FAP69294407e4b0c32d4f60ebe2.html&amp;t=Deepline%20%7C%20Let%20us%20all%20unite!%20Over%20HK%241%20bn%20raised%20for%20Tai%20Po%20No.%205%20fire%20victims&amp;app_id=">
+            <img class="head-top-2-right-left-unit-img" src="https://en-static.dotdotnews.com/common/fb_gray.png?template=202410151506" title="Facebook" alt="Facebook">
+          </a>
+          <a class="head-top-2-right-left-unit x" title="Share X" onclick="ciCollect('Twitter')" href="https://x.com/intent/post?text=Deepline%20%7C%20Let%20us%20all%20unite!%20Over%20HK%241%20bn%20raised%20for%20Tai%20Po%20No.%205%20fire%20victims&amp;url=https://english.dotdotnews.com/a/202511/28/AP69294407e4b0c32d4f60ebe2.html">
+            <img class="head-top-2-right-left-unit-img" src="https://en-static.dotdotnews.com/common/x_gray.png?template=202410151506" title="X" alt="X">
+          </a>
+          <div class="head-top-2-right-left-unit wx">
+            <img class="head-top-2-right-left-unit-img" onclick="ciCollect('微信');showShareBox()" src="https://en-static.dotdotnews.com/common/wx_gray.png?template=202410151506" title="Wechat" alt="Wechat">
+            <div class="share-weixin-box">
+              <div class="share-weixin-header">
+                <span class="share-weixin-header-title">Share to Wechat</span>
+                <img class="share-weixin-header-close" onclick="closeShareBox()" src="https://en-static.dotdotnews.com/parts/en/pageHead/close.png" title="close" alt="close">
+              </div>
+              <div class="share-weixin-qrcode">
+                <img id="qrCodeIco" src="https://en-static.dotdotnews.com/parts/en/pageHead/logo.png?template=202410151506">
+                <div id="weixin-qrcode" title="https://english.dotdotnews.com/a/202511/28/AP69294407e4b0c32d4f60ebe2.html"><canvas width="178" height="178" style="display: none;"></canvas><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALIAAACyCAYAAADmipVoAAALqElEQVR4AeydjXLbOBCD/d37v3PPm8bTmAsqy0hWSBmdsI4g7A+xGI94TnP/3W63P7OtPwN/9vbeK6Xy9rgKV/F7MVUnsJG8wd+zRmqdyQ0j3+v5ywqsrYCNvPb83P2nAjbypxB+WVsBG3nt+bn7TwWkke+HgdtZ67OPH7+M9KmKADfIS3H3Yr1eVV7FhdwnoMK781Nk4IsGf79XvB6men0V1utBGrlHNm4FZlXARp51Mu5rSAEbeUguk2dVwEaedTLua0iBspHh7yEAfvY61NUAGer9qLQjhxIV38NU3hEu5H314hUOOR40NtKrqtXDQNeDGt7Lq/CykVWwsW0FfPc8BWzk87R2pRcqYCO/UFynPk8BG/k8rV3phQrYyC8U16nPU2ApI0M+7e49cUPOCRo7byz7KyldAlOZIe9X8WbGFjHyzBK6txkUsJFnmIJ72K2AjbxbQieYQQEbeYYpuIfdCryVkeOw066egi0vrnvcs/DoobrO6mmWOm9l5FlEdx8HKNCksJEbQXy5pgI28ppzc9eNAjZyI4gv11SgbOTqIaPHO0IelRvO+1QK6rVgH1fttach5FqgMZVXYb1aI7jKO4KN1CobeSSpuVbgbAVs5LMVn6/eJTqykS8xRm/CRrYHLqGAjXyJMXoT0sigT7xwPD4yAsj11Sl4JOdKXMj7B+SvxxrZF+S8e+Mh54T9WK8vaeQe2bgVmFUBG/nIyTjXrylgI/+a9C58pAI28pFqOtevKfCfOiz9NtZTQ/UF+QCheIGpvIGrVeVCrg/7D2DV+tG74vYwyP32uAqPejMuvyOraRlbTgEbebmRuWGlwKxGVr0aswJdBWzkrjS+sZICNvJK03KvXQX+g3yKhYx1MxRvQM4JY1ixVPo/FMFYHdD8av0eD+p5QXMh4716Cq/+FwcVO4pB7hUyNppX8f2OrFQxtpwCNvJyI3vXhrf3bSNv6+O7iyhgIy8yKLe5rcBLjAz1B/rq4SN4aiuBt0vxelgbu3Xdy1HFt3K396o5gwd1vaHOjdxHr3afcQ25J9BYr5+XGLlXzLgVeJUCNvKrlHXeUxWwkU+Ve45iV+zCRr7iVN9wT+WfR+5pA/mhXHHjoV4tqMVHTshcyJiq08Mib3VBrlWNDR7keCBupdXrV+EpeAOoxgO7PyFVtSDnVbzANraRbvkdOUliYEUFbOQVp+aekwI2cpLEwIoK2Mi7pubgWRSwkWeZhPvYpYD8eWSVEfJpE/b/a+E4nbZL1Q+s5fWuQfcaOfasXj2FqzqKFxjofuEZVzkDixztClwteM4JKJr8NVxRQ5EDVwtI/+WjyoMxb/kdWU3G2HIK2MjLjcwNKwVsZKWKseUUmMbIyynnhqdSoGxk9ZAeWHU3kB/8YQxTtSDnULweBjke6NETDqQDDZB4VwYAqUH4o11Kh5bzuAadFzJeNrJqwJgVmEUBG3mWSbiPXQrYyLvkc/AsCtjIs0zCfbQKDF3byENymTyrAvIH61WzkE+KoDEV/ziJVl5VfA9T+XpcyP2q+MB6OfbgkOvD2Eexqj7kvLEHtVT8FTC/I19hit7DzUa2CS6hgI18iTF6EzbyO3jgDfZYNrI6OPQwpRvkAwlobG9eVT8wlRd0D1DDI291qfqBQa4VeLsg80AfFqHOVf1DPb7t83ENOYeqNYI9crevZSOPFDPXCpytgI18tuKu9xIFbOSXyOqkZytgI5+tuOu9RAH5j09h30N6+yAe173u4167INcHeikS3uZ7XCfiHXjcq7zebrd7RO0LSD+j24tUtSHHK15gKm/gaimuwlRsYJD7UvEjGOScMHaI9TvyiOLmTquAjTztaNzYiAI28oha5k6rgI087Wjc2IgCNvKIWuZOq8Dun0eu7ixOvE/rz5+PX8sE+cSqeIFBjVvtaYsH+2pFv+2CnBM0ttVb5R7U84LmQsbbPcV1pZ8tTuRQC2r1I9bvyFsK+94yCtjIy4zKjW4pYCNvqeN7yyhgIy8zKje6pUDZyPFArdZW8q/3ID+4g/4Y8mvc1++r9UHXgox/zf/1e1UL6vGQuSpnD/vay0++7+WFfX1BjgeNqR4gcx/7q7xCjgf8b/Zu/nMJBcrvyJfYrTdxWQVs5MuO9r02ZiO/17wvu1sb+bKjfa+NyR+sVxKAPi0qrsLUCTYwyHlVfGBQ40ZetSJHuyDnBFrax3U15wd54C+g/EP4Ki208f3rarziBaY06GGQ+1DcyKvWCNfvyEpBY8spYCMvNzI3rBSwkZUqxpZTwEZebmRuWClQ/nlkFdzDID/kg8ZGHuh79Voczqul+g+s7Wn0OnK0q5ej5cV1j6vw4LcLtIaQcZVzBIOcE5Ap2j4f135HlnL9A/3dGgrYyGvMyV1+o4CN/I1Avr2GAjbyGnNyl98oID/ZezxAV16/yf/tbaD8qZbq59sCXwhQrwU1LmQe8KXqv2+BtFfgH+Gb74ByvNIqMFUCcl7FCyxytAtyPBD00mrzPa6BtN9eQr8j95QxvpQCJxp5KV3c7GIK2MiLDcztagVsZK2L0cUUsJEXG5jb1QqUjQz5BAnIrI9T509fZdI7CJRPsXd66Wukx1LCH5BUD1DfK2QuaEy1p+or3hEY5L6OyFs28hHFnMMKPClw4IWNfKCYTvV7CtjIv6e9Kx+ogI18oJhO9XsK7DYy5Id3yFhvi5C5oDGVAzJXHV56GOR4QJXajY30oLi9BvZygcMP0dHrSF/B37N2G3lPccdagaMUsJGPUvJ387x9dRv57S1wDQFs5GvM8e13YSO/vQWuIUDZyOoE2sOUNJBPxjD2i75VXtWD4gUGuQcVH1jwKyu4alViH5xqvOIF9sjz09fIUV0jNSDrreIh82DMG2UjqwaMWYFZFLCR20n4ekkFbOQlx+amWwVs5FYRXy+pgDQy5Ifvkd2pg0MvHvbVgnq86gtyPNBrN+FA+ngXSLwtAJA54BnfylG9B885Yf91tXaPp+YSGOTeejmkkXtk41ZgVgVs5Fkn476GFHilkYcaMdkK7FHARt6jnmOnUUD+fuR40G7X3o7bfD+5rvYA+ZAAGqvmfCVPafHKepXcqqdRrFInOKBno+qB5vodOZT0Wl4BG3n5EXoDoYCNHCp4naTA68rYyK/T1plPVMBGPlFsl3qdAvIXfYM+GcI5+N7tqtNuDxupBXn/I/EjXNUv5PqATKviA5PkARBIH6cPhA9RIdeKPajld+QhaU2eVQEbedbJuK8hBWzkIbnmIbuTZwVs5Gc9fLWoAtLI6mH6VdgrdIN8SACNjdRXGvTiR7iQe1N5Vc7AFBdyTkBRh7Co166hBAPktk5c98KlkXtk41ZgVgVs5Fkn476GFLCRh+QyeVYFbOTbrKNxXyMK2Mgjapk7rQJlIwPpo0moY0coEKfWdo3kbWO3rqG2t159qMUDvRQJB+QMEvEObO2tvXenpy/QtaCOp6R3oK29dX2npy/Q9ctGThkNWIGJFLCRJxqGW/m5Ajbyz7Vz5EQKHGrkifblVt5MgUsauXeAAH1QgIz3crR4zy8tb/Qa6j2pHiDHg8ZUbypnYIrbw4LfLsg9tJyt616tSxp5Swjfu6YCNvI15/p2u7KR327k19ywjXzNuc6yq9P6uKSRIR8oAClq7/CgyED6ZE3xAoPMBY0Fv7JAx0PGe/nUfnvcGXHIewVulzTyzX/eTgEb+e1Gfs0N28jXnOvb7cpGfruRX3PDNvIqc3WfmwqUjaxOuyPYZhfFm5BPrCM9KG6x9AdNxR+BQd7XR8HmryNqNSkPuYTcP1DODaT/GgTI+J4GZSPLrAatwCQK2MiTDMJt7FPARt6nn6MnUcBGnmQQbmOfAtLIgHz4huPxfe3fhvq8/f3z9DccvycYy/nU0OeFOtSAzvsZUnoBnQOecVU/MFUk8FcseO4JUOU/MGnkjzv+ywospICNvNCw3GpfARu5r43vLKSAjbzQsNxqXwEbua+N7yykwP8AAAD//37ZoVAAAAAGSURBVAMA3CNZ7CIu3bgAAAAASUVORK5CYII=" style="display: block;"></div>
+              </div>
+              <div class="share-weixin-box-bottom">
+                Scan the QR code to share
+              </div>
+            </div>
+          </div>
+          <a class="head-top-2-right-left-unit weibo" title="Share Weibo" onclick="ciCollect('微博')" href="http://service.weibo.com/share/share.php?url=https://english.dotdotnews.com/a/202511/28/AP69294407e4b0c32d4f60ebe2.html&amp;title=Deepline%20%7C%20Let%20us%20all%20unite!%20Over%20HK%241%20bn%20raised%20for%20Tai%20Po%20No.%205%20fire%20victims&amp;pic=https://dw-media.dotdotnews.com/dams/product/image/202511/28/69294391e4b08c07fcb5bca01.jpg">
+            <img class="head-top-2-right-left-unit-img" src="https://en-static.dotdotnews.com/common/wb_gray.png?template=202410151506" title="Weibo" alt="Weibo">
+          </a>
+        </div>
+        
+      <script type="module" src="/static/englishdotdotnews/parts/en/contentBody/index.js?template=202503261743"></script>
+      <link rel="stylesheet" href="/static/englishdotdotnews/parts/en/contentBody/index.css?template=202503271146">
+      <div class="content-body">
+        <div class="content-body-inner">
+          
+          <figure class="image align-center" style="display:table;"> 
+ <img src="https://dw-media.dotdotnews.com/dams/product/image/202511/28/69294386e4b08c07fcb5bc9a.jpg?x-oss-process=image/resize,w_1200" data-from="dams" data-imgid="69294386a32fc5a41e377c8c" data-dams-storyid="po69294387e4b08c07fcb5bc9c" data-mimetype="image/jpg" data-resourcesrc="/product/image/202511/28/69294386e4b08c07fcb5bc9a.jpg" data-width="1920" data-height="1080" id="img-null"> 
+ <figcaption style="display:table-caption;caption-side:bottom;"></figcaption> 
+</figure> 
+<p>A deadly No. 5 fire at Tai Po's Wang Fuk Court has gripped the hearts of people. Hong Kong enterprises and mainland enterprises in Hong Kong swiftly responded with disaster relief efforts yesterday, donating money, supplies, or manpower. According to incomplete statistics from Wen Wei Po, as of 9 p.m. last night (Nov. 27), total donations from various sectors for the affected residents had already exceeded HK$1 billion.</p> 
+<p>Among them, The Hong Kong Jockey Club announced a donation of approximately HK$170 million. This includes disbursing emergency grants of HK$150,000 to the families of the deceased, HK$100,000 to the seriously injured, and HK$50,000 to those with minor injuries. It also provides subsidies and furniture for relocated families and those moving to transitional housing. The Lee Shau Kee Foundation, Wharf, Jack Ma Foundation, Tencent, HSBC and Hang Seng Bank, China Hongqiao Group, among others, each donated HK$30 million.</p> 
+<p>The total donation amount continued to rise throughout the evening and cannot be fully listed here. Additionally, multiple companies provided free hotel rooms, supplies, and medical assistance, with all sectors uniting to support the affected residents in overcoming this difficult time.</p> 
+<p style="text-align: center;"><strong>Swift action from all sectors</strong></p> 
+<p>The Hong Kong Jockey Club Charities Trust announced yesterday a HK$170 million donation. This includes the emergency grants mentioned above and support for relocation and furniture. Organizations and enterprises such as Tung Wah Group of Hospitals, Bank of China (Hong Kong), Ng Fung Hong, China Mobile Hong Kong,&nbsp;Hong Kong Jewelry Manufacturers' Association (HKJMA), the Hong Kong Federation of Fujian Associations, and the Chaoren Association also donated money and supplies, and provided communication and emotional support, demonstrating the spirit of mutual assistance in Hong Kong society and jointly helping the affected residents.</p> 
+<p>To address the incident, The Hong Kong Jockey Club announced yesterday it would provide HK$100 million in aid through its emergency relief fund to alleviate the urgent needs of the injured and families of the deceased, to be distributed through the Social Welfare Department and NGOs. The Jockey Club emphasized that it will provide further support in the future.</p> 
+<p>The Club also stated it would donate the total proceeds from Sunday's race meeting to assist those affected, estimated at approximately HK$70 million. Combined with the initial HK$100 million donation, the total Jockey Club contribution will be around HK$170 million.</p> 
+<p>The Club will also provide subsidies to operators of transitional housing for furniture purchases, enabling affected families to move in immediately: HK$18,000 for 1-2 person units and HK$20,000 for units for 3 or more people. Beyond emergency grants, the Jockey Club Charities Trust will collaborate closely with relevant government departments and NGOs to assist the next one to three months, including transitional housing, food aid, bereavement and emotional support, educational support, caregiver support, and emergency medicine distribution through community pharmacies under the "Jockey Club PHARM+ Community Medication Service Network."</p> 
+<p style="text-align: center;"><strong>Federation of Fujian Associations raises HK$20.21 million for relief</strong></p> 
+<p>Following the fire, the Hong Kong Federation of Fujian Associations immediately initiated assistance measures and launched a specific fundraising drive. By 9 p.m. last night, they had raised HK$20.21 million. The Federation also actively assessed the situation of fellow Fujianese residents living in Wang Fuk Court and the surrounding area. Through the regional networks of its 273 affiliated societies, it proactively contacted affected fellow townspeople to provide timely assistance. Simultaneously, the Federation opened a support hotline (2566 1818) to fully assist affected citizens.</p> 
+<p>Furthermore, the Fok Ying Tung Foundations in Hong Kong and Macao and the Fok Ying Tung Group announced a joint donation of HK$30 million to support residents, earmarked for emergency relief and post-disaster reconstruction work.</p> 
+<p style="text-align: center;"><strong>Various social welfare organizations donate money and supplies</strong></p> 
+<p>Tung Wah Group of Hospitals also stated yesterday that, following its Board of Directors' swift allocation of HK$3 million the night before, it continued to receive inquiries from various parties wishing to donate cash or supplies. These included a HK$5 million donation from Bank of China (Hong Kong), a HK$500,000 donation from CHAGEE facilitated by Director Paul Mak, a donation of 70 sets of mattresses and pillows from Sea Horse brand by former Director&nbsp;Virginia Yung, and donations from&nbsp;Right Track Culture including the proceeds from the first show of Miriam Yeung's concert and all profits from concert merchandise across six shows.</p> 
+<p>Additionally, the New Territories East Chaoren Association urgently sponsored over 3,000 pieces of thermal underwear. The Hong Kong Sun Power of Teens, together with the Hong Kong Futian Youth Association, organized over 50 volunteers into a "special warmth delivery team" to quickly transport the more than 3,000 pieces of thermal underwear to various community halls.</p> 
+<p><em>(Source: Wen Wei Po; Journalist: Nicolas Lai; English Editor: Darius)</em></p> 
+<p><strong>Related News:</strong></p> 
+<p><a style="color: #0000ff; font-weight: bold;" href="https://english.dotdotnews.com/a/202511/27/AP6927fe42e4b0c32d4f609d57.html" target="_blank" rel="noopener">Deepline | Heart of gold: Tributes pour in for firefighter lost in deadly Tai Po blaze</a></p> 
+<p><a style="color: #0000ff; font-weight: bold;" href="https://english.dotdotnews.com/a/202511/28/AP6929160ee4b0c32d4f60deb7.html" target="_blank" rel="noopener">(Watch This) Wang Fuk Court No. 5 fire | 'I just do what I can do' – Pakistani youth distributes hot milk tea and eggs</a></p>
+          
+        </div>
+        <div class="content-body-keyword">
+          <span class="content-body-keyword-title">Tag:</span><span class="content-body-keyword-unit key_word" onclick="searchKeywords(this)"><span class="content-body-keyword-unit-point">·</span><span class="content-body-keyword-unit-text">Hong Kong enterprises</span></span><span class="content-body-keyword-unit key_word" onclick="searchKeywords(this)"><span class="content-body-keyword-unit-point">·</span><span class="content-body-keyword-unit-text">Jockey Club</span></span><span class="content-body-keyword-unit key_word" onclick="searchKeywords(this)"><span class="content-body-keyword-unit-point">·</span><span class="content-body-keyword-unit-text">disaster relief</span></span><span class="content-body-keyword-unit key_word" onclick="searchKeywords(this)"><span class="content-body-keyword-unit-point">·</span><span class="content-body-keyword-unit-text">support hotline</span></span><span class="content-body-keyword-unit key_word" onclick="searchKeywords(this)"><span class="content-body-keyword-unit-point">·</span><span class="content-body-keyword-unit-text">Tung Wah Group of Hospitals</span></span>
+        </div>
+      </div>
+    
+      </div>
+    
+              
+      <link rel="stylesheet" href="/static/englishdotdotnews/parts/en/commentList/index.css?template=202502121456">
+      <div class="comment-list">
+        <div id="loading-div" style="display:none;">
+          <img src="https://en-static.dotdotnews.com/parts/loading.png" title="Loading" alt="Loading">
+        </div>
+        <div class="post-comments">
+          <h2 class="section-title">
+            
+            <span>Comment</span>
+            <div class="comment-title-line">
+            </div>
+          </h2>
+          <div class="comment-section">
+            <div class="comment-form" id="self-comment">
+              <div class="comment-user-avatar">
+                <img src="https://en-static.dotdotnews.com/dotdotnews-avatar_default.png" onerror="imgerror(this)" title="" alt="">
+              </div>
+              
+                <div class="comment-textarea">
+                  <textarea name="" id="publish-comment" cols="30" rows="10" placeholder="Post comment..." onkeyup="keyUP(this)"></textarea>
+                  <div class="submit-btn">
+                    <input type="button" value="Comments" onclick="publishComment()">
+                  </div>
+                </div>
+              
+            </div>
+            <div class="more-comments">
+              <a class="commentLoadMore" target="_self" data-action="more" title="More">More</a>
+            </div>
+          </div>
+        </div>
+        <input type="hidden" id="userId" value="">
+        <input type="hidden" id="userName" value="">
+        <input type="hidden" id="storyId" value="AP69294407e4b0c32d4f60ebe2">
+        <input type="hidden" id="page" value="0">
+        <input type="hidden" id="totalPage" value="">
+        <input type="hidden" id="nickName" value="">
+        <input type="hidden" id="showSort" value="0"><!--排序字段0时间倒序，1时间正序-->
+        <script type="text/javascript" src="/static/englishdotdotnews/js/util.js"></script>
+        <script type="module" src="/static/englishdotdotnews/parts/en/commentList/index.js"></script>
+      </div>
+    
+              
+      <link rel="stylesheet" href="/static/englishdotdotnews/parts/en/relatedNews/index.css?template=202503171010">
+      <script type="module" src="/static/englishdotdotnews/parts/en/relatedNews/index.js?template=202503131114"></script>
+      <div class="related-news">
+        <div class="related-news-title">
+          <h2 class="related-news-title-left">
+            Related Topics
+          </h2>
+          <div class="related-news-title-right">
+          </div>
+        </div>
+        <div class="related-news-list common-story-list common-story-list-ur">
+        </div>
+      </div>
+    
+            </div>
+            <div class="flex-between-right">
+              
+              	
+      
+      <script type="module" id="trendingJs" adlistcount="0" isfixed="true" src="/static/englishdotdotnews/parts/en/trending/index.js?template=202503131118"></script>
+      <link rel="stylesheet" href="/static/englishdotdotnews/parts/en/trending/index.css?template=202502120939">
+      <div class="trending">
+        <div class="trending-title">
+          <h2 class="trending-title-left">
+            DDN Trending
+          </h2>
+          <div class="trending-title-right">
+          </div>
+        </div>
+        <div class="trending-list">
+          
+        </div>
+      </div>
+      <div class="trending trending-fixed">
+        <div class="trending-title">
+          <h2 class="trending-title-left">
+            DDN Trending
+          </h2>
+          <div class="trending-title-right">
+          </div>
+        </div>
+        <div class="trending-list">
+          
+        </div>
+      </div>
+    
+              
+              
+      
+      <link rel="stylesheet" href="/static/englishdotdotnews/parts/en/adBoxList4/index.css?template=202309081019">
+      
+        
+      
+    
+            </div>
+          </div>
+        </div>
+      </div>
+    
+      </div>
+      
+      <div class="main-box">
+        <div class="searchDiv">
+          <div class="searchSmallDiv">
+            <div class="searchTitle_page">
+              <input type="hidden" name="channelId" value="somenewsen">
+              <input type="hidden" name="searchSort" value="0">
+              <input type="hidden" name="searchMatching" value="0">
+              <input type="hidden" name="thisPageNum" value="0">
+              <input type="hidden" name="keyWordWay" value="0">
+            </div>
+            <div class="searchOther">
+              <div class="goBackLastPage" onclick="goback()">
+                &lt; <span>Go back</span>
+              </div>
+              <div class="searchNumber"></div>
+              <div class="searchCheckBox">
+                <div id="matchingCondition" class="searchCheckChildren" style="position: relative;">
+                  <div style="text-align:center;cursor: pointer;">
+                    <div class="searchSort">
+                      <div id="selectedMatchingCondition">Search Content&nbsp;</div>
+                    </div>
+                    <div class="searchSortImg">
+                      <img src="https://en-static.dotdotnews.com/parts/en/pageHead/down1.png" title="" alt="">
+                    </div>
+                  </div>
+                  <div id="matchingConditionOptions" class="matchingConditionOptions" style="display: none;">
+                    <div class="dl">
+                      <div id="matchingConditionContent" class="searchSelectOrder dt" value="0" text="content" onclick="searchStorySetMatchingCondition(this);">Content</div>
+                      <div id="matchingConditionTitle" class="dt" value="1" text="title" onclick="searchStorySetMatchingCondition(this);">Title</div>
+                      <div id="matchingConditionKeyword" class="dt" value="2" text="keyword" onclick="searchStorySetMatchingCondition(this);">Keyword</div>
+                    </div>
+                  </div>
+                </div>
+                <div id="sortOrder" class="searchCheckChildren" style="position: relative;">
+                  <div style="text-align:center;cursor: pointer;">
+                    <div class="searchSort">
+                      <span id="selectedSortOrder">New to old&nbsp;</span>
+                    </div>
+                    <div class="searchSortImg">
+                      <img src="https://en-static.dotdotnews.com/parts/en/pageHead/down1.png?template=202410151506" title="" alt=""></div>
+                  </div>
+                  <div id="sortOrderOptions" class="sortOrderOptions" style="display: none;">
+                    <div class="dl">
+                      <div id="sortOrderDesc" class="searchSelectOrder dt" value="0" text="New to old" onclick="searchStorySetSortOrder(this);">New to old</div>
+                      <div class="dt" id="sortOrderAsc" value="1" text="Old to new" onclick="searchStorySetSortOrder(this);">Old to new</div>
+                      <div class="dt" id="sortOrderRelevant" value="2" text="relativity" onclick="searchStorySetSortOrder(this);">Relativity</div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div id="searchResult" class="searchContent common-story-list common-story-list-ur"></div>
+            <div class="search-pagination">
+            </div>
+            <div class="search-empty">
+              <div class="search-empty-text">
+                No Result found
+              </div>
+              <div class="search-empty-tip">
+                No more
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+    
+      <div class="page-hr"></div>
+      
+      <link rel="stylesheet" href="/static/englishdotdotnews/parts/en/siteMap/index.css?template=202502120950">
+      <script type="module" src="/static/englishdotdotnews/parts/en/siteMap/index.js?template=202502071327"></script>
+      <div class="site-map">
+        <div class="main-box">
+          <div class="site-map-title">
+            Site Map
+          </div>
+          
+      <div class="search-box-bottom">
+        <div class="search-box-bottom-list">
+          <div class="search-box-bottom-unit">
+            <a class="search-box-bottom-unit-column" target="_self" href="https://english.dotdotnews.com" title="點新聞-dotdotnews">Home</a>
+          </div>
+          
+            
+            
+            
+            
+            
+              
+                
+                
+                  <div class="search-box-bottom-unit">
+                    <a class="search-box-bottom-unit-column" target="_self" href="https://english.dotdotnews.com/hknews" title="Hong Kong">Hong Kong</a>
+                    <div class="search-box-bottom-unit-list">
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="LegCo Election 2025" href="https://english.dotdotnews.com/hknews/legcoelection2025">LegCo Election 2025</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="HK &amp; WWII" href="https://english.dotdotnews.com/hknews/HKWWII">HK &amp; WWII</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="HKSAR 25th Anniversary" href="https://english.dotdotnews.com/hknews/HKSAR25thAnniversary">HKSAR 25th Anniversary</a>
+                      
+                    </div>
+                  </div>
+                
+              
+            
+            
+              
+                
+                
+                  <div class="search-box-bottom-unit">
+                    <a class="search-box-bottom-unit-column" target="_self" href="https://english.dotdotnews.com/china" title="China">China</a>
+                    <div class="search-box-bottom-unit-list">
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="CHINESE STORIES" href="https://english.dotdotnews.com/china/CHINESE_STORIES">CHINESE STORIES</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="BRI &amp; HK" href="https://english.dotdotnews.com/china/BRI_HK">BRI &amp; HK</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="China’s Extraordinary 10 Years" href="https://english.dotdotnews.com/china/Chinas10Years">China’s Extraordinary 10 Years</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="Macao SAR 25th Anniversary" href="https://english.dotdotnews.com/china/MacaoSAR25th">Macao SAR 25th Anniversary</a>
+                      
+                    </div>
+                  </div>
+                
+              
+            
+            
+              
+                
+                
+                  <div class="search-box-bottom-unit">
+                    <a class="search-box-bottom-unit-column" target="_self" href="https://english.dotdotnews.com/world" title="World">World</a>
+                    <div class="search-box-bottom-unit-list">
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="Freeze Peach" href="https://english.dotdotnews.com/world/FreezePeach">Freeze Peach</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title=" Frontline Correspondent" href="https://english.dotdotnews.com/world/frontline"> Frontline Correspondent</a>
+                      
+                    </div>
+                  </div>
+                
+              
+            
+            
+            
+            
+            
+            
+            
+            
+          
+        </div>
+        <div class="search-box-bottom-list">
+          
+            
+            
+              
+                
+                
+                  <div class="search-box-bottom-unit">
+                    <a class="search-box-bottom-unit-column" target="_self" href="https://english.dotdotnews.com/envideo" title="Video">Video</a>
+                    <div class="search-box-bottom-unit-list">
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="I Live in HK" href="https://english.dotdotnews.com/envideo/ILiveinHK">I Live in HK</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="Connecting Dots" href="https://english.dotdotnews.com/envideo/Connectingdots">Connecting Dots</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="Connie Talk" href="https://english.dotdotnews.com/envideo/connieTalk">Connie Talk</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="Be My Guest" href="https://english.dotdotnews.com/envideo/bemyguest">Be My Guest</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="C'est la Chine" href="https://english.dotdotnews.com/envideo/CestlaChine">C'est la Chine</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="Not An Outsider " href="https://english.dotdotnews.com/envideo/notanoutsider">Not An Outsider </a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="Henry's Take" href="https://english.dotdotnews.com/envideo/henrystake">Henry's Take</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="1-minute News" href="https://english.dotdotnews.com/envideo/minuteNews">1-minute News</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="OMG" href="https://english.dotdotnews.com/envideo/omg">OMG</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="More" href="https://english.dotdotnews.com/envideo/more">More</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="Cuteness Overload" href="https://english.dotdotnews.com/envideo/cutenessoverload">Cuteness Overload</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="Exclusive" href="https://english.dotdotnews.com/envideo/Exclusive">Exclusive</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="EyE on U" href="https://english.dotdotnews.com/envideo/eyeonu">EyE on U</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="DotDotWeekly" href="https://english.dotdotnews.com/envideo/DotDotWeekly">DotDotWeekly</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="100 Ways To Live" href="https://english.dotdotnews.com/envideo/ways100tolive">100 Ways To Live</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="100 Ways To Drool" href="https://english.dotdotnews.com/envideo/ways100todrool">100 Ways To Drool</a>
+                      
+                    </div>
+                  </div>
+                
+              
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+          
+        </div>
+        <div class="search-box-bottom-list">
+          
+            
+            
+            
+              
+                
+                
+                  <div class="search-box-bottom-unit">
+                    <a class="search-box-bottom-unit-column" target="_self" href="https://english.dotdotnews.com/opinion" title="Opinion">Opinion</a>
+                    <div class="search-box-bottom-unit-list">
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="Young Voices" href="https://english.dotdotnews.com/opinion/YoungVoices">Young Voices</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="Philip Yeung" href="https://english.dotdotnews.com/opinion/PhilipYeung">Philip Yeung</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="Grenville Cross" href="https://english.dotdotnews.com/opinion/GrenvilleCross">Grenville Cross</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="Augustus K. Yeung" href="https://english.dotdotnews.com/opinion/AugustusKYeung">Augustus K. Yeung</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="Tom Fowdy" href="https://english.dotdotnews.com/opinion/tomfowdy">Tom Fowdy</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="Kevin Lau" href="https://english.dotdotnews.com/opinion/KevinLau">Kevin Lau</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="Edward Hei Leung" href="https://english.dotdotnews.com/opinion/EdwardHeiLeung">Edward Hei Leung</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="Angelo Giuliano" href="https://english.dotdotnews.com/opinion/AngeloGiuliano">Angelo Giuliano</a>
+                      
+                    </div>
+                  </div>
+                
+              
+            
+            
+            
+            
+            
+            
+              
+                
+                  <div class="search-box-bottom-unit">
+                    <a class="search-box-bottom-unit-column" target="_self" href="https://english.dotdotnews.com/business" title="Business">Business</a>
+                  </div>
+                
+                
+              
+            
+            
+              
+                
+                
+                  <div class="search-box-bottom-unit">
+                    <a class="search-box-bottom-unit-column" target="_self" href="https://english.dotdotnews.com/celt" title="Lifestyle">Lifestyle</a>
+                    <div class="search-box-bottom-unit-list">
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="Serendipity" href="https://english.dotdotnews.com/celt/serendipity">Serendipity</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="A Thousand Hamlets" href="https://english.dotdotnews.com/celt/athousandhamlets">A Thousand Hamlets</a>
+                      
+                    </div>
+                  </div>
+                
+              
+            
+            
+              
+                
+                  <div class="search-box-bottom-unit">
+                    <a class="search-box-bottom-unit-column" target="_self" href="https://english.dotdotnews.com/scitech" title="Sci-Tech">Sci-Tech</a>
+                  </div>
+                
+                
+              
+            
+            
+            
+            
+            
+          
+        </div>
+        <div class="search-box-bottom-list">
+          
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+              
+                
+                
+                  <div class="search-box-bottom-unit">
+                    <a class="search-box-bottom-unit-column" target="_self" href="https://english.dotdotnews.com/others" title="More">More</a>
+                    <div class="search-box-bottom-unit-list">
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="Latest" href="https://english.dotdotnews.com/others/latest">Latest</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="Dot Dot Pic" href="https://english.dotdotnews.com/others/DotDotPic">Dot Dot Pic</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="Editors' Pick" href="https://english.dotdotnews.com/others/editorspick">Editors' Pick</a>
+                      
+                    </div>
+                  </div>
+                
+              
+            
+            
+            
+            
+          
+          <div class="search-box-bottom-unit">
+            <a class="search-box-bottom-unit-column" href="https://www.dotdotnews.com/english_about_us.html" title="About Dotdotnews" target="_self">About Dotdotnews</a>
+          </div>
+        </div>
+      </div>
+      <div class="search-box-bottom search-box-bottom-wap">
+        <div class="search-box-bottom-list">
+          <div class="search-box-bottom-unit">
+            <a class="search-box-bottom-unit-column" target="_self" href="https://english.dotdotnews.com" title="點新聞-dotdotnews">Home</a>
+          </div>
+          
+            
+            
+            
+              
+                
+                
+                  <div class="search-box-bottom-unit">
+                    <a class="search-box-bottom-unit-column" target="_self" href="https://english.dotdotnews.com/opinion" title="Opinion">Opinion</a>
+                    <div class="search-box-bottom-unit-list">
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="Young Voices" href="https://english.dotdotnews.com/opinion/YoungVoices">Young Voices</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="Philip Yeung" href="https://english.dotdotnews.com/opinion/PhilipYeung">Philip Yeung</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="Grenville Cross" href="https://english.dotdotnews.com/opinion/GrenvilleCross">Grenville Cross</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="Augustus K. Yeung" href="https://english.dotdotnews.com/opinion/AugustusKYeung">Augustus K. Yeung</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="Tom Fowdy" href="https://english.dotdotnews.com/opinion/tomfowdy">Tom Fowdy</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="Kevin Lau" href="https://english.dotdotnews.com/opinion/KevinLau">Kevin Lau</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="Edward Hei Leung" href="https://english.dotdotnews.com/opinion/EdwardHeiLeung">Edward Hei Leung</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="Angelo Giuliano" href="https://english.dotdotnews.com/opinion/AngeloGiuliano">Angelo Giuliano</a>
+                      
+                    </div>
+                  </div>
+                
+              
+            
+            
+            
+              
+                
+                
+                  <div class="search-box-bottom-unit">
+                    <a class="search-box-bottom-unit-column" target="_self" href="https://english.dotdotnews.com/hknews" title="Hong Kong">Hong Kong</a>
+                    <div class="search-box-bottom-unit-list">
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="LegCo Election 2025" href="https://english.dotdotnews.com/hknews/legcoelection2025">LegCo Election 2025</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="HK &amp; WWII" href="https://english.dotdotnews.com/hknews/HKWWII">HK &amp; WWII</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="HKSAR 25th Anniversary" href="https://english.dotdotnews.com/hknews/HKSAR25thAnniversary">HKSAR 25th Anniversary</a>
+                      
+                    </div>
+                  </div>
+                
+              
+            
+            
+              
+                
+                
+                  <div class="search-box-bottom-unit">
+                    <a class="search-box-bottom-unit-column" target="_self" href="https://english.dotdotnews.com/china" title="China">China</a>
+                    <div class="search-box-bottom-unit-list">
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="CHINESE STORIES" href="https://english.dotdotnews.com/china/CHINESE_STORIES">CHINESE STORIES</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="BRI &amp; HK" href="https://english.dotdotnews.com/china/BRI_HK">BRI &amp; HK</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="China’s Extraordinary 10 Years" href="https://english.dotdotnews.com/china/Chinas10Years">China’s Extraordinary 10 Years</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="Macao SAR 25th Anniversary" href="https://english.dotdotnews.com/china/MacaoSAR25th">Macao SAR 25th Anniversary</a>
+                      
+                    </div>
+                  </div>
+                
+              
+            
+            
+              
+                
+                
+                  <div class="search-box-bottom-unit">
+                    <a class="search-box-bottom-unit-column" target="_self" href="https://english.dotdotnews.com/world" title="World">World</a>
+                    <div class="search-box-bottom-unit-list">
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="Freeze Peach" href="https://english.dotdotnews.com/world/FreezePeach">Freeze Peach</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title=" Frontline Correspondent" href="https://english.dotdotnews.com/world/frontline"> Frontline Correspondent</a>
+                      
+                    </div>
+                  </div>
+                
+              
+            
+            
+              
+                
+                  <div class="search-box-bottom-unit">
+                    <a class="search-box-bottom-unit-column" target="_self" href="https://english.dotdotnews.com/business" title="Business">Business</a>
+                  </div>
+                
+                
+              
+            
+            
+              
+                
+                
+                  <div class="search-box-bottom-unit">
+                    <a class="search-box-bottom-unit-column" target="_self" href="https://english.dotdotnews.com/celt" title="Lifestyle">Lifestyle</a>
+                    <div class="search-box-bottom-unit-list">
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="Serendipity" href="https://english.dotdotnews.com/celt/serendipity">Serendipity</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="A Thousand Hamlets" href="https://english.dotdotnews.com/celt/athousandhamlets">A Thousand Hamlets</a>
+                      
+                    </div>
+                  </div>
+                
+              
+            
+            
+              
+                
+                  <div class="search-box-bottom-unit">
+                    <a class="search-box-bottom-unit-column" target="_self" href="https://english.dotdotnews.com/scitech" title="Sci-Tech">Sci-Tech</a>
+                  </div>
+                
+                
+              
+            
+            
+            
+            
+            
+          
+        </div>
+        <div class="search-box-bottom-list">
+          
+            
+            
+              
+                
+                
+                  <div class="search-box-bottom-unit">
+                    <a class="search-box-bottom-unit-column" target="_self" href="https://english.dotdotnews.com/envideo" title="Video">Video</a>
+                    <div class="search-box-bottom-unit-list">
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="I Live in HK" href="https://english.dotdotnews.com/envideo/ILiveinHK">I Live in HK</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="Connecting Dots" href="https://english.dotdotnews.com/envideo/Connectingdots">Connecting Dots</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="Connie Talk" href="https://english.dotdotnews.com/envideo/connieTalk">Connie Talk</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="Be My Guest" href="https://english.dotdotnews.com/envideo/bemyguest">Be My Guest</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="C'est la Chine" href="https://english.dotdotnews.com/envideo/CestlaChine">C'est la Chine</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="Not An Outsider " href="https://english.dotdotnews.com/envideo/notanoutsider">Not An Outsider </a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="Henry's Take" href="https://english.dotdotnews.com/envideo/henrystake">Henry's Take</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="1-minute News" href="https://english.dotdotnews.com/envideo/minuteNews">1-minute News</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="OMG" href="https://english.dotdotnews.com/envideo/omg">OMG</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="More" href="https://english.dotdotnews.com/envideo/more">More</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="Cuteness Overload" href="https://english.dotdotnews.com/envideo/cutenessoverload">Cuteness Overload</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="Exclusive" href="https://english.dotdotnews.com/envideo/Exclusive">Exclusive</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="EyE on U" href="https://english.dotdotnews.com/envideo/eyeonu">EyE on U</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="DotDotWeekly" href="https://english.dotdotnews.com/envideo/DotDotWeekly">DotDotWeekly</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="100 Ways To Live" href="https://english.dotdotnews.com/envideo/ways100tolive">100 Ways To Live</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="100 Ways To Drool" href="https://english.dotdotnews.com/envideo/ways100todrool">100 Ways To Drool</a>
+                      
+                    </div>
+                  </div>
+                
+              
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+              
+                
+                
+                  <div class="search-box-bottom-unit">
+                    <a class="search-box-bottom-unit-column" target="_self" href="https://english.dotdotnews.com/others" title="More">More</a>
+                    <div class="search-box-bottom-unit-list">
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="Latest" href="https://english.dotdotnews.com/others/latest">Latest</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="Dot Dot Pic" href="https://english.dotdotnews.com/others/DotDotPic">Dot Dot Pic</a>
+                      
+                      
+                        <a class="search-box-bottom-unit-list-column" target="_self" title="Editors' Pick" href="https://english.dotdotnews.com/others/editorspick">Editors' Pick</a>
+                      
+                    </div>
+                  </div>
+                
+              
+            
+            
+            
+            
+          
+          <div class="search-box-bottom-unit">
+            <a class="search-box-bottom-unit-column" href="https://www.dotdotnews.com/english_about_us.html" title="About Dotdotnews" target="_self">About Dotdotnews</a>
+          </div>
+        </div>
+      </div>
+    
+        </div>
+      </div>
+    
+    </main>
+    
+      <link rel="stylesheet" href="/static/englishdotdotnews/parts/en/pageFooter/index.css?template=202502120952">
+      <script type="module" src="/static/englishdotdotnews/parts/en/pageFooter/index.js?template=202502071329"></script>
+      <footer class="page-footer">
+        <div class="main-box">
+          <div class="page-footer-dot">Through dots, we connect.</div>
+          <div class="head-top-2-right-left">
+            <a class="head-top-2-right-left-unit" title="Facebook" href="https://www.facebook.com/dotdotnews18">
+              <img class="head-top-2-right-left-unit-img" src="https://en-static.dotdotnews.com/common/fb_gray.png?template=202410151506" title="Facebook" alt="Facebook">
+            </a>
+            <a class="head-top-2-right-left-unit" title="X" href="https://twitter.com/dotdotnews111">
+              <img class="head-top-2-right-left-unit-img" src="https://en-static.dotdotnews.com/common/x_gray.png?template=202410151506" title="X" alt="X">
+            </a>
+            <a class="head-top-2-right-left-unit" title="youtube" href="https://www.youtube.com/channel/UCW1IT0yzVG3xEonao-nHaxg">
+              <img class="head-top-2-right-left-unit-img" src="https://en-static.dotdotnews.com/common/youtube_gray.png?template=202410151506" title="youtube" alt="youtube">
+            </a>
+            <a class="head-top-2-right-left-unit" title="Weibo" href="https://weibo.com/u/7310744124">
+              <img class="head-top-2-right-left-unit-img" src="https://en-static.dotdotnews.com/common/wb_gray.png?template=202410151506" title="Weibo" alt="Weibo">
+            </a>
+          </div>
+          <div class="footer-navigation">
+            <a class="footer-navigation-unit" href="https://www.dotdotnews.com/english_phone.html" title="Hotline">Hotline</a>
+            <a class="footer-navigation-unit" href="https://www.dotdotnews.com/english_about_us.html" title="About">About Us</a>
+            <a class="footer-navigation-unit" href="https://www.dotdotnews.com/english_privacy_statement.html" title="Privacy Policy">Privacy Policy</a>
+            <a class="footer-navigation-unit" href="https://www.dotdotnews.com/english_terms_conditions.html" title="Terms &amp; Conditions">Terms &amp; Conditions</a>
+          </div>
+          <div class="footer-contact">
+            <div class="footer-contact-unit">Hotline：<a class="footer-contact-unit-link" href="tel:53731161" title="Hotline">5373 1161</a></div>
+            <div class="footer-contact-unit">Email Us：<a class="footer-contact-unit-link" href="mailto:contactdotnews@gmail.com" title="Email">contactdotnews@gmail.com</a></div>
+          </div>
+          <div class="copyright">Copyright© <span class="footer-year">2025</span> All rights reserved.</div>
+        </div>
+      </footer>
+      
+      <div class="download-app">
+        <link rel="stylesheet" href="/static/englishdotdotnews/parts/en/downloadApp/index.css?template=202502120956">
+        <script src="/static/englishdotdotnews/parts/en/downloadApp/index.js?template=202409261059"></script>
+        <div class="main-box">
+          <div class="download-app-inner">
+            <a class="download-app-text" href="https://english.dotdotnews.com/DOWNLOAD" title="Download DotDotNews Apps for better browsing experience.">Download DotDotNews Apps for better browsing experience.</a>
+            <a class="download-app-button" href="https://english.dotdotnews.com/DOWNLOAD" title="Download Apps">Download Apps</a>
+          </div>
+        </div>
+        <img class="download-app-close" src="https://en-static.dotdotnews.com/parts/en/downloadApp/close.png" title="Close" alt="Close">
+      </div>
+    
+    
+    
+      <script type="module" src="/static/englishdotdotnews/parts/en/changeMode/index.js?template=202502071714"></script>
+      <div class="change-mode">
+        <img class="change-mode-choose change-mode-choose-light" src="https://en-static.dotdotnews.com/parts/en/changeMode/change_mode.png" title="Light" alt="Light">
+        <img class="change-mode-choose change-mode-choose-dark" src="https://en-static.dotdotnews.com/parts/en/changeMode/change_mode_dark.png" title="Dark" alt="Dark">
+      </div>
+    
+  
+</body></html>
