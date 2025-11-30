@@ -4,6 +4,10 @@
 
 - [樓宇維修公開資料庫](傳真社/README.md)
 
+## 物料阻燃測試 (Material Flammability Tests)
+
+- [TVB新聞：沙田穗禾苑維修棚網及發泡膠測試 (2025-11-30)](material_flammability_tests.md)
+
 ## 改進竹棚架安全性及可靠性的工程分析 (2002)
 
 - **來源**: 職業安全及健康局

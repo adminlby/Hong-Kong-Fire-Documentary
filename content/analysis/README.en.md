@@ -6,6 +6,10 @@ This section contains technical analyses and literature regarding scaffolding sa
 
 - [Building Maintenance Public Database](傳真社/README.md)
 
+## Material Flammability Tests
+
+- [TVB News Test on Scaffolding Netting and Styrofoam (Shui Wo Court) (2025-11-30)](material_flammability_tests.md)
+
 ## Engineering Analysis on Improving Safety and Reliability of Bamboo Scaffolding (2002)
 
 - **Source**: Occupational Safety and Health Council (OSHC)
