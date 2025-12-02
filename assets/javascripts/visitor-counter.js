@@ -1,4 +1,4 @@
-/* 
+/*
    Visitor Counter for MkDocs Material
    Integrates with the repository facts section (Stars/Forks) if possible.
 */
@@ -26,14 +26,14 @@ function initVisitorCounter() {
 
         // Strategy: Try to inject into .md-source__facts (where stars are)
         // If that fails (no repo configured or facts hidden), fallback to header
-        
+
         var sourceRepository = document.querySelector(".md-source__repository");
         var headerInner = document.querySelector(".md-header__inner");
-        
+
         if (sourceRepository) {
             // We have a repository block. Let's try to find or create the facts list.
             var facts = sourceRepository.querySelector(".md-source__facts");
-            
+
             if (!facts) {
                 // Facts list doesn't exist (yet? or no stars?). Create it.
                 // Note: Material CSS might hide .md-source__facts on small screens.
@@ -46,14 +46,14 @@ function initVisitorCounter() {
             var li = document.createElement("li");
             li.className = "md-source__fact";
             li.id = "busuanzi_container_site_pv_custom"; // Wrapper ID
-            
+
             // Busuanzi content
             li.innerHTML = `
                 <span id="busuanzi_container_site_pv" style="display:none">
                     Visitors: <span id="busuanzi_value_site_pv">--</span>
                 </span>
             `;
-            
+
             facts.appendChild(li);
 
         } else if (headerInner) {
@@ -65,16 +65,16 @@ function initVisitorCounter() {
             counter.style.marginRight = "10px";
             counter.style.fontSize = "0.7rem";
             counter.style.color = "inherit";
-            
+
             counter.innerHTML = `
                 <span id="busuanzi_container_site_pv" style="display:none">
                     Visitors: <span id="busuanzi_value_site_pv">--</span>
                 </span>
             `;
-            
+
             var search = document.querySelector(".md-search");
             var source = document.querySelector(".md-header__source");
-            
+
             if (source) {
                  headerInner.insertBefore(counter, source);
             } else if (search) {
@@ -96,7 +96,7 @@ function initVisitorCounter() {
         // Note: If Material wipes innerHTML of facts, our element dies.
         insertCounter();
     });
-    
+
     var header = document.querySelector(".md-header");
     if (header) {
         observer.observe(header, { childList: true, subtree: true });
