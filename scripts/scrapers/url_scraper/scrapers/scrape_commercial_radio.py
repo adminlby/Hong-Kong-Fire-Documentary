@@ -36,14 +36,18 @@ def scrape():
         for article in articles: 
             if not is_relevant(article['title'], article['preview_content']): 
                 continue 
+            
             display_date = article['display_date']
+
+            if display_date < start_date: 
+                has_next = False
+                continue
+
             title = article['title']
             link = f'https://www.881903.com/news/local/{article["item_id"]}/'
             results.append((display_date, title, link))
 
-            if display_date < start_date: 
-                has_next = False
         
         params.update({'offset': content['response']['next_offset']})
     
-    return ('Commercial Radio', results)
+    return ('商業電台', results)
