@@ -41,6 +41,7 @@ This section compiles news reports, feature articles, and official releases from
 - [**The Sun**](the-sun/README.md)
 - [**SBS (Australia)**](sbs/README.md)
 - [**Al Jazeera (English)**](aljazeera/README.md)
+- [**CBC News**](cbc/readme.md)
 - [**Other International Coverage (German, Japanese, etc.)**](international/README.md)
 
 ## Official Information
