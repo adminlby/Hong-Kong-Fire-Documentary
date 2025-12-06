@@ -54,6 +54,9 @@
 | **Dec 1** |
 | 01:00 | The Lucky Animals Society confirmed that between 11 pm on Saturday, December 29th and 11 pm on Sunday, December 30th, a total of 91 animals were rescued. 73 survived, including 11 cats, 3 dogs, 48 ​​fish, 2 rats, and 9 turtles. However, 18 animals tragically died. || [HK01](https://www.hk01.com/article/60297831?utm_source=01articlecopy&utm_medium=referral) |
 | 08:00 | The Education Bureau announced that schools affected by the fire will gradually resume classes today using various methods. || [HK01](https://www.hk01.com/article/60297831?utm_source=01articlecopy&utm_medium=referral) |
+| **Dec 2**|
+| 09:58       | The Chief Executive John Lee announced an Independent Committee would be set up to investigate the tragedy and suggest reformations. | | [HK01](https://www.youtube.com/watch?v=ydQ4zEhjcxY)        |
+
 
 **Data Sources**:
 [Wikipedia](https://zh.wikipedia.org/zh-hant/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB) [SBS Timeline](https://www.sbs.com.au/language/chinese/zh-hant/article/hong-kong-residential-tower-fire-timeline/xey8t7kt2) [English Wiki](https://en.wikipedia.org/wiki/Wang_Fuk_Court_fire) [Oriental Daily](https://www.orientalsunday.hk/%E6%9C%80%E6%96%B0%E5%A8%9B%E8%81%9E/%E5%AE%8F%E7%A6%8F%E8%8B%91%E7%81%AB%E7%81%BD-%E7%81%AB%E8%AD%A6%E9%90%98-%E7%B6%AD%E4...) [HK01](https://www.hk01.com/%E7%AA%81%E7%99%BC/60298585/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB-%E6%99%82%E5%BA%8F-%E7%84%A1%E6%8...)
