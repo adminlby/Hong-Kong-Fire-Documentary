@@ -1346,3 +1346,176 @@ hint: "git config advice.addIgnoredFile false"
 2025-12-02 08:36:16 | INFO     | Starting sync cycle...
 2025-12-02 08:36:16 | INFO     | Syncing with upstream...
 2025-12-02 08:36:16 | INFO     | Behind upstream by 3 commits, merging...
+2025-12-07 01:42:26 | INFO     | ============================================================
+2025-12-07 01:42:26 | INFO     | News Scraper Daemon Starting
+2025-12-07 01:42:26 | ERROR    | FORK_REPO environment variable not set!
+2025-12-07 01:42:26 | ERROR    | Please set it: export FORK_REPO='username/repo-name'
+2025-12-07 01:43:31 | INFO     | ============================================================
+2025-12-07 01:43:31 | INFO     | News Scraper Daemon Starting
+2025-12-07 01:43:31 | ERROR    | FORK_REPO environment variable not set!
+2025-12-07 01:43:31 | ERROR    | Please set it: export FORK_REPO='username/repo-name'
+2025-12-07 01:44:42 | INFO     | ============================================================
+2025-12-07 01:44:42 | INFO     | News Scraper Daemon Starting
+2025-12-07 01:44:42 | INFO     | Fork: https://github.com/hk-hack-007/Hong-Kong-Fire-Documentary-i.git
+2025-12-07 01:44:42 | INFO     | Upstream: adminlby/Hong-Kong-Fire-Documentary
+2025-12-07 01:44:42 | INFO     | Sync interval: 10 minutes
+2025-12-07 01:44:42 | INFO     | PR interval: 60 minutes
+2025-12-07 01:44:42 | INFO     | ============================================================
+2025-12-07 01:44:43 | INFO     | gh CLI authenticated
+2025-12-07 01:44:43 | INFO     | Setting up git remotes...
+2025-12-07 01:44:43 | INFO     | Configured origin remote
+2025-12-07 01:44:44 | INFO     | gh CLI authenticated
+2025-12-07 01:44:44 | INFO     | ----------------------------------------
+2025-12-07 01:44:44 | INFO     | Running periodic health check...
+2025-12-07 01:44:45 | INFO     | gh CLI authenticated
+2025-12-07 01:44:45 | INFO     | Health check passed
+2025-12-07 01:44:45 | INFO     | ----------------------------------------
+2025-12-07 01:44:45 | INFO     | Starting sync cycle...
+2025-12-07 01:44:45 | INFO     | Syncing with upstream...
+2025-12-07 01:44:46 | INFO     | Already up to date with upstream
+2025-12-07 01:44:46 | INFO     | Running scraper...
+2025-12-07 01:44:46 | ERROR    | Scraper error: No module named 'playwright'
+2025-12-07 01:44:46 | INFO     | Committing changes...
+2025-12-07 01:44:46 | ERROR    | Command failed: git commit -m chore(scraper): auto-scrape 2025-12-07 01:44
+2025-12-07 01:44:46 | ERROR    | stderr: 
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'hk-hack@fcy-mint.(none)')
+
+2025-12-07 01:44:46 | ERROR    | Failed to commit: Command '['git', 'commit', '-m', 'chore(scraper): auto-scrape 2025-12-07 01:44']' returned non-zero exit status 128.
+2025-12-07 01:44:46 | ERROR    | Push failed with unexpected error: remote: Not Found
+fatal: repository 'https://github.com/https://github.com/hk-hack-007/Hong-Kong-Fire-Documentary-i.git.git/' not found
+
+2025-12-07 01:44:47 | ERROR    | Push failed with unexpected error: remote: Not Found
+fatal: repository 'https://github.com/https://github.com/hk-hack-007/Hong-Kong-Fire-Documentary-i.git.git/' not found
+
+2025-12-07 01:44:50 | ERROR    | Push failed with unexpected error: remote: Not Found
+fatal: repository 'https://github.com/https://github.com/hk-hack-007/Hong-Kong-Fire-Documentary-i.git.git/' not found
+
+2025-12-07 01:44:50 | INFO     | Daemon stopped by user
+2025-12-07 01:45:31 | INFO     | ============================================================
+2025-12-07 01:45:31 | INFO     | News Scraper Daemon Starting
+2025-12-07 01:45:31 | INFO     | Fork: hk-hack-007/Hong-Kong-Fire-Documentary-i
+2025-12-07 01:45:31 | INFO     | Upstream: adminlby/Hong-Kong-Fire-Documentary
+2025-12-07 01:45:31 | INFO     | Sync interval: 10 minutes
+2025-12-07 01:45:31 | INFO     | PR interval: 60 minutes
+2025-12-07 01:45:31 | INFO     | ============================================================
+2025-12-07 01:45:31 | INFO     | gh CLI authenticated
+2025-12-07 01:45:31 | INFO     | Setting up git remotes...
+2025-12-07 01:45:31 | INFO     | Configured origin remote
+2025-12-07 01:45:32 | INFO     | gh CLI authenticated
+2025-12-07 01:45:32 | INFO     | ----------------------------------------
+2025-12-07 01:45:32 | INFO     | Running periodic health check...
+2025-12-07 01:45:33 | INFO     | gh CLI authenticated
+2025-12-07 01:45:33 | INFO     | Health check passed
+2025-12-07 01:45:33 | INFO     | ----------------------------------------
+2025-12-07 01:45:33 | INFO     | Starting sync cycle...
+2025-12-07 01:45:33 | INFO     | Syncing with upstream...
+2025-12-07 01:45:34 | INFO     | Already up to date with upstream
+2025-12-07 01:45:34 | INFO     | Running scraper...
+2025-12-07 01:45:34 | ERROR    | Scraper error: No module named 'playwright'
+2025-12-07 01:45:34 | INFO     | Committing changes...
+2025-12-07 01:45:34 | ERROR    | Command failed: git commit -m chore(scraper): auto-scrape 2025-12-07 01:45
+2025-12-07 01:45:34 | ERROR    | stderr: 
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'hk-hack@fcy-mint.(none)')
+
+2025-12-07 01:45:34 | ERROR    | Failed to commit: Command '['git', 'commit', '-m', 'chore(scraper): auto-scrape 2025-12-07 01:45']' returned non-zero exit status 128.
+2025-12-07 01:45:35 | INFO     | Pushed to origin successfully
+2025-12-07 01:45:35 | INFO     | Sync cycle complete
+2025-12-07 01:45:35 | INFO     | ----------------------------------------
+2025-12-07 01:45:35 | INFO     | Starting PR cycle...
+2025-12-07 01:45:36 | INFO     | Pushed to origin successfully
+2025-12-07 01:45:36 | INFO     | Managing PR...
+2025-12-07 01:45:40 | ERROR    | Failed to create PR: Warning: 58 uncommitted changes
+pull request create failed: GraphQL: No commits between adminlby:main and hk-hack-007:main (createPullRequest)
+
+2025-12-07 01:45:40 | INFO     | PR cycle complete
+2025-12-07 01:45:40 | INFO     | Run once mode, exiting...
+2025-12-07 01:46:02 | INFO     | ============================================================
+2025-12-07 01:46:02 | INFO     | News Scraper Daemon Starting
+2025-12-07 01:46:02 | INFO     | Fork: hk-hack-007/Hong-Kong-Fire-Documentary-i
+2025-12-07 01:46:02 | INFO     | Upstream: adminlby/Hong-Kong-Fire-Documentary
+2025-12-07 01:46:02 | INFO     | Sync interval: 10 minutes
+2025-12-07 01:46:02 | INFO     | PR interval: 60 minutes
+2025-12-07 01:46:02 | INFO     | ============================================================
+2025-12-07 01:46:02 | INFO     | gh CLI authenticated
+2025-12-07 01:46:02 | INFO     | Setting up git remotes...
+2025-12-07 01:46:02 | INFO     | Configured origin remote
+2025-12-07 01:46:03 | INFO     | gh CLI authenticated
+2025-12-07 01:46:03 | INFO     | ----------------------------------------
+2025-12-07 01:46:03 | INFO     | Running periodic health check...
+2025-12-07 01:46:04 | INFO     | gh CLI authenticated
+2025-12-07 01:46:04 | INFO     | Health check passed
+2025-12-07 01:46:04 | INFO     | ----------------------------------------
+2025-12-07 01:46:04 | INFO     | Starting sync cycle...
+2025-12-07 01:46:04 | INFO     | Syncing with upstream...
+2025-12-07 01:46:05 | INFO     | Already up to date with upstream
+2025-12-07 01:46:05 | INFO     | Running scraper...
+2025-12-07 01:46:05 | ERROR    | Scraper error: No module named 'playwright'
+2025-12-07 01:46:05 | INFO     | Committing changes...
+2025-12-07 01:46:05 | ERROR    | Command failed: git commit -m chore(scraper): auto-scrape 2025-12-07 01:46
+2025-12-07 01:46:05 | ERROR    | stderr: 
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'hk-hack@fcy-mint.(none)')
+
+2025-12-07 01:46:05 | ERROR    | Failed to commit: Command '['git', 'commit', '-m', 'chore(scraper): auto-scrape 2025-12-07 01:46']' returned non-zero exit status 128.
+2025-12-07 01:46:06 | INFO     | Pushed to origin successfully
+2025-12-07 01:46:06 | INFO     | Sync cycle complete
+2025-12-07 01:46:06 | INFO     | ----------------------------------------
+2025-12-07 01:46:06 | INFO     | Starting PR cycle...
+2025-12-07 01:46:07 | INFO     | Pushed to origin successfully
+2025-12-07 01:46:07 | INFO     | Managing PR...
+2025-12-07 01:46:11 | ERROR    | Failed to create PR: Warning: 58 uncommitted changes
+pull request create failed: GraphQL: No commits between adminlby:main and hk-hack-007:main (createPullRequest)
+
+2025-12-07 01:46:11 | INFO     | PR cycle complete
+2025-12-07 01:46:11 | INFO     | Run once mode, exiting...
+2025-12-07 01:47:21 | INFO     | ============================================================
+2025-12-07 01:47:21 | INFO     | News Scraper Daemon Starting
+2025-12-07 01:47:21 | INFO     | Fork: hk-hack-007/Hong-Kong-Fire-Documentary-i
+2025-12-07 01:47:21 | INFO     | Upstream: adminlby/Hong-Kong-Fire-Documentary
+2025-12-07 01:47:21 | INFO     | Sync interval: 10 minutes
+2025-12-07 01:47:21 | INFO     | PR interval: 60 minutes
+2025-12-07 01:47:21 | INFO     | ============================================================
+2025-12-07 01:47:22 | INFO     | gh CLI authenticated
+2025-12-07 01:47:22 | INFO     | Setting up git remotes...
+2025-12-07 01:47:22 | INFO     | Configured origin remote
+2025-12-07 01:47:23 | INFO     | gh CLI authenticated
+2025-12-07 01:47:23 | INFO     | ----------------------------------------
+2025-12-07 01:47:23 | INFO     | Running periodic health check...
+2025-12-07 01:47:24 | INFO     | gh CLI authenticated
+2025-12-07 01:47:24 | INFO     | Health check passed
+2025-12-07 01:47:24 | INFO     | ----------------------------------------
+2025-12-07 01:47:24 | INFO     | Starting sync cycle...
+2025-12-07 01:47:24 | INFO     | Syncing with upstream...
+2025-12-07 01:47:24 | INFO     | Already up to date with upstream
+2025-12-07 01:47:24 | INFO     | Running scraper...
+2025-12-07 01:47:24 | ERROR    | Scraper error: No module named 'playwright'
+2025-12-07 01:47:25 | INFO     | Committing changes...

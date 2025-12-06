@@ -79,9 +79,9 @@ LOGS_DIR = PROJECT_ROOT / "logs"
 LOG_FILE = LOGS_DIR / "scraper.log"
 
 # GitHub configuration - set via environment variables or defaults
-UPSTREAM_REPO = os.environ.get("UPSTREAM_REPO", "Hong-Kong-Emergency-Coordination-Hub/Hong-Kong-Fire-Documentary")
-FORK_REPO = os.environ.get("FORK_REPO", "")  # Required - no default
-UPSTREAM_URL = f"https://github.com/{UPSTREAM_REPO}.git"
+UPSTREAM_REPO = os.environ.get("UPSTREAM_REPO", "adminlby/Hong-Kong-Fire-Documentary")
+FORK_REPO = os.environ.get("FORK_REPO", "hk-hack-007/Hong-Kong-Fire-Documentary-i")  # Required - no default
+UPSTREAM_URL = f"https://github.com/adminlby/Hong-Kong-Fire-Documentary.git"
 MAIN_BRANCH = os.environ.get("MAIN_BRANCH", "main")
 
 # Timing configuration

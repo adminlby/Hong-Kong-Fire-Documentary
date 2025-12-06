@@ -3,9 +3,9 @@ from datetime import datetime
 from urllib.parse import urlparse
 
 import requests
-from bs4 import BeautifulSoup, XMLParsedAsHTMLWarning
+from bs4 import BeautifulSoup, MarkupResemblesLocatorWarning
 
-warnings.filterwarnings("ignore", category=XMLParsedAsHTMLWarning)
+warnings.filterwarnings("ignore", category=MarkupResemblesLocatorWarning)
 
 
 def scrape():

@@ -8,7 +8,7 @@ def scrape():
         "news_column_id": 11,  # local news
         "limit": 100,
     }
-    start_date = "2025-11-26"
+    start_date = "2025-12-01"
     results = []
 
     def is_relevant(title, preview):

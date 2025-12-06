@@ -11,9 +11,9 @@ BASE_URL = "https://www.info.gov.hk"
 OUTPUT_DIR = "Tai_Po_Fire_Press_Releases_Bilingual"
 
 # Search Configuration
-SEARCH_CONFIG = [{"lang": "ENG", "url_template": "https://www.info.gov.hk/gia/general/202511/{day}.htm", "keywords": ["tai po", "fire"]}, {"lang": "CHI", "url_template": "https://www.info.gov.hk/gia/general/202511/{day}c.htm", "keywords": ["大埔", "火"]}]
+SEARCH_CONFIG = [{"lang": "ENG", "url_template": "https://www.info.gov.hk/gia/general/202512/{day}.htm", "keywords": ["tai po", "fire"]}, {"lang": "CHI", "url_template": "https://www.info.gov.hk/gia/general/202512/{day}c.htm", "keywords": ["大埔", "火"]}]
 
-DATES_TO_CHECK = ["26", "27", "28", "29", "30"]
+DATES_TO_CHECK = ["01", "02", "03", "04", "05", "06", "07"]
 
 
 def setup_dir():
@@ -73,7 +73,7 @@ def save_content(url, day, lang, title):
 
     # 3. Build Filename: 202511{day}_{HHMM}_{lang}_{title}
     safe_title = "".join([c if c.isalnum() else "_" for c in title])[:30]
-    final_filename = f"202511{day}_{time_str}_{lang}_{safe_title}"
+    final_filename = f"202512{day}_{time_str}_{lang}_{safe_title}"
 
     pdf_path = os.path.join(OUTPUT_DIR, f"{final_filename}.pdf")
     html_path = os.path.join(OUTPUT_DIR, f"{final_filename}.html")
@@ -131,7 +131,7 @@ def run_scraper():
     print("Starting Scraper with Corrected Time Format...\n")
 
     for day in DATES_TO_CHECK:
-        print(f"--- Processing Date: 2025-11-{day} ---")
+        print(f"--- Processing Date: 2025-12-{day} ---")
 
         for config in SEARCH_CONFIG:
             lang = config["lang"]
