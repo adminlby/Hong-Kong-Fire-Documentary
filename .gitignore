@@ -1,3 +1,7 @@
+#hk-hack-007
+logs/scraper.log
+
+# basic
 site/
 .obsidian
 
