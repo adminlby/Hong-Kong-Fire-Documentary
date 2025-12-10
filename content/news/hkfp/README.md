@@ -73,3 +73,14 @@
 - [Scaffold nets removed from 227 Hong Kong buildings; Labour Dept. probes suspected fraudulent safety certificates](https://hongkongfp.com/?p=546126)
 - [Families of deadly Tai Po fire victims begin providing DNA samples](https://hongkongfp.com/?p=546123)
 - [Long road ahead: Tai Po blaze survivors grapple with psychological fallout while struggling to return to normal life](https://hongkongfp.com/?p=545515)
+
+
+### 2025-12-09
+- [Tai Po fire: Fallen firefighter to receive funeral with highest honours – reports](https://hongkongfp.com/?p=546181)
+- [Political commentator remanded in custody after being charged with revealing details of nat. sec probe](https://hongkongfp.com/?p=546175)
+- [Tai Po fire death toll rises to 160 after DNA tests confirm 1 more casualty](https://hongkongfp.com/?p=546185)
+
+### 2025-12-10
+- [UN troubled by Hong Kong clampdown after deadly Tai Po fire](https://hongkongfp.com/?p=546269)
+- [Outgoing legislative president calls on newly elected lawmakers to help gov’t tackle Tai Po fire aftermath](https://hongkongfp.com/?p=546233)
+- [Deny compensation to Wang Fuk Court flat buyers after fatal fire, lawmaker urges Hong Kong gov’t](https://hongkongfp.com/?p=546257)

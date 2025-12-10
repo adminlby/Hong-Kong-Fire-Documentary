@@ -563,3 +563,31 @@
 - [記者實測｜內地棚網檢測造假報告網上任買　700元人民幣有售毋須採樣](https://news.now.com/home/local/player?newsId=628888)
 - [宏福苑五級火災｜東華三院指如有需要會以3D打印技術修復死者遺體](https://news.now.com/home/local/player?newsId=628869)
 - [晨早新聞重點｜特朗普批准對華出口H200晶片／日本青森縣以東海域7.5級地震至少23傷](https://news.now.com/home/local/player?newsId=628865)
+
+
+### 2025-12-09
+- [即日焦點｜梁君彥冀議員與政府共同處理宏福苑災後支援及重建／內地棚網檢測造假報告網上任買700元有售](https://news.now.com/home/local/player?newsId=628980)
+- [宏福苑五級火災｜全港230幢大維修私樓　完成移除外牆棚網](https://news.now.com/home/local/player?newsId=628981)
+- [宏福苑五級火災｜所有傷者情況轉為穩定](https://news.now.com/home/local/player?newsId=628977)
+- [宏福苑五級火災｜逾千戶二千五百多名宏福苑居民　入住過渡性房屋及房協單位](https://news.now.com/home/local/player?newsId=628974)
+
+### 2025-12-10
+- [宏福苑五級火災｜有男子向物業代理示意低價購入單位　江玉歡冀政府為支援措施劃線](https://news.now.com/home/local/player?newsId=629069)
+- [時事全方位重點提要｜12月11日](https://news.now.com/home/local/player?newsId=629095)
+- [原片｜警方簡報拘捕一男子涉宏福苑火災騙案](https://news.now.com/home/local/player?newsId=629090)
+- [宏福苑五級火災｜36歲男涉扮災民　騙社福機構1.8萬元援助被捕](https://news.now.com/home/local/player?newsId=629093)
+- [宏福苑五級火災｜援助基金捐款人可獲稅務寬減　每戶業主獲發10萬元補助](https://news.now.com/home/local/player?newsId=629078)
+- [宏福苑五級火災｜援助基金向每戶業主發放十萬元特別補助](https://news.now.com/home/local/player?newsId=629075)
+- [工展會周六維園開鑼　廠商會捐一千萬元予宏福苑災民　展商期望緩和社會氣氛](https://news.now.com/home/local/player?newsId=629070)
+- [中環冬日小鎮即日起重開　幻彩詠香江亦恢復上演](https://news.now.com/home/local/player?newsId=629064)
+- [宏福苑五級火災｜劉文君冀當局提不同重置方案供居民選擇](https://news.now.com/home/local/player?newsId=629045)
+- [宏福苑五級火災｜災後第四日有男子向物業代理示意低價購入單位](https://news.now.com/home/local/player?newsId=629044)
+- [工展會本月13日維園開鑼　廠商會捐一千萬元予宏福苑居民](https://news.now.com/home/local/player?newsId=629037)
+- [立法會選舉｜陳克勤：總票數下跌會承擔責任　「票王」鄧家彪：沒本錢一區分兩隊](https://news.now.com/home/local/player?newsId=629034)
+- [宏福苑五級火災｜男子欲低價購宏福苑單位　物業代理拒接單斥發災難財](https://news.now.com/home/local/player?newsId=629032)
+- [宏福苑五級火繼續災後工作　有工人為大廈臨時加固](https://news.now.com/home/local/player?newsId=629023)
+- [宏福苑五級火災｜梁美芬促政府加強介入業主立案法團管理](https://news.now.com/home/local/player?newsId=629013)
+- [採訪日誌｜廠商會介紹工展會詳情／民建聯約見黃偉綸商討大火善後工作](https://news.now.com/home/local/player?newsId=628997)
+- [宏福苑五級火災｜愛協指84隻動物下落不明　居民：即使一隻牙都希望找到　冀政府DNA鑑定寵物身份](https://news.now.com/home/local/player?newsId=628987)
+- [宏福苑五級火災｜消防裝置承辦商：未經訓練物管人員不能操作警鐘開關](https://news.now.com/home/local/player?newsId=628986)
+- [晨早新聞重點｜本台向承辦商了解消防警報系統運作／法國國民議會二讀通過社保預算案](https://news.now.com/home/local/player?newsId=628985)

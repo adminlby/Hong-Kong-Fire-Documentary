@@ -661,3 +661,22 @@
 - [李梓敬：會聆聽宏福苑居民長遠安置意見　譚鎮國：盡快處理改革](https://news.rthk.hk/rthk/ch/component/k2/1835281-20251209.htm?archive_date=2025-12-09)
 - [宏福苑五級火｜警方調查6宗懷疑屋苑使用棚網涉及行使虛假文書案](https://news.rthk.hk/rthk/ch/component/k2/1835268-20251209.htm?archive_date=2025-12-09)
 - [高市早苗稱地震導致30人受傷和1個住宅起火](https://news.rthk.hk/rthk/ch/component/k2/1835265-20251209.htm?archive_date=2025-12-09)
+
+
+### 2025-12-09
+- [宏福苑五級火｜跨部門專組再開會查火警起因　7樓宇抽取混凝土芯](https://news.rthk.hk/rthk/ch/component/k2/1835376-20251209.htm?archive_date=2025-12-09)
+- [宏福苑五級火｜24名仍留院傷者全部情況轉為穩定　55人已出院](https://news.rthk.hk/rthk/ch/component/k2/1835364-20251209.htm?archive_date=2025-12-09)
+- [印尼首都雅加達一座建築物發生大火　據報21人死亡](https://news.rthk.hk/rthk/ch/component/k2/1835363-20251209.htm?archive_date=2025-12-09)
+- [宏福苑五級火｜逾千戶入住過渡性房屋及房協單位　近千單位仍可用](https://news.rthk.hk/rthk/ch/component/k2/1835361-20251209.htm?archive_date=2025-12-09)
+
+### 2025-12-10
+- [Wang Fuk Court flat owners to get HK$100,000](https://news.rthk.hk/rthk/en/component/k2/1835491-20251210.htm?archive_date=2025-12-10)
+- ['30 hotels housing Wang Fuk Court residents for free'](https://news.rthk.hk/rthk/en/component/k2/1835434-20251210.htm?archive_date=2025-12-10)
+- [12 killed in residential building fire in Shantou](https://news.rthk.hk/rthk/en/component/k2/1835411-20251210.htm?archive_date=2025-12-10)
+- [宏福苑五級火｜民建聯提出五個安置方案包括居屋換居屋及原區重建](https://news.rthk.hk/rthk/ch/component/k2/1835509-20251210.htm?archive_date=2025-12-10)
+- [宏福苑五級火｜政府向宏福苑受災業主發放十萬元補助金](https://news.rthk.hk/rthk/ch/component/k2/1835497-20251210.htm?archive_date=2025-12-10)
+- [廣東省政府成立事故調查組　調查汕頭涉12死住宅火警](https://news.rthk.hk/rthk/ch/component/k2/1835489-20251210.htm?archive_date=2025-12-10)
+- [宏福苑五級火｜男子涉冒認災民取得災民證詐騙萬多元援助](https://news.rthk.hk/rthk/ch/component/k2/1835496-20251210.htm?archive_date=2025-12-10)
+- [宏福苑五級火｜援助基金達34億　向每戶業主發10萬元特別補助](https://news.rthk.hk/rthk/ch/component/k2/1835482-20251210.htm?archive_date=2025-12-10)
+- [廣東汕頭有住宅起火　增至12人死亡](https://news.rthk.hk/rthk/ch/component/k2/1835465-20251210.htm?archive_date=2025-12-10)
+- [汕頭市有住宅起火造成8人死亡4人受傷](https://news.rthk.hk/rthk/ch/component/k2/1835418-20251210.htm?archive_date=2025-12-10)

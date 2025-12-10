@@ -1,6 +1,6 @@
 {
-  "success": 654,
-  "failed": 30,
+  "success": 752,
+  "failed": 62,
   "failed_urls": [
     "https://www2.hkej.com/multimedia/view/id/4264272?/multimedia/searchlist/q/%E9%98%B2%E7%81%AB%E4%BE%8B%E5%A4%A7%E8%90%BD%E5%BE%8C+%E5%B1%8B%E7%BD%B2%E6%B6%88%E9%98%B2%E6%A9%9F%E9%9B%BB%E5%90%84%E8%87%AA%E7%82%BA%E6%94%BF%EF%BD%9C%E4%BF%A1%E5%A0%B1%E8%83%A1%E6%81%A9%E5%A8%81%E5%B0%88%E6%AC%84",
     "https://dw-media.tkww.hk/epaper/tkp/20251128/A7_Screen.pdf",
@@ -18,8 +18,17 @@
     "https://www1.hkej.com/dailynews/views/article/4269353/%E7%94%B0%E5%8C%97%E8%BE%B0%E5%80%A1%E5%BC%95%E5%85%A5%E9%98%B2%E7%87%83%E7%8E%BB%E7%92%83%E7%BA%96%E7%B6%AD%E6%A3%9A%E7%B6%B2",
     "https://www1.hkej.com/dailynews/culture/article/4265713/%E5%93%80%E7%97%9B%E6%83%85%E7%B7%925%E5%80%8B%E9%9A%8E%E6%AE%B5++%E7%81%BD%E5%BE%8C%E5%BF%83%E9%9D%88%E9%87%8D%E5%BB%BA",
     "https://www1.hkej.com/dailynews/culture/article/4265716/%E9%9B%86%E9%AB%94%E5%89%B5%E5%82%B7+%E5%BD%BC%E6%AD%A4%E7%99%82%E7%99%92",
-    "https://www1.hkej.com/dailynews/investment/article/4269281/%E5%BE%9E%E7%81%AB%E7%81%BD%E5%B9%B8%E5%AD%98%E7%9C%8B%E8%82%A1%E6%B5%B7%E6%B1%82%E7%94%9F"
+    "https://www1.hkej.com/dailynews/investment/article/4269281/%E5%BE%9E%E7%81%AB%E7%81%BD%E5%B9%B8%E5%AD%98%E7%9C%8B%E8%82%A1%E6%B5%B7%E6%B1%82%E7%94%9F",
+    "https://www1.hkej.com/dailynews/property/article/4270171/%E7%9B%A3%E7%AE%A1%E4%B8%8D%E5%8A%9B%E9%87%80%E5%B7%A8%E7%81%BD+%E7%95%B6%E5%B1%80%E6%87%89%E5%BC%95%E4%BB%A5%E7%82%BA%E7%BE%9E",
+    "https://www1.hkej.com/dailynews/commentary/article/4270196/%E8%AD%B0%E5%93%A1%E3%80%8C%E8%A3%9C%E9%A3%9B%E3%80%8D%E8%B7%9F%E9%80%B2%E7%81%AB%E7%81%BD+%E7%89%B9%E6%AC%8A%E6%B3%95%E5%9F%8B%E4%BC%8F%E7%AD%86",
+    "https://www1.hkej.com/dailynews/views/article/4270186/%E8%81%96%E8%AA%95%E6%B4%BB%E5%8B%95%E6%BC%B8%E5%BE%A9%E5%B8%B8+%E5%A4%9A%E5%8D%80%E5%A6%82%E6%9C%9F%E8%BE%A6%E5%B8%82%E9%9B%86",
+    "https://www1.hkej.com/dailynews/commentary/article/4270129/%E5%A4%9A%E6%8E%AA%E4%B8%A6%E8%88%89%E5%AE%89%E7%BD%AE%E7%81%BD%E6%B0%91+%E7%9B%A1%E5%BF%AB%E5%95%9F%E5%8B%95%E3%80%8C%E6%A8%93%E6%8F%9B%E6%A8%93%E3%80%8D",
+    "https://www1.hkej.com/dailynews/commentary/article/4270197/%E5%8B%99%E5%AF%A6%E5%AE%89%E7%BD%AE+%E7%81%BD%E6%B0%91%E7%82%BA%E5%85%88",
+    "https://www1.hkej.com/dailynews/views/article/4270189/%E4%B8%80%E9%81%BA%E9%AB%94%E8%AD%89%E5%B1%AC%E5%85%A9%E4%BA%BA+%E5%A4%A7%E5%9F%94%E7%81%AB%E7%81%BD160%E4%BA%A1",
+    "https://www1.hkej.com/dailynews/views/article/4270191/%E8%AD%A6%E6%9F%A56%E5%B1%8B%E8%8B%91%E6%A3%9A%E7%B6%B2++%E7%96%91%E6%AA%A2%E6%B8%AC%E8%AD%89%E6%9B%B8%E9%80%A0%E5%81%87",
+    "https://www1.hkej.com/dailynews/politics/article/4270177/%E5%8D%80%E8%AD%B0%E5%93%A1%E5%80%A1%E8%B3%87%E5%8A%A9%E5%AE%8F%E7%A6%8F%E8%8B%91%E7%81%BD%E6%B0%91%E8%B2%B7%E6%96%B0%E5%B1%85",
+    "https://www1.hkej.com/dailynews/views/article/4270190/31%E5%A4%B1%E8%81%AF%E8%80%85%E6%B8%9B%E8%87%B36%E5%90%8D+12%E4%BA%BA%E7%A2%BA%E8%AA%8D%E5%AE%89%E5%85%A8"
   ],
-  "cycles": 4,
+  "cycles": 5,
   "started_at": "2025-12-08T00:44:28.851238"
 }

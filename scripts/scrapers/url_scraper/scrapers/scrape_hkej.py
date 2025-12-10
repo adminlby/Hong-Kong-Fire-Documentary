@@ -33,9 +33,6 @@ async def _scrape_async():
                         title = await h3_a.inner_text()
                         link = await h3_a.get_attribute("href")
 
-                        if not link.startswith("http"):
-                            link = f"https://www.hkej.com{link}"
-
                         # Summary
                         summary_elem = await container.query_selector("p.recap")
                         summary_text = await summary_elem.inner_text() if summary_elem else ""

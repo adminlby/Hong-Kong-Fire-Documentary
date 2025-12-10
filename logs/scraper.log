@@ -3190,3 +3190,109 @@ task: <Task cancelling name='Task-1' coro=<run_scraper_async() running at C:\y\H
 2025-12-09 20:25:21 | INFO     | ensuring close
 2025-12-09 20:25:21 | INFO     | ensuring close
 2025-12-09 20:25:21 | INFO     | ensuring close
+2025-12-09 20:25:25 | INFO     | ============================================================
+2025-12-09 20:25:25 | INFO     | News Scraper Daemon Starting
+2025-12-09 20:25:25 | INFO     | Fork: hk-hack-007/Hong-Kong-Fire-Documentary-i
+2025-12-09 20:25:25 | INFO     | Upstream: adminlby/Hong-Kong-Fire-Documentary
+2025-12-09 20:25:25 | INFO     | Sync interval: 10 minutes
+2025-12-09 20:25:25 | INFO     | PR interval: 60 minutes
+2025-12-09 20:25:25 | INFO     | ============================================================
+2025-12-09 20:25:25 | INFO     | gh CLI authenticated
+2025-12-09 20:25:25 | INFO     | Setting up git remotes...
+2025-12-09 20:25:26 | INFO     | Configured origin remote
+2025-12-09 20:25:26 | INFO     | gh CLI authenticated
+2025-12-09 20:25:26 | INFO     | ----------------------------------------
+2025-12-09 20:25:26 | INFO     | Running periodic health check...
+2025-12-09 20:25:27 | INFO     | gh CLI authenticated
+2025-12-09 20:25:27 | INFO     | Health check passed
+2025-12-09 20:25:27 | INFO     | ----------------------------------------
+2025-12-09 20:25:27 | INFO     | Starting sync cycle...
+2025-12-09 20:25:27 | INFO     | Syncing with upstream...
+2025-12-09 20:25:28 | INFO     | Already up to date with upstream
+2025-12-09 20:25:28 | INFO     | Running scraper...
+2025-12-09 20:25:28 | INFO     | Found 644 new URLs to scrape
+2025-12-09 20:25:32 | INFO     | patching driver executable C:\Users\user\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-09 20:25:34 | INFO     | setting properties for headless
+2025-12-09 20:25:50 | WARNING  | could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+2025-12-09 20:25:51 | INFO     | setting properties for headless
+2025-12-09 20:25:54 | WARNING  | could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+2025-12-09 20:25:55 | INFO     | setting properties for headless
+2025-12-09 20:26:07 | WARNING  | could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+2025-12-09 20:26:08 | INFO     | setting properties for headless
+2025-12-09 20:26:15 | WARNING  | could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+2025-12-09 20:26:15 | INFO     | setting properties for headless
+2025-12-09 20:26:22 | WARNING  | could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+2025-12-09 20:26:23 | INFO     | setting properties for headless
+2025-12-09 20:26:29 | WARNING  | could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+2025-12-09 20:26:30 | INFO     | setting properties for headless
+2025-12-09 20:26:36 | WARNING  | could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+2025-12-09 20:26:37 | INFO     | setting properties for headless
+2025-12-09 20:26:44 | WARNING  | could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+2025-12-09 20:26:45 | INFO     | setting properties for headless
+2025-12-09 20:26:54 | WARNING  | could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+2025-12-09 20:26:55 | INFO     | setting properties for headless
+2025-12-09 20:27:01 | WARNING  | could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+2025-12-09 20:27:03 | INFO     | setting properties for headless
+2025-12-09 20:27:10 | WARNING  | could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+2025-12-09 20:27:11 | INFO     | setting properties for headless
+2025-12-09 20:27:16 | WARNING  | could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+2025-12-09 20:27:18 | INFO     | setting properties for headless
+2025-12-09 20:27:25 | WARNING  | could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+2025-12-09 20:27:26 | INFO     | setting properties for headless
+2025-12-09 20:27:34 | WARNING  | could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+2025-12-09 20:27:35 | INFO     | setting properties for headless
+2025-12-09 20:27:42 | WARNING  | could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+2025-12-09 20:27:43 | INFO     | setting properties for headless
+2025-12-09 20:27:53 | WARNING  | could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+2025-12-09 20:27:54 | INFO     | setting properties for headless
+2025-12-09 21:39:50 | INFO     | Updated cumulative stats: 654 success, 30 failed across 4 cycles
+2025-12-09 21:39:50 | INFO     | Scraper results: 626 success, 18 failed
+2025-12-09 21:39:51 | INFO     | Committing changes...
+2025-12-09 21:40:18 | INFO     | Committed: chore(scraper): auto-scrape 2025-12-09 21:40
+2025-12-09 21:40:31 | INFO     | Pushed to origin successfully
+2025-12-09 21:40:31 | INFO     | Sync cycle complete
+2025-12-09 21:40:31 | INFO     | ----------------------------------------
+2025-12-09 21:40:31 | INFO     | Starting PR cycle...
+2025-12-09 21:40:32 | INFO     | Pushed to origin successfully
+2025-12-09 21:40:32 | INFO     | Managing PR...
+2025-12-09 21:40:35 | ERROR    | Failed to create PR: pull request create failed: GraphQL: No commits between adminlby:main and hk-hack-007:main (createPullRequest)
+
+2025-12-09 21:40:35 | INFO     | PR cycle complete
+2025-12-09 21:40:35 | INFO     | Run once mode, exiting...
+2025-12-09 21:40:35 | INFO     | ensuring close
+2025-12-09 21:40:35 | INFO     | ensuring close
+2025-12-09 21:40:35 | INFO     | ensuring close
+2025-12-09 21:40:35 | INFO     | ensuring close
+2025-12-09 21:40:35 | INFO     | ensuring close
+2025-12-09 21:40:35 | INFO     | ensuring close
+2025-12-09 21:40:35 | INFO     | ensuring close
+2025-12-09 21:40:35 | INFO     | ensuring close
+2025-12-09 21:40:35 | INFO     | ensuring close
+2025-12-09 21:40:35 | INFO     | ensuring close
+2025-12-09 21:40:35 | INFO     | ensuring close
+2025-12-09 21:40:35 | INFO     | ensuring close
+2025-12-09 21:40:35 | INFO     | ensuring close
+2025-12-09 21:40:35 | INFO     | ensuring close
+2025-12-09 21:40:35 | INFO     | ensuring close
+2025-12-09 21:40:35 | INFO     | ensuring close
+2025-12-09 21:40:35 | INFO     | ensuring close2025-12-10 19:29:03 | INFO     | ============================================================
+2025-12-10 19:29:03 | INFO     | News Scraper Daemon Starting
+2025-12-10 19:29:03 | INFO     | Fork: hk-hack-007/Hong-Kong-Fire-Documentary-i
+2025-12-10 19:29:03 | INFO     | Upstream: adminlby/Hong-Kong-Fire-Documentary
+2025-12-10 19:29:03 | INFO     | Sync interval: 10 minutes
+2025-12-10 19:29:03 | INFO     | PR interval: 60 minutes
+2025-12-10 19:29:03 | INFO     | ============================================================
+2025-12-10 19:29:04 | INFO     | gh CLI authenticated
+2025-12-10 19:29:04 | INFO     | Setting up git remotes...
+2025-12-10 19:29:04 | INFO     | Configured origin remote
+2025-12-10 19:29:05 | INFO     | gh CLI authenticated
+2025-12-10 19:29:05 | INFO     | ----------------------------------------
+2025-12-10 19:29:05 | INFO     | Running periodic health check...
+2025-12-10 19:29:06 | INFO     | gh CLI authenticated
+2025-12-10 19:29:06 | INFO     | Health check passed
+2025-12-10 19:29:06 | INFO     | ----------------------------------------
+2025-12-10 19:29:06 | INFO     | Starting sync cycle...
+2025-12-10 19:29:06 | INFO     | Syncing with upstream...
+2025-12-10 19:29:07 | INFO     | Already up to date with upstream
+2025-12-10 19:29:07 | INFO     | Running scraper...
+2025-12-10 19:29:08 | INFO     | Found 130 new URLs to scrape

@@ -46,3 +46,7 @@
 
 ### 2025-12-08
 - [<![CDATA[香港立法會選舉：投票率史上第二低，40人屬於「新人」]]>](https://www.bbc.com/zhongwen/articles/c98nd5z0v68o/trad)
+
+
+### 2025-12-10
+- [<![CDATA[「她逃不了，哪裡也去不了」：香港宏福苑大火中罹難和倖存外傭]]>](https://www.bbc.com/zhongwen/articles/cd6x7ylynv0o/trad)

@@ -51,7 +51,7 @@ async def _scrape_async():
                         if not news_source_orignial:
                             continue
 
-                        close_match = title_clean.find("宏福苑五級火\uff5c")
+                        close_match = title_clean.find("宏福苑五級火追蹤\uff5c")
                         if close_match == -1:
                             continue
 
