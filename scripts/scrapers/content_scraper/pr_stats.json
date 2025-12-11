@@ -1,6 +1,6 @@
 {
-  "success": 752,
-  "failed": 62,
+  "success": 1037,
+  "failed": 63,
   "failed_urls": [
     "https://www2.hkej.com/multimedia/view/id/4264272?/multimedia/searchlist/q/%E9%98%B2%E7%81%AB%E4%BE%8B%E5%A4%A7%E8%90%BD%E5%BE%8C+%E5%B1%8B%E7%BD%B2%E6%B6%88%E9%98%B2%E6%A9%9F%E9%9B%BB%E5%90%84%E8%87%AA%E7%82%BA%E6%94%BF%EF%BD%9C%E4%BF%A1%E5%A0%B1%E8%83%A1%E6%81%A9%E5%A8%81%E5%B0%88%E6%AC%84",
     "https://dw-media.tkww.hk/epaper/tkp/20251128/A7_Screen.pdf",
@@ -29,6 +29,6 @@
     "https://www1.hkej.com/dailynews/politics/article/4270177/%E5%8D%80%E8%AD%B0%E5%93%A1%E5%80%A1%E8%B3%87%E5%8A%A9%E5%AE%8F%E7%A6%8F%E8%8B%91%E7%81%BD%E6%B0%91%E8%B2%B7%E6%96%B0%E5%B1%85",
     "https://www1.hkej.com/dailynews/views/article/4270190/31%E5%A4%B1%E8%81%AF%E8%80%85%E6%B8%9B%E8%87%B36%E5%90%8D+12%E4%BA%BA%E7%A2%BA%E8%AA%8D%E5%AE%89%E5%85%A8"
   ],
-  "cycles": 5,
+  "cycles": 6,
   "started_at": "2025-12-08T00:44:28.851238"
 }

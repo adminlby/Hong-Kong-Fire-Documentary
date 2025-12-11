@@ -323,10 +323,10 @@ async def scrape_url_async(url_info: dict, context, config: dict, retries: int =
         {"desc": "requests-fallback", "use_requests": True},
     ]
 
-    if url.find("hkej.com") > -1:
-        strategies = [
-            {"desc": "uc-fallback", "use_uc": True},
-        ]
+    #if url.find("hkej.com") > -1:
+    #    strategies = [
+    #        {"desc": "uc-fallback", "use_uc": True},
+    #    ]
 
     strategy_idx = min(retries, len(strategies) - 1)
     strategy = strategies[strategy_idx]

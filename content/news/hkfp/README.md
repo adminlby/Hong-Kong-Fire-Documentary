@@ -84,3 +84,11 @@
 - [UN troubled by Hong Kong clampdown after deadly Tai Po fire](https://hongkongfp.com/?p=546269)
 - [Outgoing legislative president calls on newly elected lawmakers to help gov’t tackle Tai Po fire aftermath](https://hongkongfp.com/?p=546233)
 - [Deny compensation to Wang Fuk Court flat buyers after fatal fire, lawmaker urges Hong Kong gov’t](https://hongkongfp.com/?p=546257)
+
+
+### 2025-12-10
+- [Some Hong Kong events resume after mourning period for Tai Po fire victims](https://hongkongfp.com/?p=546353)
+- [Flat owners hit by Tai Po fire to get HK$100,000 relief payment](https://hongkongfp.com/?p=546418)
+
+### 2025-12-11
+- [Hong Kong Judiciary, Legal Aid Dep’t to prioritise cases linked to Tai Po fire victims](https://hongkongfp.com/?p=546471)

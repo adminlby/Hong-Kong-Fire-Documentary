@@ -680,3 +680,26 @@
 - [宏福苑五級火｜援助基金達34億　向每戶業主發10萬元特別補助](https://news.rthk.hk/rthk/ch/component/k2/1835482-20251210.htm?archive_date=2025-12-10)
 - [廣東汕頭有住宅起火　增至12人死亡](https://news.rthk.hk/rthk/ch/component/k2/1835465-20251210.htm?archive_date=2025-12-10)
 - [汕頭市有住宅起火造成8人死亡4人受傷](https://news.rthk.hk/rthk/ch/component/k2/1835418-20251210.htm?archive_date=2025-12-10)
+
+
+### 2025-12-10
+- ['Give Wang Fuk Court residents more rehousing options'](https://news.rthk.hk/rthk/en/component/k2/1835512-20251210.htm?archive_date=2025-12-10)
+- [宏福苑五級火｜司法機構成立專責小組確保優先處理相關法律程序](https://news.rthk.hk/rthk/ch/component/k2/1835538-20251210.htm?archive_date=2025-12-10)
+- [宏福苑五級火｜法援署稱簡化申請程序　讓合資格人士盡早獲得法援](https://news.rthk.hk/rthk/ch/component/k2/1835537-20251210.htm?archive_date=2025-12-10)
+- [宏福苑五級火｜周五起移除宏昌閣、宏泰閣及宏新閣被燒毀外牆棚架](https://news.rthk.hk/rthk/ch/component/k2/1835533-20251210.htm?archive_date=2025-12-10)
+- [廣東汕頭調查昨晚12死住宅火警　全面排查整治隱患](https://news.rthk.hk/rthk/ch/component/k2/1835532-20251210.htm?archive_date=2025-12-10)
+- [宏福苑五級火｜大埔社區中心的臨時庇護中心已停止運作](https://news.rthk.hk/rthk/ch/component/k2/1835515-20251210.htm?archive_date=2025-12-10)
+
+### 2025-12-11
+- [Wang Fuk owners 'could get latest HK$100,000 in days'](https://news.rthk.hk/rthk/en/component/k2/1835596-20251211.htm?archive_date=2025-12-11)
+- [宏福苑五級火｜房屋局稱聯同執法部門調查　不宜透露事故有關詳情](https://news.rthk.hk/rthk/ch/component/k2/1835691-20251211.htm?archive_date=2025-12-11)
+- [宏福苑五級火｜甯漢豪：不同意建造業差勁　不應一竹篙打一船人](https://news.rthk.hk/rthk/ch/component/k2/1835684-20251211.htm?archive_date=2025-12-11)
+- [宏福苑五級火｜設棚網源頭追蹤標籤系統　紀錄測試過程及所用工地](https://news.rthk.hk/rthk/ch/component/k2/1835669-20251211.htm?archive_date=2025-12-11)
+- [宏福苑五級火｜建造業議會集體採購及檢測　約一個月首批棚網上架](https://news.rthk.hk/rthk/ch/component/k2/1835668-20251211.htm?archive_date=2025-12-11)
+- [宏福苑五級火｜承建商須提交棚網檢測文件　按指定方式檢驗](https://news.rthk.hk/rthk/ch/component/k2/1835665-20251211.htm?archive_date=2025-12-11)
+- [宏福苑五級火｜消防處向何偉豪追授榮譽職銜　下周五最高榮譽喪禮](https://news.rthk.hk/rthk/ch/component/k2/1835649-20251211.htm?archive_date=2025-12-11)
+- [中醫醫院已增加首月預約名額　全額豁免宏福苑居民醫療費至明年底](https://news.rthk.hk/rthk/ch/component/k2/1835648-20251211.htm?archive_date=2025-12-11)
+- [宏福苑五級火｜甯漢豪下午4時半就外牆棚網抽樣檢查安排會見傳媒](https://news.rthk.hk/rthk/ch/component/k2/1835634-20251211.htm?archive_date=2025-12-11)
+- [宏福苑五級火｜推為期一年計劃　免費為喪親者提供哀傷善別輔導](https://news.rthk.hk/rthk/ch/component/k2/1835618-20251211.htm?archive_date=2025-12-11)
+- [宏福苑五級火｜龔如心慈善管理有限公司將提供首批1億元捐款](https://news.rthk.hk/rthk/ch/component/k2/1835603-20251211.htm?archive_date=2025-12-11)
+- [宏福苑五級火｜卓永興稱自住業主前後收兩筆各10萬元補助](https://news.rthk.hk/rthk/ch/component/k2/1835590-20251211.htm?archive_date=2025-12-11)
