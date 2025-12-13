@@ -51,11 +51,15 @@ async def _scrape_async():
                         if not news_source_orignial:
                             continue
 
-                        close_match = title_clean.find("宏福苑五級火追蹤\uff5c")
-                        if close_match == -1:
+                        close_match2 = title_clean.find("宏福苑五級火追蹤\uff5c")
+                        close_match1 = title_clean.find("宏福苑五級火\uff5c")
+                        if close_match1 == -1 and close_match2 == -1:
                             continue
 
-                        title_actual = title_clean[close_match + 7 :].strip()
+                        if close_match1 > -1:
+                            title_actual = title_clean[close_match1 + 7 :].strip()
+                        if close_match2 > -1:
+                            title_actual = title_clean[close_match1 + 9 :].strip()
 
                         summary_article_match = re.search(r"純文字重點 不帶災場畫面 附情緒支援熱線", title_clean)
                         if summary_article_match:

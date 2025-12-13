@@ -3296,3 +3296,472 @@ task: <Task cancelling name='Task-1' coro=<run_scraper_async() running at C:\y\H
 2025-12-10 19:29:07 | INFO     | Already up to date with upstream
 2025-12-10 19:29:07 | INFO     | Running scraper...
 2025-12-10 19:29:08 | INFO     | Found 130 new URLs to scrape
+2025-12-10 19:29:48 | INFO     | patching driver executable C:\Users\user\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-10 19:29:50 | INFO     | setting properties for headless
+2025-12-10 19:30:04 | WARNING  | could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+2025-12-10 19:30:05 | INFO     | setting properties for headless
+2025-12-10 19:30:09 | WARNING  | could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+2025-12-10 19:30:10 | INFO     | setting properties for headless
+2025-12-10 19:30:24 | WARNING  | could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+2025-12-10 19:30:25 | INFO     | setting properties for headless
+2025-12-10 19:30:28 | WARNING  | could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+2025-12-10 19:30:29 | INFO     | setting properties for headless
+2025-12-10 19:30:33 | WARNING  | could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+2025-12-10 19:30:34 | INFO     | setting properties for headless
+2025-12-10 19:30:37 | WARNING  | could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+2025-12-10 19:30:38 | INFO     | setting properties for headless
+2025-12-10 19:30:46 | WARNING  | could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+2025-12-10 19:30:47 | INFO     | setting properties for headless
+2025-12-10 19:30:58 | WARNING  | could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+2025-12-10 19:30:59 | INFO     | setting properties for headless
+2025-12-10 19:31:06 | WARNING  | could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+2025-12-10 19:31:08 | INFO     | setting properties for headless
+2025-12-10 19:31:13 | WARNING  | could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+2025-12-10 19:31:15 | INFO     | setting properties for headless
+2025-12-10 19:31:19 | WARNING  | could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+2025-12-10 19:31:21 | INFO     | setting properties for headless
+2025-12-10 19:31:27 | WARNING  | could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+2025-12-10 19:31:29 | INFO     | setting properties for headless
+2025-12-10 19:31:33 | WARNING  | could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+2025-12-10 19:31:35 | INFO     | setting properties for headless
+2025-12-10 19:31:42 | WARNING  | could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+2025-12-10 19:31:45 | INFO     | setting properties for headless
+2025-12-10 19:31:57 | WARNING  | could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+2025-12-10 19:31:59 | INFO     | setting properties for headless
+2025-12-10 19:32:15 | WARNING  | could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+2025-12-10 19:32:17 | INFO     | setting properties for headless
+2025-12-10 19:32:28 | WARNING  | could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+2025-12-10 19:32:30 | INFO     | setting properties for headless
+2025-12-10 19:32:38 | WARNING  | could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+2025-12-10 19:32:42 | INFO     | setting properties for headless
+2025-12-10 19:32:51 | WARNING  | could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+2025-12-10 19:32:53 | INFO     | setting properties for headless
+2025-12-10 19:33:04 | WARNING  | could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+2025-12-10 19:33:06 | INFO     | setting properties for headless
+2025-12-10 19:33:21 | WARNING  | could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+2025-12-10 19:33:22 | INFO     | setting properties for headless
+2025-12-10 19:33:32 | WARNING  | could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+2025-12-10 19:33:34 | INFO     | setting properties for headless
+2025-12-10 19:33:49 | WARNING  | could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+2025-12-10 19:33:51 | INFO     | setting properties for headless
+2025-12-10 19:34:16 | WARNING  | could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+2025-12-10 19:34:18 | INFO     | setting properties for headless
+2025-12-10 19:34:43 | WARNING  | could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+2025-12-10 19:34:45 | INFO     | setting properties for headless
+2025-12-10 19:34:58 | WARNING  | could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+2025-12-10 19:35:03 | INFO     | setting properties for headless
+2025-12-10 19:36:00 | WARNING  | could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+2025-12-10 19:36:03 | INFO     | setting properties for headless
+2025-12-10 19:36:17 | WARNING  | could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+2025-12-10 19:36:26 | INFO     | setting properties for headless
+2025-12-10 19:36:40 | WARNING  | could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+2025-12-10 19:36:42 | INFO     | setting properties for headless
+2025-12-10 19:37:00 | WARNING  | could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+2025-12-10 19:37:06 | INFO     | setting properties for headless
+2025-12-10 19:37:16 | WARNING  | could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+2025-12-10 19:37:23 | INFO     | setting properties for headless
+2025-12-10 19:37:41 | WARNING  | could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+2025-12-10 19:37:49 | INFO     | setting properties for headless
+2025-12-10 19:38:19 | WARNING  | could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+2025-12-10 19:39:02 | INFO     | setting properties for headless
+2025-12-10 19:39:37 | WARNING  | could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+2025-12-10 19:40:20 | INFO     | setting properties for headless
+2025-12-10 19:42:50 | WARNING  | could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+2025-12-10 19:43:16 | INFO     | setting properties for headless
+2025-12-10 19:57:28 | INFO     | Updated cumulative stats: 752 success, 62 failed across 5 cycles
+2025-12-10 19:57:28 | INFO     | Scraper results: 98 success, 32 failed
+2025-12-10 19:57:29 | INFO     | Committing changes...
+2025-12-10 19:57:33 | INFO     | Committed: chore(scraper): auto-scrape 2025-12-10 19:57
+2025-12-10 19:57:46 | INFO     | Pushed to origin successfully
+2025-12-10 19:57:46 | INFO     | Sync cycle complete
+2025-12-10 19:57:46 | INFO     | ----------------------------------------
+2025-12-10 19:57:46 | INFO     | Starting PR cycle...
+2025-12-10 19:57:48 | INFO     | Pushed to origin successfully
+2025-12-10 19:57:48 | INFO     | Managing PR...
+2025-12-10 19:57:53 | ERROR    | Failed to create PR: pull request create failed: GraphQL: No commits between adminlby:main and hk-hack-007:main (createPullRequest)
+
+2025-12-10 19:57:53 | INFO     | PR cycle complete
+2025-12-10 19:57:53 | INFO     | Run once mode, exiting...
+2025-12-10 19:57:53 | INFO     | ensuring close
+2025-12-10 19:57:53 | INFO     | ensuring close
+2025-12-10 19:57:53 | INFO     | ensuring close
+2025-12-10 19:57:53 | INFO     | ensuring close
+2025-12-10 19:57:53 | INFO     | ensuring close
+2025-12-10 19:57:53 | INFO     | ensuring close
+2025-12-10 19:57:53 | INFO     | ensuring close
+2025-12-10 19:57:53 | INFO     | ensuring close
+2025-12-10 19:57:53 | INFO     | ensuring close
+2025-12-10 19:57:54 | INFO     | ensuring close
+2025-12-10 19:57:54 | INFO     | ensuring close
+2025-12-10 19:57:54 | INFO     | ensuring close
+2025-12-10 19:57:54 | INFO     | ensuring close
+2025-12-10 19:57:54 | INFO     | ensuring close
+2025-12-10 19:57:54 | INFO     | ensuring close
+2025-12-10 19:57:54 | INFO     | ensuring close
+2025-12-10 19:57:54 | INFO     | ensuring close
+2025-12-10 19:57:54 | INFO     | ensuring close
+2025-12-10 19:57:54 | INFO     | ensuring close
+2025-12-10 19:57:54 | INFO     | ensuring close
+2025-12-10 19:57:54 | INFO     | ensuring close
+2025-12-10 19:57:54 | INFO     | ensuring close
+2025-12-10 19:57:54 | INFO     | ensuring close
+2025-12-10 19:57:54 | INFO     | ensuring close
+2025-12-10 19:57:54 | INFO     | ensuring close
+2025-12-10 19:57:54 | INFO     | ensuring close
+2025-12-10 19:57:54 | INFO     | ensuring close
+2025-12-10 19:57:54 | INFO     | ensuring close
+2025-12-10 19:57:54 | INFO     | ensuring close
+2025-12-10 19:57:54 | INFO     | ensuring close
+2025-12-10 19:57:54 | INFO     | ensuring close
+2025-12-10 19:57:54 | INFO     | ensuring close
+2025-12-10 19:57:54 | INFO     | ensuring close
+2025-12-10 19:57:54 | INFO     | ensuring close
+2025-12-10 19:57:54 | INFO     | ensuring close
+2025-12-10 19:57:54 | INFO     | ensuring close
+
+2025-12-11 19:34:39 | INFO     | ============================================================
+2025-12-11 19:34:39 | INFO     | News Scraper Daemon Starting
+2025-12-11 19:34:39 | INFO     | Fork: hk-hack-007/Hong-Kong-Fire-Documentary-i
+2025-12-11 19:34:39 | INFO     | Upstream: adminlby/Hong-Kong-Fire-Documentary
+2025-12-11 19:34:39 | INFO     | Sync interval: 10 minutes
+2025-12-11 19:34:39 | INFO     | PR interval: 60 minutes
+2025-12-11 19:34:39 | INFO     | ============================================================
+2025-12-11 19:34:40 | INFO     | gh CLI authenticated
+2025-12-11 19:34:40 | INFO     | Setting up git remotes...
+2025-12-11 19:34:40 | INFO     | Configured origin remote
+2025-12-11 19:34:41 | INFO     | gh CLI authenticated
+2025-12-11 19:34:41 | INFO     | ----------------------------------------
+2025-12-11 19:34:41 | INFO     | Running periodic health check...
+2025-12-11 19:34:42 | INFO     | gh CLI authenticated
+2025-12-11 19:34:42 | INFO     | Health check passed
+2025-12-11 19:34:42 | INFO     | ----------------------------------------
+2025-12-11 19:34:42 | INFO     | Starting sync cycle...
+2025-12-11 19:34:42 | INFO     | Syncing with upstream...
+2025-12-11 19:34:44 | INFO     | Already up to date with upstream
+2025-12-11 19:34:44 | INFO     | Running scraper...
+2025-12-11 19:34:44 | INFO     | Found 286 new URLs to scrape
+2025-12-11 19:46:09 | INFO     | Updated cumulative stats: 1037 success, 63 failed across 6 cycles
+2025-12-11 19:46:09 | INFO     | Scraper results: 285 success, 1 failed
+2025-12-11 19:46:09 | INFO     | Committing changes...
+2025-12-11 19:46:14 | INFO     | Committed: chore(scraper): auto-scrape 2025-12-11 19:46
+2025-12-11 19:47:13 | INFO     | Pushed to origin successfully
+2025-12-11 19:47:13 | INFO     | Sync cycle complete
+2025-12-11 19:47:13 | INFO     | ----------------------------------------
+2025-12-11 19:47:13 | INFO     | Starting PR cycle...
+2025-12-11 19:47:15 | INFO     | Pushed to origin successfully
+2025-12-11 19:47:15 | INFO     | Managing PR...
+2025-12-11 19:47:22 | ERROR    | Failed to create PR: pull request create failed: GraphQL: No commits between adminlby:main and hk-hack-007:main (createPullRequest)
+
+2025-12-11 19:47:22 | INFO     | PR cycle complete
+2025-12-11 19:47:22 | INFO     | Run once mode, exiting...
+2025-12-12 20:30:03 | INFO     | ============================================================
+2025-12-12 20:30:03 | INFO     | News Scraper Daemon Starting
+2025-12-12 20:30:03 | INFO     | Fork: hk-hack-007/Hong-Kong-Fire-Documentary-i
+2025-12-12 20:30:03 | INFO     | Upstream: adminlby/Hong-Kong-Fire-Documentary
+2025-12-12 20:30:03 | INFO     | Sync interval: 10 minutes
+2025-12-12 20:30:03 | INFO     | PR interval: 60 minutes
+2025-12-12 20:30:03 | INFO     | ============================================================
+2025-12-12 20:30:04 | INFO     | gh CLI authenticated
+2025-12-12 20:30:04 | INFO     | Setting up git remotes...
+2025-12-12 20:30:04 | INFO     | Configured origin remote
+2025-12-12 20:30:05 | INFO     | gh CLI authenticated
+2025-12-12 20:30:05 | INFO     | ----------------------------------------
+2025-12-12 20:30:05 | INFO     | Running periodic health check...
+2025-12-12 20:30:06 | INFO     | gh CLI authenticated
+2025-12-12 20:30:06 | INFO     | Health check passed
+2025-12-12 20:30:06 | INFO     | ----------------------------------------
+2025-12-12 20:30:06 | INFO     | Starting sync cycle...
+2025-12-12 20:30:06 | INFO     | Syncing with upstream...
+2025-12-12 20:30:07 | INFO     | Already up to date with upstream
+2025-12-12 20:30:07 | INFO     | Running scraper...
+2025-12-12 20:30:08 | INFO     | Found 148 new URLs to scrape
+2025-12-12 20:31:39 | INFO     | patching driver executable C:\Users\user\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-12 20:40:21 | INFO     | Daemon stopped by user
+2025-12-12 20:40:21 | INFO     | ensuring close
+2025-12-12 20:40:21 | INFO     | ensuring close
+2025-12-12 20:40:21 | INFO     | ensuring close
+2025-12-12 20:40:21 | INFO     | ensuring close
+2025-12-12 20:40:21 | INFO     | ensuring close
+2025-12-12 20:40:21 | INFO     | ensuring close
+2025-12-12 20:40:21 | INFO     | ensuring close
+2025-12-12 20:40:21 | INFO     | ensuring close
+2025-12-12 20:40:47 | INFO     | ============================================================
+2025-12-12 20:40:47 | INFO     | News Scraper Daemon Starting
+2025-12-12 20:40:47 | INFO     | Fork: hk-hack-007/Hong-Kong-Fire-Documentary-i
+2025-12-12 20:40:47 | INFO     | Upstream: adminlby/Hong-Kong-Fire-Documentary
+2025-12-12 20:40:47 | INFO     | Sync interval: 10 minutes
+2025-12-12 20:40:47 | INFO     | PR interval: 60 minutes
+2025-12-12 20:40:47 | INFO     | ============================================================
+2025-12-12 20:40:48 | INFO     | gh CLI authenticated
+2025-12-12 20:40:48 | INFO     | Setting up git remotes...
+2025-12-12 20:40:48 | INFO     | Configured origin remote
+2025-12-12 20:40:48 | INFO     | gh CLI authenticated
+2025-12-12 20:40:49 | INFO     | ----------------------------------------
+2025-12-12 20:40:49 | INFO     | Running periodic health check...
+2025-12-12 20:40:49 | INFO     | gh CLI authenticated
+2025-12-12 20:40:50 | INFO     | Health check passed
+2025-12-12 20:40:50 | INFO     | ----------------------------------------
+2025-12-12 20:40:50 | INFO     | Starting sync cycle...
+2025-12-12 20:40:50 | INFO     | Syncing with upstream...
+2025-12-12 20:40:51 | INFO     | Already up to date with upstream
+2025-12-12 20:40:51 | INFO     | Running scraper...
+2025-12-12 20:40:51 | INFO     | Found 142 new URLs to scrape
+2025-12-12 20:41:36 | INFO     | patching driver executable C:\Users\user\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-12 21:52:03 | INFO     | Updated cumulative stats: 1173 success, 69 failed across 7 cycles
+2025-12-12 21:52:03 | INFO     | Scraper results: 136 success, 6 failed
+2025-12-12 21:52:04 | INFO     | Committing changes...
+2025-12-12 21:52:06 | INFO     | Committed: chore(scraper): auto-scrape 2025-12-12 21:52
+2025-12-12 21:52:11 | INFO     | Pushed to origin successfully
+2025-12-12 21:52:11 | INFO     | Sync cycle complete
+2025-12-12 21:52:11 | INFO     | ----------------------------------------
+2025-12-12 21:52:11 | INFO     | Starting PR cycle...
+2025-12-12 21:52:12 | INFO     | Pushed to origin successfully
+2025-12-12 21:52:12 | INFO     | Managing PR...
+2025-12-12 21:52:18 | ERROR    | Failed to create PR: pull request create failed: GraphQL: No commits between adminlby:main and hk-hack-007:main (createPullRequest)
+
+2025-12-12 21:52:18 | INFO     | PR cycle complete
+2025-12-12 21:52:18 | INFO     | Run once mode, exiting...
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:52:18 | INFO     | ensuring close
+2025-12-12 21:53:57 | INFO     | ============================================================
+2025-12-12 21:53:57 | INFO     | News Scraper Daemon Starting
+2025-12-12 21:53:57 | INFO     | Fork: hk-hack-007/Hong-Kong-Fire-Documentary-i
+2025-12-12 21:53:57 | INFO     | Upstream: adminlby/Hong-Kong-Fire-Documentary
+2025-12-12 21:53:57 | INFO     | Sync interval: 10 minutes
+2025-12-12 21:53:57 | INFO     | PR interval: 60 minutes
+2025-12-12 21:53:57 | INFO     | ============================================================
+2025-12-12 21:53:58 | INFO     | gh CLI authenticated
+2025-12-12 21:53:58 | INFO     | Setting up git remotes...
+2025-12-12 21:53:58 | INFO     | Configured origin remote
+2025-12-12 21:53:58 | INFO     | gh CLI authenticated
+2025-12-12 21:53:59 | INFO     | ----------------------------------------
+2025-12-12 21:53:59 | INFO     | Running periodic health check...
+2025-12-12 21:53:59 | INFO     | gh CLI authenticated
+2025-12-12 21:53:59 | INFO     | Health check passed
+2025-12-12 21:53:59 | INFO     | ----------------------------------------
+2025-12-12 21:53:59 | INFO     | Starting sync cycle...
+2025-12-12 21:53:59 | INFO     | Syncing with upstream...
+2025-12-12 21:54:00 | INFO     | Daemon stopped by user
+2025-12-12 22:47:47 | INFO     | ============================================================
+2025-12-12 22:47:47 | INFO     | News Scraper Daemon Starting
+2025-12-12 22:47:47 | INFO     | Fork: hk-hack-007/Hong-Kong-Fire-Documentary-i
+2025-12-12 22:47:47 | INFO     | Upstream: adminlby/Hong-Kong-Fire-Documentary
+2025-12-12 22:47:47 | INFO     | Sync interval: 10 minutes
+2025-12-12 22:47:47 | INFO     | PR interval: 60 minutes
+2025-12-12 22:47:47 | INFO     | ============================================================
+2025-12-12 22:47:47 | INFO     | gh CLI authenticated
+2025-12-12 22:47:47 | INFO     | Setting up git remotes...
+2025-12-12 22:47:47 | INFO     | Configured origin remote
+2025-12-12 22:47:48 | INFO     | gh CLI authenticated
+2025-12-12 22:47:48 | INFO     | ----------------------------------------
+2025-12-12 22:47:48 | INFO     | Running periodic health check...
+2025-12-12 22:47:49 | INFO     | gh CLI authenticated
+2025-12-12 22:47:49 | INFO     | Health check passed
+2025-12-12 22:47:49 | INFO     | ----------------------------------------
+2025-12-12 22:47:49 | INFO     | Starting sync cycle...
+2025-12-12 22:47:49 | INFO     | Syncing with upstream...
+2025-12-12 22:47:50 | INFO     | Already up to date with upstream
+2025-12-12 22:47:50 | INFO     | Running scraper...
+2025-12-12 22:47:50 | INFO     | Found 211 new URLs to scrape
+2025-12-12 22:49:22 | INFO     | patching driver executable C:\Users\user\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-12 23:03:30 | ERROR    | Scraper error: BrowserContext.new_page: Target page, context or browser has been closed
+2025-12-12 23:03:31 | INFO     | Committing changes...
+2025-12-12 23:03:36 | INFO     | Committed: chore(scraper): auto-scrape 2025-12-12 23:03
+2025-12-12 23:03:43 | INFO     | Pushed to origin successfully
+2025-12-12 23:03:43 | INFO     | Sync cycle complete
+2025-12-12 23:03:43 | INFO     | ----------------------------------------
+2025-12-12 23:03:43 | INFO     | Starting PR cycle...
+2025-12-12 23:03:44 | INFO     | Pushed to origin successfully
+2025-12-12 23:03:44 | INFO     | Managing PR...
+2025-12-12 23:03:48 | ERROR    | Failed to create PR: pull request create failed: GraphQL: No commits between adminlby:main and hk-hack-007:main (createPullRequest)
+
+2025-12-12 23:03:48 | INFO     | PR cycle complete
+2025-12-12 23:03:48 | INFO     | Run once mode, exiting...
+2025-12-12 23:03:48 | INFO     | ensuring close
+2025-12-12 23:03:48 | INFO     | ensuring close
+2025-12-12 23:03:48 | INFO     | ensuring close
+2025-12-12 23:03:48 | INFO     | ensuring close
+2025-12-12 23:03:48 | INFO     | ensuring close
+2025-12-12 23:03:48 | INFO     | ensuring close
+2025-12-12 23:03:48 | INFO     | ensuring close
+2025-12-12 23:03:48 | INFO     | ensuring close
+2025-12-12 23:03:48 | INFO     | ensuring close
+2025-12-12 23:03:48 | INFO     | ensuring close
+2025-12-12 23:03:48 | INFO     | ensuring close
+2025-12-12 23:03:48 | INFO     | ensuring close
+2025-12-12 23:03:48 | INFO     | ensuring close
+2025-12-12 23:03:48 | INFO     | ensuring close
+2025-12-12 23:07:29 | INFO     | ============================================================
+2025-12-12 23:07:29 | INFO     | News Scraper Daemon Starting
+2025-12-12 23:07:29 | INFO     | Fork: hk-hack-007/Hong-Kong-Fire-Documentary-i
+2025-12-12 23:07:29 | INFO     | Upstream: adminlby/Hong-Kong-Fire-Documentary
+2025-12-12 23:07:29 | INFO     | Sync interval: 10 minutes
+2025-12-12 23:07:29 | INFO     | PR interval: 60 minutes
+2025-12-12 23:07:29 | INFO     | ============================================================
+2025-12-12 23:07:30 | INFO     | gh CLI authenticated
+2025-12-12 23:07:30 | INFO     | Setting up git remotes...
+2025-12-12 23:07:30 | INFO     | Configured origin remote
+2025-12-12 23:07:31 | INFO     | gh CLI authenticated
+2025-12-12 23:07:31 | INFO     | ----------------------------------------
+2025-12-12 23:07:31 | INFO     | Running periodic health check...
+2025-12-12 23:07:32 | INFO     | gh CLI authenticated
+2025-12-12 23:07:32 | INFO     | Health check passed
+2025-12-12 23:07:32 | INFO     | ----------------------------------------
+2025-12-12 23:07:32 | INFO     | Starting sync cycle...
+2025-12-12 23:07:32 | INFO     | Syncing with upstream...
+2025-12-12 23:07:33 | INFO     | Already up to date with upstream
+2025-12-12 23:07:33 | INFO     | Running scraper...
+2025-12-12 23:07:33 | INFO     | Found 19 new URLs to scrape
+2025-12-12 23:09:15 | INFO     | Updated cumulative stats: 1191 success, 70 failed across 8 cycles
+2025-12-12 23:09:15 | INFO     | Scraper results: 18 success, 1 failed
+2025-12-12 23:09:15 | INFO     | Committing changes...
+2025-12-12 23:09:16 | INFO     | Committed: chore(scraper): auto-scrape 2025-12-12 23:09
+2025-12-12 23:09:19 | INFO     | Pushed to origin successfully
+2025-12-12 23:09:19 | INFO     | Sync cycle complete
+2025-12-12 23:09:19 | INFO     | ----------------------------------------
+2025-12-12 23:09:19 | INFO     | Starting PR cycle...
+2025-12-12 23:09:20 | INFO     | Pushed to origin successfully
+2025-12-12 23:09:20 | INFO     | Managing PR...
+2025-12-12 23:09:24 | ERROR    | Failed to create PR: pull request create failed: GraphQL: No commits between adminlby:main and hk-hack-007:main (createPullRequest)
+
+2025-12-12 23:09:24 | INFO     | PR cycle complete
+2025-12-12 23:09:24 | INFO     | Run once mode, exiting...

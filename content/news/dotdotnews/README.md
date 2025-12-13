@@ -139,3 +139,5 @@
 - [Deepline | Wang Fuk Court No. 5 fires: Under gloomy skies, HK community's bonds shine through grief](<https://english.dotdotnews.com/a/202512/01/AP692d1153e4b0c32d4f6178ef.html>)
 - [Watch This | Citizens bring flowers, cards to mourn Wang Fuk Court fire victims](<https://english.dotdotnews.com/a/202512/01/AP692d0cb2e4b0c32d4f6177a0.html>)
 - [Wang Fuk Court No. 5 fires | ICAC arrests 12 individuals in connection with procurement of non-fire-retardant tarpaulins](<https://english.dotdotnews.com/a/202512/01/AP692d6228e4b0c32d4f618b9f.html>)
+
+# DotDotNews (Chinese)

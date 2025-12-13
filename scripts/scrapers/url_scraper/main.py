@@ -36,6 +36,7 @@ SOURCE_DIR_MAP = {
     "NOW 新聞報導": "now-news",
     "Hong Kong Free Press": "hkfp",
     "Yahoo HK News": "yahoo-news-hk",
+    "獨立媒體": "inmedia",
 }
 
 

@@ -277,7 +277,27 @@ async def scrape_with_requests(url: str, config: dict) -> tuple[str, bool]:
         return "", False
 
 
-def scrape_with_uc(url: str, config: dict) -> tuple[str, bool]:
+def scrape_with_uc_inmedia(url: str, config: dict) -> tuple[str, bool]:
+    """Fallback scraper using undetected-chromedriver library for hkej, not-mature"""
+    import undetected_chromedriver as uc
+    from selenium.webdriver.common.by import By
+    from selenium.webdriver.support import expected_conditions as EC
+    from selenium.webdriver.support.ui import WebDriverWait
+
+    try:
+        driver = uc.Chrome(headless=False, use_subprocess=False)
+        driver.get(url)
+        element = WebDriverWait(driver, 120).until(
+           EC.visibility_of_element_located((By.XPATH, "/html/body/div[4]/section/section/div[2]/div[2]/article"))
+        )
+        content = element.get_attribute("innerHTML")
+        driver.close()
+        return content, True
+    except Exception as e:
+        log(f"  ⚠️ Undetected Chromedriver fallback failed: {str(e)[:40]}", "WARN")
+        return "", False
+
+def scrape_with_uc_hkej(url: str, config: dict) -> tuple[str, bool]:
     """Fallback scraper using undetected-chromedriver library for hkej, not-mature"""
     import undetected_chromedriver as uc
     from selenium.webdriver.common.by import By
@@ -323,9 +343,9 @@ async def scrape_url_async(url_info: dict, context, config: dict, retries: int =
         {"desc": "requests-fallback", "use_requests": True},
     ]
 
-    if url.find("hkej.com") > -1:
+    if url.find("inmediahk.net") > -1:
         strategies = [
-            {"desc": "uc-fallback", "use_uc": True},
+            {"desc": "uc-fallback", "use_uc_inmedia": True},
         ]
 
     strategy_idx = min(retries, len(strategies) - 1)
@@ -336,9 +356,9 @@ async def scrape_url_async(url_info: dict, context, config: dict, retries: int =
         log("  🔄 Trying requests fallback...", "WARN")
         return await scrape_with_requests(url, config)
 
-    if strategy.get("use_uc"):
+    if strategy.get("use_uc_inmedia"):
         log("  🔄 Trying undetected-chromedriver fallback...", "WARN")
-        return scrape_with_uc(url, config)
+        return scrape_with_uc_inmedia(url, config)
 
     # Create new context for HTTP/2 disabled retry
     use_context = context

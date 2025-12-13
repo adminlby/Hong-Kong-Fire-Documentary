@@ -680,3 +680,78 @@
 - [宏福苑五級火｜援助基金達34億　向每戶業主發10萬元特別補助](https://news.rthk.hk/rthk/ch/component/k2/1835482-20251210.htm?archive_date=2025-12-10)
 - [廣東汕頭有住宅起火　增至12人死亡](https://news.rthk.hk/rthk/ch/component/k2/1835465-20251210.htm?archive_date=2025-12-10)
 - [汕頭市有住宅起火造成8人死亡4人受傷](https://news.rthk.hk/rthk/ch/component/k2/1835418-20251210.htm?archive_date=2025-12-10)
+
+
+### 2025-12-10
+- ['Give Wang Fuk Court residents more rehousing options'](https://news.rthk.hk/rthk/en/component/k2/1835512-20251210.htm?archive_date=2025-12-10)
+- [宏福苑五級火｜司法機構成立專責小組確保優先處理相關法律程序](https://news.rthk.hk/rthk/ch/component/k2/1835538-20251210.htm?archive_date=2025-12-10)
+- [宏福苑五級火｜法援署稱簡化申請程序　讓合資格人士盡早獲得法援](https://news.rthk.hk/rthk/ch/component/k2/1835537-20251210.htm?archive_date=2025-12-10)
+- [宏福苑五級火｜周五起移除宏昌閣、宏泰閣及宏新閣被燒毀外牆棚架](https://news.rthk.hk/rthk/ch/component/k2/1835533-20251210.htm?archive_date=2025-12-10)
+- [廣東汕頭調查昨晚12死住宅火警　全面排查整治隱患](https://news.rthk.hk/rthk/ch/component/k2/1835532-20251210.htm?archive_date=2025-12-10)
+- [宏福苑五級火｜大埔社區中心的臨時庇護中心已停止運作](https://news.rthk.hk/rthk/ch/component/k2/1835515-20251210.htm?archive_date=2025-12-10)
+
+### 2025-12-11
+- [Wang Fuk owners 'could get latest HK$100,000 in days'](https://news.rthk.hk/rthk/en/component/k2/1835596-20251211.htm?archive_date=2025-12-11)
+- [宏福苑五級火｜房屋局稱聯同執法部門調查　不宜透露事故有關詳情](https://news.rthk.hk/rthk/ch/component/k2/1835691-20251211.htm?archive_date=2025-12-11)
+- [宏福苑五級火｜甯漢豪：不同意建造業差勁　不應一竹篙打一船人](https://news.rthk.hk/rthk/ch/component/k2/1835684-20251211.htm?archive_date=2025-12-11)
+- [宏福苑五級火｜設棚網源頭追蹤標籤系統　紀錄測試過程及所用工地](https://news.rthk.hk/rthk/ch/component/k2/1835669-20251211.htm?archive_date=2025-12-11)
+- [宏福苑五級火｜建造業議會集體採購及檢測　約一個月首批棚網上架](https://news.rthk.hk/rthk/ch/component/k2/1835668-20251211.htm?archive_date=2025-12-11)
+- [宏福苑五級火｜承建商須提交棚網檢測文件　按指定方式檢驗](https://news.rthk.hk/rthk/ch/component/k2/1835665-20251211.htm?archive_date=2025-12-11)
+- [宏福苑五級火｜消防處向何偉豪追授榮譽職銜　下周五最高榮譽喪禮](https://news.rthk.hk/rthk/ch/component/k2/1835649-20251211.htm?archive_date=2025-12-11)
+- [中醫醫院已增加首月預約名額　全額豁免宏福苑居民醫療費至明年底](https://news.rthk.hk/rthk/ch/component/k2/1835648-20251211.htm?archive_date=2025-12-11)
+- [宏福苑五級火｜甯漢豪下午4時半就外牆棚網抽樣檢查安排會見傳媒](https://news.rthk.hk/rthk/ch/component/k2/1835634-20251211.htm?archive_date=2025-12-11)
+- [宏福苑五級火｜推為期一年計劃　免費為喪親者提供哀傷善別輔導](https://news.rthk.hk/rthk/ch/component/k2/1835618-20251211.htm?archive_date=2025-12-11)
+- [宏福苑五級火｜龔如心慈善管理有限公司將提供首批1億元捐款](https://news.rthk.hk/rthk/ch/component/k2/1835603-20251211.htm?archive_date=2025-12-11)
+- [宏福苑五級火｜卓永興稱自住業主前後收兩筆各10萬元補助](https://news.rthk.hk/rthk/ch/component/k2/1835590-20251211.htm?archive_date=2025-12-11)
+
+
+### 2025-12-11
+- [宏福苑五級火｜援助基金達35億　已處理1784宗生活津貼發放](https://news.rthk.hk/rthk/ch/component/k2/1835710-20251211.htm?archive_date=2025-12-11)
+- [宏福苑五級火｜男子涉冒認災民騙援助金　案件明日上午提堂](https://news.rthk.hk/rthk/ch/component/k2/1835707-20251211.htm?archive_date=2025-12-11)
+- [宏福苑五級火｜政府稱逾2千過渡性房屋等單位供居民較長期使用](https://news.rthk.hk/rthk/ch/component/k2/1835700-20251211.htm?archive_date=2025-12-11)
+
+### 2025-12-12
+- [Judge David Lok to lead committee on Tai Po blaze](https://news.rthk.hk/rthk/en/component/k2/1835828-20251212.htm?archive_date=2025-12-12)
+- [宏福苑五級火｜陳國基稱協調所有政策局和部門配合獨立委員會工作](https://news.rthk.hk/rthk/ch/component/k2/1835893-20251212.htm?archive_date=2025-12-12)
+- [宏福苑五級火｜獨立委員會本月下旬正式投入運作](https://news.rthk.hk/rthk/ch/component/k2/1835882-20251212.htm?archive_date=2025-12-12)
+- [宏福苑五級火｜湯文龍稱本港司法體系獨立　不存在自己人查自己人](https://news.rthk.hk/rthk/ch/component/k2/1835871-20251212.htm?archive_date=2025-12-12)
+- [宏福苑五級火｜精神健康諮詢委員會支援　已接觸130死者的家屬](https://news.rthk.hk/rthk/ch/component/k2/1835870-20251212.htm?archive_date=2025-12-12)
+- [首用「非法操練」拘9人　國安處稱部分人穿黑暴服裝出現火災現場](https://news.rthk.hk/rthk/ch/component/k2/1835865-20251212.htm?archive_date=2025-12-12)
+- [宏福苑五級火｜建造業議會：承建商須按ISO標準為棚網採樣](https://news.rthk.hk/rthk/ch/component/k2/1835838-20251212.htm?archive_date=2025-12-12)
+- [宏福苑五級火｜獨立委員會由陸啟康擔任主席　九個月內交報告](https://news.rthk.hk/rthk/ch/component/k2/1835853-20251212.htm?archive_date=2025-12-12)
+- [宏福苑五級火｜湯家驊指獨立委員會審視方式新穎　可查得快及徹底](https://news.rthk.hk/rthk/ch/component/k2/1835856-20251212.htm?archive_date=2025-12-12)
+- [宏福苑五級火｜陸啟康稱如有需要會考慮辭任選管會主席](https://news.rthk.hk/rthk/ch/component/k2/1835854-20251212.htm?archive_date=2025-12-12)
+- [宏福苑五級火｜陸啟康：竭盡所能履行職責　籲相關持份者積極配合](https://news.rthk.hk/rthk/ch/component/k2/1835852-20251212.htm?archive_date=2025-12-12)
+- [宏福苑五級火｜李家超稱問責到底　不存在任何人可逃避責任](https://news.rthk.hk/rthk/ch/component/k2/1835843-20251212.htm?archive_date=2025-12-12)
+- [宏福苑五級火｜特首已指示小組就長遠住宿全面收集受災人士意見](https://news.rthk.hk/rthk/ch/component/k2/1835824-20251212.htm?archive_date=2025-12-12)
+- [宏福苑五級火｜李家超稱習近平高度重視大火　述職時匯報最新情況](https://news.rthk.hk/rthk/ch/component/k2/1835820-20251212.htm?archive_date=2025-12-12)
+- [宏福苑五級火｜獨立委員會就特定議題可獲賦權成為法定調查委員會](https://news.rthk.hk/rthk/ch/component/k2/1835816-20251212.htm?archive_date=2025-12-12)
+- [宏福苑五級火｜李家超宣布委任法官陸啟康為獨立委員會主席](https://news.rthk.hk/rthk/ch/component/k2/1835813-20251212.htm?archive_date=2025-12-12)
+- [宏福苑五級火｜行政長官李家超下午就宏福苑火災有關事宜會見傳媒](https://news.rthk.hk/rthk/ch/component/k2/1835801-20251212.htm?archive_date=2025-12-12)
+- [宏福苑五級火｜建造商會冀大規模檢測棚網令成本下調](https://news.rthk.hk/rthk/ch/component/k2/1835775-20251212.htm?archive_date=2025-12-12)
+- [宏福苑五級火｜建造業議會稱棚網抽樣數目及位置按ISO規定](https://news.rthk.hk/rthk/ch/component/k2/1835766-20251212.htm?archive_date=2025-12-12)
+
+
+### 2025-12-12
+- [宏福苑五級火｜建造業議會：拒絶害群之馬以不良手法危害業界聲譽](https://news.rthk.hk/rthk/ch/component/k2/1835897-20251212.htm?archive_date=2025-12-12)
+- [宏福苑五級火｜「睇樓團」參觀過渡性房屋等單位　逾百居民今參與](https://news.rthk.hk/rthk/ch/component/k2/1835896-20251212.htm?archive_date=2025-12-12)
+- [宏福苑五級火｜援助基金達36億　3樓宇燒毀外牆棚架今起移除](https://news.rthk.hk/rthk/ch/component/k2/1835895-20251212.htm?archive_date=2025-12-12)
+
+### 2025-12-13
+- [Iran under fire over rearrest of Nobel laureate](https://news.rthk.hk/rthk/en/component/k2/1835979-20251213.htm?archive_date=2025-12-13)
+- [Disaster displaced 'may get new HOS flats in Tai Po'](https://news.rthk.hk/rthk/en/component/k2/1835944-20251213.htm?archive_date=2025-12-13)
+- [Fire-probe body 'can work faster than commission'](https://news.rthk.hk/rthk/en/component/k2/1835941-20251213.htm?archive_date=2025-12-13)
+- [One hurt, 400 evacuated in Tin Shui Wai fire](https://news.rthk.hk/rthk/en/component/k2/1835933-20251213.htm?archive_date=2025-12-13)
+- [宏福苑五級火｜大埔宏福苑援助基金總額增至37億元](https://news.rthk.hk/rthk/ch/component/k2/1835998-20251213.htm?archive_date=2025-12-13)
+- [粉嶺有貨倉起火　初步調查顯示有電線短路引致](https://news.rthk.hk/rthk/ch/component/k2/1835997-20251213.htm?archive_date=2025-12-13)
+- [房協：已安排逾400個宏福苑家庭合共約1200人入住單位](https://news.rthk.hk/rthk/ch/component/k2/1835990-20251213.htm?archive_date=2025-12-13)
+- [宏福苑五級火｜黃偉綸指有信心在大埔覓地建新居屋](https://news.rthk.hk/rthk/ch/component/k2/1835976-20251213.htm?archive_date=2025-12-13)
+- [特朗普稱泰柬雙方同意昨晚起停火　惟泰柬續指邊境地區遭對方攻擊](https://news.rthk.hk/rthk/ch/component/k2/1835982-20251213.htm?archive_date=2025-12-13)
+- [天澤邨單位凌晨火警懷疑涉縱火　獨居男戶主燒傷列為疑犯](https://news.rthk.hk/rthk/ch/component/k2/1835981-20251213.htm?archive_date=2025-12-13)
+- [立法會選舉｜曾國衞承認火災影響投票率　政府欣慰市民願意投票](https://news.rthk.hk/rthk/ch/component/k2/1835954-20251213.htm?archive_date=2025-12-13)
+- [宏福苑五級火｜卓永興稱不容許「偽受災者」趁火打劫](https://news.rthk.hk/rthk/ch/component/k2/1835942-20251213.htm?archive_date=2025-12-13)
+- [宏福苑五級火｜多名議員認為是時候考慮居民長遠安置問題](https://news.rthk.hk/rthk/ch/component/k2/1835937-20251213.htm?archive_date=2025-12-13)
+- [天水圍天澤邨有單位起火一名男子燒傷送院　400人需疏散](https://news.rthk.hk/rthk/ch/component/k2/1835911-20251213.htm?archive_date=2025-12-13)
+- [烏克蘭指俄軍攻擊黑海港口城市　一艘集裝箱船起火最少一傷](https://news.rthk.hk/rthk/ch/component/k2/1835910-20251213.htm?archive_date=2025-12-13)
+- [特朗普稱與泰柬領導人通電話　指泰柬已同意停止所有交火](https://news.rthk.hk/rthk/ch/component/k2/1835908-20251213.htm?archive_date=2025-12-13)
+- [土耳其總統建議俄烏雙方對對方能源和港口設施實施有限度停火](https://news.rthk.hk/rthk/ch/component/k2/1835904-20251213.htm?archive_date=2025-12-13)

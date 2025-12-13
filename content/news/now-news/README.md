@@ -591,3 +591,74 @@
 - [宏福苑五級火災｜愛協指84隻動物下落不明　居民：即使一隻牙都希望找到　冀政府DNA鑑定寵物身份](https://news.now.com/home/local/player?newsId=628987)
 - [宏福苑五級火災｜消防裝置承辦商：未經訓練物管人員不能操作警鐘開關](https://news.now.com/home/local/player?newsId=628986)
 - [晨早新聞重點｜本台向承辦商了解消防警報系統運作／法國國民議會二讀通過社保預算案](https://news.now.com/home/local/player?newsId=628985)
+
+
+### 2025-12-10
+- [宏福苑五級火災｜司法機構豁免宏福苑大火遇難者遺產承辦費用](https://news.now.com/home/local/player?newsId=629115)
+- [即日焦點｜36歲男涉扮災民騙社福機構1.8萬元援助被捕／中日軍艦人員對話錄音曝光後日本改口認曾接通報](https://news.now.com/home/local/player?newsId=629112)
+- [宏福苑五級火災｜房署拆宏昌閣宏泰閣宏新閣外牆棚架](https://news.now.com/home/local/player?newsId=629113)
+- [中環冬日小鎮重開　幻彩詠香江亦恢復上演](https://news.now.com/home/local/player?newsId=629109)
+- [宏福苑五級火災｜36歲男涉用他人身份證取得災民證　騙社福機構1.8萬元援助被捕](https://news.now.com/home/local/player?newsId=629102)
+- [宏福苑五級火災｜民建聯促容許災民賣業權予房委會後自行置業](https://news.now.com/home/local/player?newsId=629101)
+
+### 2025-12-11
+- [宏福苑五級火災｜當局引入棚網就地抽樣檢查制度　預計首批合格棚網一個月後重新上架](https://news.now.com/home/local/player?newsId=629216)
+- [宏福苑五級火災｜宏業其中一名被捕負責人曾任房署外聘測量師](https://news.now.com/home/local/player?newsId=629219)
+- [宏福苑五級火災｜每幢樓棚網檢測費涉數萬元　建造業議會料公眾為安全願承擔](https://news.now.com/home/local/player?newsId=629217)
+- [甯漢豪︰承建商須提供棚網阻燃效能證明書　就地採樣送指定實驗所檢測](https://news.now.com/home/local/player?newsId=629207)
+- [宏福苑五級火災｜殉職消防員何偉豪獲追授消防隊目榮譽職銜](https://news.now.com/home/local/player?newsId=629204)
+- [宏福苑五級火災｜精神健康諮詢委員會推出支援計劃　為宏福苑喪親家庭提供輔導](https://news.now.com/home/local/player?newsId=629177)
+- [時事全方位｜支援宏福苑(二)](https://news.now.com/home/local/player?newsId=629156)
+- [時事全方位｜支援宏福苑(一)](https://news.now.com/home/local/player?newsId=629155)
+- [時事全方位｜經民聯立法會選舉總結(二)](https://news.now.com/home/local/player?newsId=629148)
+- [時事全方位｜經民聯立法會選舉總結(一)](https://news.now.com/home/local/player?newsId=629147)
+- [宏福苑五級火災｜龔如心慈善信託捐款一億元](https://news.now.com/home/local/player?newsId=629169)
+- [宏福苑五級火災｜傳有人欲大手購入宏福苑單位　卓永興：火災當天持有物業才可獲政府補助](https://news.now.com/home/local/player?newsId=629168)
+- [宏福苑五級火災｜卞兆祥：宏福苑居民憑身份證明可豁免中醫醫院服務收費](https://news.now.com/home/local/player?newsId=629158)
+
+
+### 2025-12-11
+- [宏福苑五級火災｜建造業議會集體採購檢測棚網　建築業界料出現搶搭棚工人情況](https://news.now.com/home/local/player?newsId=629241)
+- [宏福苑五級火災｜政府實施棚網就地抽樣檢查制度　料首批合格棚網一個月後重新上架](https://news.now.com/home/local/player?newsId=629240)
+- [即日焦點｜當局引入棚網就地抽樣檢查制度／中央經濟工作會議召開　堅持內需主導](https://news.now.com/home/local/player?newsId=629238)
+- [宏福苑五級火災｜政府援助基金總額達35億](https://news.now.com/home/local/player?newsId=629237)
+- [宏福苑五級火災｜建造業議會集體採購檢測棚網　額外成本相信公眾願承擔](https://news.now.com/home/local/player?newsId=629235)
+- [宏福苑五級火災｜當局引入棚網就地抽樣檢查安排　預計首批合格棚網一個月後重新上架](https://news.now.com/home/local/player?newsId=629226)
+
+### 2025-12-12
+- [宏福苑五級火｜精神健康諮詢委員會為死者家屬提供免費支援計劃](https://news.now.com/home/local/player?newsId=629375)
+- [宏福苑五級火災｜屯門寶田中轉屋將供應300個單位供災民入住](https://news.now.com/home/local/player?newsId=629374)
+- [宏福苑五級火災｜湯家驊料獨委會查政府部門不需申請法定權力](https://news.now.com/home/local/player?newsId=629371)
+- [宏福苑五級火災｜獨立委員會9個月內完成報告　主席陸啟康：邀請消防安全專家等提供意見](https://news.now.com/home/local/player?newsId=629361)
+- [宏福苑五級火災｜湯文龍認同獨立委員會調查權責安排](https://news.now.com/home/local/player?newsId=629356)
+- [國安處首引非法操練罪拘9男　涉軍事式訓練　檢獲爆炸品](https://news.now.com/home/local/player?newsId=629355)
+- [宏福苑五級火災｜李家超料月內上京述職　將向習近平匯報火災善後](https://news.now.com/home/local/player?newsId=629354)
+- [宏福苑五級火災｜獨立委員會主席陸啟康指會邀請消防安全專家等提供意見](https://news.now.com/home/local/player?newsId=629347)
+- [宏福苑五級火災｜李家超委任陸啟康為獨立委員會主席　成員包括陳健波及歐陽伯權](https://news.now.com/home/local/player?newsId=629339)
+- [宏福苑五級火災｜李家超：料本月到北京述職　將向習近平匯報火災善後工作](https://news.now.com/home/local/player?newsId=629338)
+- [國安處首引非法操練罪拘9男　疑進行類軍事式訓練檢爆炸品](https://news.now.com/home/local/player?newsId=629332)
+- [宏福苑五級火災｜李家超指示黃偉綸全面收集居民意見　長期安置須提供選項予居民](https://news.now.com/home/local/player?newsId=629329)
+- [宏福苑五級火災｜李家超宣布委任陸啟康為獨立委員會主席](https://news.now.com/home/local/player?newsId=629328)
+- [宏福苑五級火災｜建造業議會指集體採購及檢測棚網屬一次性安排　搭棚業界不建議囤積存貨](https://news.now.com/home/local/player?newsId=629305)
+- [宏福苑五級火災｜房屋署開始拆卸宏福苑棚架及棚網](https://news.now.com/home/local/player?newsId=629299)
+- [宏福苑五級火災｜建造業議會料業界認真核實棚網證明　承建商指棚網檢測貴冀降成本](https://news.now.com/home/local/player?newsId=629295)
+- [36歲無業漢馮俊傑涉冒認宏福苑災民騙1.8萬援助金　還柙候訊](https://news.now.com/home/local/player?newsId=629287)
+- [宏福苑五級火災｜建造業議會指內地棚網供應商選擇多　料集體採購不會令價格大幅上升](https://news.now.com/home/local/player?newsId=629266)
+- [首都專線｜北京展開防火行動　有地盤嚴禁吸煙以現金獎鼓勵舉報](https://news.now.com/home/local/player?newsId=629261)
+
+
+### 2025-12-12
+- [勞工處完成大型棚架特別執法行動　提出25宗檢控](https://news.now.com/home/local/player?newsId=629386)
+- [即日焦點｜宏福苑火災獨立委員會本月下旬開始運作　陸啟康任主席／國安處首引非法操練罪拘9男](https://news.now.com/home/local/player?newsId=629382)
+- [宏福苑五級火災｜獨立委員會本月下旬開始運作　主席陸啟康：邀請消防安全專家等提供意見](https://news.now.com/home/local/player?newsId=629377)
+
+### 2025-12-13
+- [宏福苑五級火災｜基於安全考慮　當局再評估宏福苑其中四座何時拆棚](https://news.now.com/home/local/player?newsId=629468)
+- [大鳴大放｜總結立法會選舉安排(二)](https://news.now.com/home/local/player?newsId=629409)
+- [大鳴大放｜總結立法會選舉安排(一)](https://news.now.com/home/local/player?newsId=629408)
+- [宏福苑五級火災｜有人欲低價購入單位　卓永興稱不容「偽受災者」趁火打劫](https://news.now.com/home/local/player?newsId=629434)
+- [宏福苑五級火災｜黃偉綸︰有信心在大埔興建居屋原區安置　難定回購價或須投入公帑](https://news.now.com/home/local/player?newsId=629425)
+- [宏福苑五級火災｜有議員倡政府應一視同仁協助災民　即使單位未被大火波及](https://news.now.com/home/local/player?newsId=629420)
+- [宏福苑五級火災｜黃偉綸︰有信心在大埔興建居屋原區安置　需時數周了解居民意願](https://news.now.com/home/local/player?newsId=629415)
+- [宏福苑五級火災｜有議員倡須提供不同選項予居民　不論單位有否被大火波及 ](https://news.now.com/home/local/player?newsId=629411)
+- [張宇人︰獨立委員會獲多個政府部門配合　可加快工作進度](https://news.now.com/home/local/player?newsId=629410)

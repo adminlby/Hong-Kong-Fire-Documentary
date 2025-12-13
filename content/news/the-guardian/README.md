@@ -1,4 +1,4 @@
-# The Guardian
+# Guardian
 
 ## 2025-11-26
 
@@ -22,3 +22,8 @@
 ### English
 
 - ['We can't get any answers': grief and anger in Hong Kong after deadly high-rise fire](https://www.theguardian.com/world/2025/nov/28/hong-kong-fire-grief-anger)
+
+
+### 2025-12-08
+- [Silenced by China, Hong Kong struggles to voice its grief over the Tai Po fire disaster](https://www.theguardian.com/world/commentisfree/2025/dec/08/hong-kong-china-fire-disaster-tai-po-civil-society)
+- [Near-record low election turnout in Hong Kong amid discontent over apartment fire](https://www.theguardian.com/world/2025/dec/08/hong-kong-election-low-turnout-discontent-apartment-fire)

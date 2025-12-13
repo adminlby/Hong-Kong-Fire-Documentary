@@ -50,3 +50,11 @@
 
 ### 2025-12-10
 - [<![CDATA[「她逃不了，哪裡也去不了」：香港宏福苑大火中罹難和倖存外傭]]>](https://www.bbc.com/zhongwen/articles/cd6x7ylynv0o/trad)
+
+
+### 2025-12-12
+- [<![CDATA[拆解宏福苑億元大維修時間線，屢遭質疑的香港圍標現象如何形成？]]>](https://www.bbc.com/zhongwen/articles/cjrj0320pdgo/trad)
+
+
+### 2025-12-12
+- [<![CDATA[香港大埔火災下的外傭：遇難與生還的她們經歷了什麼？]]>](https://www.bbc.com/zhongwen/articles/cgqzz41n45lo/trad)
