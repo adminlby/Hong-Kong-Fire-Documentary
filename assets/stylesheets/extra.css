@@ -58,3 +58,13 @@ a:hover {
   font-weight: 500;
   letter-spacing: 0.5px;
 }
+
+.md-typeset li a.md-button,
+.md-typeset li a.md-button.hkfd-news-button {
+  padding: 0.12rem 0.45rem;
+  font-size: 0.6rem;
+  line-height: 1.2;
+  min-height: unset;
+  margin-left: 0.25rem;
+  vertical-align: baseline;
+}
