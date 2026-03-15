@@ -28,6 +28,6 @@
 - [Silenced by China, Hong Kong struggles to voice its grief over the Tai Po fire disaster](https://www.theguardian.com/world/commentisfree/2025/dec/08/hong-kong-china-fire-disaster-tai-po-civil-society)
 - [Near-record low election turnout in Hong Kong amid discontent over apartment fire](https://www.theguardian.com/world/2025/dec/08/hong-kong-election-low-turnout-discontent-apartment-fire)
 
-
 ### 2026-02-13
+
 - [University expels student who called for accountability over Hong Kong fire](https://www.theguardian.com/world/2026/feb/13/university-expels-student-who-called-for-accountability-over-hong-kong-fire-miles-kwan) [Original](https://www.theguardian.com/world/2026/feb/13/university-expels-student-who-called-for-accountability-over-hong-kong-fire-miles-kwan){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/university-expels-student-who-called-for-accountability-over-hong-kong-fire/){.md-button .hkfd-news-button}

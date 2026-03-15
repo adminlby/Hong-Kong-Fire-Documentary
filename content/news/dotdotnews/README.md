@@ -190,32 +190,34 @@
 
 - [宏福苑五級火｜援助基金累計37億元　受影響居民外傭明起可享3次免費中醫診症](https://www.dotdotnews.com/a/202512/14/AP693ec723e4b0c32d4f633d4b.html)
 
-
 ### 2025-12-15
+
 - [Deepline | A different way to heal: How restoration specialists help fire-grieving families](https://english.dotdotnews.com/a/202512/15/AP693fed55e4b0c32d4f6356b7.html) [Original](https://english.dotdotnews.com/a/202512/15/AP693fed55e4b0c32d4f6356b7.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/deepline-a-different-way-to-heal-how-restoration-specialists-help-fire-grieving/){.md-button .hkfd-news-button}
 
-
 ### 2025-12-15
+
 - [宏福苑五級火｜社署：正通過「一戶一社工」協助居民申請經濟援助](https://www.dotdotnews.com/a/202512/15/AP693fbf2fe4b0c32d4f6351fe.html) [Original](https://www.dotdotnews.com/a/202512/15/AP693fbf2fe4b0c32d4f6351fe.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火社署正通過一戶一社工協助居民申請經濟援助/){.md-button .hkfd-news-button}
 
 ### 2025-12-16
+
 - [宏福苑五級火｜1906戶領取10萬元生活津貼　房屋局正對樓宇作初步結構評估](https://www.dotdotnews.com/a/202512/16/AP6941539be4b0c32d4f6374ad.html) [Original](https://www.dotdotnews.com/a/202512/16/AP6941539be4b0c32d4f6374ad.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火1906戶領取10萬元生活津貼-房屋局正對樓宇作初步結構評估/){.md-button .hkfd-news-button}
 
-
 ### 2025-12-17
+
 - [Wang Fuk Court fire | Residents concern over irregular operations of Owners' Corporation, urge govt's intervention](https://english.dotdotnews.com/a/202512/17/AP69425134e4b0c32d4f638317.html) [Original](https://english.dotdotnews.com/a/202512/17/AP69425134e4b0c32d4f638317.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/wang-fuk-court-fire-residents-concern-over-irregular-operations-of-owners/){.md-button .hkfd-news-button}
 
-
 ### 2025-12-15
+
 - [宏福苑五級火｜孫玉菡：已向110名受僱外傭提供2萬元特別補助](https://www.dotdotnews.com/a/202512/15/AP693ff771e4b0c32d4f6357ba.html) [Original](https://www.dotdotnews.com/a/202512/15/AP693ff771e4b0c32d4f6357ba.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火孫玉菡已向110名受僱外傭提供2萬元特別補助/){.md-button .hkfd-news-button}
 
 ### 2025-12-17
+
 - [點觀香港｜宏福苑火災調查有新進展　傳廉署拘捕新舊法團主席](https://www.dotdotnews.com/a/202512/17/AP69429a8ee4b0c32d4f638b32.html) [Original](https://www.dotdotnews.com/a/202512/17/AP69429a8ee4b0c32d4f638b32.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/點觀香港宏福苑火災調查有新進展-傳廉署拘捕新舊法團主席/){.md-button .hkfd-news-button}
 - [（有片）宏福苑五級火｜廉署再拘捕兩人　消息指為新舊業主立案法團主席](https://www.dotdotnews.com/a/202512/17/AP6942796de4b0c32d4f6386bf.html) [Original](https://www.dotdotnews.com/a/202512/17/AP6942796de4b0c32d4f6386bf.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/有片宏福苑五級火廉署再拘捕兩人-消息指為新舊業主立案法團主席/){.md-button .hkfd-news-button}
 - [消息：明年次季推8300伙居屋　市值7折含啟德市區盤](https://www.dotdotnews.com/a/202512/17/AP69424d0de4b0c32d4f6382af.html) [Original](https://www.dotdotnews.com/a/202512/17/AP69424d0de4b0c32d4f6382af.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/消息明年次季推8300伙居屋-市值7折含啟德市區盤/){.md-button .hkfd-news-button}
 
-
 ### 2025-12-18
+
 - [宏福苑五級火｜租戶應急屋免租至明年5月　業主有冇份？房屋局回覆點新聞](https://www.dotdotnews.com/a/202512/18/AP69440db6e4b0c32d4f63a7ce.html) [Original](https://www.dotdotnews.com/a/202512/18/AP69440db6e4b0c32d4f63a7ce.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火租戶應急屋免租至明年5月-業主有冇份房屋局回覆點新聞/){.md-button .hkfd-news-button}
 - [宏福苑五級火｜以歌聲撫慰災民心靈　古巨基獲34位歌手合作送暖](https://www.dotdotnews.com/a/202512/18/AP69440cafe4b0c32d4f63a7ba.html) [Original](https://www.dotdotnews.com/a/202512/18/AP69440cafe4b0c32d4f63a7ba.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火以歌聲撫慰災民心靈-古巨基獲34位歌手合作送暖/){.md-button .hkfd-news-button}
 - [（有片）議會新面孔｜回歸後首位警隊出身議員　陳祖光支持獨立委員會徹查大埔火災](https://www.dotdotnews.com/a/202512/18/AP69422b62e4b0c32d4f63812a.html) [Original](https://www.dotdotnews.com/a/202512/18/AP69422b62e4b0c32d4f63812a.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/有片議會新面孔回歸後首位警隊出身議員-陳祖光支持獨立委員會徹查大埔火災/){.md-button .hkfd-news-button}
@@ -223,15 +225,16 @@
 - [點直播｜政府交代大埔宏福苑援助基金最新運作情況｜12月18日](https://www.dotdotnews.com/a/202512/18/AP6943bd07e4b0c32d4f63a07e.html) [Original](https://www.dotdotnews.com/a/202512/18/AP6943bd07e4b0c32d4f63a07e.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/點直播政府交代大埔宏福苑援助基金最新運作情況12月18日/){.md-button .hkfd-news-button}
 - [點聞1分鐘｜跨年倒數移師中環　煙花匯演環節取消　港鐵口岸擬延長服務時間](https://www.dotdotnews.com/a/202512/18/AP6943cdf3e4b0c32d4f63a2c4.html) [Original](https://www.dotdotnews.com/a/202512/18/AP6943cdf3e4b0c32d4f63a2c4.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/點聞1分鐘跨年倒數移師中環-煙花匯演環節取消-港鐵口岸擬延長服務時間/){.md-button .hkfd-news-button}
 
-
 ### 2025-12-19
+
 - [Photos | Ho Wai-ho's funeral at Gallant Garden: Govt officials present flowers to honor](https://english.dotdotnews.com/a/202512/19/AP69450e8ee4b0c32d4f63b935.html) [Original](https://english.dotdotnews.com/a/202512/19/AP69450e8ee4b0c32d4f63b935.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/photos-ho-wai-hos-funeral-at-gallant-garden-govt-officials-present-flowers-to/){.md-button .hkfd-news-button}
 
-
 ### 2025-12-18
+
 - [點觀香港｜政府支援宏福苑災民有新安排　業主獲每年15萬租津為期兩年](https://www.dotdotnews.com/a/202512/18/AP6943e6c3e4b0c32d4f63a49c.html) [Original](https://www.dotdotnews.com/a/202512/18/AP6943e6c3e4b0c32d4f63a49c.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/點觀香港政府支援宏福苑災民有新安排-業主獲每年15萬租津為期兩年/){.md-button .hkfd-news-button}
 
 ### 2025-12-19
+
 - [點聞1分鐘｜全城痛悼！何偉豪最高榮譽喪禮今舉行](https://www.dotdotnews.com/a/202512/19/AP69452f0ee4b0c32d4f63bd1e.html) [Original](https://www.dotdotnews.com/a/202512/19/AP69452f0ee4b0c32d4f63bd1e.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/點聞1分鐘全城痛悼何偉豪最高榮譽喪禮今舉行/){.md-button .hkfd-news-button}
 - [（有片）宏福苑五級火｜麥美娟：委任管理人接管法團管委會　強調並未取代業主角色](https://www.dotdotnews.com/a/202512/19/AP69452443e4b0c32d4f63bc5c.html) [Original](https://www.dotdotnews.com/a/202512/19/AP69452443e4b0c32d4f63bc5c.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/有片宏福苑五級火麥美娟委任管理人接管法團管委會-強調並未取代業主角色/){.md-button .hkfd-news-button}
 - [點觀香港｜殉職消防員何偉豪最高榮譽喪禮　全城痛別烈火英雄](https://www.dotdotnews.com/a/202512/19/AP694534fde4b0c32d4f63bd49.html) [Original](https://www.dotdotnews.com/a/202512/19/AP694534fde4b0c32d4f63bd49.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/點觀香港殉職消防員何偉豪最高榮譽喪禮-全城痛別烈火英雄/){.md-button .hkfd-news-button}
@@ -241,113 +244,116 @@
 - [宏福苑五級火｜租戶過渡屋免租至明年5月底　何永賢：業主明年2月起交租](https://www.dotdotnews.com/a/202512/19/AP69454515e4b0c32d4f63bf41.html) [Original](https://www.dotdotnews.com/a/202512/19/AP69454515e4b0c32d4f63bf41.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火租戶過渡屋免租至明年5月底-何永賢業主明年2月起交租/){.md-button .hkfd-news-button}
 - [（有片）宏福苑五級火｜政府首引例解散現任法團管委會　委任華懋旗下公司為臨時管理人](https://www.dotdotnews.com/a/202512/19/AP69451f55e4b0c32d4f63bb7e.html) [Original](https://www.dotdotnews.com/a/202512/19/AP69451f55e4b0c32d4f63bb7e.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/有片宏福苑五級火政府首引例解散現任法團管委會-委任華懋旗下公司為臨時管理人/){.md-button .hkfd-news-button}
 
-
 ### 2025-12-20
+
 - [Wang Fuk Court fire | Death toll rises to 161, Commissioner of Police says](https://english.dotdotnews.com/a/202512/20/AP6946288ae4b0c32d4f63cd3a.html) [Original](https://english.dotdotnews.com/a/202512/20/AP6946288ae4b0c32d4f63cd3a.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/wang-fuk-court-fire-death-toll-rises-to-161-commissioner-of-police-says/){.md-button .hkfd-news-button}
 
-
 ### 2025-12-20
+
 - [點漫畫｜烈火英雄](https://www.dotdotnews.com/a/202512/20/AP69467067e4b0c32d4f63d3e5.html) [Original](https://www.dotdotnews.com/a/202512/20/AP69467067e4b0c32d4f63d3e5.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/點漫畫烈火英雄/){.md-button .hkfd-news-button}
 - [（有片）宏福苑五級火｜罹難者增至161人　1遺體發現2夫婦DNA](https://www.dotdotnews.com/a/202512/20/AP694614d3e4b0c32d4f63cb40.html) [Original](https://www.dotdotnews.com/a/202512/20/AP694614d3e4b0c32d4f63cb40.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/有片宏福苑五級火罹難者增至161人-1遺體發現2夫婦dna/){.md-button .hkfd-news-button}
 
 ### 2025-12-21
+
 - [宏福苑五級火｜偕張繼聰方力申等現身「善樓」盆菜宴　古天樂為居民送關懷](https://www.dotdotnews.com/a/202512/21/AP6947c821e4b0c32d4f63e7bb.html) [Original](https://www.dotdotnews.com/a/202512/21/AP6947c821e4b0c32d4f63e7bb.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火偕張繼聰方力申等現身善樓盆菜宴-古天樂為居民送關懷/){.md-button .hkfd-news-button}
 - [宏福苑五級火｜元朗路德會過渡性房屋增設巴士往返大埔墟站（附詳情）](https://www.dotdotnews.com/a/202512/21/AP6947cf76e4b0c32d4f63e807.html) [Original](https://www.dotdotnews.com/a/202512/21/AP6947cf76e4b0c32d4f63e807.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火元朗路德會過渡性房屋增設巴士往返大埔墟站附詳情/){.md-button .hkfd-news-button}
 - [來論｜宏福苑火災獨立委員會：務實高效的嶄新調查模式](https://www.dotdotnews.com/a/202512/21/AP69475ef4e4b0c32d4f63def7.html) [Original](https://www.dotdotnews.com/a/202512/21/AP69475ef4e4b0c32d4f63def7.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/來論宏福苑火災獨立委員會務實高效的嶄新調查模式/){.md-button .hkfd-news-button}
 - [宏福苑五級火｜房屋局：捐贈予受影響居民物資一般可於遷出時帶走](https://www.dotdotnews.com/a/202512/21/AP6947f0b3e4b0c32d4f63e9a4.html) [Original](https://www.dotdotnews.com/a/202512/21/AP6947f0b3e4b0c32d4f63e9a4.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火房屋局捐贈予受影響居民物資一般可於遷出時帶走/){.md-button .hkfd-news-button}
 
-
 ### 2025-12-22
+
 - [宏福苑五級火｜牙醫業界免費鑲配假牙服務協助受影響居民](https://www.dotdotnews.com/a/202512/22/AP694923bbe4b0c32d4f63fc5e.html) [Original](https://www.dotdotnews.com/a/202512/22/AP694923bbe4b0c32d4f63fc5e.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火牙醫業界免費鑲配假牙服務協助受影響居民/){.md-button .hkfd-news-button}
 - [講真D｜解散宏福苑法團管委會合情合理合法](https://www.dotdotnews.com/a/202512/22/AP6948fccee4b0c32d4f63f989.html) [Original](https://www.dotdotnews.com/a/202512/22/AP6948fccee4b0c32d4f63f989.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/講真d解散宏福苑法團管委會合情合理合法/){.md-button .hkfd-news-button}
 - [宏福苑五級火｜大廈維修分段關閉消防設備是否可行？消防處澄清](https://www.dotdotnews.com/a/202512/22/AP69492855e4b0c32d4f63fcac.html) [Original](https://www.dotdotnews.com/a/202512/22/AP69492855e4b0c32d4f63fcac.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火大廈維修分段關閉消防設備是否可行消防處澄清/){.md-button .hkfd-news-button}
 
-
 ### 2025-12-23
+
 - [宏福苑五級火｜政府向災民發放生活津貼及慰問殮葬金　已處理所有確認個案](https://www.dotdotnews.com/a/202512/23/AP694a9082e4b0c32d4f64137a.html) [Original](https://www.dotdotnews.com/a/202512/23/AP694a9082e4b0c32d4f64137a.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火政府向災民發放生活津貼及慰問殮葬金-已處理所有確認個案/){.md-button .hkfd-news-button}
 - [（有片）宏福苑五級火｜香港紅十字會籌逾4.2億支援中長期復原　派2000餘張專屬八達通智慧賑災](https://www.dotdotnews.com/a/202512/23/AP694a634ae4b0c32d4f640fb9.html) [Original](https://www.dotdotnews.com/a/202512/23/AP694a634ae4b0c32d4f640fb9.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/有片宏福苑五級火香港紅十字會籌逾42億支援中長期復原-派2000餘張專屬八達通智慧賑災/){.md-button .hkfd-news-button}
 
-
 ### 2025-12-21
+
 - [宏福苑五級火｜40億援助基金如何使用？麥美娟回應](https://www.dotdotnews.com/a/202512/21/AP69477225e4b0c32d4f63e165.html) [Original](https://www.dotdotnews.com/a/202512/21/AP69477225e4b0c32d4f63e165.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火40億援助基金如何使用麥美娟回應/){.md-button .hkfd-news-button}
 
 ### 2025-12-22
+
 - [宏福苑五級火｜援助基金達約41億元　租金補助今起派發](https://www.dotdotnews.com/a/202512/22/AP69494c6ce4b0c32d4f63ff18.html) [Original](https://www.dotdotnews.com/a/202512/22/AP69494c6ce4b0c32d4f63ff18.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火援助基金達約41億元-租金補助今起派發/){.md-button .hkfd-news-button}
 
 ### 2025-12-24
+
 - [消防巡查132棟商廈派376張通知書　另揪57廈無做年檢](https://www.dotdotnews.com/a/202512/24/AP694be3b2e4b0c32d4f642932.html) [Original](https://www.dotdotnews.com/a/202512/24/AP694be3b2e4b0c32d4f642932.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/消防巡查132棟商廈派376張通知書-另揪57廈無做年檢/){.md-button .hkfd-news-button}
 - [宏福苑五級火｜警驗DNA發現1貓1狗遺骸　愛協聯絡飼主稍後領回](https://www.dotdotnews.com/a/202512/24/AP694bb0a5e4b0c32d4f6424c1.html) [Original](https://www.dotdotnews.com/a/202512/24/AP694bb0a5e4b0c32d4f6424c1.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火警驗dna發現1貓1狗遺骸-愛協聯絡飼主稍後領回/){.md-button .hkfd-news-button}
 
-
 ### 2025-12-25
+
 - [Wang Fuk Court fire | 65 victims discharged after fire; mental health hotline receives over 660 related calls](https://english.dotdotnews.com/a/202512/25/AP694cb0c6e4b0c32d4f643261.html) [Original](https://english.dotdotnews.com/a/202512/25/AP694cb0c6e4b0c32d4f643261.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/wang-fuk-court-fire-65-victims-discharged-after-fire-mental-health-hotline/){.md-button .hkfd-news-button}
 
-
 ### 2025-12-25
+
 - [飛常觀點｜立法會履新先解宏福苑善後　更要持續解決民生急難愁盼](https://www.dotdotnews.com/a/202512/25/AP694ce5b1e4b0c32d4f643740.html) [Original](https://www.dotdotnews.com/a/202512/25/AP694ce5b1e4b0c32d4f643740.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/飛常觀點立法會履新先解宏福苑善後-更要持續解決民生急難愁盼/){.md-button .hkfd-news-button}
 - [宏福苑五級火｜消防處各工協會嚴厲譴責網上有人散布不實言論](https://www.dotdotnews.com/a/202512/25/AP694d22b1e4b0c32d4f643c16.html) [Original](https://www.dotdotnews.com/a/202512/25/AP694d22b1e4b0c32d4f643c16.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火消防處各工協會嚴厲譴責網上有人散布不實言論/){.md-button .hkfd-news-button}
 
-
 ### 2025-12-26
+
 - [（有片）宏福苑五級火｜港台聯手遺體修復：與時間賽跑　讓破碎的告別變得「完整」](https://www.dotdotnews.com/a/202512/26/AP694cb6e9e4b0c32d4f6432cd.html) [Original](https://www.dotdotnews.com/a/202512/26/AP694cb6e9e4b0c32d4f6432cd.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/有片宏福苑五級火港台聯手遺體修復與時間賽跑-讓破碎的告別變得完整/){.md-button .hkfd-news-button}
 - [宏福苑五級火｜援助基金已推出11個項目　總承擔額約12億元](https://www.dotdotnews.com/a/202512/26/AP694e8b22e4b0c32d4f644efb.html) [Original](https://www.dotdotnews.com/a/202512/26/AP694e8b22e4b0c32d4f644efb.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火援助基金已推出11個項目-總承擔額約12億元/){.md-button .hkfd-news-button}
 - [宏福苑五級火｜甯漢豪：明年提建築物條例修訂草案　竹棚過渡金屬棚不會「一刀切」](https://www.dotdotnews.com/a/202512/26/AP694e835fe4b0c32d4f644e9a.html) [Original](https://www.dotdotnews.com/a/202512/26/AP694e835fe4b0c32d4f644e9a.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火甯漢豪明年提建築物條例修訂草案-竹棚過渡金屬棚不會一刀切/){.md-button .hkfd-news-button}
 
-
 ### 2025-12-30
+
 - [2025 year in review of entertainment: Keung To's sea accident, Barbie Hsu's passing, premiere of The Queen of News 2, and more](https://english.dotdotnews.com/a/202512/30/AP69533eeee4b0c32d4f648f77.html) [Original](https://english.dotdotnews.com/a/202512/30/AP69533eeee4b0c32d4f648f77.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/2025-year-in-review-of-entertainment-keung-tos-sea-accident-barbie-hsus-passing/){.md-button .hkfd-news-button}
 
-
 ### 2025-12-27
+
 - [點聲｜香港消防處英勇擔當　慎防有人「以災亂港」](https://www.dotdotnews.com/a/202512/27/AP694fa185e4b0c32d4f645ca1.html) [Original](https://www.dotdotnews.com/a/202512/27/AP694fa185e4b0c32d4f645ca1.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/點聲香港消防處英勇擔當-慎防有人以災亂港/){.md-button .hkfd-news-button}
 
-
 ### 2026-01-02
+
 - [宏福苑五級火｜災後一個月再現奇跡！宏仁閣兩隻貓獲救](https://www.dotdotnews.com/a/202601/02/AP6957a596e4b0c32d4f64dfde.html) [Original](https://www.dotdotnews.com/a/202601/02/AP6957a596e4b0c32d4f64dfde.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災後一個月再現奇跡宏仁閣兩隻貓獲救/){.md-button .hkfd-news-button}
 
-
 ### 2026-01-03
+
 - [宏福苑五級火│律師會諮詢櫃位增至7個　已處理125求助個案](https://www.dotdotnews.com/a/202601/03/AP6958e727e4b0c32d4f64f34d.html) [Original](https://www.dotdotnews.com/a/202601/03/AP6958e727e4b0c32d4f64f34d.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火律師會諮詢櫃位增至7個-已處理125求助個案/){.md-button .hkfd-news-button}
 
-
 ### 2026-01-04
+
 - [回應宏福苑居民接遷離令　當局稱因應營運者房間供應](https://www.dotdotnews.com/a/202601/04/AP695a58d3e4b0c32d4f650f73.html) [Original](https://www.dotdotnews.com/a/202601/04/AP695a58d3e4b0c32d4f650f73.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/回應宏福苑居民接遷離令-當局稱因應營運者房間供應/){.md-button .hkfd-news-button}
 
-
 ### 2026-01-06
+
 - [點直播｜麥美娟就大埔宏福苑管理事宜見記者｜1月6日](https://www.dotdotnews.com/a/202601/06/AP695ce1eae4b0c32d4f654010.html) [Original](https://www.dotdotnews.com/a/202601/06/AP695ce1eae4b0c32d4f654010.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/點直播麥美娟就大埔宏福苑管理事宜見記者1月6日/){.md-button .hkfd-news-button}
 - [點觀香港｜土審處批准解散宏福苑法團管委會　民青局解畫災民青年宿舍安排](https://www.dotdotnews.com/a/202601/06/AP695d0360e4b0c32d4f65423b.html) [Original](https://www.dotdotnews.com/a/202601/06/AP695d0360e4b0c32d4f65423b.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/點觀香港土審處批准解散宏福苑法團管委會-民青局解畫災民青年宿舍安排/){.md-button .hkfd-news-button}
 - [宏福苑五級火｜有居民被要求搬離青年宿舍？麥美娟：酌情處理　提供妥善住宿安排](https://www.dotdotnews.com/a/202601/06/AP695cedabe4b0c32d4f6540e1.html) [Original](https://www.dotdotnews.com/a/202601/06/AP695cedabe4b0c32d4f6540e1.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火有居民被要求搬離青年宿舍麥美娟酌情處理-提供妥善住宿安排/){.md-button .hkfd-news-button}
 - [（有片）宏福苑五級火｜華懋合安接管法團職能　麥美娟：不影響業主最終決定權](https://www.dotdotnews.com/a/202601/06/AP695ce768e4b0c32d4f654050.html) [Original](https://www.dotdotnews.com/a/202601/06/AP695ce768e4b0c32d4f654050.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/有片宏福苑五級火華懋合安接管法團職能-麥美娟不影響業主最終決定權/){.md-button .hkfd-news-button}
 
-
 ### 2026-01-08
+
 - [點觀香港｜李慧琼當選立法會主席　下周三大會將聚焦宏福苑善後](https://www.dotdotnews.com/a/202601/08/AP695f9469e4b0c32d4f6570f7.html) [Original](https://www.dotdotnews.com/a/202601/08/AP695f9469e4b0c32d4f6570f7.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/點觀香港李慧琼當選立法會主席-下周三大會將聚焦宏福苑善後/){.md-button .hkfd-news-button}
 
-
 ### 2026-01-09
+
 - [宏福苑善後｜會否進行公開聆訊？獨立委員會：適時按需公布安排](https://www.dotdotnews.com/a/202601/09/AP6960dec3e4b0c32d4f658769.html) [Original](https://www.dotdotnews.com/a/202601/09/AP6960dec3e4b0c32d4f658769.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑善後會否進行公開聆訊獨立委員會適時按需公布安排/){.md-button .hkfd-news-button}
 
-
 ### 2026-01-11
+
 - [宏福苑善後｜消息：警考慮公布罹難者名單　會逐一詢問死者家屬](https://www.dotdotnews.com/a/202601/11/AP69637cace4b0c32d4f65aeaf.html) [Original](https://www.dotdotnews.com/a/202601/11/AP69637cace4b0c32d4f65aeaf.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑善後消息警考慮公布罹難者名單-會逐一詢問死者家屬/){.md-button .hkfd-news-button}
 
-
 ### 2026-01-12
+
 - [宏福苑善後︱黃偉綸：研長遠安置方案　以情理法助重建家園](https://www.dotdotnews.com/a/202601/12/AP6964e7e8e4b0c32d4f65c8ab.html) [Original](https://www.dotdotnews.com/a/202601/12/AP6964e7e8e4b0c32d4f65c8ab.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑善後黃偉綸研長遠安置方案-以情理法助重建家園/){.md-button .hkfd-news-button}
 - [宏福苑善後︱陳健波獲准暫停三項公職　專注做好獨立委員會工作](https://www.dotdotnews.com/a/202601/12/AP6964f307e4b0c32d4f65c9b6.html) [Original](https://www.dotdotnews.com/a/202601/12/AP6964f307e4b0c32d4f65c9b6.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑善後陳健波獲准暫停三項公職-專注做好獨立委員會工作/){.md-button .hkfd-news-button}
 - [點直播｜工聯會立法會議員與政府就宏福苑安置方案會面後見記者｜1月12日](https://www.dotdotnews.com/a/202601/12/AP6964a24fe4b0c32d4f65c145.html) [Original](https://www.dotdotnews.com/a/202601/12/AP6964a24fe4b0c32d4f65c145.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/點直播工聯會立法會議員與政府就宏福苑安置方案會面後見記者1月12日/){.md-button .hkfd-news-button}
 
-
 ### 2026-01-13
+
 - [Fire aftermath | Fire safety issues resurface in commercial buildings: Fire Services to conduct undercover inspections](https://english.dotdotnews.com/a/202601/13/AP6966123de4b0c32d4f65dfe4.html) [Original](https://english.dotdotnews.com/a/202601/13/AP6966123de4b0c32d4f65dfe4.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/fire-aftermath-fire-safety-issues-resurface-in-commercial-buildings-fire/){.md-button .hkfd-news-button}
 
-
 ### 2026-01-13
+
 - [宏福苑善後｜政府明動議支援及重建議案　陳國基：以情理法處理安置](https://www.dotdotnews.com/a/202601/13/AP696634dee4b0c32d4f65e353.html) [Original](https://www.dotdotnews.com/a/202601/13/AP696634dee4b0c32d4f65e353.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑善後政府明動議支援及重建議案-陳國基以情理法處理安置/){.md-button .hkfd-news-button}
 
-
 ### 2026-01-14
+
 - [一圖｜宏福苑火災善後　數讀最新情況](https://www.dotdotnews.com/a/202601/14/AP69676f2be4b0c32d4f65fa2c.html) [Original](https://www.dotdotnews.com/a/202601/14/AP69676f2be4b0c32d4f65fa2c.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/一圖宏福苑火災善後-數讀最新情況/){.md-button .hkfd-news-button}
 - [點直播｜第八屆立法會首次會議｜1月14日](https://www.dotdotnews.com/a/202601/14/AP69670642e4b0c32d4f65ee4b.html) [Original](https://www.dotdotnews.com/a/202601/14/AP69670642e4b0c32d4f65ee4b.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/點直播第八屆立法會首次會議1月14日/){.md-button .hkfd-news-button}
 - [宏福苑善後｜大埔浸小遷新校　校方回應：校址變更　教育初心不變](https://www.dotdotnews.com/a/202601/14/AP69676f12e4b0c32d4f65fa28.html) [Original](https://www.dotdotnews.com/a/202601/14/AP69676f12e4b0c32d4f65fa28.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑善後大埔浸小遷新校-校方回應校址變更-教育初心不變/){.md-button .hkfd-news-button}
@@ -355,74 +361,75 @@
 - [（有片）宏福苑善後｜李慧琼：議案通過非劃句號　是重建工作開始](https://www.dotdotnews.com/a/202601/14/AP6967a5f6e4b0c32d4f66015e.html) [Original](https://www.dotdotnews.com/a/202601/14/AP6967a5f6e4b0c32d4f66015e.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/有片宏福苑善後李慧琼議案通過非劃句號-是重建工作開始/){.md-button .hkfd-news-button}
 - [點觀香港｜立法會首次大會特首發言　宏福苑善後重建有哪些選項？](https://www.dotdotnews.com/a/202601/14/AP696776b3e4b0c32d4f65fbbd.html) [Original](https://www.dotdotnews.com/a/202601/14/AP696776b3e4b0c32d4f65fbbd.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/點觀香港立法會首次大會特首發言-宏福苑善後重建有哪些選項/){.md-button .hkfd-news-button}
 
-
 ### 2026-01-15
+
 - [點直播｜立法會大會續會｜1月15日](https://www.dotdotnews.com/a/202601/15/AP69683bb7e4b0c32d4f660761.html) [Original](https://www.dotdotnews.com/a/202601/15/AP69683bb7e4b0c32d4f660761.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/點直播立法會大會續會1月15日/){.md-button .hkfd-news-button}
 - [（有片）視頻論點｜宏福苑善後措施彰改革決心　長遠安置情理法兼備](https://www.dotdotnews.com/a/202601/15/AP6968bbfde4b0c32d4f661340.html) [Original](https://www.dotdotnews.com/a/202601/15/AP6968bbfde4b0c32d4f661340.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/有片視頻論點宏福苑善後措施彰改革決心-長遠安置情理法兼備/){.md-button .hkfd-news-button}
 - [點觀香港｜馬年換新鈔最快1·27網上預約　宏福苑善後議員有這些建議](https://www.dotdotnews.com/a/202601/15/AP6968cfd6e4b0c32d4f66158d.html) [Original](https://www.dotdotnews.com/a/202601/15/AP6968cfd6e4b0c32d4f66158d.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/點觀香港馬年換新鈔最快127網上預約-宏福苑善後議員有這些建議/){.md-button .hkfd-news-button}
 
-
 ### 2026-01-19
+
 - [來論｜建立「以人為本」的維修與監管機制](https://www.dotdotnews.com/a/202601/19/AP696e031fe4b0c32d4f667623.html) [Original](https://www.dotdotnews.com/a/202601/19/AP696e031fe4b0c32d4f667623.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/來論建立以人為本的維修與監管機制/){.md-button .hkfd-news-button}
 - [張舉能強調行政措施不能凌駕法律　外部輿論未影響司法工作](https://www.dotdotnews.com/a/202601/19/AP696e264ce4b0c32d4f667940.html) [Original](https://www.dotdotnews.com/a/202601/19/AP696e264ce4b0c32d4f667940.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/張舉能強調行政措施不能凌駕法律-外部輿論未影響司法工作/){.md-button .hkfd-news-button}
 
-
 ### 2026-01-21
+
 - [政府本年度擬提交32項草案　包括因應宏福苑火災修訂《建築物條例》](https://www.dotdotnews.com/a/202601/21/AP6970d3f3e4b0c32d4f66a7cc.html) [Original](https://www.dotdotnews.com/a/202601/21/AP6970d3f3e4b0c32d4f66a7cc.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/政府本年度擬提交32項草案-包括因應宏福苑火災修訂建築物條例/){.md-button .hkfd-news-button}
 
-
 ### 2026-01-23
+
 - [來論｜災後重建理性安置　優先於情感與執念](https://www.dotdotnews.com/a/202601/23/AP69732959e4b0c32d4f66cdcc.html) [Original](https://www.dotdotnews.com/a/202601/23/AP69732959e4b0c32d4f66cdcc.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/來論災後重建理性安置-優先於情感與執念/){.md-button .hkfd-news-button}
 
-
 ### 2026-01-28
+
 - [點觀香港｜宏業碧瑤灣項目疑欠薪數百萬　工人危立棚架討薪　勞工權益點保障？](https://www.dotdotnews.com/a/202601/28/AP6979f005e4b0c32d4f674a17.html) [Original](https://www.dotdotnews.com/a/202601/28/AP6979f005e4b0c32d4f674a17.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/點觀香港宏業碧瑤灣項目疑欠薪數百萬-工人危立棚架討薪-勞工權益點保障/){.md-button .hkfd-news-button}
 
 ### 2026-01-29
+
 - [點深度｜電商平台仍售低價棚網「包郵到港」　180元可購假「質檢報告」](https://www.dotdotnews.com/a/202601/29/AP6979f97ce4b0c32d4f674b14.html) [Original](https://www.dotdotnews.com/a/202601/29/AP6979f97ce4b0c32d4f674b14.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/點深度電商平台仍售低價棚網包郵到港-180元可購假質檢報告/){.md-button .hkfd-news-button}
 
-
 ### 2026-01-31
+
 - [（有片）鄧炳強哽咽談宏福苑火災：徒手挖掘力保遺體完整　讓家人可以好好道別](https://www.dotdotnews.com/a/202601/31/AP697d7147e4b0c32d4f678a4d.html) [Original](https://www.dotdotnews.com/a/202601/31/AP697d7147e4b0c32d4f678a4d.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/有片鄧炳強哽咽談宏福苑火災徒手挖掘力保遺體完整-讓家人可以好好道別/){.md-button .hkfd-news-button}
 
-
 ### 2026-02-01
+
 - [Chris Tang: Domestic terrorism persists, over 1.1 mn reports received to date](https://english.dotdotnews.com/a/202602/01/AP697ee6d8e4b0c32d4f67a133.html) [Original](https://english.dotdotnews.com/a/202602/01/AP697ee6d8e4b0c32d4f67a133.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/chris-tang-domestic-terrorism-persists-over-11-mn-reports-received-to-date/){.md-button .hkfd-news-button}
 
-
 ### 2026-02-03
+
 - [宏福苑社工街頭暈倒不治　孫玉菡：非單打獨鬥　有配對公務員義工](https://www.dotdotnews.com/a/202602/03/AP6981dc8de4b0c32d4f67d568.html) [Original](https://www.dotdotnews.com/a/202602/03/AP6981dc8de4b0c32d4f67d568.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑社工街頭暈倒不治-孫玉菡非單打獨鬥-有配對公務員義工/){.md-button .hkfd-news-button}
 
-
 ### 2026-02-05
+
 - [Wang Fuk Court aftermath: 77 injured patients discharged, 2 remain stable](https://english.dotdotnews.com/a/202602/05/AP69840445e4b0c32d4f67fc83.html) [Original](https://english.dotdotnews.com/a/202602/05/AP69840445e4b0c32d4f67fc83.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/wang-fuk-court-aftermath-77-injured-patients-discharged-2-remain-stable/){.md-button .hkfd-news-button}
 
-
 ### 2026-02-05
+
 - [點觀香港｜宏福苑火災獨立委員會下月首場聽證會　善後有這些新進展](https://www.dotdotnews.com/a/202602/05/AP69847c78e4b0c32d4f68082a.html) [Original](https://www.dotdotnews.com/a/202602/05/AP69847c78e4b0c32d4f68082a.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/點觀香港宏福苑火災獨立委員會下月首場聽證會-善後有這些新進展/){.md-button .hkfd-news-button}
 - [宏福苑善後｜法援署：已成立專責小組處理災民求助申請　將簡化審查程序](https://www.dotdotnews.com/a/202602/05/AP69848346e4b0c32d4f6808a6.html) [Original](https://www.dotdotnews.com/a/202602/05/AP69848346e4b0c32d4f6808a6.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑善後法援署已成立專責小組處理災民求助申請-將簡化審查程序/){.md-button .hkfd-news-button}
 
-
 ### 2026-02-08
+
 - [Fire aftermath | Winnie Ho: Ten-year subsidy burden difficult to bear, will provide compensation options as much as possible](https://english.dotdotnews.com/a/202602/08/AP6988265be4b0c32d4f6844f1.html) [Original](https://english.dotdotnews.com/a/202602/08/AP6988265be4b0c32d4f6844f1.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/fire-aftermath-winnie-ho-ten-year-subsidy-burden-difficult-to-bear-will-provide/){.md-button .hkfd-news-button}
 
-
 ### 2026-02-10
+
 - [點觀香港｜特首回應黎智英案及宏福苑長遠安排　香港新春有這些重點活動](https://www.dotdotnews.com/a/202602/10/AP698b133ee4b0c32d4f688235.html) [Original](https://www.dotdotnews.com/a/202602/10/AP698b133ee4b0c32d4f688235.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/點觀香港特首回應黎智英案及宏福苑長遠安排-香港新春有這些重點活動/){.md-button .hkfd-news-button}
 
-
 ### 2026-02-13
+
 - [Fire Aftermath | CE urges task force to continue holiday work on resettlement plan](https://english.dotdotnews.com/a/202602/13/AP698edb3ce4b0c32d4f68c4f7.html) [Original](https://english.dotdotnews.com/a/202602/13/AP698edb3ce4b0c32d4f68c4f7.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/fire-aftermath-ce-urges-task-force-to-continue-holiday-work-on-resettlement-plan/){.md-button .hkfd-news-button}
 
-
 ### 2026-02-13
+
 - [（有片）宏福苑善後｜年前探望居民　李家超要求工作組過年不停工續擬定安置方案](https://www.dotdotnews.com/a/202602/13/AP698eb630e4b0c32d4f68c1ac.html) [Original](https://www.dotdotnews.com/a/202602/13/AP698eb630e4b0c32d4f68c1ac.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/有片宏福苑善後年前探望居民-李家超要求工作組過年不停工續擬定安置方案/){.md-button .hkfd-news-button}
 - [中華煤氣攜水務署親製愛心蘿蔔糕　赴漁映樓為宏福苑居民送暖](https://www.dotdotnews.com/a/202602/13/AP698ecedce4b0c32d4f68c3b9.html) [Original](https://www.dotdotnews.com/a/202602/13/AP698ecedce4b0c32d4f68c3b9.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/中華煤氣攜水務署親製愛心蘿蔔糕-赴漁映樓為宏福苑居民送暖/){.md-button .hkfd-news-button}
 - [三思十五談｜宏福苑火災引建管反思　林筱魯籲以科技賦能破解難題](https://www.dotdotnews.com/a/202602/13/AP698e92e7e4b0c32d4f68be13.html) [Original](https://www.dotdotnews.com/a/202602/13/AP698e92e7e4b0c32d4f68be13.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/三思十五談宏福苑火災引建管反思-林筱魯籲以科技賦能破解難題/){.md-button .hkfd-news-button}
 - [點觀香港｜特首落區探訪居民　談宏福苑善後方案「短期內公布」](https://www.dotdotnews.com/a/202602/13/AP698f04b0e4b0c32d4f68c883.html) [Original](https://www.dotdotnews.com/a/202602/13/AP698f04b0e4b0c32d4f68c883.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/點觀香港特首落區探訪居民-談宏福苑善後方案短期內公布/){.md-button .hkfd-news-button}
 
-
 ### 2026-02-21
+
 - [講真D｜高效處理宏福苑安置　讓居民盡早重過新生活](https://www.dotdotnews.com/a/202602/21/AP69996e4be4b0c32d4f69683e.html) [Original](https://www.dotdotnews.com/a/202602/21/AP69996e4be4b0c32d4f69683e.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/講真d高效處理宏福苑安置-讓居民盡早重過新生活/){.md-button .hkfd-news-button}
 - [（有片）宏福苑善後｜政府收購業權未補價呎價8000元　已補價呎價10500元](https://www.dotdotnews.com/a/202602/21/AP69995f07e4b0c32d4f6965c3.html) [Original](https://www.dotdotnews.com/a/202602/21/AP69995f07e4b0c32d4f6965c3.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/有片宏福苑善後政府收購業權未補價呎價8000元-已補價呎價10500元/){.md-button .hkfd-news-button}
 - [（有片）宏福苑善後｜政府組百人「解說專隊」　下月起入戶講解安置方案](https://www.dotdotnews.com/a/202602/21/AP699963cfe4b0c32d4f6966c5.html) [Original](https://www.dotdotnews.com/a/202602/21/AP699963cfe4b0c32d4f6966c5.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/有片宏福苑善後政府組百人解說專隊-下月起入戶講解安置方案/){.md-button .hkfd-news-button}
@@ -433,24 +440,27 @@
 - [宏福苑善後｜麥美娟：宏志閣仍需維修設施　料業主需3至4個月可返家](https://www.dotdotnews.com/a/202602/21/AP6999a3bde4b0c32d4f696d49.html) [Original](https://www.dotdotnews.com/a/202602/21/AP6999a3bde4b0c32d4f696d49.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑善後麥美娟宏志閣仍需維修設施-料業主需3至4個月可返家/){.md-button .hkfd-news-button}
 - [（有片）宏福苑善後｜何永賢：越早收購越早選樓　九龍灣粉嶺項目今年可入伙](https://www.dotdotnews.com/a/202602/21/AP69999c71e4b0c32d4f696cb6.html) [Original](https://www.dotdotnews.com/a/202602/21/AP69999c71e4b0c32d4f696cb6.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/有片宏福苑善後何永賢越早收購越早選樓-九龍灣粉嶺項目今年可入伙/){.md-button .hkfd-news-button}
 
-
 ### 2026-02-21
+
 - [Wang Fuk Court aftermath | Govt forms 100-member team for in-home briefings on resettlement plans next month](https://english.dotdotnews.com/a/202602/21/AP6999721de4b0c32d4f6968a5.html) [Original](https://english.dotdotnews.com/a/202602/21/AP6999721de4b0c32d4f6968a5.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/wang-fuk-court-aftermath-govt-forms-100-member-team-for-in-home-briefings-on/){.md-button .hkfd-news-button}
 
 ### 2026-02-22
+
 - [Wang Fuk Court aftermath | Michael Wong: Acquisition price 'human-centered', govt not using public funds to compensate for liability](https://english.dotdotnews.com/a/202602/22/AP699a7c14e4b0c32d4f6979a2.html) [Original](https://english.dotdotnews.com/a/202602/22/AP699a7c14e4b0c32d4f6979a2.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/wang-fuk-court-aftermath-michael-wong-acquisition-price-human-centered-govt-not/){.md-button .hkfd-news-button}
 - [Wang Fuk Court aftermath | Cross-departmental engagement team launched on March 2: Special team set to handle difficult problems](https://english.dotdotnews.com/a/202602/22/AP699af1a2e4b0c32d4f6983e3.html) [Original](https://english.dotdotnews.com/a/202602/22/AP699af1a2e4b0c32d4f6983e3.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/wang-fuk-court-aftermath-cross-departmental-engagement-team-launched-on-march-2/){.md-button .hkfd-news-button}
 
 ### 2026-02-23
+
 - [Deepline | Compassion first: Govt unveils detailed resettlement plan for Wang Fuk Court fire victims](https://english.dotdotnews.com/a/202602/23/AP699bd471e4b0c32d4f698de1.html) [Original](https://english.dotdotnews.com/a/202602/23/AP699bd471e4b0c32d4f698de1.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/deepline-compassion-first-govt-unveils-detailed-resettlement-plan-for-wang-fuk/){.md-button .hkfd-news-button}
 
-
 ### 2026-02-22
+
 - [（有片）宏福苑善後｜黃偉綸：政策體現人性化　冀收購做到你情我願](https://www.dotdotnews.com/a/202602/22/AP699af15fe4b0c32d4f6983dc.html) [Original](https://www.dotdotnews.com/a/202602/22/AP699af15fe4b0c32d4f6983dc.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/有片宏福苑善後黃偉綸政策體現人性化-冀收購做到你情我願/){.md-button .hkfd-news-button}
 - [（有片）宏福苑善後｜收購業權40億元公帑撥款　放在財政預算案一併處理](https://www.dotdotnews.com/a/202602/22/AP699ad58fe4b0c32d4f6980e4.html) [Original](https://www.dotdotnews.com/a/202602/22/AP699ad58fe4b0c32d4f6980e4.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/有片宏福苑善後收購業權40億元公帑撥款-放在財政預算案一併處理/){.md-button .hkfd-news-button}
 - [（有片）宏福苑善後｜跨部門百人解說專隊3·2啟動　何永賢：另設專門小組處理疑難問題](https://www.dotdotnews.com/a/202602/22/AP699ada26e4b0c32d4f698185.html) [Original](https://www.dotdotnews.com/a/202602/22/AP699ada26e4b0c32d4f698185.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/有片宏福苑善後跨部門百人解說專隊32啟動-何永賢另設專門小組處理疑難問題/){.md-button .hkfd-news-button}
 
 ### 2026-02-23
+
 - [宏福苑善後｜麥美娟：接受政府方案居民將獲延長補助](https://www.dotdotnews.com/a/202602/23/AP699c4840e4b0c32d4f699762.html) [Original](https://www.dotdotnews.com/a/202602/23/AP699c4840e4b0c32d4f699762.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑善後麥美娟接受政府方案居民將獲延長補助/){.md-button .hkfd-news-button}
 - [來論｜宏福苑安置方案展現的香港治理新思維](https://www.dotdotnews.com/a/202602/23/AP699be201e4b0c32d4f698ec7.html) [Original](https://www.dotdotnews.com/a/202602/23/AP699be201e4b0c32d4f698ec7.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/來論宏福苑安置方案展現的香港治理新思維/){.md-button .hkfd-news-button}
 - [點直播｜房屋事務委員會特別會議　討論宏福苑長遠居住方案｜2月23日](https://www.dotdotnews.com/a/202602/23/AP699c0ff1e4b0c32d4f699222.html) [Original](https://www.dotdotnews.com/a/202602/23/AP699c0ff1e4b0c32d4f699222.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/點直播房屋事務委員會特別會議-討論宏福苑長遠居住方案2月23日/){.md-button .hkfd-news-button}
@@ -460,31 +470,31 @@
 - [點觀香港｜春節假期逾百萬旅客來港賀歲　宏福苑安置方案有這些細節](https://www.dotdotnews.com/a/202602/23/AP699c4266e4b0c32d4f699699.html) [Original](https://www.dotdotnews.com/a/202602/23/AP699c4266e4b0c32d4f699699.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/點觀香港春節假期逾百萬旅客來港賀歲-宏福苑安置方案有這些細節/){.md-button .hkfd-news-button}
 - [講真D｜宏福苑「樓換樓」有着數](https://www.dotdotnews.com/a/202602/23/AP699c1f60e4b0c32d4f6993e8.html) [Original](https://www.dotdotnews.com/a/202602/23/AP699c1f60e4b0c32d4f6993e8.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/講真d宏福苑樓換樓有着數/){.md-button .hkfd-news-button}
 
-
 ### 2026-02-24
+
 - [Wang Fuk Court aftermath | Residents of Wang Chi House expected to return home in 4 months: HYAB emphasizes 3 issues pending resolution](https://english.dotdotnews.com/a/202602/24/AP699d2091e4b0c32d4f69a178.html) [Original](https://english.dotdotnews.com/a/202602/24/AP699d2091e4b0c32d4f69a178.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/wang-fuk-court-aftermath-residents-of-wang-chi-house-expected-to-return-home-in/){.md-button .hkfd-news-button}
 
-
 ### 2026-02-24
+
 - [講真D｜單獨保留宏志閣　面臨哪些挑戰？](https://www.dotdotnews.com/a/202602/24/AP699d805ae4b0c32d4f69aaa6.html) [Original](https://www.dotdotnews.com/a/202602/24/AP699d805ae4b0c32d4f69aaa6.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/講真d單獨保留宏志閣-面臨哪些挑戰/){.md-button .hkfd-news-button}
 - [宏福苑五級火｜楊恩健：去年逾44萬次防火巡查　將派員出席聽證會為火警尋真相](https://www.dotdotnews.com/a/202602/24/AP699da00ee4b0c32d4f69adda.html) [Original](https://www.dotdotnews.com/a/202602/24/AP699da00ee4b0c32d4f69adda.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火楊恩健去年逾44萬次防火巡查-將派員出席聽證會為火警尋真相/){.md-button .hkfd-news-button}
 
-
 ### 2026-02-25
+
 - [來論｜宏福苑安置方案合情合理　但執行須到位](https://www.dotdotnews.com/a/202602/25/AP699eed5fe4b0c32d4f69d131.html) [Original](https://www.dotdotnews.com/a/202602/25/AP699eed5fe4b0c32d4f69d131.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/來論宏福苑安置方案合情合理-但執行須到位/){.md-button .hkfd-news-button}
 
-
 ### 2026-02-26
+
 - [時事英豪｜看新聞學英文《宏福苑大火善後 居民安置進行時》](https://www.dotdotnews.com/a/202602/26/AP699fe050e4b0c32d4f69de0e.html) [Original](https://www.dotdotnews.com/a/202602/26/AP699fe050e4b0c32d4f69de0e.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/時事英豪看新聞學英文宏福苑大火善後-居民安置進行時/){.md-button .hkfd-news-button}
 
-
 ### 2026-02-28
+
 - [來論｜宏福苑安置選擇多元細膩　彰顯政府治理溫度與力度](https://www.dotdotnews.com/a/202602/28/AP69a2a5b1e4b0c32d4f6a1602.html) [Original](https://www.dotdotnews.com/a/202602/28/AP69a2a5b1e4b0c32d4f6a1602.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/來論宏福苑安置選擇多元細膩-彰顯政府治理溫度與力度/){.md-button .hkfd-news-button}
 
-
 ### 2026-03-09
+
 - [Wang Fuk Court Aftermath | Police enhance security: Workers restricted to carrying cash and subject to searches](https://english.dotdotnews.com/a/202603/09/AP69ae6dd1e4b0c32d4f6b3ab7.html) [Original](https://english.dotdotnews.com/a/202603/09/AP69ae6dd1e4b0c32d4f6b3ab7.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/wang-fuk-court-aftermath-police-enhance-security-workers-restricted-to-carrying/){.md-button .hkfd-news-button}
 
-
 ### 2026-03-10
+
 - [點直播｜紅十字會簡介宏福苑善後最新進展｜3月10日](https://www.dotdotnews.com/a/202603/10/AP69afc0e8e4b0c32d4f6b585d.html) [Original](https://www.dotdotnews.com/a/202603/10/AP69afc0e8e4b0c32d4f6b585d.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/點直播紅十字會簡介宏福苑善後最新進展3月10日/){.md-button .hkfd-news-button}

@@ -440,15 +440,14 @@ def scrape_with_uc_inmedia(url: str, config: dict) -> tuple[str, bool]:
     try:
         driver = uc.Chrome(headless=False, use_subprocess=False)
         driver.get(url)
-        element = WebDriverWait(driver, 120).until(
-           EC.visibility_of_element_located((By.XPATH, "/html/body/div[4]/section/section/div[2]/div[2]/article"))
-        )
+        element = WebDriverWait(driver, 120).until(EC.visibility_of_element_located((By.XPATH, "/html/body/div[4]/section/section/div[2]/div[2]/article")))
         content = element.get_attribute("innerHTML")
         driver.close()
         return content, True
     except Exception as e:
         log(f"  ⚠️ Undetected Chromedriver fallback failed: {str(e)[:40]}", "WARN")
         return "", False
+
 
 def scrape_with_uc_hkej(url: str, config: dict) -> tuple[str, bool]:
     """Fallback scraper using undetected-chromedriver library for hkej, not-mature"""
@@ -460,13 +459,11 @@ def scrape_with_uc_hkej(url: str, config: dict) -> tuple[str, bool]:
     try:
         driver = uc.Chrome(headless=True, use_subprocess=False)
         driver.get(url)
-        element = WebDriverWait(driver, 10).until(
-           EC.visibility_of_element_located((By.XPATH, "/html/body/div[7]/div/div[1]/div[4]"))
-        )
+        element = WebDriverWait(driver, 10).until(EC.visibility_of_element_located((By.XPATH, "/html/body/div[7]/div/div[1]/div[4]")))
         content = element.get_attribute("outerHTML")
         check_content = element.text
         if check_content.find("訂戶登入") > -1:
-            log(f"Need Subscriber Login")
+            log("Need Subscriber Login")
             return "", False
         driver.close()
         return content, True

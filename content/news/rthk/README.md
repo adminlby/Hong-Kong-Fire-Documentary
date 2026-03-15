@@ -774,8 +774,8 @@
 - [宏福苑五級火｜醫衞局明起為受災居民提供中醫義診服務](https://news.rthk.hk/rthk/ch/component/k2/1836039-20251214.htm?archive_date=2025-12-14)
 - [宏福苑五級火｜卜國明冀檢討機制助業主聘顧問物色承建商](https://news.rthk.hk/rthk/ch/component/k2/1836025-20251214.htm?archive_date=2025-12-14)
 
-
 ### 2025-12-15
+
 - [宏福苑五級火｜孫玉菡稱已向110名宏福苑外傭提供2萬元補助](https://news.rthk.hk/rthk/ch/component/k2/1836226-20251215.htm?archive_date=2025-12-15) [Original](https://news.rthk.hk/rthk/ch/component/k2/1836226-20251215.htm?archive_date=2025-12-15){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火孫玉菡稱已向110名宏福苑外傭提供2萬元補助/){.md-button .hkfd-news-button}
 - [李家超上京述職　將向習近平匯報宏福苑火災善後工作](https://news.rthk.hk/rthk/ch/component/k2/1836200-20251215.htm?archive_date=2025-12-15) [Original](https://news.rthk.hk/rthk/ch/component/k2/1836200-20251215.htm?archive_date=2025-12-15){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/李家超上京述職-將向習近平匯報宏福苑火災善後工作/){.md-button .hkfd-news-button}
 - [宏福苑五級火｜消防處周五為何偉豪舉行最高榮譽喪禮](https://news.rthk.hk/rthk/ch/component/k2/1836205-20251215.htm?archive_date=2025-12-15) [Original](https://news.rthk.hk/rthk/ch/component/k2/1836205-20251215.htm?archive_date=2025-12-15){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火消防處周五為何偉豪舉行最高榮譽喪禮/){.md-button .hkfd-news-button}
@@ -785,15 +785,16 @@
 - [宏福苑五級火｜政府稱用於較長期安置單位尚有千多個　供應足夠](https://news.rthk.hk/rthk/ch/component/k2/1836242-20251215.htm?archive_date=2025-12-15) [Original](https://news.rthk.hk/rthk/ch/component/k2/1836242-20251215.htm?archive_date=2025-12-15){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火政府稱用於較長期安置單位尚有千多個-供應足夠/){.md-button .hkfd-news-button}
 
 ### 2025-12-16
+
 - [宏福苑五級火｜政務司司長明確指示所有部門積極配合獨立委員會](https://news.rthk.hk/rthk/ch/component/k2/1836376-20251216.htm?archive_date=2025-12-16) [Original](https://news.rthk.hk/rthk/ch/component/k2/1836376-20251216.htm?archive_date=2025-12-16){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火政務司司長明確指示所有部門積極配合獨立委員會/){.md-button .hkfd-news-button}
 - [宏福苑五級火｜消防處針對正大維修大廈主動檢查消防警鐘系統運作](https://news.rthk.hk/rthk/ch/component/k2/1836360-20251216.htm?archive_date=2025-12-16) [Original](https://news.rthk.hk/rthk/ch/component/k2/1836360-20251216.htm?archive_date=2025-12-16){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火消防處針對正大維修大廈主動檢查消防警鐘系統運作/){.md-button .hkfd-news-button}
 
-
 ### 2025-12-17
+
 - [宏福苑五級火｜據了解廉署拘捕宏福苑業主立案法團現任及前任主席](https://news.rthk.hk/rthk/ch/component/k2/1836496-20251217.htm?archive_date=2025-12-17) [Original](https://news.rthk.hk/rthk/ch/component/k2/1836496-20251217.htm?archive_date=2025-12-17){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火據了解廉署拘捕宏福苑業主立案法團現任及前任主席/){.md-button .hkfd-news-button}
 
-
 ### 2025-12-18
+
 - [Wang Fuk Court owners get rental subsidy for two years](https://news.rthk.hk/rthk/en/component/k2/1836635-20251218.htm?archive_date=2025-12-18) [Original](https://news.rthk.hk/rthk/en/component/k2/1836635-20251218.htm?archive_date=2025-12-18){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/wang-fuk-court-owners-get-rental-subsidy-for-two-years/){.md-button .hkfd-news-button}
 - [宏福苑五級火｜何偉豪設靈　李家超、梁振英和曾蔭權等致意](https://news.rthk.hk/rthk/ch/component/k2/1836674-20251218.htm?archive_date=2025-12-18) [Original](https://news.rthk.hk/rthk/ch/component/k2/1836674-20251218.htm?archive_date=2025-12-18){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火何偉豪設靈-李家超梁振英和曾蔭權等致意/){.md-button .hkfd-news-button}
 - [宏福苑五級火｜基金累積38億元已用12億　政府稱要用得其所](https://news.rthk.hk/rthk/ch/component/k2/1836653-20251218.htm?archive_date=2025-12-18) [Original](https://news.rthk.hk/rthk/ch/component/k2/1836653-20251218.htm?archive_date=2025-12-18){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火基金累積38億元已用12億-政府稱要用得其所/){.md-button .hkfd-news-button}
@@ -805,8 +806,8 @@
 - [宏福苑五級火｜卓永興等官員下午就援助基金見傳媒](https://news.rthk.hk/rthk/ch/component/k2/1836605-20251218.htm?archive_date=2025-12-18) [Original](https://news.rthk.hk/rthk/ch/component/k2/1836605-20251218.htm?archive_date=2025-12-18){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火卓永興等官員下午就援助基金見傳媒/){.md-button .hkfd-news-button}
 - [宏福苑五級火｜援助基金生活津貼已處理1917宗個案](https://news.rthk.hk/rthk/ch/component/k2/1836517-20251218.htm?archive_date=2025-12-18) [Original](https://news.rthk.hk/rthk/ch/component/k2/1836517-20251218.htm?archive_date=2025-12-18){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火援助基金生活津貼已處理1917宗個案/){.md-button .hkfd-news-button}
 
-
 ### 2025-12-19
+
 - [Push to dissolve Wang Fuk Court owners' committee](https://news.rthk.hk/rthk/en/component/k2/1836799-20251219.htm?archive_date=2025-12-19) [Original](https://news.rthk.hk/rthk/en/component/k2/1836799-20251219.htm?archive_date=2025-12-19){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/push-to-dissolve-wang-fuk-court-owners-committee/){.md-button .hkfd-news-button}
 - [宏福苑五級火｜屋宇署公布棚網阻燃效能作業備考　5間指定實驗所](https://news.rthk.hk/rthk/ch/component/k2/1836812-20251219.htm?archive_date=2025-12-19) [Original](https://news.rthk.hk/rthk/ch/component/k2/1836812-20251219.htm?archive_date=2025-12-19){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火屋宇署公布棚網阻燃效能作業備考-5間指定實驗所/){.md-button .hkfd-news-button}
 - [宏福苑五級火｜保監局指保險公司最新賠付金額逾2.57億元](https://news.rthk.hk/rthk/ch/component/k2/1836811-20251219.htm?archive_date=2025-12-19) [Original](https://news.rthk.hk/rthk/ch/component/k2/1836811-20251219.htm?archive_date=2025-12-19){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火保監局指保險公司最新賠付金額逾257億元/){.md-button .hkfd-news-button}
@@ -823,12 +824,13 @@
 - [宏福苑五級火｜何偉豪舉殯　李家超鄧炳強等出席喪禮官方儀式](https://news.rthk.hk/rthk/ch/component/k2/1836724-20251219.htm?archive_date=2025-12-19) [Original](https://news.rthk.hk/rthk/ch/component/k2/1836724-20251219.htm?archive_date=2025-12-19){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火何偉豪舉殯-李家超鄧炳強等出席喪禮官方儀式/){.md-button .hkfd-news-button}
 - [宏福苑五級火｜何偉豪舉殯　市民到殯儀館外獻花致哀](https://news.rthk.hk/rthk/ch/component/k2/1836718-20251219.htm?archive_date=2025-12-19) [Original](https://news.rthk.hk/rthk/ch/component/k2/1836718-20251219.htm?archive_date=2025-12-19){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火何偉豪舉殯-市民到殯儀館外獻花致哀/){.md-button .hkfd-news-button}
 
-
 ### 2025-12-19
+
 - [宏福苑五級火｜政府爭取一個月內首批經檢測棚網重新上架](https://news.rthk.hk/rthk/ch/component/k2/1836822-20251219.htm?archive_date=2025-12-19) [Original](https://news.rthk.hk/rthk/ch/component/k2/1836822-20251219.htm?archive_date=2025-12-19){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火政府爭取一個月內首批經檢測棚網重新上架/){.md-button .hkfd-news-button}
 - [宏福苑五級火｜消防處為何偉豪舉行最高榮譽喪禮　靈柩安葬浩園](https://news.rthk.hk/rthk/ch/component/k2/1836793-20251219.htm?archive_date=2025-12-19) [Original](https://news.rthk.hk/rthk/ch/component/k2/1836793-20251219.htm?archive_date=2025-12-19){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火消防處為何偉豪舉行最高榮譽喪禮-靈柩安葬浩園/){.md-button .hkfd-news-button}
 
 ### 2025-12-20
+
 - [New campus set for pupils from Wang Fuk Court school](https://news.rthk.hk/rthk/en/component/k2/1836897-20251220.htm?archive_date=2025-12-20) [Original](https://news.rthk.hk/rthk/en/component/k2/1836897-20251220.htm?archive_date=2025-12-20){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/new-campus-set-for-pupils-from-wang-fuk-court-school/){.md-button .hkfd-news-button}
 - [Death toll from Wang Fuk Court fire rises to 161](https://news.rthk.hk/rthk/en/component/k2/1836870-20251220.htm?archive_date=2025-12-20) [Original](https://news.rthk.hk/rthk/en/component/k2/1836870-20251220.htm?archive_date=2025-12-20){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/death-toll-from-wang-fuk-court-fire-rises-to-161/){.md-button .hkfd-news-button}
 - [宏福苑五級火｜援助基金達40億元　千多個單位可較長期安置居民](https://news.rthk.hk/rthk/ch/component/k2/1836907-20251220.htm?archive_date=2025-12-20) [Original](https://news.rthk.hk/rthk/ch/component/k2/1836907-20251220.htm?archive_date=2025-12-20){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火援助基金達40億元-千多個單位可較長期安置居民/){.md-button .hkfd-news-button}
@@ -843,8 +845,8 @@
 - [宏福苑五級火｜甯漢豪：有建議由政府指派維修承建商　社會可討論](https://news.rthk.hk/rthk/ch/component/k2/1836856-20251220.htm?archive_date=2025-12-20) [Original](https://news.rthk.hk/rthk/ch/component/k2/1836856-20251220.htm?archive_date=2025-12-20){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火甯漢豪有建議由政府指派維修承建商-社會可討論/){.md-button .hkfd-news-button}
 - [宏福苑五級火｜甯漢豪：檢視建築物條例修訂冀明年上半年提交立會](https://news.rthk.hk/rthk/ch/component/k2/1836852-20251220.htm?archive_date=2025-12-20) [Original](https://news.rthk.hk/rthk/ch/component/k2/1836852-20251220.htm?archive_date=2025-12-20){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火甯漢豪檢視建築物條例修訂冀明年上半年提交立會/){.md-button .hkfd-news-button}
 
-
 ### 2025-12-21
+
 - [More transport services for Wang Fuk Court residents](https://news.rthk.hk/rthk/en/component/k2/1836976-20251221.htm?archive_date=2025-12-21) [Original](https://news.rthk.hk/rthk/en/component/k2/1836976-20251221.htm?archive_date=2025-12-21){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/more-transport-services-for-wang-fuk-court-residents/){.md-button .hkfd-news-button}
 - [宏福苑五級火｜房屋局：捐贈予受影響居民物資一般可於遷出時帶走](https://news.rthk.hk/rthk/ch/component/k2/1836981-20251221.htm?archive_date=2025-12-21) [Original](https://news.rthk.hk/rthk/ch/component/k2/1836981-20251221.htm?archive_date=2025-12-21){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火房屋局捐贈予受影響居民物資一般可於遷出時帶走/){.md-button .hkfd-news-button}
 - [宏福苑五級火｜善導會：宏福苑居民離開善樓時可按需要帶走傢電](https://news.rthk.hk/rthk/ch/component/k2/1836977-20251221.htm?archive_date=2025-12-21) [Original](https://news.rthk.hk/rthk/ch/component/k2/1836977-20251221.htm?archive_date=2025-12-21){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火善導會宏福苑居民離開善樓時可按需要帶走傢電/){.md-button .hkfd-news-button}
@@ -854,44 +856,47 @@
 - [宏福苑五級火｜麥美娟稱華懋旗下管理公司會定期提交報告](https://news.rthk.hk/rthk/ch/component/k2/1836936-20251221.htm?archive_date=2025-12-21) [Original](https://news.rthk.hk/rthk/ch/component/k2/1836936-20251221.htm?archive_date=2025-12-21){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火麥美娟稱華懋旗下管理公司會定期提交報告/){.md-button .hkfd-news-button}
 - [宏福苑五級火｜麥美娟：委任管理人的安排不會剝奪業主權力](https://news.rthk.hk/rthk/ch/component/k2/1836932-20251221.htm?archive_date=2025-12-21) [Original](https://news.rthk.hk/rthk/ch/component/k2/1836932-20251221.htm?archive_date=2025-12-21){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火麥美娟委任管理人的安排不會剝奪業主權力/){.md-button .hkfd-news-button}
 
-
 ### 2025-12-21
+
 - [宏福苑五級火｜至今逾29000件不同類別物資配送至多個地點](https://news.rthk.hk/rthk/ch/component/k2/1836987-20251221.htm?archive_date=2025-12-21) [Original](https://news.rthk.hk/rthk/ch/component/k2/1836987-20251221.htm?archive_date=2025-12-21){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火至今逾29000件不同類別物資配送至多個地點/){.md-button .hkfd-news-button}
 
 ### 2025-12-22
+
 - [宏福苑五級火｜援助基金共收到約38億元外界捐款](https://news.rthk.hk/rthk/ch/component/k2/1837125-20251222.htm?archive_date=2025-12-22) [Original](https://news.rthk.hk/rthk/ch/component/k2/1837125-20251222.htm?archive_date=2025-12-22){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火援助基金共收到約38億元外界捐款/){.md-button .hkfd-news-button}
 - [宏福苑五級火｜牙醫業界免費鑲配假牙服務協助因火災遺失假牙居民](https://news.rthk.hk/rthk/ch/component/k2/1837099-20251222.htm?archive_date=2025-12-22) [Original](https://news.rthk.hk/rthk/ch/component/k2/1837099-20251222.htm?archive_date=2025-12-22){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火牙醫業界免費鑲配假牙服務協助因火災遺失假牙居民/){.md-button .hkfd-news-button}
 - [宏福苑五級火｜蔡若蓮稱正提速翻新前基正小學校舍讓大埔浸小使用](https://news.rthk.hk/rthk/ch/component/k2/1837075-20251222.htm?archive_date=2025-12-22) [Original](https://news.rthk.hk/rthk/ch/component/k2/1837075-20251222.htm?archive_date=2025-12-22){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火蔡若蓮稱正提速翻新前基正小學校舍讓大埔浸小使用/){.md-button .hkfd-news-button}
 
-
 ### 2025-12-22
+
 - [宏福苑五級火｜宏志閣業主領補助需簽聲明　民青局強調為防止濫用](https://news.rthk.hk/rthk/ch/component/k2/1837133-20251222.htm?archive_date=2025-12-22) [Original](https://news.rthk.hk/rthk/ch/component/k2/1837133-20251222.htm?archive_date=2025-12-22){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火宏志閣業主領補助需簽聲明-民青局強調為防止濫用/){.md-button .hkfd-news-button}
 
 ### 2025-12-23
+
 - [Committee probing inferno visits Wang Fuk Court](https://news.rthk.hk/rthk/en/component/k2/1837241-20251223.htm?archive_date=2025-12-23) [Original](https://news.rthk.hk/rthk/en/component/k2/1837241-20251223.htm?archive_date=2025-12-23){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/committee-probing-inferno-visits-wang-fuk-court/){.md-button .hkfd-news-button}
 - [宏福苑五級火｜獨立委員會到宏福苑視察　消防處聯同相關部門陪同](https://news.rthk.hk/rthk/ch/component/k2/1837275-20251223.htm?archive_date=2025-12-23) [Original](https://news.rthk.hk/rthk/ch/component/k2/1837275-20251223.htm?archive_date=2025-12-23){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火獨立委員會到宏福苑視察-消防處聯同相關部門陪同/){.md-button .hkfd-news-button}
 - [宏福苑五級火｜紅十字會收逾4.2億捐款　2.4億用於現金援助](https://news.rthk.hk/rthk/ch/component/k2/1837252-20251223.htm?archive_date=2025-12-23) [Original](https://news.rthk.hk/rthk/ch/component/k2/1837252-20251223.htm?archive_date=2025-12-23){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火紅十字會收逾42億捐款-24億用於現金援助/){.md-button .hkfd-news-button}
 - [宏福苑五級火｜獨立委員會實地了解消防裝置、維修物料及施工安全](https://news.rthk.hk/rthk/ch/component/k2/1837233-20251223.htm?archive_date=2025-12-23) [Original](https://news.rthk.hk/rthk/ch/component/k2/1837233-20251223.htm?archive_date=2025-12-23){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火獨立委員會實地了解消防裝置維修物料及施工安全/){.md-button .hkfd-news-button}
 - [宏福苑五級火｜獨立委員會成員在消防人員陪同下到火災現場視察](https://news.rthk.hk/rthk/ch/component/k2/1837226-20251223.htm?archive_date=2025-12-23) [Original](https://news.rthk.hk/rthk/ch/component/k2/1837226-20251223.htm?archive_date=2025-12-23){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火獨立委員會成員在消防人員陪同下到火災現場視察/){.md-button .hkfd-news-button}
 
-
 ### 2025-12-24
+
 - [宏福苑五級火｜警方再拘一男涉誤殺　為外牆工程分判商負責人](https://news.rthk.hk/rthk/ch/component/k2/1837428-20251224.htm?archive_date=2025-12-24) [Original](https://news.rthk.hk/rthk/ch/component/k2/1837428-20251224.htm?archive_date=2025-12-24){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火警方再拘一男涉誤殺-為外牆工程分判商負責人/){.md-button .hkfd-news-button}
 - [宏福苑五級火｜逾4600多名居民住在酒店、青年宿舍或過渡屋等](https://news.rthk.hk/rthk/ch/component/k2/1837413-20251224.htm?archive_date=2025-12-24) [Original](https://news.rthk.hk/rthk/ch/component/k2/1837413-20251224.htm?archive_date=2025-12-24){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火逾4600多名居民住在酒店青年宿舍或過渡屋等/){.md-button .hkfd-news-button}
 
-
 ### 2025-12-24
+
 - [One more arrest over Wang Fuk Court inferno](https://news.rthk.hk/rthk/en/component/k2/1837430-20251224.htm?archive_date=2025-12-24) [Original](https://news.rthk.hk/rthk/en/component/k2/1837430-20251224.htm?archive_date=2025-12-24){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/one-more-arrest-over-wang-fuk-court-inferno/){.md-button .hkfd-news-button}
 
 ### 2025-12-25
+
 - [宏福苑五級火｜康健中心熱線至本月23日累計接逾176人次來電](https://news.rthk.hk/rthk/ch/component/k2/1837518-20251225.htm?archive_date=2025-12-25) [Original](https://news.rthk.hk/rthk/ch/component/k2/1837518-20251225.htm?archive_date=2025-12-25){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火康健中心熱線至本月23日累計接逾176人次來電/){.md-button .hkfd-news-button}
 - [宏福苑五級火｜逾300私家醫生義診　有需要居民可求診助復元](https://news.rthk.hk/rthk/ch/component/k2/1837517-20251225.htm?archive_date=2025-12-25) [Original](https://news.rthk.hk/rthk/ch/component/k2/1837517-20251225.htm?archive_date=2025-12-25){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火逾300私家醫生義診-有需要居民可求診助復元/){.md-button .hkfd-news-button}
 - [宏福苑五級火｜有災民稱專屬社工可供情緒支援和處理生活所需](https://news.rthk.hk/rthk/ch/component/k2/1837488-20251225.htm?archive_date=2025-12-25) [Original](https://news.rthk.hk/rthk/ch/component/k2/1837488-20251225.htm?archive_date=2025-12-25){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火有災民稱專屬社工可供情緒支援和處理生活所需/){.md-button .hkfd-news-button}
 - [宏福苑五級火｜醫衞局至今約為1600名受影響居民提供醫療服務](https://news.rthk.hk/rthk/ch/component/k2/1837482-20251225.htm?archive_date=2025-12-25) [Original](https://news.rthk.hk/rthk/ch/component/k2/1837482-20251225.htm?archive_date=2025-12-25){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火醫衞局至今約為1600名受影響居民提供醫療服務/){.md-button .hkfd-news-button}
 - [宏福苑五級火｜專屬社工支援生活所需　居民稱減徬徨將開展新生活](https://news.rthk.hk/rthk/ch/component/k2/1837457-20251225.htm?archive_date=2025-12-25) [Original](https://news.rthk.hk/rthk/ch/component/k2/1837457-20251225.htm?archive_date=2025-12-25){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火專屬社工支援生活所需-居民稱減徬徨將開展新生活/){.md-button .hkfd-news-button}
 
-
 ### 2025-12-26
+
 - [Finding flats a challenge for Wang Fuk Court residents](https://news.rthk.hk/rthk/en/component/k2/1837598-20251226.htm?archive_date=2025-12-26) [Original](https://news.rthk.hk/rthk/en/component/k2/1837598-20251226.htm?archive_date=2025-12-26){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/finding-flats-a-challenge-for-wang-fuk-court-residents/){.md-button .hkfd-news-button}
 - [宏福苑五級火｜援助基金已推出11個項目　總承擔額約12億元](https://news.rthk.hk/rthk/ch/component/k2/1837620-20251226.htm?archive_date=2025-12-26) [Original](https://news.rthk.hk/rthk/ch/component/k2/1837620-20251226.htm?archive_date=2025-12-26){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火援助基金已推出11個項目-總承擔額約12億元/){.md-button .hkfd-news-button}
 - [宏福苑五級火｜甯漢豪稱四方面跟進冀重建公眾對維修樓宇安全信心](https://news.rthk.hk/rthk/ch/component/k2/1837605-20251226.htm?archive_date=2025-12-26) [Original](https://news.rthk.hk/rthk/ch/component/k2/1837605-20251226.htm?archive_date=2025-12-26){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火甯漢豪稱四方面跟進冀重建公眾對維修樓宇安全信心/){.md-button .hkfd-news-button}
@@ -899,36 +904,37 @@
 - [宏福苑五級火｜大火後一個月有居民尋租盤有困難　有代理免佣協助](https://news.rthk.hk/rthk/ch/component/k2/1837588-20251226.htm?archive_date=2025-12-26) [Original](https://news.rthk.hk/rthk/ch/component/k2/1837588-20251226.htm?archive_date=2025-12-26){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火大火後一個月有居民尋租盤有困難-有代理免佣協助/){.md-button .hkfd-news-button}
 - [宏福苑五級火｜林正財稱家屬處理急切問題後或現哀傷情緒更須輔導](https://news.rthk.hk/rthk/ch/component/k2/1837568-20251226.htm?archive_date=2025-12-26) [Original](https://news.rthk.hk/rthk/ch/component/k2/1837568-20251226.htm?archive_date=2025-12-26){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火林正財稱家屬處理急切問題後或現哀傷情緒更須輔導/){.md-button .hkfd-news-button}
 
-
 ### 2025-12-27
+
 - [宏福苑五級火｜蕭澤宇稱有地產代理免費為災民尋租盤　感謝貢獻](https://news.rthk.hk/rthk/ch/component/k2/1837672-20251227.htm?archive_date=2025-12-27) [Original](https://news.rthk.hk/rthk/ch/component/k2/1837672-20251227.htm?archive_date=2025-12-27){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火蕭澤宇稱有地產代理免費為災民尋租盤-感謝貢獻/){.md-button .hkfd-news-button}
 
-
 ### 2025-12-31
+
 - [宏福苑五級火｜紅十字會心理支援服務逾2500人次](https://news.rthk.hk/rthk/ch/component/k2/1838090-20251231.htm?archive_date=2025-12-31) [Original](https://news.rthk.hk/rthk/ch/component/k2/1838090-20251231.htm?archive_date=2025-12-31){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火紅十字會心理支援服務逾2500人次/){.md-button .hkfd-news-button}
 - [【思念‧回憶‧同行】｜大埔宏福苑居民盼「重見家圓」](https://news.rthk.hk/rthk/ch/component/k2/1838091-20251231.htm?archive_date=2025-12-31) [Original](https://news.rthk.hk/rthk/ch/component/k2/1838091-20251231.htm?archive_date=2025-12-31){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/思念回憶同行大埔宏福苑居民盼重見家圓/){.md-button .hkfd-news-button}
 
-
 ### 2026-01-01
+
 - [陳國基冀立法會與政府合作持續跟進宏福苑大火調查善後等工作](https://news.rthk.hk/rthk/ch/component/k2/1838262-20260101.htm?archive_date=2026-01-01) [Original](https://news.rthk.hk/rthk/ch/component/k2/1838262-20260101.htm?archive_date=2026-01-01){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/陳國基冀立法會與政府合作持續跟進宏福苑大火調查善後等工作/){.md-button .hkfd-news-button}
 - [宏福苑五級火｜截至前日67傷者先後康復出院12人情況穩定](https://news.rthk.hk/rthk/ch/component/k2/1838246-20260101.htm?archive_date=2026-01-01) [Original](https://news.rthk.hk/rthk/ch/component/k2/1838246-20260101.htm?archive_date=2026-01-01){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火截至前日67傷者先後康復出院12人情況穩定/){.md-button .hkfd-news-button}
 
-
 ### 2026-01-02
+
 - [宏福苑五級火｜元旦及聖誕節宏仁閣尋回生還貓隻　愛協稱奇蹟](https://news.rthk.hk/rthk/ch/component/k2/1838405-20260102.htm?archive_date=2026-01-02) [Original](https://news.rthk.hk/rthk/ch/component/k2/1838405-20260102.htm?archive_date=2026-01-02){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火元旦及聖誕節宏仁閣尋回生還貓隻-愛協稱奇蹟/){.md-button .hkfd-news-button}
 - [謝邱安儀：宏福苑大火後社會哀傷　六成零售商會員稱生意受影響](https://news.rthk.hk/rthk/ch/component/k2/1838403-20260102.htm?archive_date=2026-01-02) [Original](https://news.rthk.hk/rthk/ch/component/k2/1838403-20260102.htm?archive_date=2026-01-02){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/謝邱安儀宏福苑大火後社會哀傷-六成零售商會員稱生意受影響/){.md-button .hkfd-news-button}
 - [宏福苑五級火｜法援署署長陳澤銘稱短期推措施協助災民申請法援](https://news.rthk.hk/rthk/ch/component/k2/1838332-20260102.htm?archive_date=2026-01-02) [Original](https://news.rthk.hk/rthk/ch/component/k2/1838332-20260102.htm?archive_date=2026-01-02){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火法援署署長陳澤銘稱短期推措施協助災民申請法援/){.md-button .hkfd-news-button}
 
-
 ### 2026-01-03
+
 - [宏福苑五級火｜消防處發布特刊讚揚何偉豪捨身為民情操高尚](https://news.rthk.hk/rthk/ch/component/k2/1838490-20260103.htm?archive_date=2026-01-03) [Original](https://news.rthk.hk/rthk/ch/component/k2/1838490-20260103.htm?archive_date=2026-01-03){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火消防處發布特刊讚揚何偉豪捨身為民情操高尚/){.md-button .hkfd-news-button}
 
 ### 2026-01-04
+
 - [宏福苑五級火｜警方因應需求調整傷亡查詢熱線服務時間](https://news.rthk.hk/rthk/ch/component/k2/1838548-20260104.htm?archive_date=2026-01-04) [Original](https://news.rthk.hk/rthk/ch/component/k2/1838548-20260104.htm?archive_date=2026-01-04){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火警方因應需求調整傷亡查詢熱線服務時間/){.md-button .hkfd-news-button}
 - [宏福苑五級火｜回應居民接月內遷離令　當局稱因應營運者房間供應](https://news.rthk.hk/rthk/ch/component/k2/1838541-20260104.htm?archive_date=2026-01-04) [Original](https://news.rthk.hk/rthk/ch/component/k2/1838541-20260104.htm?archive_date=2026-01-04){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火回應居民接月內遷離令-當局稱因應營運者房間供應/){.md-button .hkfd-news-button}
 
-
 ### 2026-01-06
+
 - [Govt welcomes court decision on Wang Fuk Court](https://news.rthk.hk/rthk/en/component/k2/1838813-20260106.htm?archive_date=2026-01-06) [Original](https://news.rthk.hk/rthk/en/component/k2/1838813-20260106.htm?archive_date=2026-01-06){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/govt-welcomes-court-decision-on-wang-fuk-court/){.md-button .hkfd-news-button}
 - [Lands Tribunal dissolves Wang Fuk Court owners' group](https://news.rthk.hk/rthk/en/component/k2/1838798-20260106.htm?archive_date=2026-01-06) [Original](https://news.rthk.hk/rthk/en/component/k2/1838798-20260106.htm?archive_date=2026-01-06){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/lands-tribunal-dissolves-wang-fuk-court-owners-group/){.md-button .hkfd-news-button}
 - [Wang Fuk Court displaced to get rehousing options](https://news.rthk.hk/rthk/en/component/k2/1838770-20260106.htm?archive_date=2026-01-06) [Original](https://news.rthk.hk/rthk/en/component/k2/1838770-20260106.htm?archive_date=2026-01-06){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/wang-fuk-court-displaced-to-get-rehousing-options/){.md-button .hkfd-news-button}
@@ -940,18 +946,18 @@
 - [宏福苑五級火｜政府提請解散法團管委會　指為保護居民權益](https://news.rthk.hk/rthk/ch/component/k2/1838789-20260106.htm?archive_date=2026-01-06) [Original](https://news.rthk.hk/rthk/ch/component/k2/1838789-20260106.htm?archive_date=2026-01-06){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火政府提請解散法團管委會-指為保護居民權益/){.md-button .hkfd-news-button}
 - [宏福苑五級火｜大埔區議會研善後支援　黃碧嬌冀盡快公布重置方案](https://news.rthk.hk/rthk/ch/component/k2/1838753-20260106.htm?archive_date=2026-01-06) [Original](https://news.rthk.hk/rthk/ch/component/k2/1838753-20260106.htm?archive_date=2026-01-06){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火大埔區議會研善後支援-黃碧嬌冀盡快公布重置方案/){.md-button .hkfd-news-button}
 
-
 ### 2026-01-07
+
 - [宏福苑五級火｜區議員稱不少居民冀留在大埔　倡用頌雅路西地重置](https://news.rthk.hk/rthk/ch/component/k2/1838882-20260107.htm?archive_date=2026-01-07) [Original](https://news.rthk.hk/rthk/ch/component/k2/1838882-20260107.htm?archive_date=2026-01-07){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火區議員稱不少居民冀留在大埔-倡用頌雅路西地重置/){.md-button .hkfd-news-button}
 
-
 ### 2026-01-08
+
 - [宏福苑五級火｜有區議員稱大埔很多租置屋邨將維修　業主擔心圍標](https://news.rthk.hk/rthk/ch/component/k2/1839099-20260108.htm?archive_date=2026-01-08) [Original](https://news.rthk.hk/rthk/ch/component/k2/1839099-20260108.htm?archive_date=2026-01-08){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火有區議員稱大埔很多租置屋邨將維修-業主擔心圍標/){.md-button .hkfd-news-button}
 - [宏福苑五級火｜獨立委員會委任包括杜淦堃等5名代表大律師](https://news.rthk.hk/rthk/ch/component/k2/1839075-20260108.htm?archive_date=2026-01-08) [Original](https://news.rthk.hk/rthk/ch/component/k2/1839075-20260108.htm?archive_date=2026-01-08){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火獨立委員會委任包括杜淦堃等5名代表大律師/){.md-button .hkfd-news-button}
 - [宏福苑五級火｜79名傷者中69人已出院　其餘10人情況穩定](https://news.rthk.hk/rthk/ch/component/k2/1839029-20260108.htm?archive_date=2026-01-08) [Original](https://news.rthk.hk/rthk/ch/component/k2/1839029-20260108.htm?archive_date=2026-01-08){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火79名傷者中69人已出院-其餘10人情況穩定/){.md-button .hkfd-news-button}
 
-
 ### 2026-01-09
+
 - [Wang Fuk Court owners get their say on rehousing](https://news.rthk.hk/rthk/en/component/k2/1839240-20260109.htm?archive_date=2026-01-09) [Original](https://news.rthk.hk/rthk/en/component/k2/1839240-20260109.htm?archive_date=2026-01-09){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/wang-fuk-court-owners-get-their-say-on-rehousing/){.md-button .hkfd-news-button}
 - [宏福苑五級火｜建造業議會集體採購新棚網　料下周陸續分發承建商](https://news.rthk.hk/rthk/ch/component/k2/1839264-20260109.htm?archive_date=2026-01-09) [Original](https://news.rthk.hk/rthk/ch/component/k2/1839264-20260109.htm?archive_date=2026-01-09){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火建造業議會集體採購新棚網-料下周陸續分發承建商/){.md-button .hkfd-news-button}
 - [宏福苑五級火｜會否公開聆訊　獨立委員會稱適時按需要公布安排](https://news.rthk.hk/rthk/ch/component/k2/1839265-20260109.htm?archive_date=2026-01-09) [Original](https://news.rthk.hk/rthk/ch/component/k2/1839265-20260109.htm?archive_date=2026-01-09){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火會否公開聆訊-獨立委員會稱適時按需要公布安排/){.md-button .hkfd-news-button}
@@ -960,13 +966,14 @@
 - [宏福苑五級火｜原區安置3潛在選址　原址重建最快2035年入伙](https://news.rthk.hk/rthk/ch/component/k2/1839224-20260109.htm?archive_date=2026-01-09) [Original](https://news.rthk.hk/rthk/ch/component/k2/1839224-20260109.htm?archive_date=2026-01-09){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火原區安置3潛在選址-原址重建最快2035年入伙/){.md-button .hkfd-news-button}
 - [宏福苑五級火｜政府就長遠安置收集業主意願擬本月中下旬取得回應](https://news.rthk.hk/rthk/ch/component/k2/1839218-20260109.htm?archive_date=2026-01-09) [Original](https://news.rthk.hk/rthk/ch/component/k2/1839218-20260109.htm?archive_date=2026-01-09){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火政府就長遠安置收集業主意願擬本月中下旬取得回應/){.md-button .hkfd-news-button}
 
-
 ### 2026-01-09
+
 - [宏福苑五級火｜原區安置3潛在選址　有宏志閣居民傾向原居居住](https://news.rthk.hk/rthk/ch/component/k2/1839292-20260109.htm?archive_date=2026-01-09) [Original](https://news.rthk.hk/rthk/ch/component/k2/1839292-20260109.htm?archive_date=2026-01-09){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火原區安置3潛在選址-有宏志閣居民傾向原居居住/){.md-button .hkfd-news-button}
 - [宏福苑五級火｜有測量師指長遠安置初步方案已綜合考慮社會意見](https://news.rthk.hk/rthk/ch/component/k2/1839290-20260109.htm?archive_date=2026-01-09) [Original](https://news.rthk.hk/rthk/ch/component/k2/1839290-20260109.htm?archive_date=2026-01-09){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火有測量師指長遠安置初步方案已綜合考慮社會意見/){.md-button .hkfd-news-button}
 - [宏福苑五級火｜宏志閣有業主冀重返家園居住　有居民因陰影想遷離](https://news.rthk.hk/rthk/ch/component/k2/1839288-20260109.htm?archive_date=2026-01-09) [Original](https://news.rthk.hk/rthk/ch/component/k2/1839288-20260109.htm?archive_date=2026-01-09){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火宏志閣有業主冀重返家園居住-有居民因陰影想遷離/){.md-button .hkfd-news-button}
 
 ### 2026-01-10
+
 - [宏福苑五級火｜黃偉綸：原址重建不是很實際　料收購業權涉60億](https://news.rthk.hk/rthk/ch/component/k2/1839363-20260110.htm?archive_date=2026-01-10) [Original](https://news.rthk.hk/rthk/ch/component/k2/1839363-20260110.htm?archive_date=2026-01-10){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火黃偉綸原址重建不是很實際-料收購業權涉60億/){.md-button .hkfd-news-button}
 - [宏福苑五級火｜林正財籲社會以同理心與災民同行一段時間](https://news.rthk.hk/rthk/ch/component/k2/1839356-20260110.htm?archive_date=2026-01-10) [Original](https://news.rthk.hk/rthk/ch/component/k2/1839356-20260110.htm?archive_date=2026-01-10){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火林正財籲社會以同理心與災民同行一段時間/){.md-button .hkfd-news-button}
 - [立法會下周三大會不設質詢　議員均可就支援宏福苑議案發言](https://news.rthk.hk/rthk/ch/component/k2/1839354-20260110.htm?archive_date=2026-01-10) [Original](https://news.rthk.hk/rthk/ch/component/k2/1839354-20260110.htm?archive_date=2026-01-10){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/立法會下周三大會不設質詢-議員均可就支援宏福苑議案發言/){.md-button .hkfd-news-button}
@@ -974,24 +981,24 @@
 - [宏福苑五級火｜黃偉綸：宏福苑原址重建之建議不是很實際](https://news.rthk.hk/rthk/ch/component/k2/1839328-20260110.htm?archive_date=2026-01-10) [Original](https://news.rthk.hk/rthk/ch/component/k2/1839328-20260110.htm?archive_date=2026-01-10){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火黃偉綸宏福苑原址重建之建議不是很實際/){.md-button .hkfd-news-button}
 - [宏福苑五級火｜黃偉綸稱政府目前想法不會原址重建住宅](https://news.rthk.hk/rthk/ch/component/k2/1839316-20260110.htm?archive_date=2026-01-10) [Original](https://news.rthk.hk/rthk/ch/component/k2/1839316-20260110.htm?archive_date=2026-01-10){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火黃偉綸稱政府目前想法不會原址重建住宅/){.md-button .hkfd-news-button}
 
-
 ### 2026-01-11
+
 - [宏福苑五級火｜卜國明：採取「易地重建」比較可行](https://news.rthk.hk/rthk/ch/component/k2/1839416-20260111.htm?archive_date=2026-01-11) [Original](https://news.rthk.hk/rthk/ch/component/k2/1839416-20260111.htm?archive_date=2026-01-11){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火卜國明採取易地重建比較可行/){.md-button .hkfd-news-button}
 
-
 ### 2026-01-12
+
 - [FTU conveys need for urgency on Wang Fuk to officials](https://news.rthk.hk/rthk/en/component/k2/1839522-20260112.htm?archive_date=2026-01-12) [Original](https://news.rthk.hk/rthk/en/component/k2/1839522-20260112.htm?archive_date=2026-01-12){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/ftu-conveys-need-for-urgency-on-wang-fuk-to-officials/){.md-button .hkfd-news-button}
 - [Wang Fuk Court options 'oriented to owners' needs'](https://news.rthk.hk/rthk/en/component/k2/1839504-20260112.htm?archive_date=2026-01-12) [Original](https://news.rthk.hk/rthk/en/component/k2/1839504-20260112.htm?archive_date=2026-01-12){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/wang-fuk-court-options-oriented-to-owners-needs/){.md-button .hkfd-news-button}
 - [宏福苑五級火｜黃偉綸：長遠安置方案以情理法處理　照顧居民意願](https://news.rthk.hk/rthk/ch/component/k2/1839539-20260112.htm?archive_date=2026-01-12) [Original](https://news.rthk.hk/rthk/ch/component/k2/1839539-20260112.htm?archive_date=2026-01-12){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火黃偉綸長遠安置方案以情理法處理-照顧居民意願/){.md-button .hkfd-news-button}
 - [宏福苑五級火｜工聯會稱不少居民冀原區安置　已向政府反映](https://news.rthk.hk/rthk/ch/component/k2/1839521-20260112.htm?archive_date=2026-01-12) [Original](https://news.rthk.hk/rthk/ch/component/k2/1839521-20260112.htm?archive_date=2026-01-12){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火工聯會稱不少居民冀原區安置-已向政府反映/){.md-button .hkfd-news-button}
 - [宏福苑五級火｜陳克勤稱政府重置方案以人為本　重建選址各有利弊](https://news.rthk.hk/rthk/ch/component/k2/1839477-20260112.htm?archive_date=2026-01-12) [Original](https://news.rthk.hk/rthk/ch/component/k2/1839477-20260112.htm?archive_date=2026-01-12){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火陳克勤稱政府重置方案以人為本-重建選址各有利弊/){.md-button .hkfd-news-button}
 
-
 ### 2026-01-13
+
 - [宏福苑五級火｜警方稱倘召開死因研訊　死者資料由警方向法庭呈交](https://news.rthk.hk/rthk/ch/component/k2/1839619-20260113.htm?archive_date=2026-01-13) [Original](https://news.rthk.hk/rthk/ch/component/k2/1839619-20260113.htm?archive_date=2026-01-13){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火警方稱倘召開死因研訊-死者資料由警方向法庭呈交/){.md-button .hkfd-news-button}
 
-
 ### 2026-01-14
+
 - [Legislators pass motion on Wang Fuk Court support](https://news.rthk.hk/rthk/en/component/k2/1839896-20260114.htm?archive_date=2026-01-14) [Original](https://news.rthk.hk/rthk/en/component/k2/1839896-20260114.htm?archive_date=2026-01-14){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/legislators-pass-motion-on-wang-fuk-court-support/){.md-button .hkfd-news-button}
 - [Wang Fuk Court blocks most likely need to go: govt](https://news.rthk.hk/rthk/en/component/k2/1839842-20260114.htm?archive_date=2026-01-14) [Original](https://news.rthk.hk/rthk/en/component/k2/1839842-20260114.htm?archive_date=2026-01-14){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/wang-fuk-court-blocks-most-likely-need-to-go-govt/){.md-button .hkfd-news-button}
 - [Call for higher buyout price for Wang Fuk Court flats](https://news.rthk.hk/rthk/en/component/k2/1839788-20260114.htm?archive_date=2026-01-14) [Original](https://news.rthk.hk/rthk/en/component/k2/1839788-20260114.htm?archive_date=2026-01-14){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/call-for-higher-buyout-price-for-wang-fuk-court-flats/){.md-button .hkfd-news-button}
@@ -1014,67 +1021,67 @@
 - [宏福苑五級火｜陳國基稱決心就規管制度進行全面徹底系統性改革](https://news.rthk.hk/rthk/ch/component/k2/1839795-20260114.htm?archive_date=2026-01-14) [Original](https://news.rthk.hk/rthk/ch/component/k2/1839795-20260114.htm?archive_date=2026-01-14){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火陳國基稱決心就規管制度進行全面徹底系統性改革/){.md-button .hkfd-news-button}
 - [宏福苑五級火｜李家超重申問責到底　不論高層基層將追責懲處](https://news.rthk.hk/rthk/ch/component/k2/1839789-20260114.htm?archive_date=2026-01-14) [Original](https://news.rthk.hk/rthk/ch/component/k2/1839789-20260114.htm?archive_date=2026-01-14){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火李家超重申問責到底-不論高層基層將追責懲處/){.md-button .hkfd-news-button}
 
-
 ### 2026-01-15
+
 - [Casualties from Wang Fuk Court fire rise to 168](https://news.rthk.hk/rthk/en/component/k2/1840045-20260115.htm?archive_date=2026-01-15) [Original](https://news.rthk.hk/rthk/en/component/k2/1840045-20260115.htm?archive_date=2026-01-15){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/casualties-from-wang-fuk-court-fire-rise-to-168/){.md-button .hkfd-news-button}
 - [警方完成宏福苑火災遺體身份辨識及科學鑑證工作](https://news.rthk.hk/rthk/ch/component/k2/1840042-20260115.htm?archive_date=2026-01-15) [Original](https://news.rthk.hk/rthk/ch/component/k2/1840042-20260115.htm?archive_date=2026-01-15){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/警方完成宏福苑火災遺體身份辨識及科學鑑證工作/){.md-button .hkfd-news-button}
 - [鄧炳強：宏福苑火災死亡人數增至168人　暫不公布死者名單](https://news.rthk.hk/rthk/ch/component/k2/1840037-20260115.htm?archive_date=2026-01-15) [Original](https://news.rthk.hk/rthk/ch/component/k2/1840037-20260115.htm?archive_date=2026-01-15){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/鄧炳強宏福苑火災死亡人數增至168人-暫不公布死者名單/){.md-button .hkfd-news-button}
 - [宏福苑火災8名傷者留醫情況穩定　1800居民接受醫管局服務](https://news.rthk.hk/rthk/ch/component/k2/1839961-20260115.htm?archive_date=2026-01-15) [Original](https://news.rthk.hk/rthk/ch/component/k2/1839961-20260115.htm?archive_date=2026-01-15){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑火災8名傷者留醫情況穩定-1800居民接受醫管局服務/){.md-button .hkfd-news-button}
 
-
 ### 2026-01-16
+
 - [政府擬延長宏福苑居民租金補助期限　現階段不公布死者名單](https://news.rthk.hk/rthk/ch/component/k2/1840207-20260116.htm?archive_date=2026-01-16) [Original](https://news.rthk.hk/rthk/ch/component/k2/1840207-20260116.htm?archive_date=2026-01-16){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/政府擬延長宏福苑居民租金補助期限-現階段不公布死者名單/){.md-button .hkfd-news-button}
 
-
 ### 2026-01-17
+
 - [孫玉菡稱一戶一社工已接觸宏福苑受影響住戶　擬修例所有地盤禁煙](https://news.rthk.hk/rthk/ch/component/k2/1840267-20260117.htm?archive_date=2026-01-17) [Original](https://news.rthk.hk/rthk/ch/component/k2/1840267-20260117.htm?archive_date=2026-01-17){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/孫玉菡稱一戶一社工已接觸宏福苑受影響住戶-擬修例所有地盤禁煙/){.md-button .hkfd-news-button}
 
-
 ### 2026-01-19
+
 - [張舉能稱司法機構對宏福苑大火深感哀痛　優先處理相關法律程序](https://news.rthk.hk/rthk/ch/component/k2/1840513-20260119.htm?archive_date=2026-01-19) [Original](https://news.rthk.hk/rthk/ch/component/k2/1840513-20260119.htm?archive_date=2026-01-19){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/張舉能稱司法機構對宏福苑大火深感哀痛-優先處理相關法律程序/){.md-button .hkfd-news-button}
 - [多名房委會委員關注宏福苑居民居住安排](https://news.rthk.hk/rthk/ch/component/k2/1840502-20260119.htm?archive_date=2026-01-19) [Original](https://news.rthk.hk/rthk/ch/component/k2/1840502-20260119.htm?archive_date=2026-01-19){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/多名房委會委員關注宏福苑居民居住安排/){.md-button .hkfd-news-button}
 
-
 ### 2026-01-20
+
 - [宏福苑火災獨立委員會2月5日指示會議　設400個公眾旁聽名額](https://news.rthk.hk/rthk/ch/component/k2/1840642-20260120.htm?archive_date=2026-01-20) [Original](https://news.rthk.hk/rthk/ch/component/k2/1840642-20260120.htm?archive_date=2026-01-20){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑火災獨立委員會2月5日指示會議-設400個公眾旁聽名額/){.md-button .hkfd-news-button}
 
-
 ### 2026-01-21
+
 - [政府擬提交32項條例草案包括因應宏福苑火災提出修訂建築物條例](https://news.rthk.hk/rthk/ch/component/k2/1840848-20260121.htm?archive_date=2026-01-21) [Original](https://news.rthk.hk/rthk/ch/component/k2/1840848-20260121.htm?archive_date=2026-01-21){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/政府擬提交32項條例草案包括因應宏福苑火災提出修訂建築物條例/){.md-button .hkfd-news-button}
 - [銀行公會：業界會以體恤和靈活原則處理每宗宏福苑按揭個案](https://news.rthk.hk/rthk/ch/component/k2/1840812-20260121.htm?archive_date=2026-01-21) [Original](https://news.rthk.hk/rthk/ch/component/k2/1840812-20260121.htm?archive_date=2026-01-21){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/銀行公會業界會以體恤和靈活原則處理每宗宏福苑按揭個案/){.md-button .hkfd-news-button}
 - [大埔宏福苑火災獨立委員會　明起可網上預約出席旁聽指示會議](https://news.rthk.hk/rthk/ch/component/k2/1840803-20260121.htm?archive_date=2026-01-21) [Original](https://news.rthk.hk/rthk/ch/component/k2/1840803-20260121.htm?archive_date=2026-01-21){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/大埔宏福苑火災獨立委員會-明起可網上預約出席旁聽指示會議/){.md-button .hkfd-news-button}
 
-
 ### 2026-01-26
+
 - [大埔宏福苑火災獨立委員會邀請公眾和團體提供資料](https://news.rthk.hk/rthk/ch/component/k2/1841408-20260126.htm?archive_date=2026-01-26) [Original](https://news.rthk.hk/rthk/ch/component/k2/1841408-20260126.htm?archive_date=2026-01-26){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/大埔宏福苑火災獨立委員會邀請公眾和團體提供資料/){.md-button .hkfd-news-button}
 
-
 ### 2026-01-27
+
 - [Almost all Wang Fuk residents answered survey: CE](https://news.rthk.hk/rthk/en/component/k2/1841544-20260127.htm?archive_date=2026-01-27) [Original](https://news.rthk.hk/rthk/en/component/k2/1841544-20260127.htm?archive_date=2026-01-27){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/almost-all-wang-fuk-residents-answered-survey-ce/){.md-button .hkfd-news-button}
 - [李家超指約9成宏福苑業主回覆住宿意願](https://news.rthk.hk/rthk/ch/component/k2/1841591-20260127.htm?archive_date=2026-01-27) [Original](https://news.rthk.hk/rthk/ch/component/k2/1841591-20260127.htm?archive_date=2026-01-27){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/李家超指約9成宏福苑業主回覆住宿意願/){.md-button .hkfd-news-button}
 - [李家超：重視宏福苑居民長遠居住安排　約九成業主已覆正分析內容](https://news.rthk.hk/rthk/ch/component/k2/1841524-20260127.htm?archive_date=2026-01-27) [Original](https://news.rthk.hk/rthk/ch/component/k2/1841524-20260127.htm?archive_date=2026-01-27){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/李家超重視宏福苑居民長遠居住安排-約九成業主已覆正分析內容/){.md-button .hkfd-news-button}
 
-
 ### 2026-01-28
+
 - [Wang Fuk Court blaze fund reaches HK$4.5bn](https://news.rthk.hk/rthk/en/component/k2/1841714-20260128.htm?archive_date=2026-01-28) [Original](https://news.rthk.hk/rthk/en/component/k2/1841714-20260128.htm?archive_date=2026-01-28){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/wang-fuk-court-blaze-fund-reaches-hk45bn/){.md-button .hkfd-news-button}
 - [麥美娟：截至前日「大埔宏福苑援助基金」總額已達45億元](https://news.rthk.hk/rthk/ch/component/k2/1841710-20260128.htm?archive_date=2026-01-28) [Original](https://news.rthk.hk/rthk/ch/component/k2/1841710-20260128.htm?archive_date=2026-01-28){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/麥美娟截至前日大埔宏福苑援助基金總額已達45億元/){.md-button .hkfd-news-button}
 - [蔡若蓮：教育局於宏福苑火災後已成立危機處理小組支援區內學校](https://news.rthk.hk/rthk/ch/component/k2/1841708-20260128.htm?archive_date=2026-01-28) [Original](https://news.rthk.hk/rthk/ch/component/k2/1841708-20260128.htm?archive_date=2026-01-28){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/蔡若蓮教育局於宏福苑火災後已成立危機處理小組支援區內學校/){.md-button .hkfd-news-button}
 
-
 ### 2026-01-29
+
 - [截至前日已有75名宏福苑火災傷者康復出院　餘下4人情況穩定](https://news.rthk.hk/rthk/ch/component/k2/1841844-20260129.htm?archive_date=2026-01-29) [Original](https://news.rthk.hk/rthk/ch/component/k2/1841844-20260129.htm?archive_date=2026-01-29){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/截至前日已有75名宏福苑火災傷者康復出院-餘下4人情況穩定/){.md-button .hkfd-news-button}
 
-
 ### 2026-02-03
+
 - [市建局維修資助改以支票方式經合安管理公司發放予宏福苑自住業主](https://news.rthk.hk/rthk/ch/component/k2/1842505-20260203.htm?archive_date=2026-02-03) [Original](https://news.rthk.hk/rthk/ch/component/k2/1842505-20260203.htm?archive_date=2026-02-03){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/市建局維修資助改以支票方式經合安管理公司發放予宏福苑自住業主/){.md-button .hkfd-news-button}
 - [保監局：宏福苑相關理賠個案約85%已處理　涉近5.1億元](https://news.rthk.hk/rthk/ch/component/k2/1842490-20260203.htm?archive_date=2026-02-03) [Original](https://news.rthk.hk/rthk/ch/component/k2/1842490-20260203.htm?archive_date=2026-02-03){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/保監局宏福苑相關理賠個案約85已處理-涉近51億元/){.md-button .hkfd-news-button}
 
-
 ### 2026-02-04
+
 - [韓紅基金會向宏福苑每戶發5千元心意金](https://news.rthk.hk/rthk/ch/component/k2/1842632-20260204.htm?archive_date=2026-02-04) [Original](https://news.rthk.hk/rthk/ch/component/k2/1842632-20260204.htm?archive_date=2026-02-04){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/韓紅基金會向宏福苑每戶發5千元心意金/){.md-button .hkfd-news-button}
 
-
 ### 2026-02-05
+
 - [宏福苑火災獨立委員會下月19日舉行首場聽證會](https://news.rthk.hk/rthk/ch/component/k2/1842823-20260205.htm?archive_date=2026-02-05) [Original](https://news.rthk.hk/rthk/ch/component/k2/1842823-20260205.htm?archive_date=2026-02-05){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑火災獨立委員會下月19日舉行首場聽證會/){.md-button .hkfd-news-button}
 - [法援署截至上月底接359宗宏福苑災民申請　六成涉物業損毀索償](https://news.rthk.hk/rthk/ch/component/k2/1842812-20260205.htm?archive_date=2026-02-05) [Original](https://news.rthk.hk/rthk/ch/component/k2/1842812-20260205.htm?archive_date=2026-02-05){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/法援署截至上月底接359宗宏福苑災民申請-六成涉物業損毀索償/){.md-button .hkfd-news-button}
 - [宏福苑火災獨立委員會指示會議　陸啟康稱9個月內完成報告是挑戰](https://news.rthk.hk/rthk/ch/component/k2/1842776-20260205.htm?archive_date=2026-02-05) [Original](https://news.rthk.hk/rthk/ch/component/k2/1842776-20260205.htm?archive_date=2026-02-05){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑火災獨立委員會指示會議-陸啟康稱9個月內完成報告是挑戰/){.md-button .hkfd-news-button}
@@ -1083,36 +1090,36 @@
 - [宏福苑火災獨立委員會下月19日舉行聽證會](https://news.rthk.hk/rthk/ch/component/k2/1842757-20260205.htm?archive_date=2026-02-05) [Original](https://news.rthk.hk/rthk/ch/component/k2/1842757-20260205.htm?archive_date=2026-02-05){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑火災獨立委員會下月19日舉行聽證會/){.md-button .hkfd-news-button}
 - [宏福苑火災獨立委員會今舉行指示會議　就日後聽證會安排給予指示](https://news.rthk.hk/rthk/ch/component/k2/1842746-20260205.htm?archive_date=2026-02-05) [Original](https://news.rthk.hk/rthk/ch/component/k2/1842746-20260205.htm?archive_date=2026-02-05){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑火災獨立委員會今舉行指示會議-就日後聽證會安排給予指示/){.md-button .hkfd-news-button}
 
-
 ### 2026-02-08
+
 - [宏福苑居民長遠住宿安排　何永賢表示需平衡各方需求](https://news.rthk.hk/rthk/ch/component/k2/1843100-20260208.htm?archive_date=2026-02-08) [Original](https://news.rthk.hk/rthk/ch/component/k2/1843100-20260208.htm?archive_date=2026-02-08){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑居民長遠住宿安排-何永賢表示需平衡各方需求/){.md-button .hkfd-news-button}
 - [麥美娟指合安正與前宏福苑管理公司交接　過程複雜需時處理](https://news.rthk.hk/rthk/ch/component/k2/1843089-20260208.htm?archive_date=2026-02-08) [Original](https://news.rthk.hk/rthk/ch/component/k2/1843089-20260208.htm?archive_date=2026-02-08){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/麥美娟指合安正與前宏福苑管理公司交接-過程複雜需時處理/){.md-button .hkfd-news-button}
 
-
 ### 2026-02-10
+
 - [李家超稱政府馬不停蹄為宏福苑居住安排敲定方案　供居民選擇](https://news.rthk.hk/rthk/ch/component/k2/1843311-20260210.htm?archive_date=2026-02-10) [Original](https://news.rthk.hk/rthk/ch/component/k2/1843311-20260210.htm?archive_date=2026-02-10){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/李家超稱政府馬不停蹄為宏福苑居住安排敲定方案-供居民選擇/){.md-button .hkfd-news-button}
 
-
 ### 2026-02-11
+
 - ['Officers working hard to probe Wang Fuk Court fire'](https://news.rthk.hk/rthk/en/component/k2/1843495-20260211.htm?archive_date=2026-02-11) [Original](https://news.rthk.hk/rthk/en/component/k2/1843495-20260211.htm?archive_date=2026-02-11){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/officers-working-hard-to-probe-wang-fuk-court-fire/){.md-button .hkfd-news-button}
 - [宏福苑大火後警拘多人包括涉煽動意圖或發布煽動刊物　3人已被控](https://news.rthk.hk/rthk/ch/component/k2/1843487-20260211.htm?archive_date=2026-02-11) [Original](https://news.rthk.hk/rthk/ch/component/k2/1843487-20260211.htm?archive_date=2026-02-11){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑大火後警拘多人包括涉煽動意圖或發布煽動刊物-3人已被控/){.md-button .hkfd-news-button}
 
-
 ### 2026-02-13
+
 - [CE visits Wang Fuk Court residents](https://news.rthk.hk/rthk/en/component/k2/1843731-20260213.htm?archive_date=2026-02-13) [Original](https://news.rthk.hk/rthk/en/component/k2/1843731-20260213.htm?archive_date=2026-02-13){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/ce-visits-wang-fuk-court-residents/){.md-button .hkfd-news-button}
 - [麥美娟：按宏福苑居民意願設計不同方案令他們「有得揀」](https://news.rthk.hk/rthk/ch/component/k2/1843734-20260213.htm?archive_date=2026-02-13) [Original](https://news.rthk.hk/rthk/ch/component/k2/1843734-20260213.htm?archive_date=2026-02-13){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/麥美娟按宏福苑居民意願設計不同方案令他們有得揀/){.md-button .hkfd-news-button}
 - [李家超到啟德青年驛站探望宏福苑居民　對住戶滿意設施感安慰](https://news.rthk.hk/rthk/ch/component/k2/1843724-20260213.htm?archive_date=2026-02-13) [Original](https://news.rthk.hk/rthk/ch/component/k2/1843724-20260213.htm?archive_date=2026-02-13){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/李家超到啟德青年驛站探望宏福苑居民-對住戶滿意設施感安慰/){.md-button .hkfd-news-button}
 - [再有一名大埔宏福苑火災傷者康復出院　餘下一名留院傷者情況穩定](https://news.rthk.hk/rthk/ch/component/k2/1843709-20260213.htm?archive_date=2026-02-13) [Original](https://news.rthk.hk/rthk/ch/component/k2/1843709-20260213.htm?archive_date=2026-02-13){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/再有一名大埔宏福苑火災傷者康復出院-餘下一名留院傷者情況穩定/){.md-button .hkfd-news-button}
 
-
 ### 2026-02-20
+
 - [Govt set to unveil Wang Fuk Court plan: sources](https://news.rthk.hk/rthk/en/component/k2/1844448-20260220.htm?archive_date=2026-02-20) [Original](https://news.rthk.hk/rthk/en/component/k2/1844448-20260220.htm?archive_date=2026-02-20){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/govt-set-to-unveil-wang-fuk-court-plan-sources/){.md-button .hkfd-news-button}
 - [測量師學會：收購宏福苑可市價加恩恤補貼　呎價8千至1萬合理](https://news.rthk.hk/rthk/ch/component/k2/1844470-20260220.htm?archive_date=2026-02-20) [Original](https://news.rthk.hk/rthk/ch/component/k2/1844470-20260220.htm?archive_date=2026-02-20){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/測量師學會收購宏福苑可市價加恩恤補貼-呎價8千至1萬合理/){.md-button .hkfd-news-button}
 - [林筱魯稱政府收購宏福苑業權可包不同選項　原址重建難統一業權](https://news.rthk.hk/rthk/ch/component/k2/1844469-20260220.htm?archive_date=2026-02-20) [Original](https://news.rthk.hk/rthk/ch/component/k2/1844469-20260220.htm?archive_date=2026-02-20){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/林筱魯稱政府收購宏福苑業權可包不同選項-原址重建難統一業權/){.md-button .hkfd-news-button}
 - [消息：政府最快明天公布宏福苑長遠安置方案](https://news.rthk.hk/rthk/ch/component/k2/1844460-20260220.htm?archive_date=2026-02-20) [Original](https://news.rthk.hk/rthk/ch/component/k2/1844460-20260220.htm?archive_date=2026-02-20){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/消息政府最快明天公布宏福苑長遠安置方案/){.md-button .hkfd-news-button}
 
-
 ### 2026-02-21
+
 - [Wang Fuk Court fire residents get buyout offer](https://news.rthk.hk/rthk/en/component/k2/1844541-20260221.htm?archive_date=2026-02-21) [Original](https://news.rthk.hk/rthk/en/component/k2/1844541-20260221.htm?archive_date=2026-02-21){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/wang-fuk-court-fire-residents-get-buyout-offer/){.md-button .hkfd-news-button}
 - [民建聯稱宏福苑重置安排充分回應居民意願　經民聯指方案特事特辦](https://news.rthk.hk/rthk/ch/component/k2/1844561-20260221.htm?archive_date=2026-02-21) [Original](https://news.rthk.hk/rthk/ch/component/k2/1844561-20260221.htm?archive_date=2026-02-21){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/民建聯稱宏福苑重置安排充分回應居民意願-經民聯指方案特事特辦/){.md-button .hkfd-news-button}
 - [孫玉菡甯漢豪稱宏福苑居住安排助居民重建家園　解說專隊解答疑問](https://news.rthk.hk/rthk/ch/component/k2/1844559-20260221.htm?archive_date=2026-02-21) [Original](https://news.rthk.hk/rthk/ch/component/k2/1844559-20260221.htm?archive_date=2026-02-21){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/孫玉菡甯漢豪稱宏福苑居住安排助居民重建家園-解說專隊解答疑問/){.md-button .hkfd-news-button}
@@ -1121,16 +1128,16 @@
 - [黃偉綸：宏福苑業主意見74%考慮接受政府購業權　一成二不接受](https://news.rthk.hk/rthk/ch/component/k2/1844534-20260221.htm?archive_date=2026-02-21) [Original](https://news.rthk.hk/rthk/ch/component/k2/1844534-20260221.htm?archive_date=2026-02-21){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/黃偉綸宏福苑業主意見74考慮接受政府購業權-一成二不接受/){.md-button .hkfd-news-button}
 - [黃偉綸下午記者會　公布大埔宏福苑長遠居住安排方案](https://news.rthk.hk/rthk/ch/component/k2/1844530-20260221.htm?archive_date=2026-02-21) [Original](https://news.rthk.hk/rthk/ch/component/k2/1844530-20260221.htm?archive_date=2026-02-21){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/黃偉綸下午記者會-公布大埔宏福苑長遠居住安排方案/){.md-button .hkfd-news-button}
 
-
 ### 2026-02-22
+
 - [Govt mulls options over Wang Fuk Court buyout refusals](https://news.rthk.hk/rthk/en/component/k2/1844585-20260222.htm?archive_date=2026-02-22) [Original](https://news.rthk.hk/rthk/en/component/k2/1844585-20260222.htm?archive_date=2026-02-22){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/govt-mulls-options-over-wang-fuk-court-buyout-refusals/){.md-button .hkfd-news-button}
 - [黃偉綸：宏福苑收購業權方案體現人性化](https://news.rthk.hk/rthk/ch/component/k2/1844606-20260222.htm?archive_date=2026-02-22) [Original](https://news.rthk.hk/rthk/ch/component/k2/1844606-20260222.htm?archive_date=2026-02-22){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/黃偉綸宏福苑收購業權方案體現人性化/){.md-button .hkfd-news-button}
 - [黃偉綸：宏福苑收購呎價遠高於火災前市場售價　對大家有好處](https://news.rthk.hk/rthk/ch/component/k2/1844592-20260222.htm?archive_date=2026-02-22) [Original](https://news.rthk.hk/rthk/ch/component/k2/1844592-20260222.htm?archive_date=2026-02-22){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/黃偉綸宏福苑收購呎價遠高於火災前市場售價-對大家有好處/){.md-button .hkfd-news-button}
 - [劉佩玲：若宏福苑單位業權轉售政府　將由政府與保險公司商討索償](https://news.rthk.hk/rthk/ch/component/k2/1844586-20260222.htm?archive_date=2026-02-22) [Original](https://news.rthk.hk/rthk/ch/component/k2/1844586-20260222.htm?archive_date=2026-02-22){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/劉佩玲若宏福苑單位業權轉售政府-將由政府與保險公司商討索償/){.md-button .hkfd-news-button}
 - [黃偉綸：宏福苑業權收購價體現人性化　方案法理情兼備](https://news.rthk.hk/rthk/ch/component/k2/1844577-20260222.htm?archive_date=2026-02-22) [Original](https://news.rthk.hk/rthk/ch/component/k2/1844577-20260222.htm?archive_date=2026-02-22){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/黃偉綸宏福苑業權收購價體現人性化-方案法理情兼備/){.md-button .hkfd-news-button}
 
-
 ### 2026-02-23
+
 - [Legal aid claims eased for Wang Fuk Court fire victims](https://news.rthk.hk/rthk/en/component/k2/1844680-20260223.htm?archive_date=2026-02-23) [Original](https://news.rthk.hk/rthk/en/component/k2/1844680-20260223.htm?archive_date=2026-02-23){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/legal-aid-claims-eased-for-wang-fuk-court-fire-victims/){.md-button .hkfd-news-button}
 - [HOS site in Tai Po redrawn for Wang Fuk Court owners](https://news.rthk.hk/rthk/en/component/k2/1844658-20260223.htm?archive_date=2026-02-23) [Original](https://news.rthk.hk/rthk/en/component/k2/1844658-20260223.htm?archive_date=2026-02-23){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/hos-site-in-tai-po-redrawn-for-wang-fuk-court-owners/){.md-button .hkfd-news-button}
 - [大埔宏福苑支援基金累計47億元　麥美娟強調會確保善款用得其所](https://news.rthk.hk/rthk/ch/component/k2/1844733-20260223.htm?archive_date=2026-02-23) [Original](https://news.rthk.hk/rthk/ch/component/k2/1844733-20260223.htm?archive_date=2026-02-23){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/大埔宏福苑支援基金累計47億元-麥美娟強調會確保善款用得其所/){.md-button .hkfd-news-button}
@@ -1138,45 +1145,47 @@
 - [黃偉綸：若有宏福苑居民揀樓限期前未處理完遺產事宜將獲彈性安排](https://news.rthk.hk/rthk/ch/component/k2/1844728-20260223.htm?archive_date=2026-02-23) [Original](https://news.rthk.hk/rthk/ch/component/k2/1844728-20260223.htm?archive_date=2026-02-23){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/黃偉綸若有宏福苑居民揀樓限期前未處理完遺產事宜將獲彈性安排/){.md-button .hkfd-news-button}
 - [黃偉綸：選樓換樓宏福苑居民入伙前仍可獲租金津貼及住過渡屋](https://news.rthk.hk/rthk/ch/component/k2/1844657-20260223.htm?archive_date=2026-02-23) [Original](https://news.rthk.hk/rthk/ch/component/k2/1844657-20260223.htm?archive_date=2026-02-23){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/黃偉綸選樓換樓宏福苑居民入伙前仍可獲租金津貼及住過渡屋/){.md-button .hkfd-news-button}
 
-
 ### 2026-02-23
+
 - [Lawmakers support Wang Fuk Court rehousing plan](https://news.rthk.hk/rthk/en/component/k2/1844731-20260223.htm?archive_date=2026-02-23) [Original](https://news.rthk.hk/rthk/en/component/k2/1844731-20260223.htm?archive_date=2026-02-23){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/lawmakers-support-wang-fuk-court-rehousing-plan/){.md-button .hkfd-news-button}
 
 ### 2026-02-24
+
 - ['Major safety reform after Wang Fuk Court fire'](https://news.rthk.hk/rthk/en/component/k2/1844839-20260224.htm?archive_date=2026-02-24) [Original](https://news.rthk.hk/rthk/en/component/k2/1844839-20260224.htm?archive_date=2026-02-24){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/major-safety-reform-after-wang-fuk-court-fire/){.md-button .hkfd-news-button}
 - ['Wang Fuk Court buyout plan could expand to cover all'](https://news.rthk.hk/rthk/en/component/k2/1844793-20260224.htm?archive_date=2026-02-24) [Original](https://news.rthk.hk/rthk/en/component/k2/1844793-20260224.htm?archive_date=2026-02-24){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/wang-fuk-court-buyout-plan-could-expand-to-cover-all/){.md-button .hkfd-news-button}
 - [消防處已就宏福苑火災向獨立委員會遞交文件](https://news.rthk.hk/rthk/ch/component/k2/1844862-20260224.htm?archive_date=2026-02-24) [Original](https://news.rthk.hk/rthk/ch/component/k2/1844862-20260224.htm?archive_date=2026-02-24){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/消防處已就宏福苑火災向獨立委員會遞交文件/){.md-button .hkfd-news-button}
 
-
 ### 2026-02-25
+
 - [財政預算案｜預40億支援宏福苑安置　30億改革樓宇更新大行動](https://news.rthk.hk/rthk/ch/component/k2/1844986-20260225.htm?archive_date=2026-02-25) [Original](https://news.rthk.hk/rthk/ch/component/k2/1844986-20260225.htm?archive_date=2026-02-25){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/財政預算案預40億支援宏福苑安置-30億改革樓宇更新大行動/){.md-button .hkfd-news-button}
 
-
 ### 2026-02-26
+
 - ['Wang Fuk Court residents could return home end-April'](https://news.rthk.hk/rthk/en/component/k2/1845249-20260226.htm?archive_date=2026-02-26) [Original](https://news.rthk.hk/rthk/en/component/k2/1845249-20260226.htm?archive_date=2026-02-26){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/wang-fuk-court-residents-could-return-home-end-april/){.md-button .hkfd-news-button}
 - [Up to HK$1b needed to buy eighth Wang Fuk Court block](https://news.rthk.hk/rthk/en/component/k2/1845191-20260226.htm?archive_date=2026-02-26) [Original](https://news.rthk.hk/rthk/en/component/k2/1845191-20260226.htm?archive_date=2026-02-26){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/up-to-hk1b-needed-to-buy-eighth-wang-fuk-court-block/){.md-button .hkfd-news-button}
 - [卓永興：盡量下月公布宏福苑居民返回單位視察安排](https://news.rthk.hk/rthk/ch/component/k2/1845233-20260226.htm?archive_date=2026-02-26) [Original](https://news.rthk.hk/rthk/ch/component/k2/1845233-20260226.htm?archive_date=2026-02-26){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/卓永興盡量下月公布宏福苑居民返回單位視察安排/){.md-button .hkfd-news-button}
 - [政府延長宏福苑居民免費中西醫義診及鑲假牙服務至8月底](https://news.rthk.hk/rthk/ch/component/k2/1845240-20260226.htm?archive_date=2026-02-26) [Original](https://news.rthk.hk/rthk/ch/component/k2/1845240-20260226.htm?archive_date=2026-02-26){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/政府延長宏福苑居民免費中西醫義診及鑲假牙服務至8月底/){.md-button .hkfd-news-button}
 - [卓永興：最快4月底安排宏福苑7座樓宇居民分批返回單位執拾物品](https://news.rthk.hk/rthk/ch/component/k2/1845234-20260226.htm?archive_date=2026-02-26) [Original](https://news.rthk.hk/rthk/ch/component/k2/1845234-20260226.htm?archive_date=2026-02-26){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/卓永興最快4月底安排宏福苑7座樓宇居民分批返回單位執拾物品/){.md-button .hkfd-news-button}
 
-
 ### 2026-02-27
+
 - [卓永興稱擬先派員到宏福苑嚴重燒毀單位門口拍攝情況　讓住戶了解](https://news.rthk.hk/rthk/ch/component/k2/1845362-20260227.htm?archive_date=2026-02-27) [Original](https://news.rthk.hk/rthk/ch/component/k2/1845362-20260227.htm?archive_date=2026-02-27){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/卓永興稱擬先派員到宏福苑嚴重燒毀單位門口拍攝情況-讓住戶了解/){.md-button .hkfd-news-button}
 - [卓永興：須安全情況下讓宏福苑居民返回單位　料約兩個月時間準備](https://news.rthk.hk/rthk/ch/component/k2/1845303-20260227.htm?archive_date=2026-02-27) [Original](https://news.rthk.hk/rthk/ch/component/k2/1845303-20260227.htm?archive_date=2026-02-27){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/卓永興須安全情況下讓宏福苑居民返回單位-料約兩個月時間準備/){.md-button .hkfd-news-button}
 
-
 ### 2026-03-02
+
 - [宏福苑長遠居住安排查詢熱線　今起投入服務](https://news.rthk.hk/rthk/ch/component/k2/1845608-20260302.htm?archive_date=2026-03-02) [Original](https://news.rthk.hk/rthk/ch/component/k2/1845608-20260302.htm?archive_date=2026-03-02){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑長遠居住安排查詢熱線-今起投入服務/){.md-button .hkfd-news-button}
 
-
 ### 2026-03-03
+
 - [獨立委員會3月19日至4月2日舉行宏福苑火災首輪8場聽證會](https://news.rthk.hk/rthk/ch/component/k2/1845805-20260303.htm?archive_date=2026-03-03) [Original](https://news.rthk.hk/rthk/ch/component/k2/1845805-20260303.htm?archive_date=2026-03-03){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/獨立委員會3月19日至4月2日舉行宏福苑火災首輪8場聽證會/){.md-button .hkfd-news-button}
 
 ### 2026-03-04
+
 - [銀行業界再推措施助宏福苑居民包括延長各類貸款還款期多6個月](https://news.rthk.hk/rthk/ch/component/k2/1845981-20260304.htm?archive_date=2026-03-04) [Original](https://news.rthk.hk/rthk/ch/component/k2/1845981-20260304.htm?archive_date=2026-03-04){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/銀行業界再推措施助宏福苑居民包括延長各類貸款還款期多6個月/){.md-button .hkfd-news-button}
 
-
 ### 2026-03-06
+
 - [Three arrested over Wang Fuk Court theft](https://news.rthk.hk/rthk/en/component/k2/1846339-20260306.htm?archive_date=2026-03-06) [Original](https://news.rthk.hk/rthk/en/component/k2/1846339-20260306.htm?archive_date=2026-03-06){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/three-arrested-over-wang-fuk-court-theft/){.md-button .hkfd-news-button}
 - [政務司副司長要求保安局聯同警方覆檢所有授權人士進出宏福苑流程](https://news.rthk.hk/rthk/ch/component/k2/1846348-20260306.htm?archive_date=2026-03-06) [Original](https://news.rthk.hk/rthk/ch/component/k2/1846348-20260306.htm?archive_date=2026-03-06){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/政務司副司長要求保安局聯同警方覆檢所有授權人士進出宏福苑流程/){.md-button .hkfd-news-button}
 - [宏福苑3名加固工程工人涉盜竊被捕起回9萬元首飾　警斥行為卑劣](https://news.rthk.hk/rthk/ch/component/k2/1846334-20260306.htm?archive_date=2026-03-06) [Original](https://news.rthk.hk/rthk/ch/component/k2/1846334-20260306.htm?archive_date=2026-03-06){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑3名加固工程工人涉盜竊被捕起回9萬元首飾-警斥行為卑劣/){.md-button .hkfd-news-button}
@@ -1184,13 +1193,14 @@
 - [全國兩會｜政協蘇長荣引述丁薛祥肯定特區處理宏福苑火災有序及時](https://news.rthk.hk/rthk/ch/component/k2/1846267-20260306.htm?archive_date=2026-03-06) [Original](https://news.rthk.hk/rthk/ch/component/k2/1846267-20260306.htm?archive_date=2026-03-06){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/全國兩會政協蘇長荣引述丁薛祥肯定特區處理宏福苑火災有序及時/){.md-button .hkfd-news-button}
 - [政府向宏福苑火災殉職消防隊目何偉豪家屬發放615萬元援助](https://news.rthk.hk/rthk/ch/component/k2/1846253-20260306.htm?archive_date=2026-03-06) [Original](https://news.rthk.hk/rthk/ch/component/k2/1846253-20260306.htm?archive_date=2026-03-06){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/政府向宏福苑火災殉職消防隊目何偉豪家屬發放615萬元援助/){.md-button .hkfd-news-button}
 
-
 ### 2026-03-08
+
 - [Wang Fuk Court security to be tightened: police chief](https://news.rthk.hk/rthk/en/component/k2/1846506-20260308.htm?archive_date=2026-03-08) [Original](https://news.rthk.hk/rthk/en/component/k2/1846506-20260308.htm?archive_date=2026-03-08){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/wang-fuk-court-security-to-be-tightened-police-chief/){.md-button .hkfd-news-button}
 - [新居屋及綠置居預留二千個單位予宏福苑業主選購](https://news.rthk.hk/rthk/ch/component/k2/1846507-20260308.htm?archive_date=2026-03-08) [Original](https://news.rthk.hk/rthk/ch/component/k2/1846507-20260308.htm?archive_date=2026-03-08){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/新居屋及綠置居預留二千個單位予宏福苑業主選購/){.md-button .hkfd-news-button}
 - [周一鳴：明日恢復宏福苑鞏固工程　加強保安工人完成工作時需搜身](https://news.rthk.hk/rthk/ch/component/k2/1846502-20260308.htm?archive_date=2026-03-08) [Original](https://news.rthk.hk/rthk/ch/component/k2/1846502-20260308.htm?archive_date=2026-03-08){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/周一鳴明日恢復宏福苑鞏固工程-加強保安工人完成工作時需搜身/){.md-button .hkfd-news-button}
 
 ### 2026-03-09
+
 - ['Tightened security at Wang Fuk Court protects all'](https://news.rthk.hk/rthk/en/component/k2/1846561-20260309.htm?archive_date=2026-03-09) [Original](https://news.rthk.hk/rthk/en/component/k2/1846561-20260309.htm?archive_date=2026-03-09){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/tightened-security-at-wang-fuk-court-protects-all/){.md-button .hkfd-news-button}
 - [何永賢：房委會向出售業權宏福苑業主提供2000個大單位](https://news.rthk.hk/rthk/ch/component/k2/1846629-20260309.htm?archive_date=2026-03-09) [Original](https://news.rthk.hk/rthk/ch/component/k2/1846629-20260309.htm?archive_date=2026-03-09){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/何永賢房委會向出售業權宏福苑業主提供2000個大單位/){.md-button .hkfd-news-button}
 - [警方接105宗求助關注宏福苑財物　包括一宗信用卡懷疑被盜用](https://news.rthk.hk/rthk/ch/component/k2/1846626-20260309.htm?archive_date=2026-03-09) [Original](https://news.rthk.hk/rthk/ch/component/k2/1846626-20260309.htm?archive_date=2026-03-09){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/警方接105宗求助關注宏福苑財物-包括一宗信用卡懷疑被盜用/){.md-button .hkfd-news-button}
@@ -1199,16 +1209,17 @@
 - [宏福苑實施新措施加強保安　有工人稱可保障自己及他人](https://news.rthk.hk/rthk/ch/component/k2/1846556-20260309.htm?archive_date=2026-03-09) [Original](https://news.rthk.hk/rthk/ch/component/k2/1846556-20260309.htm?archive_date=2026-03-09){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑實施新措施加強保安-有工人稱可保障自己及他人/){.md-button .hkfd-news-button}
 - [黃碧如：宏福苑事件後頌雅路西項目改成居屋單位全數不小於四百呎](https://news.rthk.hk/rthk/ch/component/k2/1846554-20260309.htm?archive_date=2026-03-09) [Original](https://news.rthk.hk/rthk/ch/component/k2/1846554-20260309.htm?archive_date=2026-03-09){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/黃碧如宏福苑事件後頌雅路西項目改成居屋單位全數不小於四百呎/){.md-button .hkfd-news-button}
 
-
 ### 2026-03-10
+
 - ['More should be done to ensure Wang Fuk security'](https://news.rthk.hk/rthk/en/component/k2/1846696-20260310.htm?archive_date=2026-03-10) [Original](https://news.rthk.hk/rthk/en/component/k2/1846696-20260310.htm?archive_date=2026-03-10){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/more-should-be-done-to-ensure-wang-fuk-security/){.md-button .hkfd-news-button}
 - [香港紅十字會：就支援宏福苑火災居民至今共收逾5億3千萬捐款](https://news.rthk.hk/rthk/ch/component/k2/1846744-20260310.htm?archive_date=2026-03-10) [Original](https://news.rthk.hk/rthk/ch/component/k2/1846744-20260310.htm?archive_date=2026-03-10){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/香港紅十字會就支援宏福苑火災居民至今共收逾5億3千萬捐款/){.md-button .hkfd-news-button}
 - [周思傑稱宏福苑加強保安措施有功效　工人財物放儲物櫃具必要性](https://news.rthk.hk/rthk/ch/component/k2/1846705-20260310.htm?archive_date=2026-03-10) [Original](https://news.rthk.hk/rthk/ch/component/k2/1846705-20260310.htm?archive_date=2026-03-10){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/周思傑稱宏福苑加強保安措施有功效-工人財物放儲物櫃具必要性/){.md-button .hkfd-news-button}
 
-
 ### 2026-03-12
+
 - [房協宏福苑特設銷售計劃共400個單位　85%單位逾400呎](https://news.rthk.hk/rthk/ch/component/k2/1847096-20260312.htm?archive_date=2026-03-12) [Original](https://news.rthk.hk/rthk/ch/component/k2/1847096-20260312.htm?archive_date=2026-03-12){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/房協宏福苑特設銷售計劃共400個單位-85單位逾400呎/){.md-button .hkfd-news-button}
 
 ### 2026-03-13
+
 - [Govt clarifies Wang Fuk rehousing arrangements](https://news.rthk.hk/rthk/en/component/k2/1847253-20260313.htm?archive_date=2026-03-13) [Original](https://news.rthk.hk/rthk/en/component/k2/1847253-20260313.htm?archive_date=2026-03-13){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/govt-clarifies-wang-fuk-rehousing-arrangements/){.md-button .hkfd-news-button}
 - [政府澄清過渡房屋營運機構為宏福苑居民提供彈性遷出安排](https://news.rthk.hk/rthk/ch/component/k2/1847236-20260313.htm?archive_date=2026-03-13) [Original](https://news.rthk.hk/rthk/ch/component/k2/1847236-20260313.htm?archive_date=2026-03-13){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/政府澄清過渡房屋營運機構為宏福苑居民提供彈性遷出安排/){.md-button .hkfd-news-button}

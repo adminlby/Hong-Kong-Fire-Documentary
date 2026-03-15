@@ -2,7 +2,7 @@
 mingpao scraper
 """
 
-#max_pages: int = 10                          #30 <-- temp solution for errors raise in 2026/1/22
+# max_pages: int = 10                          #30 <-- temp solution for errors raise in 2026/1/22
 max_pages: int = 30
 
 
@@ -40,9 +40,8 @@ def scrape():
         "periodend": datetime.date.today().strftime("%Y%m%d"),
         "subsectionkeywords": "",
         "sort": "d",
-        #"pagesize": "100",                   #1 <-- temp solution for errors raise in 2026/1/22
+        # "pagesize": "100",                   #1 <-- temp solution for errors raise in 2026/1/22
         "pagesize": "1",
-
         "page": "1",
         "searchtype": "a",
     }

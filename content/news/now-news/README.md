@@ -683,8 +683,8 @@
 - [宏福苑五級火災｜卜國明：維修達某銀碼應強制用「招標妥」　並加強其顧問功能](https://news.now.com/home/local/player?newsId=629499)
 - [宏福苑五級火災｜方國珊：建議改革大廈維修工程招標制度　從市建局「招標妥」平台著手](https://news.now.com/home/local/player?newsId=629491)
 
-
 ### 2025-12-15
+
 - [李家超抵京述職](https://news.now.com/home/local/player?newsId=629660) [Original](https://news.now.com/home/local/player?newsId=629660){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/李家超抵京述職/){.md-button .hkfd-news-button}
 - [巨型充氣樂園登陸西九草坪　主辦單位望為港帶來正能量](https://news.now.com/home/local/player?newsId=629659) [Original](https://news.now.com/home/local/player?newsId=629659){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/巨型充氣樂園登陸西九草坪-主辦單位望為港帶來正能量/){.md-button .hkfd-news-button}
 - [西九藝術公園大草坪設巨型充氣樂園](https://news.now.com/home/local/player?newsId=629648) [Original](https://news.now.com/home/local/player?newsId=629648){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/西九藝術公園大草坪設巨型充氣樂園/){.md-button .hkfd-news-button}
@@ -695,11 +695,12 @@
 - [時事全方位｜調查宏福苑火災(二)](https://news.now.com/home/local/player?newsId=629567) [Original](https://news.now.com/home/local/player?newsId=629567){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/時事全方位調查宏福苑火災二/){.md-button .hkfd-news-button}
 - [時事全方位｜調查宏福苑火災(一)](https://news.now.com/home/local/player?newsId=629566) [Original](https://news.now.com/home/local/player?newsId=629566){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/時事全方位調查宏福苑火災一/){.md-button .hkfd-news-button}
 
-
 ### 2025-12-15
+
 - [宏福苑五級火災｜受火災影響外傭可留港三個月找新僱主](https://news.now.com/home/local/player?newsId=629669) [Original](https://news.now.com/home/local/player?newsId=629669){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災受火災影響外傭可留港三個月找新僱主/){.md-button .hkfd-news-button}
 
 ### 2025-12-16
+
 - [李家超向習近平述職　習近平充分肯定李家超及特區政府工作　並向宏福苑災民致慰問](https://news.now.com/home/local/player?newsId=629793) [Original](https://news.now.com/home/local/player?newsId=629793){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/李家超向習近平述職-習近平充分肯定李家超及特區政府工作-並向宏福苑災民致慰問/){.md-button .hkfd-news-button}
 - [習近平就大埔火災指示李家超　落實查出真相問責到底(楊佩詩報道)](https://news.now.com/home/local/player?newsId=629796) [Original](https://news.now.com/home/local/player?newsId=629796){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/習近平就大埔火災指示李家超-落實查出真相問責到底楊佩詩報道/){.md-button .hkfd-news-button}
 - [即日焦點｜李家超向習近平述職　習近平充分肯定李家超及特區政府工作　向宏福苑居民及家屬致慰問](https://news.now.com/home/local/player?newsId=629795) [Original](https://news.now.com/home/local/player?newsId=629795){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/即日焦點李家超向習近平述職-習近平充分肯定李家超及特區政府工作-向宏福苑居民及家屬致慰問/){.md-button .hkfd-news-button}
@@ -708,8 +709,8 @@
 - [李家超在北京向習近平述職　習近平充分肯定李家超及特區政府工作](https://news.now.com/home/local/player?newsId=629775) [Original](https://news.now.com/home/local/player?newsId=629775){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/李家超在北京向習近平述職-習近平充分肯定李家超及特區政府工作/){.md-button .hkfd-news-button}
 - [習近平：充分肯定李家超及特區政府工作](https://news.now.com/home/local/player?newsId=629759) [Original](https://news.now.com/home/local/player?newsId=629759){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/習近平充分肯定李家超及特區政府工作/){.md-button .hkfd-news-button}
 
-
 ### 2025-12-17
+
 - [宏福苑五級大火｜消息指廉署拘捕宏福苑業主立案法團新舊主席　早前多人涉案被捕](https://news.now.com/home/local/player?newsId=629912) [Original](https://news.now.com/home/local/player?newsId=629912){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級大火消息指廉署拘捕宏福苑業主立案法團新舊主席-早前多人涉案被捕/){.md-button .hkfd-news-button}
 - [即日焦點｜除夕跨年倒數活動取消煙花匯演／據了解廉署拘捕宏福苑法團新舊主席](https://news.now.com/home/local/player?newsId=629914) [Original](https://news.now.com/home/local/player?newsId=629914){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/即日焦點除夕跨年倒數活動取消煙花匯演據了解廉署拘捕宏福苑法團新舊主席/){.md-button .hkfd-news-button}
 - [房協澄清：宏福苑居民應急住屋無居住期限](https://news.now.com/home/local/player?newsId=629909) [Original](https://news.now.com/home/local/player?newsId=629909){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/房協澄清宏福苑居民應急住屋無居住期限/){.md-button .hkfd-news-button}
@@ -719,11 +720,12 @@
 - [據了解新一期居屋涉8300伙　首度與綠置居及白居二明年第二季同步申請](https://news.now.com/home/local/player?newsId=629840) [Original](https://news.now.com/home/local/player?newsId=629840){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/據了解新一期居屋涉8300伙-首度與綠置居及白居二明年第二季同步申請/){.md-button .hkfd-news-button}
 - [晨早新聞重點｜澤連斯基稱俄烏和平計劃方案將於數天內敲定／習近平讚揚李家超勇於擔當](https://news.now.com/home/local/player?newsId=629798) [Original](https://news.now.com/home/local/player?newsId=629798){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/晨早新聞重點澤連斯基稱俄烏和平計劃方案將於數天內敲定習近平讚揚李家超勇於擔當/){.md-button .hkfd-news-button}
 
-
 ### 2025-12-17
+
 - [宏福苑五級火災｜大埔宏福苑援助基金總額38億元](https://news.now.com/home/local/player?newsId=629921) [Original](https://news.now.com/home/local/player?newsId=629921){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災大埔宏福苑援助基金總額38億元/){.md-button .hkfd-news-button}
 
 ### 2025-12-18
+
 - [宏福苑五級火災｜宏福苑業主獲每年15萬租金補助　業主租戶同獲5萬元搬遷補助](https://news.now.com/home/local/player?newsId=630024) [Original](https://news.now.com/home/local/player?newsId=630024){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災宏福苑業主獲每年15萬租金補助-業主租戶同獲5萬元搬遷補助/){.md-button .hkfd-news-button}
 - [宏福苑五級火災｜宏福苑業主家屬認為租金補助有效減輕經濟壓力](https://news.now.com/home/local/player?newsId=630051) [Original](https://news.now.com/home/local/player?newsId=630051){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災宏福苑業主家屬認為租金補助有效減輕經濟壓力/){.md-button .hkfd-news-button}
 - [即日焦點｜宏福苑業主獲每年15萬租金補助／宏福苑火災殉職消防員何偉豪設靈](https://news.now.com/home/local/player?newsId=630049) [Original](https://news.now.com/home/local/player?newsId=630049){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/即日焦點宏福苑業主獲每年15萬租金補助宏福苑火災殉職消防員何偉豪設靈/){.md-button .hkfd-news-button}
@@ -740,8 +742,8 @@
 - [政府舉行立法會候任議員交流會　陳國基冀議員勇於擔當助政府推動改革](https://news.now.com/home/local/player?newsId=629963) [Original](https://news.now.com/home/local/player?newsId=629963){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/政府舉行立法會候任議員交流會-陳國基冀議員勇於擔當助政府推動改革/){.md-button .hkfd-news-button}
 - [晨早新聞重點｜除夕煙花匯演取消／美俄周末在邁阿密討論俄烏和平方案](https://news.now.com/home/local/player?newsId=629925) [Original](https://news.now.com/home/local/player?newsId=629925){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/晨早新聞重點除夕煙花匯演取消美俄周末在邁阿密討論俄烏和平方案/){.md-button .hkfd-news-button}
 
-
 ### 2025-12-19
+
 - [2026人口普查｜明年一月起一成住戶填長問卷　可上網填交　剔除宏福苑居民](https://news.now.com/home/local/player?newsId=630164) [Original](https://news.now.com/home/local/player?newsId=630164){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/2026人口普查明年一月起一成住戶填長問卷-可上網填交-剔除宏福苑居民/){.md-button .hkfd-news-button}
 - [宏福苑五級火災｜保監局指保險公司就宏福苑火災災民作出逾2.57億元賠償](https://news.now.com/home/local/player?newsId=630168) [Original](https://news.now.com/home/local/player?newsId=630168){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災保監局指保險公司就宏福苑火災災民作出逾257億元賠償/){.md-button .hkfd-news-button}
 - [宏福苑五級火災｜消息指法團仍有一千萬營運基金及七千萬維修基金　政府介入委任臨時管理人　防止管理公司動用法團資金](https://news.now.com/home/local/player?newsId=630166) [Original](https://news.now.com/home/local/player?newsId=630166){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災消息指法團仍有一千萬營運基金及七千萬維修基金-政府介入委任臨時管理人-防止管理公司動用法團資金/){.md-button .hkfd-news-button}
@@ -761,13 +763,14 @@
 - [採訪日誌｜殉職消防員何偉豪最高榮譽喪禮／統計處公布2026人口普查詳情](https://news.now.com/home/local/player?newsId=630062) [Original](https://news.now.com/home/local/player?newsId=630062){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/採訪日誌殉職消防員何偉豪最高榮譽喪禮統計處公布2026人口普查詳情/){.md-button .hkfd-news-button}
 - [晨早新聞重點｜白俄總統稱境內已部署俄製「榛樹」導彈／英倫銀行減息四分一厘](https://news.now.com/home/local/player?newsId=630054) [Original](https://news.now.com/home/local/player?newsId=630054){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/晨早新聞重點白俄總統稱境內已部署俄製榛樹導彈英倫銀行減息四分一厘/){.md-button .hkfd-news-button}
 
-
 ### 2025-12-19
+
 - [西九舉辦聖誕小鎮 　因應宏福苑大火延遲開幕](https://news.now.com/home/local/player?newsId=630177) [Original](https://news.now.com/home/local/player?newsId=630177){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/西九舉辦聖誕小鎮-因應宏福苑大火延遲開幕/){.md-button .hkfd-news-button}
 - [即日焦點｜政府入禀解散宏福苑法團管委會　委任臨時管理人／台北隨機傷人案　通緝犯擲煙霧彈、斬傷多人後墮樓身亡](https://news.now.com/home/local/player?newsId=630171) [Original](https://news.now.com/home/local/player?newsId=630171){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/即日焦點政府入禀解散宏福苑法團管委會-委任臨時管理人台北隨機傷人案-通緝犯擲煙霧彈斬傷多人後墮樓身亡/){.md-button .hkfd-news-button}
 - [宏福苑五級火災｜屋宇署就棚網等物料阻燃效能檢測發出作業備考　5間指定實驗所測試](https://news.now.com/home/local/player?newsId=630172) [Original](https://news.now.com/home/local/player?newsId=630172){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災屋宇署就棚網等物料阻燃效能檢測發出作業備考-5間指定實驗所測試/){.md-button .hkfd-news-button}
 
 ### 2025-12-20
+
 - [宏福苑五級火災｜教育局安排大埔浸信會公立學校學生　下學年使用富善邨前基正小學校舍上課](https://news.now.com/home/local/player?newsId=630250) [Original](https://news.now.com/home/local/player?newsId=630250){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災教育局安排大埔浸信會公立學校學生-下學年使用富善邨前基正小學校舍上課/){.md-button .hkfd-news-button}
 - [宏福苑五級火災｜政府指定實驗室稱每日可檢測200個棚網樣本　有銷售商暫停售棚網](https://news.now.com/home/local/player?newsId=630248) [Original](https://news.now.com/home/local/player?newsId=630248){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災政府指定實驗室稱每日可檢測200個棚網樣本-有銷售商暫停售棚網/){.md-button .hkfd-news-button}
 - [屯門怡樂花園維修與宏福苑同一承建商　居民憂爛尾　甯漢豪指屋宇署有需要會介入](https://news.now.com/home/local/player?newsId=630244) [Original](https://news.now.com/home/local/player?newsId=630244){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/屯門怡樂花園維修與宏福苑同一承建商-居民憂爛尾-甯漢豪指屋宇署有需要會介入/){.md-button .hkfd-news-button}
@@ -779,12 +782,13 @@
 - [宏福苑五級火災｜甯漢豪稱火災涉施工安全等問題　檢視法律加強懲處](https://news.now.com/home/local/player?newsId=630203) [Original](https://news.now.com/home/local/player?newsId=630203){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災甯漢豪稱火災涉施工安全等問題-檢視法律加強懲處/){.md-button .hkfd-news-button}
 - [宏福苑五級火災｜殯儀館邀台灣遺體修復師　免費提供修復服務　讓家屬好好告別](https://news.now.com/home/local/player?newsId=630178) [Original](https://news.now.com/home/local/player?newsId=630178){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災殯儀館邀台灣遺體修復師-免費提供修復服務-讓家屬好好告別/){.md-button .hkfd-news-button}
 
-
 ### 2025-12-20
+
 - [宏福苑五級火災｜「大埔宏福苑援助基金」達40億元](https://news.now.com/home/local/player?newsId=630262) [Original](https://news.now.com/home/local/player?newsId=630262){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災大埔宏福苑援助基金達40億元/){.md-button .hkfd-news-button}
 - [即日焦點｜宏福苑火災遺骸鑑證多一人DNA　死亡人數增至161人／台北隨機傷人案　警方相信疑兇單獨犯案](https://news.now.com/home/local/player?newsId=630258) [Original](https://news.now.com/home/local/player?newsId=630258){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/即日焦點宏福苑火災遺骸鑑證多一人dna-死亡人數增至161人台北隨機傷人案-警方相信疑兇單獨犯案/){.md-button .hkfd-news-button}
 
 ### 2025-12-21
+
 - [宏福苑五級火災｜善導會改稱善樓遷離災民可按需要帶走屋內傢電　再補給配套予下一輪居民](https://news.now.com/home/local/player?newsId=630330) [Original](https://news.now.com/home/local/player?newsId=630330){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災善導會改稱善樓遷離災民可按需要帶走屋內傢電-再補給配套予下一輪居民/){.md-button .hkfd-news-button}
 - [宏福苑五級火災｜善導會確認善樓遷離災民不可帶走部分家電　留給下一批宏福居民使用](https://news.now.com/home/local/player?newsId=630319) [Original](https://news.now.com/home/local/player?newsId=630319){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災善導會確認善樓遷離災民不可帶走部分家電-留給下一批宏福居民使用/){.md-button .hkfd-news-button}
 - [立法會換屆選舉順利完成　曾國衞：正分類選舉無效票　暫不評估原因](https://news.now.com/home/local/player?newsId=630299) [Original](https://news.now.com/home/local/player?newsId=630299){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/立法會換屆選舉順利完成-曾國衞正分類選舉無效票-暫不評估原因/){.md-button .hkfd-news-button}
@@ -792,105 +796,111 @@
 - [政府申請解散宏福苑法團管委會　麥美娟：非取走業主權力](https://news.now.com/home/local/player?newsId=630275) [Original](https://news.now.com/home/local/player?newsId=630275){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/政府申請解散宏福苑法團管委會-麥美娟非取走業主權力/){.md-button .hkfd-news-button}
 - [宏福苑五級大火｜消防員親歷火場搜救　組義工隊工餘助居民過渡屋展新生活](https://news.now.com/home/local/player?newsId=630271) [Original](https://news.now.com/home/local/player?newsId=630271){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級大火消防員親歷火場搜救-組義工隊工餘助居民過渡屋展新生活/){.md-button .hkfd-news-button}
 
-
 ### 2025-12-21
+
 - [宏福苑五級火災｜善導會改稱善樓遷離災民可按需要帶走傢電　房屋局：明確捐贈居民的物資可帶走](https://news.now.com/home/local/player?newsId=630337) [Original](https://news.now.com/home/local/player?newsId=630337){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災善導會改稱善樓遷離災民可按需要帶走傢電-房屋局明確捐贈居民的物資可帶走/){.md-button .hkfd-news-button}
 - [即日焦點｜中九龍繞道通車　記者實測啟德到高鐵站需時8分鐘／冬至酒樓指旺丁不旺財](https://news.now.com/home/local/player?newsId=630333) [Original](https://news.now.com/home/local/player?newsId=630333){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/即日焦點中九龍繞道通車-記者實測啟德到高鐵站需時8分鐘冬至酒樓指旺丁不旺財/){.md-button .hkfd-news-button}
 
 ### 2025-12-22
+
 - [宏福苑五級火災｜大埔宏福苑援助基金累計達41億元](https://news.now.com/home/local/player?newsId=630458) [Original](https://news.now.com/home/local/player?newsId=630458){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災大埔宏福苑援助基金累計達41億元/){.md-button .hkfd-news-button}
 - [時事全方位｜政府入稟解散宏福苑法團管委會(二)](https://news.now.com/home/local/player?newsId=630364) [Original](https://news.now.com/home/local/player?newsId=630364){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/時事全方位政府入稟解散宏福苑法團管委會二/){.md-button .hkfd-news-button}
 - [時事全方位｜政府入稟解散宏福苑法團管委會(一)](https://news.now.com/home/local/player?newsId=630363) [Original](https://news.now.com/home/local/player?newsId=630363){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/時事全方位政府入稟解散宏福苑法團管委會一/){.md-button .hkfd-news-button}
-- [宏福苑五級火災｜善導會：善樓無電梯需動用很多義工搬大型傢電　原想下批災民即時有傢電使用　](https://news.now.com/home/local/player?newsId=630385) [Original](https://news.now.com/home/local/player?newsId=630385){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災善導會善樓無電梯需動用很多義工搬大型傢電-原想下批災民即時有傢電使用/){.md-button .hkfd-news-button}
+- [宏福苑五級火災｜善導會：善樓無電梯需動用很多義工搬大型傢電　原想下批災民即時有傢電使用](https://news.now.com/home/local/player?newsId=630385) [Original](https://news.now.com/home/local/player?newsId=630385){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災善導會善樓無電梯需動用很多義工搬大型傢電-原想下批災民即時有傢電使用/){.md-button .hkfd-news-button}
 - [宏福苑五級火災｜梁宏正：災民即日起可獲發租金補助及搬遷津貼　解散法團管委會不削業主權](https://news.now.com/home/local/player?newsId=630384) [Original](https://news.now.com/home/local/player?newsId=630384){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災梁宏正災民即日起可獲發租金補助及搬遷津貼-解散法團管委會不削業主權/){.md-button .hkfd-news-button}
 
-
 ### 2025-12-23
+
 - [聖誕文告｜周守仁：災後聖誕意味出路清晰　陳謳明：聖誕信息發出極大光明](https://news.now.com/home/local/player?newsId=630581) [Original](https://news.now.com/home/local/player?newsId=630581){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/聖誕文告周守仁災後聖誕意味出路清晰-陳謳明聖誕信息發出極大光明/){.md-button .hkfd-news-button}
 - [工權會：今年職業死亡人數118人　按年增55%](https://news.now.com/home/local/player?newsId=630539) [Original](https://news.now.com/home/local/player?newsId=630539){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/工權會今年職業死亡人數118人-按年增55/){.md-button .hkfd-news-button}
 - [屯門怡樂花園考慮有條件續聘宏業　須更新保證金證明及取回履約保證書](https://news.now.com/home/local/player?newsId=630506) [Original](https://news.now.com/home/local/player?newsId=630506){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/屯門怡樂花園考慮有條件續聘宏業-須更新保證金證明及取回履約保證書/){.md-button .hkfd-news-button}
 - [宏福苑五級火災｜獨立委員會成員到現場視察](https://news.now.com/home/local/player?newsId=630505) [Original](https://news.now.com/home/local/player?newsId=630505){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災獨立委員會成員到現場視察/){.md-button .hkfd-news-button}
 - [宏福苑五級火災｜紅十字會累收逾4.2億元捐款　通過專屬八達通卡向災民提供經濟等支援](https://news.now.com/home/local/player?newsId=630500) [Original](https://news.now.com/home/local/player?newsId=630500){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災紅十字會累收逾42億元捐款-通過專屬八達通卡向災民提供經濟等支援/){.md-button .hkfd-news-button}
 
-
 ### 2025-12-24
+
 - [聖誕假期市道旺丁不旺財　有業界指港人消費模式改變](https://news.now.com/home/local/player?newsId=630678) [Original](https://news.now.com/home/local/player?newsId=630678){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/聖誕假期市道旺丁不旺財-有業界指港人消費模式改變/){.md-button .hkfd-news-button}
 - [聖誕節市道旺丁不旺財　有業界指港人消費模式改變](https://news.now.com/home/local/player?newsId=630672) [Original](https://news.now.com/home/local/player?newsId=630672){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/聖誕節市道旺丁不旺財-有業界指港人消費模式改變/){.md-button .hkfd-news-button}
 - [梁進：宏福苑大火影響社會氣氛四成訂枱取消　餐廳推平價餐單留客](https://news.now.com/home/local/player?newsId=630629) [Original](https://news.now.com/home/local/player?newsId=630629){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/梁進宏福苑大火影響社會氣氛四成訂枱取消-餐廳推平價餐單留客/){.md-button .hkfd-news-button}
 - [宏福苑五級火災｜「守望同行」計劃助130個喪親家庭處理後事及情緒支援](https://news.now.com/home/local/player?newsId=630598) [Original](https://news.now.com/home/local/player?newsId=630598){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災守望同行計劃助130個喪親家庭處理後事及情緒支援/){.md-button .hkfd-news-button}
 
-
 ### 2025-12-24
+
 - [宏福苑五級火災｜警方再拘一男　為涉事大廈外牆工程分判商負責人](https://news.now.com/home/local/player?newsId=630694) [Original](https://news.now.com/home/local/player?newsId=630694){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災警方再拘一男-為涉事大廈外牆工程分判商負責人/){.md-button .hkfd-news-button}
 
 ### 2025-12-25
+
 - [大埔宏福苑五級火災｜七旬夫婦遷入元朗過渡屋　一戶一社工承諾同行解困](https://news.now.com/home/local/player?newsId=630720) [Original](https://news.now.com/home/local/player?newsId=630720){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/大埔宏福苑五級火災七旬夫婦遷入元朗過渡屋-一戶一社工承諾同行解困/){.md-button .hkfd-news-button}
 - [天主教香港教區辦子夜彌撒　為世界和平宏福苑災民祈禱](https://news.now.com/home/local/player?newsId=630705) [Original](https://news.now.com/home/local/player?newsId=630705){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/天主教香港教區辦子夜彌撒-為世界和平宏福苑災民祈禱/){.md-button .hkfd-news-button}
 - [宏福苑五級火災｜七旬夫婦遷入元朗過渡屋　勉勵鄰居放開心情努力生活](https://news.now.com/home/local/player?newsId=630700) [Original](https://news.now.com/home/local/player?newsId=630700){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災七旬夫婦遷入元朗過渡屋-勉勵鄰居放開心情努力生活/){.md-button .hkfd-news-button}
 
 ### 2025-12-26
+
 - [政府感謝各地政府機構及社會各界熱心人士支援宏福苑火災受影響人士](https://news.now.com/home/local/player?newsId=630826) [Original](https://news.now.com/home/local/player?newsId=630826){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/政府感謝各地政府機構及社會各界熱心人士支援宏福苑火災受影響人士/){.md-button .hkfd-news-button}
 - [宏福苑災民冀市民開心過佳節　哽咽答謝港人伸援手](https://news.now.com/home/local/player?newsId=630798) [Original](https://news.now.com/home/local/player?newsId=630798){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑災民冀市民開心過佳節-哽咽答謝港人伸援手/){.md-button .hkfd-news-button}
 
-
 ### 2025-12-27
+
 - [指定實驗室驗市面棚網八成不合格　燃燒時間逾40秒超標十倍](https://news.now.com/home/local/player?newsId=630888) [Original](https://news.now.com/home/local/player?newsId=630888){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/指定實驗室驗市面棚網八成不合格-燃燒時間逾40秒超標十倍/){.md-button .hkfd-news-button}
 
-
 ### 2025-12-29
+
 - [宏福苑五級火災｜過百居民冀協助原址重建　政府：正聽取和歸納災民的不同意見](https://news.now.com/home/local/player?newsId=631119) [Original](https://news.now.com/home/local/player?newsId=631119){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災過百居民冀協助原址重建-政府正聽取和歸納災民的不同意見/){.md-button .hkfd-news-button}
 - [宏福苑五級火災｜宏業獲授權簽署人張玉濤在屋宇署名冊中除名](https://news.now.com/home/local/player?newsId=631080) [Original](https://news.now.com/home/local/player?newsId=631080){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災宏業獲授權簽署人張玉濤在屋宇署名冊中除名/){.md-button .hkfd-news-button}
 - [宏福苑五級火災｜過百居民聯署向李家超等官員發信　冀協助原址重建](https://news.now.com/home/local/player?newsId=631044) [Original](https://news.now.com/home/local/player?newsId=631044){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災過百居民聯署向李家超等官員發信-冀協助原址重建/){.md-button .hkfd-news-button}
 
-
 ### 2025-12-30
+
 - [疑偽造紀錄訛稱參與宏福苑義載　五名的士司機被捕](https://news.now.com/home/local/player?newsId=631210) [Original](https://news.now.com/home/local/player?newsId=631210){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/疑偽造紀錄訛稱參與宏福苑義載-五名的士司機被捕/){.md-button .hkfd-news-button}
 - [羅淑佩：跨年不辦煙花匯演改辦光影匯仍能推廣香港](https://news.now.com/home/local/player?newsId=631174) [Original](https://news.now.com/home/local/player?newsId=631174){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/羅淑佩跨年不辦煙花匯演改辦光影匯仍能推廣香港/){.md-button .hkfd-news-button}
 
-
 ### 2025-12-30
+
 - [即日焦點｜西環邨居民2029年全邨搬　馬頭圍邨分兩期搬遷／解放軍圍台軍演第二日　展開奪控要港等演練](https://news.now.com/home/local/player?newsId=631252) [Original](https://news.now.com/home/local/player?newsId=631252){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/即日焦點西環邨居民2029年全邨搬-馬頭圍邨分兩期搬遷解放軍圍台軍演第二日-展開奪控要港等演練/){.md-button .hkfd-news-button}
 
 ### 2025-12-31
+
 - [原片轉載｜房屋局的2025年](https://news.now.com/home/local/player?newsId=631332) [Original](https://news.now.com/home/local/player?newsId=631332){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/原片轉載房屋局的2025年/){.md-button .hkfd-news-button}
 
-
 ### 2025-12-31
+
 - [迎接2026｜李家超發表新年賀詞　來年繼續支援宏福苑災民及加快公營房屋建設](https://news.now.com/home/local/player?newsId=631383) [Original](https://news.now.com/home/local/player?newsId=631383){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/迎接2026李家超發表新年賀詞-來年繼續支援宏福苑災民及加快公營房屋建設/){.md-button .hkfd-news-button}
 
 ### 2026-01-01
+
 - [時事全方位重點提要｜1月2日](https://news.now.com/home/local/player?newsId=631462) [Original](https://news.now.com/home/local/player?newsId=631462){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/時事全方位重點提要1月2日/){.md-button .hkfd-news-button}
 - [宏福苑五級火災｜多名議員冀盡快處理災民安置等問題](https://news.now.com/home/local/player?newsId=631460) [Original](https://news.now.com/home/local/player?newsId=631460){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災多名議員冀盡快處理災民安置等問題/){.md-button .hkfd-news-button}
 
-
 ### 2026-01-02
+
 - [宏福苑大火｜多兩隻貓獲救　愛協准擺更多捕貓籠](https://news.now.com/home/local/player?newsId=631599) [Original](https://news.now.com/home/local/player?newsId=631599){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑大火多兩隻貓獲救-愛協准擺更多捕貓籠/){.md-button .hkfd-news-button}
 - [時事全方位｜議會新丁(二)](https://news.now.com/home/local/player?newsId=631544) [Original](https://news.now.com/home/local/player?newsId=631544){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/時事全方位議會新丁二/){.md-button .hkfd-news-button}
 - [時事全方位｜議會新丁(一)](https://news.now.com/home/local/player?newsId=631543) [Original](https://news.now.com/home/local/player?newsId=631543){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/時事全方位議會新丁一/){.md-button .hkfd-news-button}
 - [法援署署長陳澤銘履新　已就宏福苑火災成立專責小組　助災民申請法援](https://news.now.com/home/local/player?newsId=631513) [Original](https://news.now.com/home/local/player?newsId=631513){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/法援署署長陳澤銘履新-已就宏福苑火災成立專責小組-助災民申請法援/){.md-button .hkfd-news-button}
 
-
 ### 2026-01-03
+
 - [宏福苑五級火災｜消防處特刊悼念殉職消防員何偉豪](https://news.now.com/home/local/player?newsId=631671) [Original](https://news.now.com/home/local/player?newsId=631671){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災消防處特刊悼念殉職消防員何偉豪/){.md-button .hkfd-news-button}
 
-
 ### 2026-01-04
+
 - [宏福苑五級火災｜居民需月底前遷出青年宿舍　長者哭訴再受搬遷之苦](https://news.now.com/home/local/player?newsId=631740) [Original](https://news.now.com/home/local/player?newsId=631740){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災居民需月底前遷出青年宿舍-長者哭訴再受搬遷之苦/){.md-button .hkfd-news-button}
 - [石硤尾邨火警釀一死八傷　消防指起火單位焚燒嚴重有大量雜物](https://news.now.com/home/local/player?newsId=631735) [Original](https://news.now.com/home/local/player?newsId=631735){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/石硤尾邨火警釀一死八傷-消防指起火單位焚燒嚴重有大量雜物/){.md-button .hkfd-news-button}
 - [宏福苑五級火災｜受災業主可獲兩年租津　何啟明籲區內業主勿坐地起價](https://news.now.com/home/local/player?newsId=631724) [Original](https://news.now.com/home/local/player?newsId=631724){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災受災業主可獲兩年租津-何啟明籲區內業主勿坐地起價/){.md-button .hkfd-news-button}
-- [宏福苑五級火災｜何啟明籲大埔區業主勿坐地起價　災民可覓東鐵綫沿綫租盤　](https://news.now.com/home/local/player?newsId=631714) [Original](https://news.now.com/home/local/player?newsId=631714){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災何啟明籲大埔區業主勿坐地起價-災民可覓東鐵綫沿綫租盤/){.md-button .hkfd-news-button}
-
+- [宏福苑五級火災｜何啟明籲大埔區業主勿坐地起價　災民可覓東鐵綫沿綫租盤](https://news.now.com/home/local/player?newsId=631714) [Original](https://news.now.com/home/local/player?newsId=631714){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災何啟明籲大埔區業主勿坐地起價-災民可覓東鐵綫沿綫租盤/){.md-button .hkfd-news-button}
 
 ### 2026-01-04
+
 - [石硤尾邨美如樓火警一死八傷　初步相信與充電器起火有關](https://news.now.com/home/local/player?newsId=631763) [Original](https://news.now.com/home/local/player?newsId=631763){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/石硤尾邨美如樓火警一死八傷-初步相信與充電器起火有關/){.md-button .hkfd-news-button}
 - [即日焦點｜美軍突襲委內瑞拉　總統馬杜羅夫婦被押抵紐約／長假期後不少市民經各口岸回港](https://news.now.com/home/local/player?newsId=631753) [Original](https://news.now.com/home/local/player?newsId=631753){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/即日焦點美軍突襲委內瑞拉-總統馬杜羅夫婦被押抵紐約長假期後不少市民經各口岸回港/){.md-button .hkfd-news-button}
 
 ### 2026-01-05
+
 - [宏福苑大火｜屋苑法團向宏業付近1.8億元維修費　戶口結餘約1.1億元](https://news.now.com/home/local/player?newsId=631852) [Original](https://news.now.com/home/local/player?newsId=631852){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑大火屋苑法團向宏業付近18億元維修費-戶口結餘約11億元/){.md-button .hkfd-news-button}
 - [邵家輝：海外旅客升幅顯著　大埔火災氣氛緩和　料零售業表現回復平穩](https://news.now.com/home/local/player?newsId=631813) [Original](https://news.now.com/home/local/player?newsId=631813){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/邵家輝海外旅客升幅顯著-大埔火災氣氛緩和-料零售業表現回復平穩/){.md-button .hkfd-news-button}
 
-
 ### 2026-01-06
+
 - [時事全方位重點提要｜1月7日](https://news.now.com/home/local/player?newsId=632013) [Original](https://news.now.com/home/local/player?newsId=632013){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/時事全方位重點提要1月7日/){.md-button .hkfd-news-button}
 - [宏福苑五級火災｜麥美娟歡迎土審處裁決　全片重溫(二)](https://news.now.com/home/local/player?newsId=632008) [Original](https://news.now.com/home/local/player?newsId=632008){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災麥美娟歡迎土審處裁決-全片重溫二/){.md-button .hkfd-news-button}
 - [宏福苑五級火災｜麥美娟歡迎土審處裁決　全片重溫(一)](https://news.now.com/home/local/player?newsId=632007) [Original](https://news.now.com/home/local/player?newsId=632007){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災麥美娟歡迎土審處裁決-全片重溫一/){.md-button .hkfd-news-button}
@@ -903,27 +913,28 @@
 - [宏福苑五級火災｜大埔區議會開會跟進火災善後及支援工作](https://news.now.com/home/local/player?newsId=631931) [Original](https://news.now.com/home/local/player?newsId=631931){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災大埔區議會開會跟進火災善後及支援工作-1/){.md-button .hkfd-news-button}
 - [採訪日誌｜大埔區議會跟進宏福苑火災善後等工作／天文台預料早上市區最低氣溫約12度](https://news.now.com/home/local/player?newsId=631897) [Original](https://news.now.com/home/local/player?newsId=631897){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/採訪日誌大埔區議會跟進宏福苑火災善後等工作天文台預料早上市區最低氣溫約12度/){.md-button .hkfd-news-button}
 
-
 ### 2026-01-06
+
 - [即日焦點｜雀巢奶粉疑受蠟樣芽孢桿菌污染／華懋旗下合安獲准接手宏福苑管理](https://news.now.com/home/local/player?newsId=631078) [Original](https://news.now.com/home/local/player?newsId=631078){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/即日焦點雀巢奶粉疑受蠟樣芽孢桿菌污染華懋旗下合安獲准接手宏福苑管理/){.md-button .hkfd-news-button}
 
 ### 2026-01-07
+
 - [首批集體採購棚網下周四分發　售價最多貴1.3倍　鄭定寕：比工程費微不足道](https://news.now.com/home/local/player?newsId=632137) [Original](https://news.now.com/home/local/player?newsId=632137){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/首批集體採購棚網下周四分發-售價最多貴13倍-鄭定寕比工程費微不足道/){.md-button .hkfd-news-button}
 - [時事全方位｜大埔區議會跟進宏福苑火災(二)](https://news.now.com/home/local/player?newsId=632049) [Original](https://news.now.com/home/local/player?newsId=632049){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/時事全方位大埔區議會跟進宏福苑火災二/){.md-button .hkfd-news-button}
 - [時事全方位｜大埔區議會跟進宏福苑火災(一)](https://news.now.com/home/local/player?newsId=632048) [Original](https://news.now.com/home/local/player?newsId=632048){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/時事全方位大埔區議會跟進宏福苑火災一/){.md-button .hkfd-news-button}
 - [宏福苑五級火災｜有區議員倡當局收購宏福苑居民業權](https://news.now.com/home/local/player?newsId=632071) [Original](https://news.now.com/home/local/player?newsId=632071){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災有區議員倡當局收購宏福苑居民業權/){.md-button .hkfd-news-button}
 - [宏福苑五級火災｜有區議員促政府考慮以頌雅路西公屋熟地重置居民](https://news.now.com/home/local/player?newsId=632057) [Original](https://news.now.com/home/local/player?newsId=632057){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災有區議員促政府考慮以頌雅路西公屋熟地重置居民/){.md-button .hkfd-news-button}
 
-
 ### 2026-01-08
+
 - [足本全片｜李慧琼當選立法會主席　下周三首次會議聚焦大埔宏福苑大火善後工作](https://news.now.com/home/local/player?newsId=632230) [Original](https://news.now.com/home/local/player?newsId=632230){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/足本全片李慧琼當選立法會主席-下周三首次會議聚焦大埔宏福苑大火善後工作/){.md-button .hkfd-news-button}
 - [李慧琼當選立法會主席　承諾日後原則上不會投票](https://news.now.com/home/local/player?newsId=632234) [Original](https://news.now.com/home/local/player?newsId=632234){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/李慧琼當選立法會主席-承諾日後原則上不會投票/){.md-button .hkfd-news-button}
 - [宏福苑五級火災｜獨立委員會委任杜淦堃等五人為代表律師](https://news.now.com/home/local/player?newsId=632232) [Original](https://news.now.com/home/local/player?newsId=632232){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災獨立委員會委任杜淦堃等五人為代表律師/){.md-button .hkfd-news-button}
 - [李慧琼當選新一屆立法會主席　宣布下周三舉行首次大會](https://news.now.com/home/local/player?newsId=632231) [Original](https://news.now.com/home/local/player?newsId=632231){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/李慧琼當選新一屆立法會主席-宣布下周三舉行首次大會/){.md-button .hkfd-news-button}
 - [大埔區議會大廈管理工作小組召開首次會議](https://news.now.com/home/local/player?newsId=632209) [Original](https://news.now.com/home/local/player?newsId=632209){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/大埔區議會大廈管理工作小組召開首次會議/){.md-button .hkfd-news-button}
 
-
 ### 2026-01-09
+
 - [宏福苑火災｜政府諮詢居民長遠安置包括樓換樓及收購業權　原址建最快2035年入伙](https://news.now.com/home/local/player?newsId=632402) [Original](https://news.now.com/home/local/player?newsId=632402){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑火災政府諮詢居民長遠安置包括樓換樓及收購業權-原址建最快2035年入伙/){.md-button .hkfd-news-button}
 - [宏福苑火災｜有居民稱原區安置耐傾向揀啟德新居屋　議員籲問卷非最終決定](https://news.now.com/home/local/player?newsId=632403) [Original](https://news.now.com/home/local/player?newsId=632403){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑火災有居民稱原區安置耐傾向揀啟德新居屋-議員籲問卷非最終決定/){.md-button .hkfd-news-button}
 - [宏福苑五級火災｜陳克勤指居民意見分散　有居民冀安置方案有數個選擇](https://news.now.com/home/local/player?newsId=632380) [Original](https://news.now.com/home/local/player?newsId=632380){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災陳克勤指居民意見分散-有居民冀安置方案有數個選擇/){.md-button .hkfd-news-button}
@@ -932,45 +943,46 @@
 - [宏福苑五級火災｜政府收集居民長遠安置意願　原址重建需十年　頌雅路地盤最快29年入伙](https://news.now.com/home/local/player?newsId=632350) [Original](https://news.now.com/home/local/player?newsId=632350){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災政府收集居民長遠安置意願-原址重建需十年-頌雅路地盤最快29年入伙/){.md-button .hkfd-news-button}
 - [首批棚網最快下周起分發　建造業界料農曆新年前能分發予全部承建商](https://news.now.com/home/local/player?newsId=632319) [Original](https://news.now.com/home/local/player?newsId=632319){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/首批棚網最快下周起分發-建造業界料農曆新年前能分發予全部承建商/){.md-button .hkfd-news-button}
 
-
 ### 2026-01-09
+
 - [立法會首次會議下周三舉行　聚焦宏福苑災後支援重建議案](https://news.now.com/home/local/player?newsId=632431) [Original](https://news.now.com/home/local/player?newsId=632431){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/立法會首次會議下周三舉行-聚焦宏福苑災後支援重建議案/){.md-button .hkfd-news-button}
 - [屯門怡樂花園大比數通過中止宏業建築大維修合約](https://news.now.com/home/local/player?newsId=632425) [Original](https://news.now.com/home/local/player?newsId=632425){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/屯門怡樂花園大比數通過中止宏業建築大維修合約/){.md-button .hkfd-news-button}
 - [即日焦點｜政府諮詢宏福苑災民長遠安置意願／俄羅斯向烏克蘭發射「榛樹」高超音速導彈](https://news.now.com/home/local/player?newsId=632420) [Original](https://news.now.com/home/local/player?newsId=632420){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/即日焦點政府諮詢宏福苑災民長遠安置意願俄羅斯向烏克蘭發射榛樹高超音速導彈/){.md-button .hkfd-news-button}
 
 ### 2026-01-10
+
 - [即日焦點｜雀巢旗下能恩奶粉再多一批次疑受污染　下架回收／黃偉綸指宏福苑原址重建不實際](https://news.now.com/home/local/player?newsId=632496) [Original](https://news.now.com/home/local/player?newsId=632496){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/即日焦點雀巢旗下能恩奶粉再多一批次疑受污染-下架回收黃偉綸指宏福苑原址重建不實際/){.md-button .hkfd-news-button}
 - [林正財：「守望·同行」計劃為宏福苑居民及親友等提供協助](https://news.now.com/home/local/player?newsId=632495) [Original](https://news.now.com/home/local/player?newsId=632495){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/林正財守望同行計劃為宏福苑居民及親友等提供協助/){.md-button .hkfd-news-button}
 - [宏福苑火災｜有居民接受原區安置　葉劉淑儀：相信政府以大多數人意願為依歸](https://news.now.com/home/local/player?newsId=632473) [Original](https://news.now.com/home/local/player?newsId=632473){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑火災有居民接受原區安置-葉劉淑儀相信政府以大多數人意願為依歸/){.md-button .hkfd-news-button}
 - [宏福苑火災｜屋苑內大埔浸信會公立學校九月新學年起使用前基正小學校舍](https://news.now.com/home/local/player?newsId=632466) [Original](https://news.now.com/home/local/player?newsId=632466){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑火災屋苑內大埔浸信會公立學校九月新學年起使用前基正小學校舍/){.md-button .hkfd-news-button}
-- [宏福苑火災｜黃偉綸：原址重建不實際　或改建為社區設施　收購業權須公帑補貼 ](https://news.now.com/home/local/player?newsId=632460) [Original](https://news.now.com/home/local/player?newsId=632460){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑火災黃偉綸原址重建不實際-或改建為社區設施-收購業權須公帑補貼/){.md-button .hkfd-news-button}
+- [宏福苑火災｜黃偉綸：原址重建不實際　或改建為社區設施　收購業權須公帑補貼](https://news.now.com/home/local/player?newsId=632460) [Original](https://news.now.com/home/local/player?newsId=632460){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑火災黃偉綸原址重建不實際-或改建為社區設施-收購業權須公帑補貼/){.md-button .hkfd-news-button}
 - [經緯線本周提要｜政府「招標妥」助大維修　反被利用成圍標工具](https://news.now.com/home/local/player?newsId=632422) [Original](https://news.now.com/home/local/player?newsId=632422){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/經緯線本周提要政府招標妥助大維修-反被利用成圍標工具/){.md-button .hkfd-news-button}
 - [葉劉淑儀：立法會要配合亦要監督政府　只迎合不利長遠發展](https://news.now.com/home/local/player?newsId=632454) [Original](https://news.now.com/home/local/player?newsId=632454){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/葉劉淑儀立法會要配合亦要監督政府-只迎合不利長遠發展/){.md-button .hkfd-news-button}
 - [黃偉綸：原址重建宏福苑不實際　或改建為社區設施](https://news.now.com/home/local/player?newsId=632449) [Original](https://news.now.com/home/local/player?newsId=632449){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/黃偉綸原址重建宏福苑不實際-或改建為社區設施/){.md-button .hkfd-news-button}
 
-
 ### 2026-01-11
+
 - [經緯線｜大「圍」修(二)](https://news.now.com/home/local/player?newsId=632553) [Original](https://news.now.com/home/local/player?newsId=632553){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/經緯線大圍修二/){.md-button .hkfd-news-button}
 - [經緯線｜大「圍」修(一)](https://news.now.com/home/local/player?newsId=632552) [Original](https://news.now.com/home/local/player?newsId=632552){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/經緯線大圍修一/){.md-button .hkfd-news-button}
 - [宏福苑五級火災｜有立法會議員指易地重建是最快方案　有居民指對長遠安置未有決定](https://news.now.com/home/local/player?newsId=632548) [Original](https://news.now.com/home/local/player?newsId=632548){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災有立法會議員指易地重建是最快方案-有居民指對長遠安置未有決定/){.md-button .hkfd-news-button}
 - [宏福苑五級火災｜有立法會議員指易地重建是最快方案　有居民指對長遠安置未有決定](https://news.now.com/home/local/player?newsId=632539) [Original](https://news.now.com/home/local/player?newsId=632539){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災有立法會議員指易地重建是最快方案-有居民指對長遠安置未有決定-1/){.md-button .hkfd-news-button}
-- [宏福苑五級火災｜卜國明：易地重建是最快方案　原址可改建為社區設施等　](https://news.now.com/home/local/player?newsId=632518) [Original](https://news.now.com/home/local/player?newsId=632518){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災卜國明易地重建是最快方案-原址可改建為社區設施等/){.md-button .hkfd-news-button}
-
+- [宏福苑五級火災｜卜國明：易地重建是最快方案　原址可改建為社區設施等](https://news.now.com/home/local/player?newsId=632518) [Original](https://news.now.com/home/local/player?newsId=632518){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災卜國明易地重建是最快方案-原址可改建為社區設施等/){.md-button .hkfd-news-button}
 
 ### 2026-01-12
+
 - [宏福苑五級火災｜陳健波停三公職　專注獨立委員會](https://news.now.com/home/local/player?newsId=632693) [Original](https://news.now.com/home/local/player?newsId=632693){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災陳健波停三公職-專注獨立委員會/){.md-button .hkfd-news-button}
 - [宏福苑五級火災｜工聯會指居民冀提供樓換樓或原區安置等不同選項](https://news.now.com/home/local/player?newsId=632668) [Original](https://news.now.com/home/local/player?newsId=632668){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災工聯會指居民冀提供樓換樓或原區安置等不同選項/){.md-button .hkfd-news-button}
 - [時事全方位｜宏福苑重置安排(二)](https://news.now.com/home/local/player?newsId=632607) [Original](https://news.now.com/home/local/player?newsId=632607){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/時事全方位宏福苑重置安排二/){.md-button .hkfd-news-button}
 - [時事全方位｜宏福苑重置安排(一)](https://news.now.com/home/local/player?newsId=632606) [Original](https://news.now.com/home/local/player?newsId=632606){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/時事全方位宏福苑重置安排一/){.md-button .hkfd-news-button}
 
-
 ### 2026-01-13
+
 - [大埔民政專員陳巧敏與食環署助理署長鍾慧婷互調崗位](https://news.now.com/home/local/player?newsId=632809) [Original](https://news.now.com/home/local/player?newsId=632809){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/大埔民政專員陳巧敏與食環署助理署長鍾慧婷互調崗位/){.md-button .hkfd-news-button}
 - [鍾慧婷接替陳巧敏出任大埔民政事務專員](https://news.now.com/home/local/player?newsId=632794) [Original](https://news.now.com/home/local/player?newsId=632794){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/鍾慧婷接替陳巧敏出任大埔民政事務專員/){.md-button .hkfd-news-button}
 - [財政預算案｜議員促推措施助中產　停削社福界撥款](https://news.now.com/home/local/player?newsId=632740) [Original](https://news.now.com/home/local/player?newsId=632740){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/財政預算案議員促推措施助中產-停削社福界撥款/){.md-button .hkfd-news-button}
 
-
 ### 2026-01-14
+
 - [宏福苑五級火災｜招標妥設顧問和承建商名單　申政府資助須由市建局招標及評標](https://news.now.com/home/local/player?newsId=632965) [Original](https://news.now.com/home/local/player?newsId=632965){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災招標妥設顧問和承建商名單-申政府資助須由市建局招標及評標/){.md-button .hkfd-news-button}
 - [即日焦點｜宏福苑火災　李家超強調問責到底／黃偉綸表明政府需要動用公帑購買業權](https://news.now.com/home/local/player?newsId=632968) [Original](https://news.now.com/home/local/player?newsId=632968){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/即日焦點宏福苑火災-李家超強調問責到底黃偉綸表明政府需要動用公帑購買業權/){.md-button .hkfd-news-button}
 - [宏福苑五級火災｜黃偉綸表明政府需要動用公帑購買業權](https://news.now.com/home/local/player?newsId=632963) [Original](https://news.now.com/home/local/player?newsId=632963){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災黃偉綸表明政府需要動用公帑購買業權/){.md-button .hkfd-news-button}
@@ -992,12 +1004,12 @@
 - [現身說法｜宏福苑火災後支援及重建](https://news.now.com/home/local/player?newsId=632882) [Original](https://news.now.com/home/local/player?newsId=632882){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/現身說法宏福苑火災後支援及重建/){.md-button .hkfd-news-button}
 - [現身說法｜改善大廈維修工程管理議案](https://news.now.com/home/local/player?newsId=632881) [Original](https://news.now.com/home/local/player?newsId=632881){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/現身說法改善大廈維修工程管理議案/){.md-button .hkfd-news-button}
 - [宏福苑五級火災｜李家超：問責到底　無論基層或高層都追責懲處](https://news.now.com/home/local/player?newsId=632883) [Original](https://news.now.com/home/local/player?newsId=632883){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災李家超問責到底-無論基層或高層都追責懲處/){.md-button .hkfd-news-button}
-- [宏福苑五級火災｜李家超：問責到底　無論是基層或高層都按事實追責懲處 ](https://news.now.com/home/local/player?newsId=632876) [Original](https://news.now.com/home/local/player?newsId=632876){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災李家超問責到底-無論是基層或高層都按事實追責懲處/){.md-button .hkfd-news-button}
+- [宏福苑五級火災｜李家超：問責到底　無論是基層或高層都按事實追責懲處](https://news.now.com/home/local/player?newsId=632876) [Original](https://news.now.com/home/local/player?newsId=632876){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災李家超問責到底-無論是基層或高層都按事實追責懲處/){.md-button .hkfd-news-button}
 - [宏福苑五級火災｜梁文廣倡政府代繳樓價差額　助居民盡快上樓](https://news.now.com/home/local/player?newsId=632874) [Original](https://news.now.com/home/local/player?newsId=632874){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災梁文廣倡政府代繳樓價差額-助居民盡快上樓/){.md-button .hkfd-news-button}
 - [採訪日誌｜本屆立法會首次會議／海關記者會講述機場大型緝毒行動](https://news.now.com/home/local/player?newsId=632853) [Original](https://news.now.com/home/local/player?newsId=632853){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/採訪日誌本屆立法會首次會議海關記者會講述機場大型緝毒行動/){.md-button .hkfd-news-button}
 
-
 ### 2026-01-15
+
 - [宏福苑五級火災｜遇難人數增至168人　鄧炳強︰暫不公布死難者名單](https://news.now.com/home/local/player?newsId=633089) [Original](https://news.now.com/home/local/player?newsId=633089){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災遇難人數增至168人-鄧炳強暫不公布死難者名單/){.md-button .hkfd-news-button}
 - [即日焦點｜警員屯門市廣場開兩槍制服持刀男　中槍男子送院後不治／宏福苑五級火災遇難人數增至168人](https://news.now.com/home/local/player?newsId=633101) [Original](https://news.now.com/home/local/player?newsId=633101){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/即日焦點警員屯門市廣場開兩槍制服持刀男-中槍男子送院後不治宏福苑五級火災遇難人數增至168人/){.md-button .hkfd-news-button}
 - [宏福苑五級火災｜鄧炳強：增至168死　暫不公布遇難者名單](https://news.now.com/home/local/player?newsId=633076) [Original](https://news.now.com/home/local/player?newsId=633076){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災鄧炳強增至168死-暫不公布遇難者名單/){.md-button .hkfd-news-button}
@@ -1014,80 +1026,83 @@
 - [宏福苑安置方案｜鄧家彪倡提供多項選項分流居民　林筱魯關注市建局角色](https://news.now.com/home/local/player?newsId=632994) [Original](https://news.now.com/home/local/player?newsId=632994){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑安置方案鄧家彪倡提供多項選項分流居民-林筱魯關注市建局角色/){.md-button .hkfd-news-button}
 - [宏福苑安置方案　鄧家彪倡提供多項選項分流居民](https://news.now.com/home/local/player?newsId=632989) [Original](https://news.now.com/home/local/player?newsId=632989){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑安置方案-鄧家彪倡提供多項選項分流居民/){.md-button .hkfd-news-button}
 
-
 ### 2026-01-16
+
 - [宏福苑五級火災｜鄧炳強：已下令未達消防標準的大廈即時修正](https://news.now.com/home/local/player?newsId=633133) [Original](https://news.now.com/home/local/player?newsId=633133){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災鄧炳強已下令未達消防標準的大廈即時修正/){.md-button .hkfd-news-button}
 
-
 ### 2026-01-15
+
 - [宏福苑五級火災｜法團︰額外維修需更多比率業主投票憂更難開會　麥美娟︰若付更多錢業主應越關注](https://news.now.com/home/local/player?newsId=633074) [Original](https://news.now.com/home/local/player?newsId=633074){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災法團額外維修需更多比率業主投票憂更難開會-麥美娟若付更多錢業主應越關注/){.md-button .hkfd-news-button}
 
 ### 2026-01-17
+
 - [大鳴大放｜改良大廈管理(二)](https://news.now.com/home/local/player?newsId=633259) [Original](https://news.now.com/home/local/player?newsId=633259){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/大鳴大放改良大廈管理二/){.md-button .hkfd-news-button}
 - [大鳴大放｜改良大廈管理(一)](https://news.now.com/home/local/player?newsId=633258) [Original](https://news.now.com/home/local/player?newsId=633258){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/大鳴大放改良大廈管理一/){.md-button .hkfd-news-button}
 - [宏福苑五級火災｜一戶一社工已接觸1982戶災民　孫玉菡指2000名社工近乎全民皆兵](https://news.now.com/home/local/player?newsId=633265) [Original](https://news.now.com/home/local/player?newsId=633265){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災一戶一社工已接觸1982戶災民-孫玉菡指2000名社工近乎全民皆兵/){.md-button .hkfd-news-button}
 - [大鳴大放｜麥美娟：考慮以樓宇單位數目設授權票比例上限　表決門檻將按每戶夾錢維修金額釐訂](https://news.now.com/home/local/player?newsId=633246) [Original](https://news.now.com/home/local/player?newsId=633246){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/大鳴大放麥美娟考慮以樓宇單位數目設授權票比例上限-表決門檻將按每戶夾錢維修金額釐訂/){.md-button .hkfd-news-button}
 
-
 ### 2026-01-17
+
 - [即日焦點｜樂華南邨情殺案　死者非裔男友內地落網移交香港／日本前首相菅義偉退出政壇](https://news.now.com/home/local/player?newsId=633308) [Original](https://news.now.com/home/local/player?newsId=633308){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/即日焦點樂華南邨情殺案-死者非裔男友內地落網移交香港日本前首相菅義偉退出政壇/){.md-button .hkfd-news-button}
 
 ### 2026-01-18
+
 - [香港馬拉松｜半馬賽第三組開始前　大會為原先報名參賽的宏福苑大火殉職消防員何偉豪默哀](https://news.now.com/home/local/player?newsId=633350) [Original](https://news.now.com/home/local/player?newsId=633350){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/香港馬拉松半馬賽第三組開始前-大會為原先報名參賽的宏福苑大火殉職消防員何偉豪默哀/){.md-button .hkfd-news-button}
 - [香港馬拉松｜半馬賽第三組開始前　為宏福苑大火殉職消防員何偉豪默哀](https://news.now.com/home/local/player?newsId=633343) [Original](https://news.now.com/home/local/player?newsId=633343){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/香港馬拉松半馬賽第三組開始前-為宏福苑大火殉職消防員何偉豪默哀/){.md-button .hkfd-news-button}
 
-
 ### 2026-01-19
+
 - [宏福苑五級火災｜張舉能稱深感哀痛　高院首席法官監督處理有關案件](https://news.now.com/home/local/player?newsId=633521) [Original](https://news.now.com/home/local/player?newsId=633521){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災張舉能稱深感哀痛-高院首席法官監督處理有關案件/){.md-button .hkfd-news-button}
 - [宏福苑五級火災｜張舉能深感哀痛　高院首席法官監督各級法院處理有關案件](https://news.now.com/home/local/player?newsId=633501) [Original](https://news.now.com/home/local/player?newsId=633501){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災張舉能深感哀痛-高院首席法官監督各級法院處理有關案件/){.md-button .hkfd-news-button}
 - [何永賢：未來公營房屋供應　足夠讓宏福苑災民及置業需要市民選擇](https://news.now.com/home/local/player?newsId=633484) [Original](https://news.now.com/home/local/player?newsId=633484){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/何永賢未來公營房屋供應-足夠讓宏福苑災民及置業需要市民選擇/){.md-button .hkfd-news-button}
 - [簡樸房規管｜義華大廈劏房轉簡樸房　150租戶受影響　最快過年後須遷走](https://news.now.com/home/local/player?newsId=633450) [Original](https://news.now.com/home/local/player?newsId=633450){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/簡樸房規管義華大廈劏房轉簡樸房-150租戶受影響-最快過年後須遷走/){.md-button .hkfd-news-button}
 
-
 ### 2026-01-20
+
 - [簡樸房規管｜樂善堂：有足夠過渡屋單位容納義華大廈居民　劏房戶稱新界過渡屋不便市區上班](https://news.now.com/home/local/player?newsId=633639) [Original](https://news.now.com/home/local/player?newsId=633639){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/簡樸房規管樂善堂有足夠過渡屋單位容納義華大廈居民-劏房戶稱新界過渡屋不便市區上班/){.md-button .hkfd-news-button}
 - [宏福苑火災獨立委員會2月5日舉行指示會議](https://news.now.com/home/local/player?newsId=633614) [Original](https://news.now.com/home/local/player?newsId=633614){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑火災獨立委員會2月5日舉行指示會議/){.md-button .hkfd-news-button}
 - [簡樸房規管｜義華大廈配合簡樸房條例改裝單位要求劏房戶遷出　房屋局指有寬限期籲業主毋須急改裝](https://news.now.com/home/local/player?newsId=633581) [Original](https://news.now.com/home/local/player?newsId=633581){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/簡樸房規管義華大廈配合簡樸房條例改裝單位要求劏房戶遷出-房屋局指有寬限期籲業主毋須急改裝/){.md-button .hkfd-news-button}
 - [九巴71K線即日起恢復停廣福邨內中途站](https://news.now.com/home/local/player?newsId=633565) [Original](https://news.now.com/home/local/player?newsId=633565){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/九巴71k線即日起恢復停廣福邨內中途站/){.md-button .hkfd-news-button}
 
-
 ### 2026-01-21
+
 - [南丫海難｜39名遇難者裁定屬非法被殺　造船廠董事是可靠證人　圖則要裝水密門是畫錯](https://news.now.com/home/local/player?newsId=633776) [Original](https://news.now.com/home/local/player?newsId=633776){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/南丫海難39名遇難者裁定屬非法被殺-造船廠董事是可靠證人-圖則要裝水密門是畫錯/){.md-button .hkfd-news-button}
 - [南丫海難｜死因庭裁定39名遇難者屬非法被殺　家屬：暫未見更多人受罰](https://news.now.com/home/local/player?newsId=633743) [Original](https://news.now.com/home/local/player?newsId=633743){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/南丫海難死因庭裁定39名遇難者屬非法被殺-家屬暫未見更多人受罰/){.md-button .hkfd-news-button}
 
-
 ### 2026-01-22
+
 - [毛樂禮連任大律師公會主席　冀大眾不要用政治判斷法治](https://news.now.com/home/local/player?newsId=633954) [Original](https://news.now.com/home/local/player?newsId=633954){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/毛樂禮連任大律師公會主席-冀大眾不要用政治判斷法治/){.md-button .hkfd-news-button}
 - [毛樂禮連任大律師公會主席　希望大眾不要政治判斷法治](https://news.now.com/home/local/player?newsId=633949) [Original](https://news.now.com/home/local/player?newsId=633949){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/毛樂禮連任大律師公會主席-希望大眾不要政治判斷法治/){.md-button .hkfd-news-button}
 - [宏福苑五級火災｜醫管局指仍有8名傷者留醫　情況穩定](https://news.now.com/home/local/player?newsId=633867) [Original](https://news.now.com/home/local/player?newsId=633867){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災醫管局指仍有8名傷者留醫-情況穩定/){.md-button .hkfd-news-button}
 - [宏福苑火災獨立委員會指示會議　約400個公眾旁聽名額開放申請](https://news.now.com/home/local/player?newsId=633861) [Original](https://news.now.com/home/local/player?newsId=633861){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑火災獨立委員會指示會議-約400個公眾旁聽名額開放申請/){.md-button .hkfd-news-button}
 - [政府擬本立法年度提32條條例草案　涵蓋工程安全及北都發展等](https://news.now.com/home/local/player?newsId=633855) [Original](https://news.now.com/home/local/player?newsId=633855){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/政府擬本立法年度提32條條例草案-涵蓋工程安全及北都發展等/){.md-button .hkfd-news-button}
 
-
 ### 2026-01-23
+
 - [立法會18個事務委員會首次會議討論未來議程　議員倡談大廈法團支援及關愛隊表現](https://news.now.com/home/local/player?newsId=634025) [Original](https://news.now.com/home/local/player?newsId=634025){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/立法會18個事務委員會首次會議討論未來議程-議員倡談大廈法團支援及關愛隊表現/){.md-button .hkfd-news-button}
 - [立法會18個事務委員會先後舉行首次會議](https://news.now.com/home/local/player?newsId=634005) [Original](https://news.now.com/home/local/player?newsId=634005){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/立法會18個事務委員會先後舉行首次會議/){.md-button .hkfd-news-button}
 
-
 ### 2026-01-24
+
 - [宏福苑安置　鄧家彪倡於廣福足球場及寵物公園小型重建](https://news.now.com/home/local/player?newsId=634133) [Original](https://news.now.com/home/local/player?newsId=634133){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑安置-鄧家彪倡於廣福足球場及寵物公園小型重建/){.md-button .hkfd-news-button}
 - [468生效工友被縮鐘　孫玉菡：僱主很短視](https://news.now.com/home/local/player?newsId=634105) [Original](https://news.now.com/home/local/player?newsId=634105){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/468生效工友被縮鐘-孫玉菡僱主很短視/){.md-button .hkfd-news-button}
 
-
 ### 2026-01-25
+
 - [即日焦點｜巴士安全帶新例即日起生效／高市早苗民望首次跌至不足六成](https://news.now.com/home/local/player?newsId=634266) [Original](https://news.now.com/home/local/player?newsId=634266){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/即日焦點巴士安全帶新例即日起生效高市早苗民望首次跌至不足六成/){.md-button .hkfd-news-button}
 - [博愛中環辦慈善跑　為安老院舍及宏福苑火災重建項目籌款](https://news.now.com/home/local/player?newsId=634229) [Original](https://news.now.com/home/local/player?newsId=634229){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/博愛中環辦慈善跑-為安老院舍及宏福苑火災重建項目籌款/){.md-button .hkfd-news-button}
 - [博愛中環辦慈善跑　為安老院舍及大埔火災重建項目籌款](https://news.now.com/home/local/player?newsId=634200) [Original](https://news.now.com/home/local/player?newsId=634200){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/博愛中環辦慈善跑-為安老院舍及大埔火災重建項目籌款/){.md-button .hkfd-news-button}
 
-
 ### 2026-01-26
+
 - [宏福苑大火後一戶一社工　社署稱會協調社工工作量](https://news.now.com/home/local/player?newsId=634389) [Original](https://news.now.com/home/local/player?newsId=634389){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑大火後一戶一社工-社署稱會協調社工工作量/){.md-button .hkfd-news-button}
 
-
 ### 2026-01-26
+
 - [宏福苑火災獨立委員會邀請公眾提供資料](https://news.now.com/home/local/player?newsId=634405) [Original](https://news.now.com/home/local/player?newsId=634405){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑火災獨立委員會邀請公眾提供資料/){.md-button .hkfd-news-button}
 
 ### 2026-01-27
+
 - [胡健民署任政制局長　稱局方上下一定盡心盡力做好工作](https://news.now.com/home/local/player?newsId=634526) [Original](https://news.now.com/home/local/player?newsId=634526){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/胡健民署任政制局長-稱局方上下一定盡心盡力做好工作/){.md-button .hkfd-news-button}
 - [曾國衞紀律部隊出身　2020年起任局長處理多場選舉](https://news.now.com/home/local/player?newsId=634517) [Original](https://news.now.com/home/local/player?newsId=634517){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/曾國衞紀律部隊出身-2020年起任局長處理多場選舉/){.md-button .hkfd-news-button}
 - [宏福苑安置方案問卷獲9成回覆　李家超：以情理法研長遠安排](https://news.now.com/home/local/player?newsId=634455) [Original](https://news.now.com/home/local/player?newsId=634455){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑安置方案問卷獲9成回覆-李家超以情理法研長遠安排/){.md-button .hkfd-news-button}
@@ -1099,55 +1114,56 @@
 - [原片．李家超行會前見記者(二)｜領會夏寶龍主任講話　總結四個深刻體會](https://news.now.com/home/local/player?newsId=634438) [Original](https://news.now.com/home/local/player?newsId=634438){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/原片李家超行會前見記者二領會夏寶龍主任講話-總結四個深刻體會/){.md-button .hkfd-news-button}
 - [原片．李家超行會前見記者(一)｜攜曾國衞出席解釋對方請辭政制及內地事務局局長](https://news.now.com/home/local/player?newsId=634437) [Original](https://news.now.com/home/local/player?newsId=634437){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/原片李家超行會前見記者一攜曾國衞出席解釋對方請辭政制及內地事務局局長/){.md-button .hkfd-news-button}
 
-
 ### 2026-01-28
+
 - [宏業建築承辦碧瑤灣維修　工人危坐棚架追薪　勞工處：已派員到場協助](https://news.now.com/home/local/player?newsId=634665) [Original](https://news.now.com/home/local/player?newsId=634665){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏業建築承辦碧瑤灣維修-工人危坐棚架追薪-勞工處已派員到場協助/){.md-button .hkfd-news-button}
 - [宏業建築承辦碧瑤灣維修　工人危坐棚架追薪　工會：涉法律程序法團難直接付款](https://news.now.com/home/local/player?newsId=634601) [Original](https://news.now.com/home/local/player?newsId=634601){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏業建築承辦碧瑤灣維修-工人危坐棚架追薪-工會涉法律程序法團難直接付款/){.md-button .hkfd-news-button}
 - [薄扶林碧瑤灣大維修由宏業承辦　再有工人追討欠薪](https://news.now.com/home/local/player?newsId=634596) [Original](https://news.now.com/home/local/player?newsId=634596){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/薄扶林碧瑤灣大維修由宏業承辦-再有工人追討欠薪/){.md-button .hkfd-news-button}
 
-
 ### 2026-01-29
+
 - [政府施政十件大事評選　立法會選舉居首](https://news.now.com/home/local/player?newsId=634791) [Original](https://news.now.com/home/local/player?newsId=634791){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/政府施政十件大事評選-立法會選舉居首/){.md-button .hkfd-news-button}
 - [碧瑤灣地盤工人追宏業欠薪　工會冀政府介入協助](https://news.now.com/home/local/player?newsId=634749) [Original](https://news.now.com/home/local/player?newsId=634749){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/碧瑤灣地盤工人追宏業欠薪-工會冀政府介入協助/){.md-button .hkfd-news-button}
 
-
 ### 2026-01-30
+
 - [警拘39歲男子涉交虛假捐款紀錄申請扣稅　據悉涉訛稱捐款予宏福苑援助基金](https://news.now.com/home/local/player?newsId=634962) [Original](https://news.now.com/home/local/player?newsId=634962){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/警拘39歲男子涉交虛假捐款紀錄申請扣稅-據悉涉訛稱捐款予宏福苑援助基金/){.md-button .hkfd-news-button}
 - [本港去年首11個月錄逾8.1萬宗罪案　按年減少約6%](https://news.now.com/home/local/player?newsId=634943) [Original](https://news.now.com/home/local/player?newsId=634943){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/本港去年首11個月錄逾81萬宗罪案-按年減少約6/){.md-button .hkfd-news-button}
 - [時事全方位｜支援受宏福苑火災影響師生(二)](https://news.now.com/home/local/player?newsId=634868) [Original](https://news.now.com/home/local/player?newsId=634868){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/時事全方位支援受宏福苑火災影響師生二/){.md-button .hkfd-news-button}
 - [時事全方位｜支援受宏福苑火災影響師生(一)](https://news.now.com/home/local/player?newsId=634867) [Original](https://news.now.com/home/local/player?newsId=634867){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/時事全方位支援受宏福苑火災影響師生一/){.md-button .hkfd-news-button}
 - [宏福苑五級火災｜死因庭完成115宗死亡證申請個案](https://news.now.com/home/local/player?newsId=634890) [Original](https://news.now.com/home/local/player?newsId=634890){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災死因庭完成115宗死亡證申請個案/){.md-button .hkfd-news-button}
 
-
 ### 2026-01-31
+
 - [足本全片｜警務處處長周一鳴見記者](https://news.now.com/home/local/player?newsId=635043) [Original](https://news.now.com/home/local/player?newsId=635043){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/足本全片警務處處長周一鳴見記者/){.md-button .hkfd-news-button}
 - [警察學院舉行結業會操　鄧炳強寄語警員要有以民為本的仁心](https://news.now.com/home/local/player?newsId=635028) [Original](https://news.now.com/home/local/player?newsId=635028){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/警察學院舉行結業會操-鄧炳強寄語警員要有以民為本的仁心/){.md-button .hkfd-news-button}
 
-
 ### 2026-02-01
+
 - [八號花園大維修｜區議員建議市建局向業主解說標書內容　邀競委會或廉署列席](https://news.now.com/home/local/player?newsId=635096) [Original](https://news.now.com/home/local/player?newsId=635096){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/八號花園大維修區議員建議市建局向業主解說標書內容-邀競委會或廉署列席/){.md-button .hkfd-news-button}
 - [大鳴大放｜葉劉淑儀：撤回勳章對陳嘉信是懲罰　若要問責局長是太遠](https://news.now.com/home/local/player?newsId=635083) [Original](https://news.now.com/home/local/player?newsId=635083){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/大鳴大放葉劉淑儀撤回勳章對陳嘉信是懲罰-若要問責局長是太遠/){.md-button .hkfd-news-button}
 
-
 ### 2026-02-03
+
 - [宏福苑五級火災｜孫玉菡︰地盤全面禁煙修例擬改定額罰款三千元](https://news.now.com/home/local/player?newsId=635421) [Original](https://news.now.com/home/local/player?newsId=635421){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災孫玉菡地盤全面禁煙修例擬改定額罰款三千元/){.md-button .hkfd-news-button}
-- [孫玉菡︰離世社署社工家屬冀保持低調　不想公共空間有太多討論 ](https://news.now.com/home/local/player?newsId=635409) [Original](https://news.now.com/home/local/player?newsId=635409){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/孫玉菡離世社署社工家屬冀保持低調-不想公共空間有太多討論/){.md-button .hkfd-news-button}
+- [孫玉菡︰離世社署社工家屬冀保持低調　不想公共空間有太多討論](https://news.now.com/home/local/player?newsId=635409) [Original](https://news.now.com/home/local/player?newsId=635409){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/孫玉菡離世社署社工家屬冀保持低調-不想公共空間有太多討論/){.md-button .hkfd-news-button}
 - [宏福苑五級火災｜孫玉菡︰地盤全面禁煙修例擬改定額罰款3000元　惟須修訂吸煙公眾衞生條例](https://news.now.com/home/local/player?newsId=635406) [Original](https://news.now.com/home/local/player?newsId=635406){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災孫玉菡地盤全面禁煙修例擬改定額罰款3000元-惟須修訂吸煙公眾衞生條例/){.md-button .hkfd-news-button}
 - [宏福苑五級火災｜市建局改以支票由合安向宏福苑業主發放樓宇更新大行動全額資助](https://news.now.com/home/local/player?newsId=635387) [Original](https://news.now.com/home/local/player?newsId=635387){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災市建局改以支票由合安向宏福苑業主發放樓宇更新大行動全額資助/){.md-button .hkfd-news-button}
 - [宏福苑五級火災｜保監局：已完成處理近八成半宏福苑火災理賠個案](https://news.now.com/home/local/player?newsId=635376) [Original](https://news.now.com/home/local/player?newsId=635376){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災保監局已完成處理近八成半宏福苑火災理賠個案/){.md-button .hkfd-news-button}
 
-
 ### 2026-02-03
+
 - [即日焦點｜政府料年中批出食肆牌容許狗隻進入／地盤吸煙罰則擬改定額罰款三千元](https://news.now.com/home/local/player?newsId=635430) [Original](https://news.now.com/home/local/player?newsId=635430){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/即日焦點政府料年中批出食肆牌容許狗隻進入地盤吸煙罰則擬改定額罰款三千元/){.md-button .hkfd-news-button}
 
 ### 2026-02-04
+
 - [宏福苑五級火災｜麥美娟：建築物管理條例修訂將聽取法團及業主等意見](https://news.now.com/home/local/player?newsId=635523) [Original](https://news.now.com/home/local/player?newsId=635523){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災麥美娟建築物管理條例修訂將聽取法團及業主等意見/){.md-button .hkfd-news-button}
 - [宏福苑每戶居民獲發$5000春節心意金　死者家屬獲$10萬慰問金](https://news.now.com/home/local/player?newsId=635518) [Original](https://news.now.com/home/local/player?newsId=635518){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑每戶居民獲發5000春節心意金-死者家屬獲10萬慰問金/){.md-button .hkfd-news-button}
 - [商經局：緊急警示系統屬全港性警報　不適用於宏福苑大火](https://news.now.com/home/local/player?newsId=635517) [Original](https://news.now.com/home/local/player?newsId=635517){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/商經局緊急警示系統屬全港性警報-不適用於宏福苑大火/){.md-button .hkfd-news-button}
 - [謝邱安儀：12月消費氣氛漸回復　逾九成會員料農曆新年市道持平及上升](https://news.now.com/home/local/player?newsId=635471) [Original](https://news.now.com/home/local/player?newsId=635471){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/謝邱安儀12月消費氣氛漸回復-逾九成會員料農曆新年市道持平及上升/){.md-button .hkfd-news-button}
 
-
 ### 2026-02-05
+
 - [宏福苑五級火災｜法援署接獲359宗宏福苑居民法援申請　料下月中完成首批申請](https://news.now.com/home/local/player?newsId=635670) [Original](https://news.now.com/home/local/player?newsId=635670){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災法援署接獲359宗宏福苑居民法援申請-料下月中完成首批申請/){.md-button .hkfd-news-button}
 - [宏福苑火災獨立委員會下月19日辦首場聽證會　已掌握火災成因關鍵證據　日後需向公眾披露](https://news.now.com/home/local/player?newsId=635643) [Original](https://news.now.com/home/local/player?newsId=635643){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑火災獨立委員會下月19日辦首場聽證會-已掌握火災成因關鍵證據-日後需向公眾披露/){.md-button .hkfd-news-button}
 - [有政黨倡讓宏福苑居民上公屋　何永賢︰社署恩恤安排會思考](https://news.now.com/home/local/player?newsId=635613) [Original](https://news.now.com/home/local/player?newsId=635613){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/有政黨倡讓宏福苑居民上公屋-何永賢社署恩恤安排會思考/){.md-button .hkfd-news-button}
@@ -1155,38 +1171,41 @@
 - [宏福苑大火獨立委員會舉行指示會議　下月19日舉行首場公開聽證會](https://news.now.com/home/local/player?newsId=635603) [Original](https://news.now.com/home/local/player?newsId=635603){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑大火獨立委員會舉行指示會議-下月19日舉行首場公開聽證會/){.md-button .hkfd-news-button}
 - [採訪日誌｜宏福苑火災獨立委員會舉行指示會議／申訴專員公布主動調查行動結果](https://news.now.com/home/local/player?newsId=635579) [Original](https://news.now.com/home/local/player?newsId=635579){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/採訪日誌宏福苑火災獨立委員會舉行指示會議申訴專員公布主動調查行動結果/){.md-button .hkfd-news-button}
 
-
 ### 2026-02-05
+
 - [即日焦點｜龍蝦灣謀殺案疑犯潛逃37年落網遞解返港／申訴專員指醫委會處理投訴出現系統性問題](https://news.now.com/home/local/player?newsId=635696) [Original](https://news.now.com/home/local/player?newsId=635696){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/即日焦點龍蝦灣謀殺案疑犯潛逃37年落網遞解返港申訴專員指醫委會處理投訴出現系統性問題/){.md-button .hkfd-news-button}
 
 ### 2026-02-06
+
 - [財政預算案｜C15+建議增子女免稅額](https://news.now.com/home/local/player?newsId=635828) [Original](https://news.now.com/home/local/player?newsId=635828){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/財政預算案c15建議增子女免稅額/){.md-button .hkfd-news-button}
 - [建築物管理條例｜政府擬修例堵漏洞　每人取授權票設不得超過業主人數2%或20份](https://news.now.com/home/local/player?newsId=635802) [Original](https://news.now.com/home/local/player?newsId=635802){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/建築物管理條例政府擬修例堵漏洞-每人取授權票設不得超過業主人數2或20份/){.md-button .hkfd-news-button}
 - [時事全方位｜宏福苑長遠安置(二)](https://news.now.com/home/local/player?newsId=635735) [Original](https://news.now.com/home/local/player?newsId=635735){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/時事全方位宏福苑長遠安置二/){.md-button .hkfd-news-button}
 - [時事全方位｜宏福苑長遠安置(一)](https://news.now.com/home/local/player?newsId=635734) [Original](https://news.now.com/home/local/player?newsId=635734){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/時事全方位宏福苑長遠安置一/){.md-button .hkfd-news-button}
 
-
 ### 2026-02-07
+
 - [區議員周潔莹違例泊車　麥美娟：議員要謹言慎行　符合公眾期望](https://news.now.com/home/local/player?newsId=635889) [Original](https://news.now.com/home/local/player?newsId=635889){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/區議員周潔莹違例泊車-麥美娟議員要謹言慎行-符合公眾期望/){.md-button .hkfd-news-button}
 - [簡樸房規管｜何永賢：已派六隊社區服務隊協助義華大廈近百個劏房戶](https://news.now.com/home/local/player?newsId=635844) [Original](https://news.now.com/home/local/player?newsId=635844){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/簡樸房規管何永賢已派六隊社區服務隊協助義華大廈近百個劏房戶/){.md-button .hkfd-news-button}
 
-
 ### 2026-02-07
+
 - [即日焦點｜2018年大埔車禍獨立委員會專家稱企位市區巴士不宜強制戴安全帶／31歲男子聲稱年初一金鐘站放炸彈被捕](https://news.now.com/home/local/player?newsId=635917) [Original](https://news.now.com/home/local/player?newsId=635917){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/即日焦點2018年大埔車禍獨立委員會專家稱企位市區巴士不宜強制戴安全帶31歲男子聲稱年初一金鐘站放炸彈被捕/){.md-button .hkfd-news-button}
 
 ### 2026-02-08
+
 - [宏福苑五級火災｜麥美娟：合安管理公司正與前管理公司交接　料需時較長](https://news.now.com/home/local/player?newsId=635952) [Original](https://news.now.com/home/local/player?newsId=635952){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災麥美娟合安管理公司正與前管理公司交接-料需時較長/){.md-button .hkfd-news-button}
 
-
 ### 2026-02-08
+
 - [即日焦點｜再多五人疑吃生蠔後食物中毒／日本眾議院選舉　自民黨議席單獨過半](https://news.now.com/home/local/player?newsId=635989) [Original](https://news.now.com/home/local/player?newsId=635989){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/即日焦點再多五人疑吃生蠔後食物中毒日本眾議院選舉-自民黨議席單獨過半/){.md-button .hkfd-news-button}
 
 ### 2026-02-09
-- [當局擬修例授權票設上限　議員關注授權對象及真偽　麥美娟：續聽意見平衡可行性 ](https://news.now.com/home/local/player?newsId=636122) [Original](https://news.now.com/home/local/player?newsId=636122){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/當局擬修例授權票設上限-議員關注授權對象及真偽-麥美娟續聽意見平衡可行性/){.md-button .hkfd-news-button}
+
+- [當局擬修例授權票設上限　議員關注授權對象及真偽　麥美娟：續聽意見平衡可行性](https://news.now.com/home/local/player?newsId=636122) [Original](https://news.now.com/home/local/player?newsId=636122){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/當局擬修例授權票設上限-議員關注授權對象及真偽-麥美娟續聽意見平衡可行性/){.md-button .hkfd-news-button}
 - [市建局為宏福苑業主設電話專線　解答發放樓宇更新資助安排](https://news.now.com/home/local/player?newsId=636118) [Original](https://news.now.com/home/local/player?newsId=636118){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/市建局為宏福苑業主設電話專線-解答發放樓宇更新資助安排/){.md-button .hkfd-news-button}
 
-
 ### 2026-02-10
+
 - [去年全港錄得逾8.9萬宗罪案　按年跌5.9%](https://news.now.com/home/local/player?newsId=636278) [Original](https://news.now.com/home/local/player?newsId=636278){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/去年全港錄得逾89萬宗罪案-按年跌59/){.md-button .hkfd-news-button}
 - [時事全方位重點提要｜2月11日](https://news.now.com/home/local/player?newsId=636271) [Original](https://news.now.com/home/local/player?newsId=636271){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/時事全方位重點提要2月11日/){.md-button .hkfd-news-button}
 - [宏福苑五級火災｜測量師學會：難集齊百分百業權作原址重建　政府收購業權方案較可取](https://news.now.com/home/local/player?newsId=636265) [Original](https://news.now.com/home/local/player?newsId=636265){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災測量師學會難集齊百分百業權作原址重建-政府收購業權方案較可取/){.md-button .hkfd-news-button}
@@ -1195,8 +1214,8 @@
 - [宏福苑五級火災｜李家超：相當高比例業主傾向政府收購業權　亦有業主指要考慮收購價](https://news.now.com/home/local/player?newsId=636181) [Original](https://news.now.com/home/local/player?newsId=636181){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災李家超相當高比例業主傾向政府收購業權-亦有業主指要考慮收購價/){.md-button .hkfd-news-button}
 - [政府擬修訂建築物管理條例　議員倡不同房屋類型設不同授權票上限門檻](https://news.now.com/home/local/player?newsId=636163) [Original](https://news.now.com/home/local/player?newsId=636163){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/政府擬修訂建築物管理條例-議員倡不同房屋類型設不同授權票上限門檻/){.md-button .hkfd-news-button}
 
-
 ### 2026-02-11
+
 - [即日焦點｜港島綫早上延誤約一小時／北大嶼山致命車禍　的士男乘客被拋出車外送院不治](https://news.now.com/home/local/player?newsId=636431) [Original](https://news.now.com/home/local/player?newsId=636431){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/即日焦點港島綫早上延誤約一小時北大嶼山致命車禍-的士男乘客被拋出車外送院不治/){.md-button .hkfd-news-button}
 - [網上有人聲稱因不可抗力理由而不再發聲　警方指相關言論抹黑](https://news.now.com/home/local/player?newsId=636419) [Original](https://news.now.com/home/local/player?newsId=636419){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/網上有人聲稱因不可抗力理由而不再發聲-警方指相關言論抹黑/){.md-button .hkfd-news-button}
 - [去年逾8.9萬宗罪案　按年跌5.9%　警方斥有人稱因不可抗力而不再發聲是抹黑](https://news.now.com/home/local/player?newsId=636405) [Original](https://news.now.com/home/local/player?newsId=636405){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/去年逾89萬宗罪案-按年跌59-警方斥有人稱因不可抗力而不再發聲是抹黑/){.md-button .hkfd-news-button}
@@ -1205,33 +1224,33 @@
 - [時事全方位｜宏福苑長遠安置方案(一)](https://news.now.com/home/local/player?newsId=636338) [Original](https://news.now.com/home/local/player?newsId=636338){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/時事全方位宏福苑長遠安置方案一/){.md-button .hkfd-news-button}
 - [宏福苑五級火災｜羅曉楓冀當局思考重置方案時　別遺留宏志閣居民](https://news.now.com/home/local/player?newsId=636384) [Original](https://news.now.com/home/local/player?newsId=636384){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災羅曉楓冀當局思考重置方案時-別遺留宏志閣居民/){.md-button .hkfd-news-button}
 
-
 ### 2026-02-13
+
 - [宏福苑五級火災｜李家超：短期內公布長遠住宿方案　要求工作組過年不停工](https://news.now.com/home/local/player?newsId=636690) [Original](https://news.now.com/home/local/player?newsId=636690){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災李家超短期內公布長遠住宿方案-要求工作組過年不停工/){.md-button .hkfd-news-button}
 - [去年逾3.3億人次出入香港　是有紀錄以來新高](https://news.now.com/home/local/player?newsId=636661) [Original](https://news.now.com/home/local/player?newsId=636661){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/去年逾33億人次出入香港-是有紀錄以來新高/){.md-button .hkfd-news-button}
 - [宏福苑五級火｜麥美娟：會設計不同長遠安置方案　讓宏福苑居民有選擇](https://news.now.com/home/local/player?newsId=636657) [Original](https://news.now.com/home/local/player?newsId=636657){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火麥美娟會設計不同長遠安置方案-讓宏福苑居民有選擇/){.md-button .hkfd-news-button}
 - [宏福苑五級火｜李家超：短期內公布宏福苑長遠住宿方案　要求工作組過年期間都不能停頓工作](https://news.now.com/home/local/player?newsId=636647) [Original](https://news.now.com/home/local/player?newsId=636647){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火李家超短期內公布宏福苑長遠住宿方案-要求工作組過年期間都不能停頓工作/){.md-button .hkfd-news-button}
 - [宏福苑五級火｜李家超早上到啟德探訪宏福苑災民　指示工作組過年繼續工作](https://news.now.com/home/local/player?newsId=636631) [Original](https://news.now.com/home/local/player?newsId=636631){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火李家超早上到啟德探訪宏福苑災民-指示工作組過年繼續工作/){.md-button .hkfd-news-button}
 
-
 ### 2026-02-14
+
 - [中大生發起宏福苑聯署被捕　稱遭開除學籍校方不評論](https://news.now.com/home/local/player?newsId=636762) [Original](https://news.now.com/home/local/player?newsId=636762){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/中大生發起宏福苑聯署被捕-稱遭開除學籍校方不評論/){.md-button .hkfd-news-button}
 
-
 ### 2026-02-16
+
 - [大埔浸信會公立學校新學年用前基正小學校舍　將還原原有校舍設計](https://news.now.com/home/local/player?newsId=636939) [Original](https://news.now.com/home/local/player?newsId=636939){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/大埔浸信會公立學校新學年用前基正小學校舍-將還原原有校舍設計/){.md-button .hkfd-news-button}
 - [廣福街市商戶料新年無助生意增長　豬肉檔賣鳳爪幫補收入](https://news.now.com/home/local/player?newsId=636901) [Original](https://news.now.com/home/local/player?newsId=636901){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/廣福街市商戶料新年無助生意增長-豬肉檔賣鳳爪幫補收入/){.md-button .hkfd-news-button}
 - [歲晚宏福苑居民聚舊　新年願望：當局盡快公布安置方案並解封單位](https://news.now.com/home/local/player?newsId=636898) [Original](https://news.now.com/home/local/player?newsId=636898){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/歲晚宏福苑居民聚舊-新年願望當局盡快公布安置方案並解封單位/){.md-button .hkfd-news-button}
 - [晨早新聞重點｜葵涌邨夏葵樓凌晨恢復供電／廣福街市商戶冀商場再酌情減租](https://news.now.com/home/local/player?newsId=636896) [Original](https://news.now.com/home/local/player?newsId=636896){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/晨早新聞重點葵涌邨夏葵樓凌晨恢復供電廣福街市商戶冀商場再酌情減租/){.md-button .hkfd-news-button}
 
-
 ### 2026-02-20
+
 - [宏福苑五級火災｜據悉政府周六公布長遠安置方案　收購呎價增至八千至逾一萬元](https://news.now.com/home/local/player?newsId=637314) [Original](https://news.now.com/home/local/player?newsId=637314){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災據悉政府周六公布長遠安置方案-收購呎價增至八千至逾一萬元/){.md-button .hkfd-news-button}
 - [即日焦點｜據悉政府周六公布宏福苑長遠安置方案／兩億新春金多寶周六晚攪珠](https://news.now.com/home/local/player?newsId=637378) [Original](https://news.now.com/home/local/player?newsId=637378){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/即日焦點據悉政府周六公布宏福苑長遠安置方案兩億新春金多寶周六晚攪珠/){.md-button .hkfd-news-button}
 - [宏福苑五級火災｜宏業建築承建商名冊除名　屋宇署：不能免除任何法律責任](https://news.now.com/home/local/player?newsId=637351) [Original](https://news.now.com/home/local/player?newsId=637351){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災宏業建築承建商名冊除名-屋宇署不能免除任何法律責任/){.md-button .hkfd-news-button}
 
-
 ### 2026-02-21
+
 - [宏福苑長遠居住安排｜40億公帑收購業權　居民可選特設銷售計劃樓換樓](https://news.now.com/home/local/player?newsId=637447) [Original](https://news.now.com/home/local/player?newsId=637447){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑長遠居住安排40億公帑收購業權-居民可選特設銷售計劃樓換樓/){.md-button .hkfd-news-button}
 - [即日焦點｜宏福苑長遠居住安排方案公布／美國最高法院裁定特朗普關稅政策不合法](https://news.now.com/home/local/player?newsId=637459) [Original](https://news.now.com/home/local/player?newsId=637459){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/即日焦點宏福苑長遠居住安排方案公布美國最高法院裁定特朗普關稅政策不合法/){.md-button .hkfd-news-button}
 - [甯漢豪：宏福苑情況與引用收回土地條例明顯不同](https://news.now.com/home/local/player?newsId=637458) [Original](https://news.now.com/home/local/player?newsId=637458){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/甯漢豪宏福苑情況與引用收回土地條例明顯不同/){.md-button .hkfd-news-button}
@@ -1244,45 +1263,48 @@
 - [宏福苑長遠居住安排｜政府收購七座大廈不包宏志閣　呎價8000及10500元　料涉40億元公帑](https://news.now.com/home/local/player?newsId=637434) [Original](https://news.now.com/home/local/player?newsId=637434){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑長遠居住安排政府收購七座大廈不包宏志閣-呎價8000及10500元-料涉40億元公帑/){.md-button .hkfd-news-button}
 - [政府下午舉行記者會　公布宏福苑長遠居住方案](https://news.now.com/home/local/player?newsId=637431) [Original](https://news.now.com/home/local/player?newsId=637431){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/政府下午舉行記者會-公布宏福苑長遠居住方案/){.md-button .hkfd-news-button}
 
-
 ### 2026-02-22
+
 - [大鳴大放｜宏福苑長遠居住安排方案(二)](https://news.now.com/home/local/player?newsId=637485) [Original](https://news.now.com/home/local/player?newsId=637485){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/大鳴大放宏福苑長遠居住安排方案二/){.md-button .hkfd-news-button}
 - [大鳴大放｜宏福苑長遠居住安排方案(一)](https://news.now.com/home/local/player?newsId=637484) [Original](https://news.now.com/home/local/player?newsId=637484){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/大鳴大放宏福苑長遠居住安排方案一/){.md-button .hkfd-news-button}
 - [宏福苑長遠居住安排｜保險業聯會：政府收購業權宏福苑居民個別買的家居保索權不受影響](https://news.now.com/home/local/player?newsId=637498) [Original](https://news.now.com/home/local/player?newsId=637498){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑長遠居住安排保險業聯會政府收購業權宏福苑居民個別買的家居保索權不受影響/){.md-button .hkfd-news-button}
 - [宏福苑長遠居住安排｜保險業聯會：個別購買的家居保險索權不受影響](https://news.now.com/home/local/player?newsId=637488) [Original](https://news.now.com/home/local/player?newsId=637488){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑長遠居住安排保險業聯會個別購買的家居保險索權不受影響/){.md-button .hkfd-news-button}
 - [黃偉綸︰續提供租金補助至宏福苑居民遷入資助房屋　何永賢︰專門解說隊跟進居民問題](https://news.now.com/home/local/player?newsId=637467) [Original](https://news.now.com/home/local/player?newsId=637467){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/黃偉綸續提供租金補助至宏福苑居民遷入資助房屋-何永賢專門解說隊跟進居民問題/){.md-button .hkfd-news-button}
 
-
 ### 2026-02-22
+
 - [即日焦點｜外遊市民陸續回港／特朗普將全球關稅稅率上調至15%](https://news.now.com/home/local/player?newsId=637530) [Original](https://news.now.com/home/local/player?newsId=637530){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/即日焦點外遊市民陸續回港特朗普將全球關稅稅率上調至15/){.md-button .hkfd-news-button}
 
 ### 2026-02-23
+
 - [宏福苑長遠居住安排｜議員擔心釘子戶　黃偉綸稱會人性化處理](https://news.now.com/home/local/player?newsId=637652) [Original](https://news.now.com/home/local/player?newsId=637652){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑長遠居住安排議員擔心釘子戶-黃偉綸稱會人性化處理/){.md-button .hkfd-news-button}
 - [宏志閣獨立成為屋苑要有新公契　麥美娟稱法律問題複雜](https://news.now.com/home/local/player?newsId=637661) [Original](https://news.now.com/home/local/player?newsId=637661){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏志閣獨立成為屋苑要有新公契-麥美娟稱法律問題複雜/){.md-button .hkfd-news-button}
 - [宏福苑長遠居住安排｜麥美娟：若居民接受政府方案　可獲延長租金補貼](https://news.now.com/home/local/player?newsId=637653) [Original](https://news.now.com/home/local/player?newsId=637653){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑長遠居住安排麥美娟若居民接受政府方案-可獲延長租金補貼/){.md-button .hkfd-news-button}
 - [宏福苑業主如若分戶買兩個單位　當局稱不排除可能性](https://news.now.com/home/local/player?newsId=637646) [Original](https://news.now.com/home/local/player?newsId=637646){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑業主如若分戶買兩個單位-當局稱不排除可能性/){.md-button .hkfd-news-button}
-- [時事全方位｜宏福苑長遠居住安排(二) ](https://news.now.com/home/local/player?newsId=637556) [Original](https://news.now.com/home/local/player?newsId=637556){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/時事全方位宏福苑長遠居住安排二/){.md-button .hkfd-news-button}
-- [時事全方位｜宏福苑長遠居住安排(一) ](https://news.now.com/home/local/player?newsId=637555) [Original](https://news.now.com/home/local/player?newsId=637555){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/時事全方位宏福苑長遠居住安排一/){.md-button .hkfd-news-button}
+- [時事全方位｜宏福苑長遠居住安排(二)](https://news.now.com/home/local/player?newsId=637556) [Original](https://news.now.com/home/local/player?newsId=637556){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/時事全方位宏福苑長遠居住安排二/){.md-button .hkfd-news-button}
+- [時事全方位｜宏福苑長遠居住安排(一)](https://news.now.com/home/local/player?newsId=637555) [Original](https://news.now.com/home/local/player?newsId=637555){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/時事全方位宏福苑長遠居住安排一/){.md-button .hkfd-news-button}
 - [宏福苑長遠居住安排懶人包　各方案選項及時間表一文睇晒](https://news.now.com/home/local/player?newsId=637571) [Original](https://news.now.com/home/local/player?newsId=637571){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑長遠居住安排懶人包-各方案選項及時間表一文睇晒/){.md-button .hkfd-news-button}
 - [宏福苑長遠安置｜黃偉綸：需處理法律問題才能讓居民回宏志閣住](https://news.now.com/home/local/player?newsId=637585) [Original](https://news.now.com/home/local/player?newsId=637585){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑長遠安置黃偉綸需處理法律問題才能讓居民回宏志閣住/){.md-button .hkfd-news-button}
 - [採訪日誌｜中大醫學院春茗／立法會討論宏福苑居民長遠居住安排](https://news.now.com/home/local/player?newsId=637541) [Original](https://news.now.com/home/local/player?newsId=637541){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/採訪日誌中大醫學院春茗立法會討論宏福苑居民長遠居住安排/){.md-button .hkfd-news-button}
 
-
 ### 2026-02-23
+
 - [即日焦點｜35+顛覆政權案上訴全數駁回／黃偉綸稱人性化處理宏福苑業權](https://news.now.com/home/local/player?newsId=637665) [Original](https://news.now.com/home/local/player?newsId=637665){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/即日焦點35顛覆政權案上訴全數駁回黃偉綸稱人性化處理宏福苑業權/){.md-button .hkfd-news-button}
 
 ### 2026-02-24
+
 - [宏福苑五級火災｜消防處派員出席獨立委員會聽證會　楊恩健︰為火警尋一些真相](https://news.now.com/home/local/player?newsId=637762) [Original](https://news.now.com/home/local/player?newsId=637762){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災消防處派員出席獨立委員會聽證會-楊恩健為火警尋一些真相/){.md-button .hkfd-news-button}
 - [楊恩健：承傳殉職消防隊目何偉豪義無反顧精神　全力守護市民生命財產](https://news.now.com/home/local/player?newsId=637750) [Original](https://news.now.com/home/local/player?newsId=637750){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/楊恩健承傳殉職消防隊目何偉豪義無反顧精神-全力守護市民生命財產/){.md-button .hkfd-news-button}
 - [第一期關愛隊服務全部達標完成　麥美娟：成績有目共睹](https://news.now.com/home/local/player?newsId=637744) [Original](https://news.now.com/home/local/player?newsId=637744){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/第一期關愛隊服務全部達標完成-麥美娟成績有目共睹/){.md-button .hkfd-news-button}
 - [何永賢：3900單位供宏福苑居民選擇　已平衡整體市場　料對私樓市場影響有限](https://news.now.com/home/local/player?newsId=637715) [Original](https://news.now.com/home/local/player?newsId=637715){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/何永賢3900單位供宏福苑居民選擇-已平衡整體市場-料對私樓市場影響有限/){.md-button .hkfd-news-button}
 - [黃偉綸：倘宏福苑業主不出售業權　屆時再研究立法處理　預算案已預留撥款](https://news.now.com/home/local/player?newsId=637693) [Original](https://news.now.com/home/local/player?newsId=637693){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/黃偉綸倘宏福苑業主不出售業權-屆時再研究立法處理-預算案已預留撥款/){.md-button .hkfd-news-button}
 
-
 ### 2026-02-24
+
 - [即日焦點｜據悉預算案預留款項為公務員加薪／中方將20家日本實體列入出口管制管控名單](https://news.now.com/home/local/player?newsId=637788) [Original](https://news.now.com/home/local/player?newsId=637788){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/即日焦點據悉預算案預留款項為公務員加薪中方將20家日本實體列入出口管制管控名單/){.md-button .hkfd-news-button}
 
 ### 2026-02-25
+
 - [宏福苑居民聯署公開信　望政府盡快讓他們返回單位執拾](https://news.now.com/home/local/player?newsId=637912) [Original](https://news.now.com/home/local/player?newsId=637912){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑居民聯署公開信-望政府盡快讓他們返回單位執拾/){.md-button .hkfd-news-button}
 - [財政預算案｜預留40億收宏福苑業權　3億推加強版招標妥](https://news.now.com/home/local/player?newsId=637899) [Original](https://news.now.com/home/local/player?newsId=637899){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/財政預算案預留40億收宏福苑業權-3億推加強版招標妥/){.md-button .hkfd-news-button}
 - [財政預算案｜吳傑莊對未提夜間消費券感失望　新民黨工聯會稱理解政府決定](https://news.now.com/home/local/player?newsId=637874) [Original](https://news.now.com/home/local/player?newsId=637874){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/財政預算案吳傑莊對未提夜間消費券感失望-新民黨工聯會稱理解政府決定/){.md-button .hkfd-news-button}
@@ -1291,36 +1313,37 @@
 - [財政預算案｜預留40億收宏福苑業權　30億制定全新大維修資助計劃](https://news.now.com/home/local/player?newsId=637847) [Original](https://news.now.com/home/local/player?newsId=637847){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/財政預算案預留40億收宏福苑業權-30億制定全新大維修資助計劃/){.md-button .hkfd-news-button}
 - [財政預算案．不斷更新｜財政司司長陳茂波宣讀新一份《財政預算案》](https://news.now.com/home/local/player?newsId=637825) [Original](https://news.now.com/home/local/player?newsId=637825){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/財政預算案不斷更新財政司司長陳茂波宣讀新一份財政預算案/){.md-button .hkfd-news-button}
 
-
 ### 2026-02-26
+
 - [宏福苑五級火災｜最快4月底可返回單位執拾物品　居民欣喜](https://news.now.com/home/local/player?newsId=638045) [Original](https://news.now.com/home/local/player?newsId=638045){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災最快4月底可返回單位執拾物品-居民欣喜/){.md-button .hkfd-news-button}
 - [宏福苑居民最快4月底可返回單位執拾物品](https://news.now.com/home/local/player?newsId=638043) [Original](https://news.now.com/home/local/player?newsId=638043){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑居民最快4月底可返回單位執拾物品/){.md-button .hkfd-news-button}
 - [醫衞局延長宏福苑災民免費義診服務至八月底](https://news.now.com/home/local/player?newsId=638012) [Original](https://news.now.com/home/local/player?newsId=638012){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/醫衞局延長宏福苑災民免費義診服務至八月底/){.md-button .hkfd-news-button}
 - [議員憂預算案留40億元未涵蓋收購宏志閣　黃偉綸：若業主就收購有共識將再向立會申撥款](https://news.now.com/home/local/player?newsId=637978) [Original](https://news.now.com/home/local/player?newsId=637978){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/議員憂預算案留40億元未涵蓋收購宏志閣-黃偉綸若業主就收購有共識將再向立會申撥款/){.md-button .hkfd-news-button}
 
-
 ### 2026-02-26
+
 - [宏福苑居民最快4月底返回單位執拾　鄧家彪稱三分一宏志閣業主望政府收購](https://news.now.com/home/local/player?newsId=638055) [Original](https://news.now.com/home/local/player?newsId=638055){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑居民最快4月底返回單位執拾-鄧家彪稱三分一宏志閣業主望政府收購/){.md-button .hkfd-news-button}
 - [即日焦點｜陳茂波稱取消電動車一換一非考慮稅收／美伊舉行第三輪間接談判](https://news.now.com/home/local/player?newsId=638049) [Original](https://news.now.com/home/local/player?newsId=638049){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/即日焦點陳茂波稱取消電動車一換一非考慮稅收美伊舉行第三輪間接談判/){.md-button .hkfd-news-button}
 
 ### 2026-02-27
+
 - [即日焦點｜陳茂波專訪稱冀公私營投資北都各佔半／野豬闖烏溪沙站撞到途人](https://news.now.com/home/local/player?newsId=638173) [Original](https://news.now.com/home/local/player?newsId=638173){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/即日焦點陳茂波專訪稱冀公私營投資北都各佔半野豬闖烏溪沙站撞到途人/){.md-button .hkfd-news-button}
 - [宏福苑五級火災｜災民約2個月後可回家執拾　卓永興：要準備斷捨離](https://news.now.com/home/local/player?newsId=638139) [Original](https://news.now.com/home/local/player?newsId=638139){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災災民約2個月後可回家執拾-卓永興要準備斷捨離/){.md-button .hkfd-news-button}
 - [宏福苑五級火災｜卓永興指最快約2個月後安排災民回家執拾物品](https://news.now.com/home/local/player?newsId=638134) [Original](https://news.now.com/home/local/player?newsId=638134){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災卓永興指最快約2個月後安排災民回家執拾物品/){.md-button .hkfd-news-button}
 
-
 ### 2026-02-28
+
 - [宏福苑五級火災｜當局擬准災民回家執拾　何啟明：存一定難度需跨部門商討](https://news.now.com/home/local/player?newsId=638239) [Original](https://news.now.com/home/local/player?newsId=638239){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災當局擬准災民回家執拾-何啟明存一定難度需跨部門商討/){.md-button .hkfd-news-button}
 - [有團體舉辦盆菜宴招待宏福苑居民　居民冀早日回家執拾重要物品](https://news.now.com/home/local/player?newsId=638230) [Original](https://news.now.com/home/local/player?newsId=638230){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/有團體舉辦盆菜宴招待宏福苑居民-居民冀早日回家執拾重要物品/){.md-button .hkfd-news-button}
 
-
 ### 2026-03-02
+
 - [林定國：法律界集思廣益善用一國兩制　配合十五五規劃](https://news.now.com/home/local/player?newsId=638468) [Original](https://news.now.com/home/local/player?newsId=638468){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/林定國法律界集思廣益善用一國兩制-配合十五五規劃/){.md-button .hkfd-news-button}
 - [宏福苑長遠居住安排查詢熱線即日投入服務](https://news.now.com/home/local/player?newsId=638404) [Original](https://news.now.com/home/local/player?newsId=638404){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑長遠居住安排查詢熱線即日投入服務/){.md-button .hkfd-news-button}
 - [宏福苑長遠居住安排查詢熱線即日投入服務](https://news.now.com/home/local/player?newsId=638374) [Original](https://news.now.com/home/local/player?newsId=638374){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑長遠居住安排查詢熱線即日投入服務-1/){.md-button .hkfd-news-button}
 
-
 ### 2026-03-03
+
 - [即日焦點｜以色列擴大打擊黎巴嫩真主黨／夏寶龍接見港區人大政協](https://news.now.com/home/local/player?newsId=638611) [Original](https://news.now.com/home/local/player?newsId=638611){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/即日焦點以色列擴大打擊黎巴嫩真主黨夏寶龍接見港區人大政協/){.md-button .hkfd-news-button}
 - [宏福苑獨立委員會首輪八場聽證會　本月19日起舉行](https://news.now.com/home/local/player?newsId=638567) [Original](https://news.now.com/home/local/player?newsId=638567){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑獨立委員會首輪八場聽證會-本月19日起舉行/){.md-button .hkfd-news-button}
 - [房協下年度推逾四千單位　資助出售房屋佔三成半](https://news.now.com/home/local/player?newsId=638564) [Original](https://news.now.com/home/local/player?newsId=638564){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/房協下年度推逾四千單位-資助出售房屋佔三成半/){.md-button .hkfd-news-button}
@@ -1328,11 +1351,12 @@
 - [大埔區議員黃碧嬌倡金屬棚架取代竹棚　勞工處處長：視乎發展局政策取向](https://news.now.com/home/local/player?newsId=638541) [Original](https://news.now.com/home/local/player?newsId=638541){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/大埔區議員黃碧嬌倡金屬棚架取代竹棚-勞工處處長視乎發展局政策取向/){.md-button .hkfd-news-button}
 
 ### 2026-03-04
+
 - [銀行業延長宏福苑受影響人士各類貸款還款期六個月](https://news.now.com/home/local/player?newsId=638750) [Original](https://news.now.com/home/local/player?newsId=638750){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/銀行業延長宏福苑受影響人士各類貸款還款期六個月/){.md-button .hkfd-news-button}
 - [宏福苑五級火災｜災民貸款延至11月底還款　銀行助業主處理按揭](https://news.now.com/home/local/player?newsId=638717) [Original](https://news.now.com/home/local/player?newsId=638717){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災災民貸款延至11月底還款-銀行助業主處理按揭/){.md-button .hkfd-news-button}
 
-
 ### 2026-03-06
+
 - [宏福苑盜竊案｜政府高度關注　已要求覆檢出入屋苑流程](https://news.now.com/home/local/player?newsId=639062) [Original](https://news.now.com/home/local/player?newsId=639062){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑盜竊案政府高度關注-已要求覆檢出入屋苑流程/){.md-button .hkfd-news-button}
 - [即日焦點｜丁薛祥指行政主導是廣大市民共同責任／工人涉盜去宏福苑單位首飾被捕](https://news.now.com/home/local/player?newsId=639053) [Original](https://news.now.com/home/local/player?newsId=639053){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/即日焦點丁薛祥指行政主導是廣大市民共同責任工人涉盜去宏福苑單位首飾被捕/){.md-button .hkfd-news-button}
 - [三名工人盜竊宏福苑單位9萬元首飾　警方：行為卑劣予以嚴厲譴責](https://news.now.com/home/local/player?newsId=639052) [Original](https://news.now.com/home/local/player?newsId=639052){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/三名工人盜竊宏福苑單位9萬元首飾-警方行為卑劣予以嚴厲譴責/){.md-button .hkfd-news-button}
@@ -1343,22 +1367,25 @@
 - [宏福苑火災｜殉職消防隊目何偉豪家屬獲發615萬元經濟援助金](https://news.now.com/home/local/player?newsId=638975) [Original](https://news.now.com/home/local/player?newsId=638975){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑火災殉職消防隊目何偉豪家屬獲發615萬元經濟援助金/){.md-button .hkfd-news-button}
 
 ### 2026-03-07
+
 - [宏福苑爆盜竊案　災民警署備案冀盡快上樓取回物品](https://news.now.com/home/local/player?newsId=639120) [Original](https://news.now.com/home/local/player?newsId=639120){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑爆盜竊案-災民警署備案冀盡快上樓取回物品/){.md-button .hkfd-news-button}
 - [宏福苑盜竊案　有災民擔心財物被盜到警署求助](https://news.now.com/home/local/player?newsId=639108) [Original](https://news.now.com/home/local/player?newsId=639108){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑盜竊案-有災民擔心財物被盜到警署求助/){.md-button .hkfd-news-button}
 
-
 ### 2026-03-07
+
 - [即日焦點｜丁薛祥冀立法會探索和實踐行政主導／伊朗總統就襲擊鄰國致歉](https://news.now.com/home/local/player?newsId=639145) [Original](https://news.now.com/home/local/player?newsId=639145){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/即日焦點丁薛祥冀立法會探索和實踐行政主導伊朗總統就襲擊鄰國致歉/){.md-button .hkfd-news-button}
 
 ### 2026-03-08
+
 - [即日焦點｜王毅再促停止美以襲伊朗軍事行動／宏福苑加固工程周一恢復　警方加強保安措施](https://news.now.com/home/local/player?newsId=639223) [Original](https://news.now.com/home/local/player?newsId=639223){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/即日焦點王毅再促停止美以襲伊朗軍事行動宏福苑加固工程周一恢復-警方加強保安措施/){.md-button .hkfd-news-button}
 - [宏福苑五級火災｜加固工程周一恢復　警方加強保安措施](https://news.now.com/home/local/player?newsId=639213) [Original](https://news.now.com/home/local/player?newsId=639213){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災加固工程周一恢復-警方加強保安措施/){.md-button .hkfd-news-button}
 - [宏福苑五級火災｜警方接81宗宏福苑居民求助憂失竊　周一鳴︰明起工人上樓不准帶逾500元現金及離開須搜身](https://news.now.com/home/local/player?newsId=639208) [Original](https://news.now.com/home/local/player?newsId=639208){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災警方接81宗宏福苑居民求助憂失竊-周一鳴明起工人上樓不准帶逾500元現金及離開須搜身/){.md-button .hkfd-news-button}
 - [宏福苑五級火災｜房屋局：業主除2000伙新資助出售房屋　可選大埔頌雅路西項目](https://news.now.com/home/local/player?newsId=639206) [Original](https://news.now.com/home/local/player?newsId=639206){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災房屋局業主除2000伙新資助出售房屋-可選大埔頌雅路西項目/){.md-button .hkfd-news-button}
-- [全國兩會｜王靈桂仇鴻回應宏福苑火災　指相信特區政府會認真處理善後 ](https://news.now.com/home/local/player?newsId=639202) [Original](https://news.now.com/home/local/player?newsId=639202){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/全國兩會王靈桂仇鴻回應宏福苑火災-指相信特區政府會認真處理善後/){.md-button .hkfd-news-button}
+- [全國兩會｜王靈桂仇鴻回應宏福苑火災　指相信特區政府會認真處理善後](https://news.now.com/home/local/player?newsId=639202) [Original](https://news.now.com/home/local/player?newsId=639202){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/全國兩會王靈桂仇鴻回應宏福苑火災-指相信特區政府會認真處理善後/){.md-button .hkfd-news-button}
 - [宏福苑五級火災｜新居屋及綠置居預留500大單位予災民　另倡保留綠表資格兩年](https://news.now.com/home/local/player?newsId=639183) [Original](https://news.now.com/home/local/player?newsId=639183){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災新居屋及綠置居預留500大單位予災民-另倡保留綠表資格兩年/){.md-button .hkfd-news-button}
 
 ### 2026-03-09
+
 - [宏福苑五級火災｜警方接獲105宗關注宏福苑保安及單位財物情況的求助個案](https://news.now.com/home/local/player?newsId=639351) [Original](https://news.now.com/home/local/player?newsId=639351){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災警方接獲105宗關注宏福苑保安及單位財物情況的求助個案/){.md-button .hkfd-news-button}
 - [宏福苑五級火災｜警方加強保安　工人安檢後才能上樓　落樓需搜身並向警員登記](https://news.now.com/home/local/player?newsId=639314) [Original](https://news.now.com/home/local/player?newsId=639314){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災警方加強保安-工人安檢後才能上樓-落樓需搜身並向警員登記/){.md-button .hkfd-news-button}
 - [宏福苑五級火災｜據悉有宏福苑居民一月收交易短訊　疑遺留在家信用卡被盜用](https://news.now.com/home/local/player?newsId=639304) [Original](https://news.now.com/home/local/player?newsId=639304){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災據悉有宏福苑居民一月收交易短訊-疑遺留在家信用卡被盜用/){.md-button .hkfd-news-button}
@@ -1369,11 +1396,12 @@
 - [採訪日誌｜國泰與西九推出香港精神號客機／宏福苑恢復加固工程](https://news.now.com/home/local/player?newsId=639240) [Original](https://news.now.com/home/local/player?newsId=639240){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/採訪日誌國泰與西九推出香港精神號客機宏福苑恢復加固工程/){.md-button .hkfd-news-button}
 - [晨早新聞重點｜據報哈梅內伊之子穆傑塔巴接任伊朗最高領袖／警方加強宏福苑保安措施　工人離開時要搜身](https://news.now.com/home/local/player?newsId=639228) [Original](https://news.now.com/home/local/player?newsId=639228){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/晨早新聞重點據報哈梅內伊之子穆傑塔巴接任伊朗最高領袖警方加強宏福苑保安措施-工人離開時要搜身/){.md-button .hkfd-news-button}
 
-
 ### 2026-03-09
+
 - [即日焦點｜警方加強宏福苑保安／哈梅內伊之子穆傑塔巴接任伊朗最高領袖](https://news.now.com/home/local/player?newsId=639354) [Original](https://news.now.com/home/local/player?newsId=639354){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/即日焦點警方加強宏福苑保安哈梅內伊之子穆傑塔巴接任伊朗最高領袖/){.md-button .hkfd-news-button}
 
 ### 2026-03-10
+
 - [宏福苑五級火災｜紅十字會收逾5億元捐款　現金援助居民](https://news.now.com/home/local/player?newsId=639465) [Original](https://news.now.com/home/local/player?newsId=639465){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災紅十字會收逾5億元捐款-現金援助居民/){.md-button .hkfd-news-button}
 - [宏福苑五級火災｜紅十字會收逾5億元支援捐款](https://news.now.com/home/local/player?newsId=639444) [Original](https://news.now.com/home/local/player?newsId=639444){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災紅十字會收逾5億元支援捐款/){.md-button .hkfd-news-button}
 - [時事全方位｜宏福苑盜竊案(二)](https://news.now.com/home/local/player?newsId=639393) [Original](https://news.now.com/home/local/player?newsId=639393){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/時事全方位宏福苑盜竊案二/){.md-button .hkfd-news-button}
@@ -1381,10 +1409,11 @@
 - [宏福苑五級火災｜建造業倡政府點算屋苑單位財物後交還居民](https://news.now.com/home/local/player?newsId=639404) [Original](https://news.now.com/home/local/player?newsId=639404){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災建造業倡政府點算屋苑單位財物後交還居民/){.md-button .hkfd-news-button}
 - [採訪日誌｜紅十字會災後支援與復原工作／離島區議會討論渡輪加價](https://news.now.com/home/local/player?newsId=639370) [Original](https://news.now.com/home/local/player?newsId=639370){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/採訪日誌紅十字會災後支援與復原工作離島區議會討論渡輪加價/){.md-button .hkfd-news-button}
 
-
 ### 2026-03-12
+
 - [宏福苑五級火災｜房協400個單位讓業主選購　當中逾八成半大單位](https://news.now.com/home/local/player?newsId=639756) [Original](https://news.now.com/home/local/player?newsId=639756){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災房協400個單位讓業主選購-當中逾八成半大單位/){.md-button .hkfd-news-button}
 
 ### 2026-03-13
+
 - [宏福苑安置｜何永賢指過渡屋營運機構會彈性處理居民遷出安排](https://news.now.com/home/local/player?newsId=639873) [Original](https://news.now.com/home/local/player?newsId=639873){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑安置何永賢指過渡屋營運機構會彈性處理居民遷出安排/){.md-button .hkfd-news-button}
 - [強制虐兒舉報｜孫玉菡：至二月底接66宗疑嚴重個案　涉70名兒童](https://news.now.com/home/local/player?newsId=639831) [Original](https://news.now.com/home/local/player?newsId=639831){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/強制虐兒舉報孫玉菡至二月底接66宗疑嚴重個案-涉70名兒童/){.md-button .hkfd-news-button}

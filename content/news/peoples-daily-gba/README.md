@@ -218,124 +218,124 @@
 - [抚慰香港大埔火灾伤痛，救灾善后工作有序推进；立法会选举顺利举行，选举产生的新一届立法会议员即将接过为民服务的重任……冬日里的香港，无数人用行动践行狮子山精神，同心聚力，克难前行，坚定迈向由治及兴。
 灾难来临时，团结是最坚固的防线。](http://gba.people.cn/n1/2025/1214/c42272-40623765.html)
 
-
 ### 2025-12-15
+
 - [香港大埔火灾独立委员会将于九个月内完…](http://gba.people.cn/n1/2025/1215/c42272-40624257.html) [Original](http://gba.people.cn/n1/2025/1215/c42272-40624257.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/香港大埔火灾独立委员会将于九个月内完/){.md-button .hkfd-news-button}
 - [本报香港12月14日电  （记者陈然）香港特区政府医务卫生局12月14日公布：12月15日起，将为大埔宏福苑火灾受影响居民提供中医义诊服务。屋苑八座楼宇所有居民自12月15日至2026年2月28日，可经全港十八区地区康健中心安排接受最多三次免费中医诊疗服务，包括按病情需要提供药物及相关治疗。](http://gba.people.cn/n1/2025/1215/c42272-40624490.html) [Original](http://gba.people.cn/n1/2025/1215/c42272-40624490.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/本报香港12月14日电/){.md-button .hkfd-news-button}
 - [本报香港12月14日电（记者陈然）香港特区行政长官李家超12日下午召开记者会宣布，委任陆启康法官等3人组成独立委员会，审视大埔宏福苑火灾成因以及相关维修工程是否存在违法行为，9个月内完成报告，特区政府会全力支持其工作。他重申，关于本次火灾一定会调查到底、追责到底，让真相水落石出、公义得以伸张。](http://gba.people.cn/n1/2025/1215/c42272-40624485.html) [Original](http://gba.people.cn/n1/2025/1215/c42272-40624485.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/本报香港12月14日电记者陈然香港特区行政长官李家超12日下午召开记者会宣布委任陆启康法官等3人组成独立委员会审视大埔宏福苑火灾成因以及相关维修工程是否存在违法/){.md-button .hkfd-news-button}
 - [本报香港12月14日电  （记者陈然）香港特区政府医务卫生局12月14日公布：12月15日起，将为大埔宏福苑火灾受影响居民提供中医义诊服务。屋苑八座楼宇所有居民自12月15日至2026年2月28日，可经全港十八区地区康健中心安排接受最多三次免费中医诊疗服务，包括按病情需要提供药物及相关治疗。](http://gba.people.cn/n1/2025/1215/c42272-40624019.html) [Original](http://gba.people.cn/n1/2025/1215/c42272-40624019.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/本报香港12月14日电-1/){.md-button .hkfd-news-button}
 
-
 ### 2025-12-17
+
 - [新华社香港12月16日电 香港特区政府16日公布的跟进大埔火灾最新情况显示，特区政府早前宣布从“大埔宏福苑援助基金”向每户受影响家庭发放生活津贴，金额已由5万港元增至10万港元，截至当日已处理1906宗个案。
 另外，就每名死者向家属发放20万港元慰问金及5万港元殓葬金，截至当日已处理134宗个案。](http://gba.people.cn/n1/2025/1217/c42272-40626363.html)
 
-
 ### 2025-12-19
+
 - [新华社香港12月18日电 香港特区政府18日下午就“大埔宏福苑援助基金”召开记者会宣布，宏福苑业主将获发每年15万港元的租金补助，为期两年，每半年领取一次。受影响的宏福苑租户也将获发5万港元一次性搬迁补助。](http://gba.people.cn/n1/2025/1219/c42272-40628093.html) [Original](http://gba.people.cn/n1/2025/1219/c42272-40628093.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/新华社香港12月18日电/){.md-button .hkfd-news-button}
 - [本报香港12月18日电  （记者陈然）香港特区政府18日表示：将向大埔宏福苑业主发放每年15万港元租金补助，为期两年，合计30万港元，同时叠加一次性5万港元搬迁补助；租户可领取一次性5万港元搬迁补助。补助经特区政府社会福利署“一户一社工”机制发放。](http://gba.people.cn/n1/2025/1219/c42272-40627533.html) [Original](http://gba.people.cn/n1/2025/1219/c42272-40627533.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/本报香港12月18日电/){.md-button .hkfd-news-button}
 
-
 ### 2025-12-20
+
 - [香港大埔宏福苑火灾独立委员会展开工作](http://gba.people.cn/n1/2025/1220/c42272-40628599.html) [Original](http://gba.people.cn/n1/2025/1220/c42272-40628599.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/香港大埔宏福苑火灾独立委员会展开工作/){.md-button .hkfd-news-button}
 
-
 ### 2025-12-21
+
 - [新华社香港12月20日电 香港特区政府20日公布的跟进大埔火灾最新情况显示，特区政府成立的“大埔宏福苑援助基金”总额约为40亿港元。
 截至20日上午，共有581名居民安置在特区政府民政及青年事务局协调的酒店房间，559名市民安置在青年宿舍/营舍；另有3513名居民现住在特区政府房屋局的过渡性房屋、房协项目或屯门宝田中转房屋的单位。](http://gba.people.cn/n1/2025/1221/c42272-40628650.html)
 
-
 ### 2025-12-22
+
 - [香港“大埔宏福苑援助基金”总额增至约40亿港元](http://gba.people.cn/n1/2025/1222/c42272-40628954.html) [Original](http://gba.people.cn/n1/2025/1222/c42272-40628954.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/香港大埔宏福苑援助基金总额增至约40亿港元/){.md-button .hkfd-news-button}
 
-
 ### 2025-12-23
+
 - [新华社香港12月22日电 香港特区政府22日公布的跟进大埔火灾最新情况显示，特区政府成立的“大埔宏福苑援助基金”总额约为41亿港元。
 截至22日上午，共有516名居民居于特区政府民政及青年事务局协调的酒店房间，568名市民居于青年宿舍/营舍；另有3513名居民现居于特区政府房屋局的过渡性房屋、香港房屋协会（房协）项目或屯门宝田中转房屋的单位。](http://gba.people.cn/n1/2025/1223/c42272-40630371.html)
 
-
 ### 2025-12-24
+
 - [香港大埔宏福苑火灾独立委员会视察屋苑现场](http://gba.people.cn/n1/2025/1224/c42272-40631226.html) [Original](http://gba.people.cn/n1/2025/1224/c42272-40631226.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/香港大埔宏福苑火灾独立委员会视察屋苑现场/){.md-button .hkfd-news-button}
 
-
 ### 2025-12-26
+
 - [新华社香港12月25日电 香港特区政府医务卫生局25日表示，大埔宏福苑火灾中79名伤者在公立医院接受治疗。截至12月23日，65人先后康复出院，余下14人情况稳定。](http://gba.people.cn/n1/2025/1226/c42272-40632970.html) [Original](http://gba.people.cn/n1/2025/1226/c42272-40632970.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/新华社香港12月25日电-香港特区政府医务卫生局25日表示大埔宏福苑火灾中79名伤者在公立医院接受治疗截至12月23日65人先后康复出院余下14人情况稳定/){.md-button .hkfd-news-button}
 
-
 ### 2025-12-27
+
 - [人民网香港12月27日电 （记者冯学知）香港特区政府26日感谢内地、海外及外交使团、国际组织、驻港总领事馆、名誉领事馆和官方认许机构等通过不同渠道对受大埔宏福苑火灾影响人士的慰问和支援，同时感谢香港社会各界热心投入灾后援助并大力捐助。
 香港大埔宏福苑火灾发生至今一个月。](http://gba.people.cn/n1/2025/1227/c42272-40633617.html)
 - [新华社香港12月26日电 香港特区政府26日感谢内地、海外及外交使团、国际组织、驻港总领事馆、名誉领事馆和官方认许机构等通过不同渠道对受大埔宏福苑火灾影响人士的慰问和支援，同时感谢香港社会各界热心投入灾后援助并大力捐助。
 香港大埔宏福苑火灾发生至今一个月。](http://gba.people.cn/n1/2025/1227/c42272-40633530.html)
 
-
 ### 2026-01-07
+
 - [香港土地审裁处委任专业团队接管大埔宏福苑](http://gba.people.cn/n1/2026/0107/c42272-40640577.html) [Original](http://gba.people.cn/n1/2026/0107/c42272-40640577.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/香港土地审裁处委任专业团队接管大埔宏福苑/){.md-button .hkfd-news-button}
 - [香港大埔宏福苑管理工作由专业团队接管](http://gba.people.cn/n1/2026/0107/c42272-40640702.html) [Original](http://gba.people.cn/n1/2026/0107/c42272-40640702.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/香港大埔宏福苑管理工作由专业团队接管/){.md-button .hkfd-news-button}
 
-
 ### 2026-01-09
+
 - [香港大埔宏福苑火灾已有69名伤者出院](http://gba.people.cn/n1/2026/0109/c42272-40642014.html) [Original](http://gba.people.cn/n1/2026/0109/c42272-40642014.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/香港大埔宏福苑火灾已有69名伤者出院/){.md-button .hkfd-news-button}
 
-
 ### 2026-01-10
+
 - [香港特区政府收集宏福苑业主长远安置意愿](http://gba.people.cn/n1/2026/0110/c42272-40642682.html) [Original](http://gba.people.cn/n1/2026/0110/c42272-40642682.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/香港特区政府收集宏福苑业主长远安置意愿/){.md-button .hkfd-news-button}
 
-
 ### 2026-01-14
+
 - [人民网香港1月14日电 （严小晶）香港特区第八届立法会首次会议14日在立法会综合大楼会议厅举行。会议上，行政长官李家超就香港特区政府对新一届立法会的期望、行政立法良性互动关系，以及有关大埔宏福苑火灾的支援和善后事宜向立法会发言。](http://gba.people.cn/n1/2026/0114/c42272-40645369.html) [Original](http://gba.people.cn/n1/2026/0114/c42272-40645369.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/人民网香港1月14日电/){.md-button .hkfd-news-button}
 
-
 ### 2026-01-15
+
 - [香港特区政府将全力推进大埔宏福苑火灾善…](http://gba.people.cn/n1/2026/0115/c42272-40645932.html) [Original](http://gba.people.cn/n1/2026/0115/c42272-40645932.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/香港特区政府将全力推进大埔宏福苑火灾善/){.md-button .hkfd-news-button}
 - [新华社香港1月14日电（肖逸晨、奚天麒）香港特区第八届立法会14日在立法会综合大楼会议厅举行首次会议，讨论大埔宏福苑火灾善后工作。
 会上，特区行政长官李家超表示，当前大家都很关心宏福苑火灾后的重建和复原，因此，特区政府在立法会首次会议即提出动议，就善后和复常工作深入讨论，和议员一起推动尽快落实长远住宿安排和其他善后工作。](http://gba.people.cn/n1/2026/0115/c42272-40645903.html)
 
-
 ### 2026-01-16
+
 - [香港大埔宏福苑火灾累计71名伤者出院](http://gba.people.cn/n1/2026/0116/c42272-40646677.html) [Original](http://gba.people.cn/n1/2026/0116/c42272-40646677.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/香港大埔宏福苑火灾累计71名伤者出院/){.md-button .hkfd-news-button}
 - [新华社香港1月15日电（奚天麒）香港特区政府保安局局长邓炳强15日表示，大埔宏福苑火灾遇难人数增至168人，目前所有遗体均已完成辨认工作，相关失踪个案也已处理完毕。
 邓炳强说，出于对家属意愿的尊重，暂不会公布遇难者名单。](http://gba.people.cn/n1/2026/0116/c42272-40646652.html)
 
-
 ### 2026-01-26
+
 - [香港大埔火灾善后全景扫描](http://gba.people.cn/n1/2026/0126/c42272-40652743.html) [Original](http://gba.people.cn/n1/2026/0126/c42272-40652743.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/香港大埔火灾善后全景扫描/){.md-button .hkfd-news-button}
 
-
 ### 2026-01-29
+
 - [新华社香港1月29日电（记者曹霁阳）香港大埔宏福苑火灾发生后，特区政府以全港十八区地区康健中心为枢纽，为受影响居民统筹及协调基层医疗服务。香港特区政府医务卫生局29日公布最新情况，表示会继续为受火灾影响居民提供全面基层医疗支援，并从居民的角度设计相关服务流程，让他们只需通过康健中心便可获得便捷及到位的医疗支援。](http://gba.people.cn/n1/2026/0129/c42272-40655604.html) [Original](http://gba.people.cn/n1/2026/0129/c42272-40655604.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/新华社香港1月29日电记者曹霁阳香港大埔宏福苑火灾发生后特区政府以全港十八区地区康健中心为枢纽为受影响居民统筹及协调基层医疗服务香港特区政府医务卫生局29日公布/){.md-button .hkfd-news-button}
 
-
 ### 2026-01-30
+
 - [香港继续为受大埔火灾影响居民提供医疗支援](http://gba.people.cn/n1/2026/0130/c42272-40655732.html) [Original](http://gba.people.cn/n1/2026/0130/c42272-40655732.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/香港继续为受大埔火灾影响居民提供医疗支援/){.md-button .hkfd-news-button}
 
-
 ### 2026-02-03
+
 - [香港继续为受大埔火灾影响居民提供医疗…](http://world.people.com.cn/n1/2026/0203/c1002-40658539.html) [Original](http://world.people.com.cn/n1/2026/0203/c1002-40658539.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/香港继续为受大埔火灾影响居民提供医疗/){.md-button .hkfd-news-button}
 
-
 ### 2026-02-05
+
 - [新华社香港2月4日电 香港特区政府4日宣布，在“大埔宏福苑援助基金”下推出两项特别援助，分别是向遇难者家属提供10万港元慰问金，以及向屋苑每户发放5000港元春节心意金，即日起陆续通过“一户一社工”机制发放。
 大埔宏福苑火灾168名遇难者，包括身故的住户、外佣、访客以及大火期间在屋苑内工作的人士，其家属可获10万港元慰问金，用以帮助他们度过困难时期，重建生活信心。](http://gba.people.cn/n1/2026/0205/c42272-40660089.html)
 
-
 ### 2026-02-06
+
 - [香港大埔火灾独立委员会将于3月19日举…](http://gba.people.cn/n1/2026/0206/c42272-40660925.html) [Original](http://gba.people.cn/n1/2026/0206/c42272-40660925.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/香港大埔火灾独立委员会将于3月19日举/){.md-button .hkfd-news-button}
 
-
 ### 2026-02-07
+
 - [澳门2025年火警850宗 同比减少3…](http://gba.people.cn/n1/2026/0207/c42272-40661544.html) [Original](http://gba.people.cn/n1/2026/0207/c42272-40661544.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/澳门2025年火警850宗-同比减少3/){.md-button .hkfd-news-button}
 
-
 ### 2026-02-22
+
 - [香港特区政府公布大埔宏福苑长远居住安排…](http://gba.people.cn/n1/2026/0222/c42272-40668392.html) [Original](http://gba.people.cn/n1/2026/0222/c42272-40668392.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/香港特区政府公布大埔宏福苑长远居住安排/){.md-button .hkfd-news-button}
 - [新华社香港2月21日电（记者刘媛媛）香港特区政府21日公布大埔宏福苑长远居住安排方案，计划以现金或以楼换楼方式收购宏福苑业主业权，收购成本约68亿港元。
 特区政府财政司副司长黄伟纶21日下午在记者会上介绍说，特区政府将收购受火灾影响的7座大厦，政府收购单位后，将承担后续一切法律、保险及处理程序上的风险与不确定性。](http://gba.people.cn/n1/2026/0222/c42272-40668362.html)
 - [本报香港2月21日电  （记者冯学知）香港特区政府21日下午举行记者会，公布大埔宏福苑长远居住安排方案，提出将采用现金或“以楼换楼”方式收购业权。
 特区政府财政司副司长黄伟纶表示，政府会提出收购宏福苑A—G座7座受灾楼宇共1736个单位的业权。](http://gba.people.cn/n1/2026/0222/c42272-40668220.html)
 
-
 ### 2026-02-25
+
 - [新华社香港2月25日电（记者曹霁阳）香港特区政府财政司司长陈茂波25日发表2026/2027财政年度特区政府财政预算案时表示，特区政府已为大埔火灾受影响人士提供全方位支援，并就此前公布的后续长远居住安排预留40亿港元。
 陈茂波还说，为减低楼宇维修工程的围标风险，香港市区重建局（市建局）今年下半年会推出加强版“招标妥”，除提供更严谨的预审名单外，也为业主就聘请顾问和承建商提供专业意见及支援。](http://gba.people.cn/n1/2026/0225/c42272-40670051.html)
 - [人民网香港2月24日电（记者陈然）香港特区政府消防处处长杨恩健24日表示，2025年11月大埔宏福苑火灾发生后，消防处推出一系列针对性措施，以提升香港楼宇整体安全水平。

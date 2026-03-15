@@ -32,6 +32,6 @@
 
 - [‘My heart is broken’: Domestic worker mourns sister who died in Hong Kong fire](https://edition.cnn.com/2025/12/02/world/video/hong-kong-fire-domestic-worker-tai-po-digvid)
 
-
 ### 2025-12-19
+
 - [Kinder chocolate and tears: Hong Kong lays to rest ‚Äògentle‚Äô firefighter killed battling inferno that rocked city](https://edition.cnn.com/2025/12/19/asia/hong-kong-fire-firefighter-funeral-intl-hnk-dst) [Original](https://edition.cnn.com/2025/12/19/asia/hong-kong-fire-firefighter-funeral-intl-hnk-dst){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/kinder-chocolate-and-tears-hong-kong-lays-to-rest-aogentleao-firefighter-killed/){.md-button .hkfd-news-button}
